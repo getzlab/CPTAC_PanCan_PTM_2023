@@ -1,0 +1,182 @@
+	X1	X3	X17	X22	X5	X11	X24	X13	X19	X27	X2	X6	X9	X10	X14	X18	X28	X35	X20	X31	X64	X25	X23	X4	X7	X15	X21	X32	X52	X8	X16	X26	X30	X34	X51	X12	cohort	MMRDvsMMRP
+C3L.00006.T	True	True	False																																		UCEC	MMRDvsMMRP_MMRD
+C3L.00008.T	True	True	False																																		UCEC	MMRDvsMMRP_MMRD
+C3N.01211.T	True	True	False																																		UCEC	MMRDvsMMRP_MMRD
+C3N.00743.T	True	True	False																																		UCEC	MMRDvsMMRP_MMRD
+C09CO005	True	True	False																																		COAD	MMRDvsMMRP_MMRP
+C3L.00137.T	True	True	False																																		UCEC	MMRDvsMMRP_MMRP
+C09CO011	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C05CO029	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C20CO007	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C09CO006	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C22CO004	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C01CO008	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C01CO013	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C05CO028	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C05CO054	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C01CO022	True	True	True	True																																	COAD	MMRDvsMMRP_MMRD
+C3L.00605.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRP
+C09CO018	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C14CO003	True	True	True	True																																	COAD	MMRDvsMMRP_MMRD
+C09CO013	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C05CO026	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C05CO050	True	True	True	True																																	COAD	MMRDvsMMRP_MMRD
+C01CO014	True	True	True	True																																	COAD	MMRDvsMMRP_MMRD
+C05CO053	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C15CO002	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C01CO005	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C05CO039	True	True	True	True																																	COAD	MMRDvsMMRP_MMRD
+C09CO022	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C05CO035	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C21CO007	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C11CO020	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C15CO001	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C20CO004	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C3L.01744.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRD
+C3N.00858.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRP
+C3L.01257.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRD
+C3N.00880.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRD
+C3L.00090.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRP
+C3L.00563.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRP
+C3L.00767.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRP
+C3L.00361.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRD
+C3N.00866.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRP
+C05CO045	True	True	True	True																																	COAD	MMRDvsMMRP_MMRP
+C3L.00362.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRP
+C3N.00326.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRP
+C3N.00850.T	True	True	True	True																																	UCEC	MMRDvsMMRP_MMRD
+C3L.00413.T	True	False			False			True																													UCEC	MMRDvsMMRP_MMRP
+C3N.00340.T	True	False			True	True																															UCEC	MMRDvsMMRP_MMRP
+C3N.00836.T	True	False			True	True																															UCEC	MMRDvsMMRP_MMRP
+C3L.00032.T	True	False			True	True																															UCEC	MMRDvsMMRP_MMRP
+C3L.00918.T	True	False			True	True																															UCEC	MMRDvsMMRP_MMRD
+C3L.00358.T	True	False			True	True																															UCEC	MMRDvsMMRP_MMRP
+C3N.01219.T	True	False			True	True																															UCEC	MMRDvsMMRP_MMRD
+C3N.01537.T	True	False			True	True																															UCEC	MMRDvsMMRP_MMRP
+C3L.00143.T	True	False			True	True																															UCEC	MMRDvsMMRP_MMRD
+C3N.00389.T	True	False			True	True																															UCEC	MMRDvsMMRP_MMRD
+C3L.01275.T	True	False			True	False	False																														UCEC	MMRDvsMMRP_MMRD
+C11CO054	True	False			True	False	False																														COAD	MMRDvsMMRP_MMRP
+C3N.00734.T	True	False			True	False	False																														UCEC	MMRDvsMMRP_MMRP
+C3L.00963.T	True	False			True	False	False																														UCEC	MMRDvsMMRP_MMRP
+C3N.00729.T	True	False			True	False	False																														UCEC	MMRDvsMMRP_MMRP
+C3N.01212.T	True	False			True	False	False																														UCEC	MMRDvsMMRP_MMRD
+C3L.00946.T	True	False			True	False	False																														UCEC	MMRDvsMMRP_MMRD
+C3L.00905.T	True	False			True	False	True																														UCEC	MMRDvsMMRP_MMRP
+C3N.01520.T	True	False			True	False	True																														UCEC	MMRDvsMMRP_MMRD
+C3N.01521.T	True	False			True	False	True																														UCEC	MMRDvsMMRP_MMRP
+C3L.00161.T	True	False			True	False	True																														UCEC	MMRDvsMMRP_MMRD
+C3L.00947.T	True	False			True	False	True																														UCEC	MMRDvsMMRP_MMRP
+C3N.01510.T	True	False			True	False	True																														UCEC	MMRDvsMMRP_MMRP
+C05CO041	True	False			True	False	True																														COAD	MMRDvsMMRP_MMRD
+C3L.00098.T	True	False			True	False	True																														UCEC	MMRDvsMMRP_MMRP
+C3N.01349.T	True	False			True	False	True																														UCEC	MMRDvsMMRP_MMRP
+C3N.01346.T	True	False			True	False	True																														UCEC	MMRDvsMMRP_MMRP
+C3L.01312.T	False										True	True	False										True														UCEC	MMRDvsMMRP_MMRP
+C3L.00449.T	False										True	True	False										True														UCEC	MMRDvsMMRP_MMRP
+C3L.00780.T	False										True	True	False										True														UCEC	MMRDvsMMRP_MMRP
+C3L.00942.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRD
+C3N.01217.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRP
+C3N.01267.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRP
+C3L.00932.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRD
+C3L.00769.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRP
+C3L.00961.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRP
+C3L.00136.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRP
+C3L.01304.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRP
+C3L.00145.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRP
+C3L.01282.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRD
+C3N.00337.T	False										True	True	False										False														UCEC	MMRDvsMMRP_MMRP
+C16CO006	False										True	True	True	False																							COAD	MMRDvsMMRP_MMRP
+C11CO047	False										True	True	True	False																							COAD	MMRDvsMMRP_MMRP
+C22CO006	False										True	True	True	False																							COAD	MMRDvsMMRP_MMRD
+C11CO021	False										True	True	True	False																							COAD	MMRDvsMMRP_MMRP
+C11CO045	False										True	True	True	False																							COAD	MMRDvsMMRP_MMRP
+C3N.00200.T	False										True	True	True	True	False				True	False	False																UCEC	MMRDvsMMRP_MMRP
+C05CO015	False										True	True	True	True	False				True	False	True																COAD	MMRDvsMMRP_MMRD
+C11CO018	False										True	True	True	True	False				True	False	True																COAD	MMRDvsMMRP_MMRD
+C11CO019	False										True	True	True	True	False				True	True																	COAD	MMRDvsMMRP_MMRP
+C11CO077	False										True	True	True	True	False				True	True																	COAD	MMRDvsMMRP_MMRP
+C05CO006	False										True	True	True	True	False				True	True																	COAD	MMRDvsMMRP_MMRD
+C11CO022	False										True	True	True	True	False				True	True																	COAD	MMRDvsMMRP_MMRP
+C11CO053	False										True	True	True	True	False				True	True																	COAD	MMRDvsMMRP_MMRP
+C05CO002	False										True	True	True	True	False				True	True																	COAD	MMRDvsMMRP_MMRP
+C3L.00921.T	False										True	True	True	True	False				False			False															UCEC	MMRDvsMMRP_MMRP
+C3L.00949.T	False										True	True	True	True	False				False			False															UCEC	MMRDvsMMRP_MMRP
+C11CO052	False										True	True	True	True	False				False			True															COAD	MMRDvsMMRP_MMRP
+C3L.01246.T	False										True	True	True	True	False				False			True															UCEC	MMRDvsMMRP_MMRP
+C3L.01925.T	False										True	True	True	True	False				False			True															UCEC	MMRDvsMMRP_MMRP
+C3L.00139.T	False										True	True	True	True	False				False			True															UCEC	MMRDvsMMRP_MMRP
+C3N.00335.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRD
+C3N.00339.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRP
+C3N.00321.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRD
+C3N.00322.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRP
+C3N.00324.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRP
+C3N.00333.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRP
+C3N.00334.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRD
+C3N.00388.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRD
+C3N.00379.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRP
+C3N.00323.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRP
+C3N.00386.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRP
+C3N.00847.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRP
+C3N.00848.T	False										True	True	True	True	True	False																					UCEC	MMRDvsMMRP_MMRP
+C3N.00383.T	False										True	True	True	True	True	True	False																				UCEC	MMRDvsMMRP_MMRP
+C3L.01307.T	False										True	True	True	True	True	True	True	False																			UCEC	MMRDvsMMRP_MMRP
+C05CO034	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C16CO002	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C01CO019	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C06CO001	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C11CO042	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C11CO079	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C11CO072	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C05CO047	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C16CO011	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C11CO058	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C14CO005	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C05CO037	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRD
+C27CO004	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C01CO015	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C05CO032	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRD
+C05CO048	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRD
+C09CO014	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C05CO020	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C09CO008	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C01CO006	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C05CO049	False										True	True	True	True	True	True	True	True																			COAD	MMRDvsMMRP_MMRP
+C3L.01249.T	False										False													False												True	UCEC	MMRDvsMMRP_MMRP
+C3L.00781.T	False										False													True	True	False											UCEC	MMRDvsMMRP_MMRD
+C3N.01802.T	False										False													True	True	False											UCEC	MMRDvsMMRP_MMRP
+C3N.00377.T	False										False													True	True	False											UCEC	MMRDvsMMRP_MMRD
+C11CO030	False										False													True	True	True	True	True									COAD	MMRDvsMMRP_MMRP
+C11CO048	False										False													True	True	True	True	True									COAD	MMRDvsMMRP_MMRP
+C11CO051	False										False													True	True	True	True	True									COAD	MMRDvsMMRP_MMRD
+C11CO036	False										False													True	True	True	True	True									COAD	MMRDvsMMRP_MMRD
+C11CO044	False										False													True	True	True	True	True									COAD	MMRDvsMMRP_MMRP
+C05CO033	False										False													True	True	True	True	True									COAD	MMRDvsMMRP_MMRP
+C05CO003	False										False													True	True	True	True	False	True								COAD	MMRDvsMMRP_MMRD
+C05CO044	False										False													True	True	True	True	False	True								COAD	MMRDvsMMRP_MMRD
+C3L.01252.T	False										False													True	False					True	False			False			UCEC	MMRDvsMMRP_MMRD
+C3N.01003.T	False										False													True	False					True	False			False			UCEC	MMRDvsMMRP_MMRP
+C21CO006	False										False													True	False					True	False			True	False		COAD	MMRDvsMMRP_MMRP
+C3L.01248.T	False										False													True	False					True	False			True	False		UCEC	MMRDvsMMRP_MMRP
+C3L.01256.T	False										False													True	False					True	False			True	False		UCEC	MMRDvsMMRP_MMRP
+C3L.00771.T	False										False													True	False					True	False			True	False		UCEC	MMRDvsMMRP_MMRP
+C3N.01825.T	False										False													True	False					True	False			True	False		UCEC	MMRDvsMMRP_MMRP
+C20CO001	False										False													True	False					True	False			True	True		COAD	MMRDvsMMRP_MMRP
+C06CO002	False										False													True	False					True	False			True	True		COAD	MMRDvsMMRP_MMRP
+C11CO043	False										False													True	False					True	False			True	True		COAD	MMRDvsMMRP_MMRP
+C11CO057	False										False													True	False					True	False			True	True		COAD	MMRDvsMMRP_MMRP
+C05CO011	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP
+C09CO019	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP
+C11CO027	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP
+C11CO010	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP
+C11CO039	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP
+C11CO007	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRD
+C11CO031	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRD
+C11CO033	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRD
+C11CO061	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRD
+C11CO008	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP
+C11CO062	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP
+C16CO003	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP
+C11CO037	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP
+C11CO005	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP
+C11CO032	False										False													True	False					True	True	True	True				COAD	MMRDvsMMRP_MMRP

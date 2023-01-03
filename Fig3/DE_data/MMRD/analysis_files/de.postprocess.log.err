@@ -1,0 +1,11 @@
+sys:1: DtypeWarning: Columns (1,4,6,7,8,9,10) have mixed types.Specify dtype option on import or set low_memory=False.
+Traceback (most recent call last):
+  File "/home/yakiyama/CPTAC_PanCan_PTM_2023/scripts/postprocess_limma_de.py", line 162, in <module>
+    main()
+  File "/home/yakiyama/CPTAC_PanCan_PTM_2023/scripts/postprocess_limma_de.py", line 55, in main
+    de_df = pd.concat(de_df)
+  File "/home/yakiyama/.local/lib/python3.6/site-packages/pandas/core/reshape/concat.py", line 284, in concat
+    sort=sort,
+  File "/home/yakiyama/.local/lib/python3.6/site-packages/pandas/core/reshape/concat.py", line 331, in __init__
+    raise ValueError("No objects to concatenate")
+ValueError: No objects to concatenate

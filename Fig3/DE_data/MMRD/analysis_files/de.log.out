@@ -1,0 +1,6 @@
+* Creating output directory: DE_data/MMRD/analysis_files 
+   * Loading labels
+     * 181 samples labeled
+   * Loading covariates
+   * Loading protein map
+   * Running differential expression
