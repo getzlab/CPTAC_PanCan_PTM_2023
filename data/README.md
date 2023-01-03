@@ -12,3 +12,4 @@ Author: Yo Akiyama (yakiyama@broadinstitute.org), Shankara Anand (sanad@broadins
 * Maruvka_et_al_2017_msmutsig.xlsx: Supplementary table from [Maruvka et al, 2017](https://www.nature.com/articles/nbt.3966)
 ---
 
+For details on CPTAC WXS harmonization, visit the [accompanying repo](https://github.com/getzlab/cptac_wxs_harmonize/tree/410f77cec4ab15e7845cca8b1ad3e4ea364c1d46)
