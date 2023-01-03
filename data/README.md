@@ -1,4 +1,4 @@
-## Data for SMM Clustering
+## Data for CPTAC Pan-Cancer PTM
 
 Author: Yo Akiyama (yakiyama@broadinstitute.org), Shankara Anand (sanad@broadinstitute.org)
 
