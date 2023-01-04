@@ -50,6 +50,9 @@ def main():
         _df['gsea_rank'] = _df['logFC'] * -np.log10(_df['adj.P.Val'])
         _df['gsea_rank_p'] = _df['logFC'] * -np.log10(_df['P.Value'])
         _df = _df.join(map_df[['causalpath_adjusted_id']])
+	_df['causalpath_adjusted_id'] = _df.apply(
+		lambda x: x['causalpath_adjusted_id'] if x['causalpath_adjusted_id'] == x['causalpath_adjusted_id'] 
+		else x.name, 1)
         de_df.append(_df)
 
     de_df = pd.concat(de_df)
