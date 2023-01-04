@@ -1,0 +1,37 @@
+Source	Relation	Target	Sites	Source data ID	Source change	 Source change pval	Target data ID	Target change	Target change pval
+PTGDR	upregulates-expression	RRM1		PTGDR-active-by-network-sig	1.0		RRM1-G	19.820916381305484	2.4653886333134227E-9
+E2F1	upregulates-expression	RRM1		E2F1-active-by-network-sig	1.0		RRM1-G	19.820916381305484	2.4653886333134227E-9
+E2F3	upregulates-expression	RRM1		E2F3-active-by-network-sig	1.0		RRM1-G	19.820916381305484	2.4653886333134227E-9
+TFDP1	upregulates-expression	RRM1		TFDP1-active-by-network-sig	1.0		RRM1-G	19.820916381305484	2.4653886333134227E-9
+MYCN	upregulates-expression	MCM7		MYCN-active-by-network-sig	1.0		MCM7-G	9.36431788541939	8.572912983241845E-5
+TFDP1	upregulates-expression	MCM3		TFDP1-active-by-network-sig	1.0		MCM3-G	9.274629009980012	9.377342947098109E-5
+MYCN	upregulates-expression	MCM3		MYCN-active-by-network-sig	1.0		MCM3-G	9.274629009980012	9.377342947098109E-5
+E2F3	upregulates-expression	MCM3		E2F3-active-by-network-sig	1.0		MCM3-G	9.274629009980012	9.377342947098109E-5
+E2F1	upregulates-expression	MCM3		E2F1-active-by-network-sig	1.0		MCM3-G	9.274629009980012	9.377342947098109E-5
+MYCN	upregulates-expression	MCM5		MYCN-active-by-network-sig	1.0		MCM5-G	9.24359413939653	9.672930609757712E-5
+MYCN	upregulates-expression	MCM4		MYCN-active-by-network-sig	1.0		MCM4-G	9.202660174448514	1.0077097658931904E-4
+MYCN	upregulates-expression	MCM6		MYCN-active-by-network-sig	1.0		MCM6-G	8.024487843560241	3.273476363834011E-4
+MYCN	upregulates-expression	MCM2		MYCN-active-by-network-sig	1.0		MCM2-G	7.996163092441921	3.367522394730319E-4
+PTGDR	upregulates-expression	RRM2		PTGDR-active-by-network-sig	1.0		RRM2-G	6.063717027105252	0.0023257399625738902
+E2F1	upregulates-expression	RRM2		E2F1-active-by-network-sig	1.0		RRM2-G	6.063717027105252	0.0023257399625738902
+E2F3	upregulates-expression	RRM2		E2F3-active-by-network-sig	1.0		RRM2-G	6.063717027105252	0.0023257399625738902
+TFDP1	upregulates-expression	TYMS		TFDP1-active-by-network-sig	1.0		TYMS-G	5.04616608752823	0.006433953434975427
+PTGDR	upregulates-expression	TYMS		PTGDR-active-by-network-sig	1.0		TYMS-G	5.04616608752823	0.006433953434975427
+E2F1	upregulates-expression	TYMS		E2F1-active-by-network-sig	1.0		TYMS-G	5.04616608752823	0.006433953434975427
+E2F3	upregulates-expression	TYMS		E2F3-active-by-network-sig	1.0		TYMS-G	5.04616608752823	0.006433953434975427
+PTGDR	upregulates-expression	CCNA2		PTGDR-active-by-network-sig	1.0		CCNA2-G	4.6147489747770765	0.00990466941677708
+E2F1	upregulates-expression	CCNA2		E2F1-active-by-network-sig	1.0		CCNA2-G	4.6147489747770765	0.00990466941677708
+TFDP1	upregulates-expression	PCNA		TFDP1-active-by-network-sig	1.0		PCNA-G	4.193895805216201	0.015087392688158388
+E2F1	upregulates-expression	PCNA		E2F1-active-by-network-sig	1.0		PCNA-G	4.193895805216201	0.015087392688158388
+PTGDR	upregulates-expression	DHFR		PTGDR-active-by-network-sig	1.0		DHFR-G	3.8637887914090663	0.02098832829158725
+E2F1	upregulates-expression	DHFR		E2F1-active-by-network-sig	1.0		DHFR-G	3.8637887914090663	0.02098832829158725
+TFDP1	upregulates-expression	DHFR		TFDP1-active-by-network-sig	1.0		DHFR-G	3.8637887914090663	0.02098832829158725
+TFDP1	upregulates-expression	CDK1		TFDP1-active-by-network-sig	1.0		CDK1-G	3.629363309020879	0.02653307239995332
+E2F1	upregulates-expression	CDK1		E2F1-active-by-network-sig	1.0		CDK1-G	3.629363309020879	0.02653307239995332
+E2F3	upregulates-expression	CDK1		E2F3-active-by-network-sig	1.0		CDK1-G	3.629363309020879	0.02653307239995332
+POLR2H	upregulates-expression	FANCD2		POLR2H-G	3.55537159868407	0.028570756088066897	FANCD2-G	4.819940272647459	0.008067268961327782
+MYCN	upregulates-expression	MCM8		MYCN-active-by-network-sig	1.0		MCM8-G	2.9580145580538604	0.05192190282667209
+TFDP1	upregulates-expression	POLA1		TFDP1-active-by-network-sig	1.0		POLA1-G	2.5488570714595182	0.07817095878362885
+E2F1	upregulates-expression	POLA1		E2F1-active-by-network-sig	1.0		POLA1-G	2.5488570714595182	0.07817095878362885
+E2F3	upregulates-expression	POLA1		E2F3-active-by-network-sig	1.0		POLA1-G	2.5488570714595182	0.07817095878362885
+PTGDR	upregulates-expression	POLA1		PTGDR-active-by-network-sig	1.0		POLA1-G	2.5488570714595182	0.07817095878362885

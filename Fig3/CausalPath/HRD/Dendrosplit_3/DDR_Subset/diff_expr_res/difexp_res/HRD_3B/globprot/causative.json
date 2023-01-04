@@ -1,0 +1,34 @@
+{
+  "nodes" : [ {
+    "css" : {
+      "backgroundColor" : "rgb(255,227,221)"
+    },
+    "data" : {
+      "tooltipText" : "CDK6-G, 2.3630249091369455",
+      "sites" : [ ],
+      "id" : "CDK6",
+      "text" : "CDK6"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(219,226,255)"
+    },
+    "data" : {
+      "tooltipText" : "SMUG1-G, -2.4782277648684516",
+      "sites" : [ ],
+      "id" : "SMUG1",
+      "text" : "SMUG1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(221,227,255)"
+    },
+    "data" : {
+      "tooltipText" : "SOD1-G, -2.3630249091369455",
+      "sites" : [ ],
+      "id" : "SOD1",
+      "text" : "SOD1"
+    }
+  } ],
+  "edges" : [ ]
+}

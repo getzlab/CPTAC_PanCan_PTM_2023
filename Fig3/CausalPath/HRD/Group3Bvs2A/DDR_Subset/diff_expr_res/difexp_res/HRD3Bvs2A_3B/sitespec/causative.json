@@ -1,0 +1,1171 @@
+{
+  "nodes" : [ {
+    "css" : {
+      "backgroundColor" : "rgb(255,221,213)"
+    },
+    "data" : {
+      "tooltipText" : "TTK-G, 2.935601674503173",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,225,218)",
+        "siteText" : "r",
+        "siteInfo" : "TTK-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      }, {
+        "siteBackgroundColor" : "rgb(255,224,217)",
+        "siteText" : "p",
+        "siteInfo" : "TTK-P-S821",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TTK",
+      "text" : "TTK"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,223,215)",
+        "siteText" : "r",
+        "siteInfo" : "TIPIN-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TIPIN",
+      "text" : "TIPIN"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,218,210)",
+        "siteText" : "r",
+        "siteInfo" : "PLK4-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PLK4",
+      "text" : "PLK4"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,218,210)"
+    },
+    "data" : {
+      "tooltipText" : "NSD2-G, 3.155525182980745",
+      "sites" : [ ],
+      "id" : "NSD2",
+      "text" : "NSD2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,221,213)",
+        "siteText" : "p",
+        "siteInfo" : "TP53BP1-P-S1618",
+        "siteBorderColor" : "rgb(0,180,20)"
+      }, {
+        "siteBackgroundColor" : "rgb(255,213,204)",
+        "siteText" : "p",
+        "siteInfo" : "TP53BP1-P-T1609",
+        "siteBorderColor" : "rgb(0,180,20)"
+      }, {
+        "siteBackgroundColor" : "rgb(255,224,217)",
+        "siteText" : "p",
+        "siteInfo" : "TP53BP1-P-S1426-S1430",
+        "siteBorderColor" : "rgb(50,50,50)"
+      }, {
+        "siteBackgroundColor" : "rgb(255,225,218)",
+        "siteText" : "p",
+        "siteInfo" : "TP53BP1-P-S1758-S1759",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TP53BP1",
+      "text" : "TP53BP1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,218,209)"
+    },
+    "data" : {
+      "tooltipText" : "FANCI-G, 3.2020052733490365",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,218,210)",
+        "siteText" : "r",
+        "siteInfo" : "FANCI-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FANCI",
+      "text" : "FANCI"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,209,198)"
+    },
+    "data" : {
+      "tooltipText" : "MCM7-G, 3.9665872908913777",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,213,204)",
+        "siteText" : "r",
+        "siteInfo" : "MCM7-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MCM7",
+      "text" : "MCM7"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,224,217)",
+        "siteText" : "r",
+        "siteInfo" : "CCNA2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CCNA2",
+      "text" : "CCNA2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,222,214)",
+        "siteText" : "r",
+        "siteInfo" : "EXO1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "EXO1",
+      "text" : "EXO1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "APTX-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "APTX",
+      "text" : "APTX"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,208,197)"
+    },
+    "data" : {
+      "tooltipText" : "FEN1-G, 4.061225130304452",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,222,214)",
+        "siteText" : "r",
+        "siteInfo" : "FEN1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FEN1",
+      "text" : "FEN1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,213,204)"
+    },
+    "data" : {
+      "tooltipText" : "MCM6-G, 3.572228968216561",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,225,219)",
+        "siteText" : "r",
+        "siteInfo" : "MCM6-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MCM6",
+      "text" : "MCM6"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,216,208)"
+    },
+    "data" : {
+      "tooltipText" : "DTYMK-G, 3.311652695588819",
+      "sites" : [ ],
+      "id" : "DTYMK",
+      "text" : "DTYMK"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,227,221)"
+    },
+    "data" : {
+      "tooltipText" : "RRM2-G, 2.372579884203028",
+      "sites" : [ ],
+      "id" : "RRM2",
+      "text" : "RRM2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,209,198)"
+    },
+    "data" : {
+      "tooltipText" : "RIF1-G, 3.9665872908913777",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,223,215)",
+        "siteText" : "p",
+        "siteInfo" : "RIF1-P-S2348",
+        "siteBorderColor" : "rgb(50,50,50)"
+      }, {
+        "siteBackgroundColor" : "rgb(255,217,209)",
+        "siteText" : "p",
+        "siteInfo" : "RIF1-P-S2172-S2176",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RIF1",
+      "text" : "RIF1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,207,196)"
+    },
+    "data" : {
+      "tooltipText" : "AURKB-G, 4.135413897304883",
+      "sites" : [ ],
+      "id" : "AURKB",
+      "text" : "AURKB"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,211,201)"
+    },
+    "data" : {
+      "tooltipText" : "LRWD1-G, 3.7769374928884005",
+      "sites" : [ ],
+      "id" : "LRWD1",
+      "text" : "LRWD1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,227,221)"
+    },
+    "data" : {
+      "tooltipText" : "PARP1-G, 2.372579884203028",
+      "sites" : [ ],
+      "id" : "PARP1",
+      "text" : "PARP1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,212,203)"
+    },
+    "data" : {
+      "tooltipText" : "MCM5-G, 3.659567440367014",
+      "sites" : [ ],
+      "id" : "MCM5",
+      "text" : "MCM5"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,222,214)"
+    },
+    "data" : {
+      "tooltipText" : "POLR2J-G, 2.8257197570078314",
+      "sites" : [ ],
+      "id" : "POLR2J",
+      "text" : "POLR2J"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,216,208)"
+    },
+    "data" : {
+      "tooltipText" : "KPNA2-G, 3.311652695588819",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,227,221)",
+        "siteText" : "r",
+        "siteInfo" : "KPNA2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "KPNA2",
+      "text" : "KPNA2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,225,218)"
+    },
+    "data" : {
+      "tooltipText" : "WDR48-G, 2.609062733032068",
+      "sites" : [ ],
+      "id" : "WDR48",
+      "text" : "WDR48"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,211,201)"
+    },
+    "data" : {
+      "tooltipText" : "POLD3-G, 3.764819804781695",
+      "sites" : [ ],
+      "id" : "POLD3",
+      "text" : "POLD3"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,215,205)"
+    },
+    "data" : {
+      "tooltipText" : "CHEK1-G, 3.462015233007843",
+      "sites" : [ ],
+      "id" : "CHEK1",
+      "text" : "CHEK1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,218,209)"
+    },
+    "data" : {
+      "tooltipText" : "TERF2IP-G, 3.20480548910432",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,226,219)",
+        "siteText" : "p",
+        "siteInfo" : "TERF2IP-P-S154",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TERF2IP",
+      "text" : "TERF2IP"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(215,222,255)",
+        "siteText" : "r",
+        "siteInfo" : "EYA4-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "EYA4",
+      "text" : "EYA4"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,218,210)"
+    },
+    "data" : {
+      "tooltipText" : "MLH1-G, 3.155525182980745",
+      "sites" : [ ],
+      "id" : "MLH1",
+      "text" : "MLH1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,215,206)"
+    },
+    "data" : {
+      "tooltipText" : "GINS2-G, 3.428178142763101",
+      "sites" : [ ],
+      "id" : "GINS2",
+      "text" : "GINS2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,222,215)"
+    },
+    "data" : {
+      "tooltipText" : "POLD2-G, 2.7962107939835756",
+      "sites" : [ ],
+      "id" : "POLD2",
+      "text" : "POLD2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,225,218)",
+        "siteText" : "r",
+        "siteInfo" : "DDB1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "DDB1",
+      "text" : "DDB1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,213,204)",
+        "siteText" : "r",
+        "siteInfo" : "FANCE-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FANCE",
+      "text" : "FANCE"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(187,199,255)"
+    },
+    "data" : {
+      "tooltipText" : "PTEN-G, -4.768473126935732",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(204,214,255)",
+        "siteText" : "r",
+        "siteInfo" : "PTEN-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PTEN",
+      "text" : "PTEN"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,220,212)"
+    },
+    "data" : {
+      "tooltipText" : "RFC2-G, 3.0327944461821494",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "RFC2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RFC2",
+      "text" : "RFC2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,216,208)"
+    },
+    "data" : {
+      "tooltipText" : "BAZ1B-G, 3.311652695588819",
+      "sites" : [ ],
+      "id" : "BAZ1B",
+      "text" : "BAZ1B"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,220,212)"
+    },
+    "data" : {
+      "tooltipText" : "TYMS-G, 3.0316956135086044",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,221,213)",
+        "siteText" : "r",
+        "siteInfo" : "TYMS-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TYMS",
+      "text" : "TYMS"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,223,215)",
+        "siteText" : "r",
+        "siteInfo" : "MMS22L-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MMS22L",
+      "text" : "MMS22L"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,218,210)",
+        "siteText" : "r",
+        "siteInfo" : "BLM-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "BLM",
+      "text" : "BLM"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,225,218)"
+    },
+    "data" : {
+      "tooltipText" : "CHTF18-G, 2.568421429776377",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,209,198)",
+        "siteText" : "p",
+        "siteInfo" : "CHTF18-P-S225",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CHTF18",
+      "text" : "CHTF18"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,224,216)"
+    },
+    "data" : {
+      "tooltipText" : "POLD1-G, 2.6924759162003746",
+      "sites" : [ ],
+      "id" : "POLD1",
+      "text" : "POLD1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,213,203)"
+    },
+    "data" : {
+      "tooltipText" : "PLK1-G, 3.613087643257706",
+      "sites" : [ ],
+      "id" : "PLK1",
+      "text" : "PLK1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,212,202)"
+    },
+    "data" : {
+      "tooltipText" : "RFC3-G, 3.7092452237768985",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,217,209)",
+        "siteText" : "r",
+        "siteInfo" : "RFC3-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RFC3",
+      "text" : "RFC3"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,218,209)"
+    },
+    "data" : {
+      "tooltipText" : "TRIP13-G, 3.201450065585819",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "TRIP13-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TRIP13",
+      "text" : "TRIP13"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,225,218)"
+    },
+    "data" : {
+      "tooltipText" : "GINS4-G, 2.5774230023562765",
+      "sites" : [ ],
+      "id" : "GINS4",
+      "text" : "GINS4"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,199,187)"
+    },
+    "data" : {
+      "tooltipText" : "MSH6-G, 4.768473126935732",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "MSH6-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MSH6",
+      "text" : "MSH6"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,218,209)"
+    },
+    "data" : {
+      "tooltipText" : "PRPF19-G, 3.2020052733490365",
+      "sites" : [ ],
+      "id" : "PRPF19",
+      "text" : "PRPF19"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,199,187)"
+    },
+    "data" : {
+      "tooltipText" : "ORC2-G, 4.768473126935732",
+      "sites" : [ ],
+      "id" : "ORC2",
+      "text" : "ORC2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "H2AZ1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "H2AZ1",
+      "text" : "H2AZ1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,228,222)"
+    },
+    "data" : {
+      "tooltipText" : "RAD51C-G, 2.271794257825537",
+      "sites" : [ ],
+      "id" : "RAD51C",
+      "text" : "RAD51C"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "RAD1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RAD1",
+      "text" : "RAD1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,213,204)"
+    },
+    "data" : {
+      "tooltipText" : "UBE2T-G, 3.572228968216561",
+      "sites" : [ ],
+      "id" : "UBE2T",
+      "text" : "UBE2T"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,216,208)"
+    },
+    "data" : {
+      "tooltipText" : "RFC4-G, 3.311652695588819",
+      "sites" : [ ],
+      "id" : "RFC4",
+      "text" : "RFC4"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,208,197)"
+    },
+    "data" : {
+      "tooltipText" : "USP10-G, 4.061225130304452",
+      "sites" : [ ],
+      "id" : "USP10",
+      "text" : "USP10"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,222,215)",
+        "siteText" : "r",
+        "siteInfo" : "RPS27A-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RPS27A",
+      "text" : "RPS27A"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,221,214)"
+    },
+    "data" : {
+      "tooltipText" : "DHFR-G, 2.87898613714833",
+      "sites" : [ ],
+      "id" : "DHFR",
+      "text" : "DHFR"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,223,215)",
+        "siteText" : "p",
+        "siteInfo" : "SAMHD1-P-S278",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SAMHD1",
+      "text" : "SAMHD1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(218,225,255)",
+        "siteText" : "r",
+        "siteInfo" : "NEIL1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "NEIL1",
+      "text" : "NEIL1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "PCLAF-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PCLAF",
+      "text" : "PCLAF"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(222,228,255)",
+        "siteText" : "r",
+        "siteInfo" : "SLX4-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SLX4",
+      "text" : "SLX4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,224,217)",
+        "siteText" : "p",
+        "siteInfo" : "WRN-P-S1133",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "WRN",
+      "text" : "WRN"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "CHEK2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CHEK2",
+      "text" : "CHEK2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,221,213)",
+        "siteText" : "p",
+        "siteInfo" : "LIG3-P-T209",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "LIG3",
+      "text" : "LIG3"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,213,204)",
+        "siteText" : "r",
+        "siteInfo" : "USP1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "USP1",
+      "text" : "USP1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(219,225,255)",
+        "siteText" : "r",
+        "siteInfo" : "FTO-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FTO",
+      "text" : "FTO"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,225,218)",
+        "siteText" : "r",
+        "siteInfo" : "ORC6-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ORC6",
+      "text" : "ORC6"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,199,187)"
+    },
+    "data" : {
+      "tooltipText" : "MSH2-G, 4.7587608630762395",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,213,204)",
+        "siteText" : "r",
+        "siteInfo" : "MSH2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MSH2",
+      "text" : "MSH2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,216,208)"
+    },
+    "data" : {
+      "tooltipText" : "ACTL6A-G, 3.311652695588819",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "ACTL6A-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ACTL6A",
+      "text" : "ACTL6A"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,216,208)"
+    },
+    "data" : {
+      "tooltipText" : "LIG1-G, 3.311652695588819",
+      "sites" : [ ],
+      "id" : "LIG1",
+      "text" : "LIG1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,224,217)"
+    },
+    "data" : {
+      "tooltipText" : "WDHD1-G, 2.6234732136020944",
+      "sites" : [ ],
+      "id" : "WDHD1",
+      "text" : "WDHD1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "CLSPN-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CLSPN",
+      "text" : "CLSPN"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,220,212)"
+    },
+    "data" : {
+      "tooltipText" : "POLR2B-G, 2.9738973939424453",
+      "sites" : [ ],
+      "id" : "POLR2B",
+      "text" : "POLR2B"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,220,212)"
+    },
+    "data" : {
+      "tooltipText" : "CDK2-G, 3.0327944461821494",
+      "sites" : [ ],
+      "id" : "CDK2",
+      "text" : "CDK2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,213,204)",
+        "siteText" : "r",
+        "siteInfo" : "CDC45-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CDC45",
+      "text" : "CDC45"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,224,216)",
+        "siteText" : "p",
+        "siteInfo" : "XRCC1-P-T257-S266",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "XRCC1",
+      "text" : "XRCC1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,216,207)",
+        "siteText" : "r",
+        "siteInfo" : "FANCL-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FANCL",
+      "text" : "FANCL"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,216,208)"
+    },
+    "data" : {
+      "tooltipText" : "MCM4-G, 3.311652695588819",
+      "sites" : [ ],
+      "id" : "MCM4",
+      "text" : "MCM4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(204,213,255)",
+        "siteText" : "r",
+        "siteInfo" : "KDM4B-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "KDM4B",
+      "text" : "KDM4B"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,218,210)",
+        "siteText" : "r",
+        "siteInfo" : "RBX1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RBX1",
+      "text" : "RBX1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(222,228,255)",
+        "siteText" : "r",
+        "siteInfo" : "ABL1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ABL1",
+      "text" : "ABL1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,222,215)"
+    },
+    "data" : {
+      "tooltipText" : "SMARCC1-G, 2.7962107939835756",
+      "sites" : [ ],
+      "id" : "SMARCC1",
+      "text" : "SMARCC1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,216,208)"
+    },
+    "data" : {
+      "tooltipText" : "CDK1-G, 3.311652695588819",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,221)",
+        "siteText" : "r",
+        "siteInfo" : "CDK1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CDK1",
+      "text" : "CDK1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,216,208)"
+    },
+    "data" : {
+      "tooltipText" : "RUVBL2-G, 3.311652695588819",
+      "sites" : [ ],
+      "id" : "RUVBL2",
+      "text" : "RUVBL2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,212,202)"
+    },
+    "data" : {
+      "tooltipText" : "MCM3-G, 3.7224211645119993",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,224,217)",
+        "siteText" : "r",
+        "siteInfo" : "MCM3-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MCM3",
+      "text" : "MCM3"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(218,225,255)"
+    },
+    "data" : {
+      "tooltipText" : "CUL5-G, -2.5538496739498386",
+      "sites" : [ ],
+      "id" : "CUL5",
+      "text" : "CUL5"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,218,209)"
+    },
+    "data" : {
+      "tooltipText" : "PCNA-G, 3.2020052733490365",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,218,210)",
+        "siteText" : "r",
+        "siteInfo" : "PCNA-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PCNA",
+      "text" : "PCNA"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,222,215)"
+    },
+    "data" : {
+      "tooltipText" : "SUMO2-G, 2.7962107939835756",
+      "sites" : [ ],
+      "id" : "SUMO2",
+      "text" : "SUMO2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,228,221)"
+    },
+    "data" : {
+      "tooltipText" : "XRCC6-G, 2.3384227956727615",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,222,214)",
+        "siteText" : "r",
+        "siteInfo" : "XRCC6-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "XRCC6",
+      "text" : "XRCC6"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,222,214)"
+    },
+    "data" : {
+      "tooltipText" : "RUVBL1-G, 2.8257197570078314",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "RUVBL1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RUVBL1",
+      "text" : "RUVBL1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,227,221)",
+        "siteText" : "r",
+        "siteInfo" : "RFWD3-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RFWD3",
+      "text" : "RFWD3"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,225,218)"
+    },
+    "data" : {
+      "tooltipText" : "SUMO1-G, 2.5538496739498386",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "SUMO1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SUMO1",
+      "text" : "SUMO1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,226,219)"
+    },
+    "data" : {
+      "tooltipText" : "POLR2G-G, 2.477896030436599",
+      "sites" : [ ],
+      "id" : "POLR2G",
+      "text" : "POLR2G"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,222,214)",
+        "siteText" : "r",
+        "siteInfo" : "CDC25A-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CDC25A",
+      "text" : "CDC25A"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,213,204)"
+    },
+    "data" : {
+      "tooltipText" : "MCM2-G, 3.572228968216561",
+      "sites" : [ ],
+      "id" : "MCM2",
+      "text" : "MCM2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,216,207)",
+        "siteText" : "r",
+        "siteInfo" : "DBF4-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "DBF4",
+      "text" : "DBF4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "NUDT5-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "NUDT5",
+      "text" : "NUDT5"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,223,216)"
+    },
+    "data" : {
+      "tooltipText" : "MDC1-G, 2.737930649631235",
+      "sites" : [ ],
+      "id" : "MDC1",
+      "text" : "MDC1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,216,208)"
+    },
+    "data" : {
+      "tooltipText" : "RAD18-G, 3.311652695588819",
+      "sites" : [ ],
+      "id" : "RAD18",
+      "text" : "RAD18"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "TP53BP1_1612, TP53BP1_1609",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK2",
+      "pcLinks" : [ "PMID:18847512" ],
+      "target" : "TP53BP1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "TP53BP1_1678, TP53BP1_1609",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK1",
+      "pcLinks" : [ "PMID:25607646" ],
+      "target" : "TP53BP1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "TP53BP1_1618",
+      "edgeType" : "phosphorylates",
+      "source" : "PLK1",
+      "pcLinks" : [ "PMID:25607646" ],
+      "target" : "TP53BP1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "WRN_1133",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK2",
+      "pcLinks" : [ "" ],
+      "target" : "WRN"
+    }
+  } ]
+}

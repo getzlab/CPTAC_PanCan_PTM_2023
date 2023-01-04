@@ -1,0 +1,168 @@
+{
+  "nodes" : [ {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,209,198)",
+        "siteText" : "p",
+        "siteInfo" : "LUZP1-P-S233",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "LUZP1",
+      "text" : "LUZP1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(199,209,255)",
+        "siteText" : "p",
+        "siteInfo" : "STUB1-P-S23",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "STUB1",
+      "text" : "STUB1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,190,175)"
+    },
+    "data" : {
+      "tooltipText" : "CASP3-G, 5.553695580242083",
+      "sites" : [ ],
+      "id" : "CASP3",
+      "text" : "CASP3"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,196,183)"
+    },
+    "data" : {
+      "tooltipText" : "CDK6-G, 5.019949188223151",
+      "sites" : [ ],
+      "id" : "CDK6",
+      "text" : "CDK6"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(192,203,255)"
+    },
+    "data" : {
+      "tooltipText" : "PRKCD-G, -4.415429750026515",
+      "sites" : [ ],
+      "id" : "PRKCD",
+      "text" : "PRKCD"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,224,217)",
+        "siteText" : "p",
+        "siteInfo" : "KLF5-P-S153",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "KLF5",
+      "text" : "KLF5"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(221,227,255)"
+    },
+    "data" : {
+      "tooltipText" : "PRKAA2-G, -2.3972557118693016",
+      "sites" : [ ],
+      "id" : "PRKAA2",
+      "text" : "PRKAA2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(220,226,255)",
+        "siteText" : "p",
+        "siteInfo" : "ZYX-P-S308",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ZYX",
+      "text" : "ZYX"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(192,203,255)"
+    },
+    "data" : {
+      "tooltipText" : "PAK1-G, -4.4249529786236454",
+      "sites" : [ ],
+      "id" : "PAK1",
+      "text" : "PAK1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,218,210)",
+        "siteText" : "p",
+        "siteInfo" : "VIM-P-S47",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "VIM",
+      "text" : "VIM"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,225,218)",
+        "siteText" : "p",
+        "siteInfo" : "PAK2-P-S197",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "PAK2",
+      "text" : "PAK2"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "PAK2_55, PAK2_20, PAK2_197, PAK2_192, PAK2_19",
+      "edgeType" : "dephosphorylates",
+      "source" : "CASP3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-211651", "http://pathwaycommons.org/pc12/Catalysis_5a25dd122acc70f5e8e68ef9889ddd26" ],
+      "target" : "PAK2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "KLF5_153",
+      "edgeType" : "phosphorylates",
+      "source" : "PRKCD",
+      "pcLinks" : [ "PMID:12682370" ],
+      "target" : "KLF5"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "LUZP1_233, LUZP1_573, LUZP1_639, LUZP1_703, LUZP1_108, LUZP1_338, LUZP1_745",
+      "edgeType" : "phosphorylates",
+      "source" : "PRKAA2",
+      "pcLinks" : [ "" ],
+      "target" : "LUZP1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "ZYX_270, ZYX_281, ZYX_308, ZYX_259, ZYX_267, ZYX_344, ZYX_179, ZYX_202, ZYX_274",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK6",
+      "pcLinks" : [ "" ],
+      "target" : "ZYX"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "STUB1_273, STUB1_19, STUB1_23",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK6",
+      "pcLinks" : [ "" ],
+      "target" : "STUB1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "VIM_26, VIM_426, VIM_25, VIM_47, VIM_412, VIM_39, VIM_51, VIM_73, VIM_66, VIM_56",
+      "edgeType" : "phosphorylates",
+      "source" : "PAK1",
+      "pcLinks" : [ "PMID:15766329", "PMID:16997882", "PMID:16990256", "PMID:11895474" ],
+      "target" : "VIM"
+    }
+  } ]
+}

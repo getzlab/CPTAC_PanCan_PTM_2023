@@ -1,0 +1,91 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	FANCI	rppasite	FANCI-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CCNK	rppasite	CCNK-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	TP63	rppasite	TP63-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ELOA3B	rppasite	ELOA3B-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ATM	rppasite	ATM-R|r|216 223 255|50 50 50|-2.7000653553961187
+node	CHEK1	rppasite	CHEK1-R|r|255 159 137|50 50 50|8.241456275971261
+node	LIN52	rppasite	LIN52-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	NELFB	rppasite	NELFB-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	RBBP4	rppasite	RBBP4-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	POLR2B	rppasite	POLR2B-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	TP53	rppasite	TP53-R|r|255 186 170|50 50 50|5.908233153012915
+node	GTF2H5	rppasite	GTF2H5-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CHEK1	rppasite	CHEK1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	POLR2G	rppasite	POLR2G-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ELL	rppasite	ELL-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ERCC3	rppasite	ERCC3-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ATM	color	155 174 255
+node	ATM	tooltip	ATM-G, -6.967974901565986
+node	GTF2F2	rppasite	GTF2F2-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	FANCD2	rppasite	FANCD2-R|r|255 106 73|50 50 50|12.730941464767554
+node	NELFE	rppasite	NELFE-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	DDB2	rppasite	DDB2-R|r|255 155 132|50 50 50|8.580838876901042
+node	RECQL4	rppasite	RECQL4-R|r|255 186 171|50 50 50|5.879040904206012
+node	POLR2E	rppasite	POLR2E-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	GTF2H2	rppasite	GTF2H2-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CCNT1	rppasite	CCNT1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ELOB	rppasite	ELOB-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	SUPT16H	rppasite	SUPT16H-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	RAD51D	rppasite	RAD51D-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	POLR2J	rppasite	POLR2J-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	BRCA2	rppasite	BRCA2-R|r|255 169 150|50 50 50|7.350456806267082
+node	SUPT4H1	rppasite	SUPT4H1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CDK12	rppasite	CDK12-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	POLR2L	rppasite	POLR2L-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CSNK2A1	rppasite	CSNK2A1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ELOA3D	rppasite	ELOA3D-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	POLR2D	rppasite	POLR2D-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	GTF2H3	rppasite	GTF2H3-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CCNT2	rppasite	CCNT2-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	FANCD2	color	255 203 191
+node	FANCD2	tooltip	FANCD2-G, 4.4846804510528795
+node	POLR2I	rppasite	POLR2I-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	LIN37	rppasite	LIN37-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	LIG1	rppasite	LIG1-P-S76|p|255 201 188|50 50 50|4.668318669592288
+node	CTDP1	rppasite	CTDP1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CCNH	rppasite	CCNH-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ELOA2	rppasite	ELOA2-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ATR	rppasite	ATR-R|r|206 215 255|50 50 50|-3.388813560753358
+node	POLR2F	rppasite	POLR2F-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	TP53	rppasite	TP53-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	RCHY1	rppasite	RCHY1-R|r|255 188 173|50 50 50|5.720183687244869
+node	GTF2H1	rppasite	GTF2H1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	SUPT5H	rppasite	SUPT5H-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MSH2	rppasite	MSH2-R|r|255 225 218|50 50 50|2.5620148944380086
+node	ELOC	rppasite	ELOC-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	POLR2K	rppasite	POLR2K-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	TCEA1	rppasite	TCEA1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MCM2	rppasite	MCM2-P-S27|p|255 183 166|0 180 20|6.175740727275628
+node	TOP2A	rppasite	TOP2A-R|r|255 199 187|50 50 50|4.760476029634265
+node	FANCC	rppasite	FANCC-R|r|255 207 196|50 50 50|4.12603835167772
+node	PLK1	rppasite	PLK1-R|r|255 180 163|50 50 50|6.453317913096653
+node	NELFA	rppasite	NELFA-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	SSRP1	rppasite	SSRP1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	FANCI	rppasite	FANCI-R|r|255 97 61|50 50 50|13.510948644964525
+node	LIN54	rppasite	LIN54-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	FANCD2	rppasite	FANCD2-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MDC1	rppasite	MDC1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	FANCI	color	255 179 161
+node	FANCI	tooltip	FANCI-G, 6.527562110771779
+node	PARP1	color	255 183 167
+node	PARP1	tooltip	PARP1-G, 6.12944256265457
+node	POLR2A	rppasite	POLR2A-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	NELFCD	rppasite	NELFCD-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MCM2	rppasite	MCM2-P-S139|p|255 170 150|0 180 20|7.297989709824848
+node	BRCA1	rppasite	BRCA1-R|r|255 96 59|50 50 50|13.666397628789333
+node	POLR2H	color	255 228 222
+node	POLR2H	tooltip	POLR2H-G, 2.2747100063866608
+node	ELOA3	rppasite	ELOA3-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MDM2	rppasite	MDM2-R|r|255 167 147|50 50 50|7.524011263672628
+node	ELOA	rppasite	ELOA-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CDK1	rppasite	CDK1-P-Y15|p|255 223 216|180 0 20|2.7302774129425145
+node	MNAT1	rppasite	MNAT1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	LIN9	rppasite	LIN9-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	PCNA	rppasite	PCNA-R|r|255 179 162|50 50 50|6.516105528579748
+node	POLR2C	rppasite	POLR2C-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	GTF2H4	rppasite	GTF2H4-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	GTF2F1	rppasite	GTF2F1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	POLR2H	rppasite	POLR2H-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ERCC2	rppasite	ERCC2-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0

@@ -1,0 +1,189 @@
+{
+  "nodes" : [ {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,187,172)",
+        "siteText" : "r",
+        "siteInfo" : "FANCD2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FANCD2",
+      "text" : "FANCD2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(201,211,255)",
+        "siteText" : "r",
+        "siteInfo" : "ERCC1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ERCC1",
+      "text" : "ERCC1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,165,145)"
+    },
+    "data" : {
+      "tooltipText" : "KPNA2-G, 7.693001099098745",
+      "sites" : [ ],
+      "id" : "KPNA2",
+      "text" : "KPNA2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(214,221,255)",
+        "siteText" : "p",
+        "siteInfo" : "POLR2A-P-S1917",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "POLR2A",
+      "text" : "POLR2A"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,208,198)",
+        "siteText" : "r",
+        "siteInfo" : "CHEK1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CHEK1",
+      "text" : "CHEK1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,203,191)",
+        "siteText" : "p",
+        "siteInfo" : "TP53BP1-P-S1678",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TP53BP1",
+      "text" : "TP53BP1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,191,177)",
+        "siteText" : "r",
+        "siteInfo" : "FANCI-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FANCI",
+      "text" : "FANCI"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,220,212)"
+    },
+    "data" : {
+      "tooltipText" : "PARP1-G, 2.973817357484635",
+      "sites" : [ ],
+      "id" : "PARP1",
+      "text" : "PARP1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(222,228,255)"
+    },
+    "data" : {
+      "tooltipText" : "MRE11-G, -2.2830980762068513",
+      "sites" : [ ],
+      "id" : "MRE11",
+      "text" : "MRE11"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,229,223)",
+        "siteText" : "r",
+        "siteInfo" : "BRCA2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "BRCA2",
+      "text" : "BRCA2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,207,196)",
+        "siteText" : "p",
+        "siteInfo" : "WRN-P-S1133",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "WRN",
+      "text" : "WRN"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,243,241)",
+        "siteText" : "!",
+        "siteInfo" : "E2F1-active-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "E2F1",
+      "text" : "E2F1"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "TP53BP1_1678",
+      "edgeType" : "dephosphorylates",
+      "source" : "KPNA2",
+      "pcLinks" : [ "PMID:29603287", "PMID:30685087" ],
+      "target" : "TP53BP1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "POLR2A",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6797711", "http://identifiers.org/reactome/R-HSA-6797712" ],
+      "target" : "FANCD2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "POLR2A",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6797711", "http://identifiers.org/reactome/R-HSA-6797712" ],
+      "target" : "CHEK1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "E2F1",
+      "pcLinks" : [ "PMID:22159227" ],
+      "target" : "ERCC1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "PARP1",
+      "pcLinks" : [ "PMID:18990703" ],
+      "target" : "BRCA2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "WRN_1133",
+      "edgeType" : "phosphorylates",
+      "source" : "MRE11",
+      "pcLinks" : [ "PMID:27634057" ],
+      "target" : "WRN"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "POLR2A",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6797711", "http://identifiers.org/reactome/R-HSA-6797712" ],
+      "target" : "FANCI"
+    }
+  } ]
+}

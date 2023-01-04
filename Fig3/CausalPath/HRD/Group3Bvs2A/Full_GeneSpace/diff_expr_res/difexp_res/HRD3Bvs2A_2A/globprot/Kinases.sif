@@ -1,0 +1,25 @@
+
+JAK2	upregulates-expression	MPO	http://pathwaycommons.org/pc12/TemplateReaction_2537144fd22a1b66b0debbba76c60638 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4fdc282a2fb001ae282c63722f3eadef	
+EZH2	downregulates-expression	PIP5K1C	PMID:21216957	
+RBBP4	upregulates-expression	CCNB1	http://identifiers.org/reactome/R-HSA-4088312 http://identifiers.org/reactome/R-HSA-4088298	
+FANCI	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CHEK1	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+SSRP1	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+GATA3	upregulates-expression	CCND1	http://identifiers.org/reactome/R-HSA-9009382 http://identifiers.org/reactome/R-HSA-9009378	
+SUPT16H	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+STAT1	upregulates-expression	JAK2	PMID:21239533	
+MDC1	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CHEK1	upregulates-expression	MDC1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+MAX	downregulates-expression	PDGFRB	http://pathwaycommons.org/pc12/TemplateReactionRegulation_29ccce5bf45c0692e45e787e95339baa http://pathwaycommons.org/pc12/TemplateReaction_a0f4d7197fbfa49c5b54bcc1179993b3	
+JAK2	upregulates-expression	GZMA	http://pathwaycommons.org/pc12/TemplateReactionRegulation_5e5b9414e95e87036d74a1d9e8991105 http://pathwaycommons.org/pc12/TemplateReaction_ceb41e8d7660131dd2d87051d42ddc40	
+FOXA1	upregulates-expression	CCND1	http://identifiers.org/reactome/R-HSA-9009382 http://pathwaycommons.org/pc12/TemplateReaction_147a2979deb4ae6b1beccb4d095e59c3 http://pathwaycommons.org/pc12/TemplateReactionRegulation_ba0d49965f6fe0f1f3f006d6bb809e77 http://identifiers.org/reactome/R-HSA-9009378	
+MAX	upregulates-expression	CCNB1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_61e290ad1f82a170450ce4c204c88170 http://pathwaycommons.org/pc12/TemplateReaction_f2f39f4685140e6a89b80f65d1346ca8	
+E2F2	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9	
+E2F3	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9	
+RBBP4	upregulates-expression	PLK1	http://identifiers.org/reactome/R-HSA-4088305 http://identifiers.org/reactome/R-HSA-4088302	
+LIN9	upregulates-expression	PLK1	http://identifiers.org/reactome/R-HSA-4088305 http://identifiers.org/reactome/R-HSA-4088302	
+GTF2F2	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2B	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+LIN9	upregulates-expression	CCNB1	http://identifiers.org/reactome/R-HSA-4088312 http://identifiers.org/reactome/R-HSA-4088298	
+POLR2J	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+ITGAV	upregulates-expression	ILK	http://pathwaycommons.org/pc12/TemplateReaction_7d6e4dbac3ef692a86f2ce4fc9f817f2 http://pathwaycommons.org/pc12/TemplateReactionRegulation_cf498c06bbf38025f64415fdf6e34f8d	

@@ -1,0 +1,12 @@
+
+VDR	upregulates-expression	CD14	PMID:16402404	
+SP1	upregulates-expression	CD14	PMID:17203216	
+WT1	upregulates-expression	CKM	PMID:8389468	
+MAX	downregulates-expression	LGALS1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_ff0137ccd585704e249b6096dc2fdf09 http://pathwaycommons.org/pc12/TemplateReaction_bc2690978ed953b7db18dfcec01c3195	
+SP1	upregulates-expression	FAS	PMID:22084312	
+FOXO1	upregulates-expression	CAV1	http://identifiers.org/reactome/R-HSA-9624985 http://pathwaycommons.org/pc12/Control_d3d1a01b18a3d34af684db9ef6465fbe	
+SP1	upregulates-expression	WT1	PMID:18064385	
+SP1	upregulates-expression	CAV1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_09312257e372a0ed50dd8614c6eed887 http://pathwaycommons.org/pc12/TemplateReaction_d620e9c97739165fd324b99e28d888be	
+WT1	downregulates-expression	IGF2	PMID:1323141 PMID:7535092 PMID:8634146	
+YY1	downregulates-expression	FAS	PMID:16784892 PMID:17530016	
+FAS	downregulates-expression	YY1	PMID:11418634	

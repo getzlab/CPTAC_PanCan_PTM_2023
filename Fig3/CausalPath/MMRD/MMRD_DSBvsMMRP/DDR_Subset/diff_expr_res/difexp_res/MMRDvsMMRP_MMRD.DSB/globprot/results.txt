@@ -1,0 +1,40 @@
+Source	Relation	Target	Sites	Source data ID	Source change	 Source change pval	Target data ID	Target change	Target change pval
+PTGDR	upregulates-expression	RRM1		PTGDR-active-by-network-sig	1.0		RRM1-G	21.382670117935394	5.171593243861353E-10
+E2F1	upregulates-expression	RRM1		E2F1-active-by-network-sig	1.0		RRM1-G	21.382670117935394	5.171593243861353E-10
+E2F3	upregulates-expression	RRM1		E2F3-active-by-network-sig	1.0		RRM1-G	21.382670117935394	5.171593243861353E-10
+TFDP1	upregulates-expression	RRM1		TFDP1-active-by-network-sig	1.0		RRM1-G	21.382670117935394	5.171593243861353E-10
+MYCN	upregulates-expression	MCM7		MYCN-active-by-network-sig	1.0		MCM7-G	10.23719904723885	3.58130198669931E-5
+MYCN	upregulates-expression	MCM5		MYCN-active-by-network-sig	1.0		MCM5-G	9.245236335246613	9.657058799129937E-5
+TFDP1	upregulates-expression	MCM3		TFDP1-active-by-network-sig	1.0		MCM3-G	8.645802977179748	1.7586340412571573E-4
+MYCN	upregulates-expression	MCM3		MYCN-active-by-network-sig	1.0		MCM3-G	8.645802977179748	1.7586340412571573E-4
+E2F3	upregulates-expression	MCM3		E2F3-active-by-network-sig	1.0		MCM3-G	8.645802977179748	1.7586340412571573E-4
+E2F1	upregulates-expression	MCM3		E2F1-active-by-network-sig	1.0		MCM3-G	8.645802977179748	1.7586340412571573E-4
+MYCN	upregulates-expression	MCM4		MYCN-active-by-network-sig	1.0		MCM4-G	8.625999452586305	1.7938083316608865E-4
+MYCN	upregulates-expression	MCM6		MYCN-active-by-network-sig	1.0		MCM6-G	8.134138176441413	2.933517443085794E-4
+MYCN	upregulates-expression	MCM2		MYCN-active-by-network-sig	1.0		MCM2-G	7.976500830527498	3.434390739223191E-4
+PTGDR	upregulates-expression	RRM2		PTGDR-active-by-network-sig	1.0		RRM2-G	7.340596181384583	6.486636844297229E-4
+E2F1	upregulates-expression	RRM2		E2F1-active-by-network-sig	1.0		RRM2-G	7.340596181384583	6.486636844297229E-4
+E2F3	upregulates-expression	RRM2		E2F3-active-by-network-sig	1.0		RRM2-G	7.340596181384583	6.486636844297229E-4
+TFDP1	upregulates-expression	CDK1		TFDP1-active-by-network-sig	1.0		CDK1-G	5.185799301122522	0.005595462368059472
+E2F1	upregulates-expression	CDK1		E2F1-active-by-network-sig	1.0		CDK1-G	5.185799301122522	0.005595462368059472
+E2F3	upregulates-expression	CDK1		E2F3-active-by-network-sig	1.0		CDK1-G	5.185799301122522	0.005595462368059472
+TFDP1	upregulates-expression	TYMS		TFDP1-active-by-network-sig	1.0		TYMS-G	4.4846804510528795	0.011280491614086062
+PTGDR	upregulates-expression	TYMS		PTGDR-active-by-network-sig	1.0		TYMS-G	4.4846804510528795	0.011280491614086062
+FANCI	upregulates-expression	FANCD2		FANCI-G	6.527562110771779	0.0014625670836149695	FANCD2-G	4.4846804510528795	0.011280491614086062
+FANCD2	upregulates-expression	FANCI		FANCD2-G	4.4846804510528795	0.011280491614086062	FANCI-G	6.527562110771779	0.0014625670836149695
+E2F1	upregulates-expression	TYMS		E2F1-active-by-network-sig	1.0		TYMS-G	4.4846804510528795	0.011280491614086062
+E2F3	upregulates-expression	TYMS		E2F3-active-by-network-sig	1.0		TYMS-G	4.4846804510528795	0.011280491614086062
+TFDP1	upregulates-expression	PCNA		TFDP1-active-by-network-sig	1.0		PCNA-G	4.39353475542953	0.012356973054732722
+E2F1	upregulates-expression	PCNA		E2F1-active-by-network-sig	1.0		PCNA-G	4.39353475542953	0.012356973054732722
+PTGDR	upregulates-expression	DHFR		PTGDR-active-by-network-sig	1.0		DHFR-G	4.141148207499181	0.01590457925917791
+E2F1	upregulates-expression	DHFR		E2F1-active-by-network-sig	1.0		DHFR-G	4.141148207499181	0.01590457925917791
+TFDP1	upregulates-expression	DHFR		TFDP1-active-by-network-sig	1.0		DHFR-G	4.141148207499181	0.01590457925917791
+TFDP1	upregulates-expression	POLA1		TFDP1-active-by-network-sig	1.0		POLA1-G	3.8137545603393823	0.022065178195921797
+E2F1	upregulates-expression	POLA1		E2F1-active-by-network-sig	1.0		POLA1-G	3.8137545603393823	0.022065178195921797
+E2F3	upregulates-expression	POLA1		E2F3-active-by-network-sig	1.0		POLA1-G	3.8137545603393823	0.022065178195921797
+PTGDR	upregulates-expression	POLA1		PTGDR-active-by-network-sig	1.0		POLA1-G	3.8137545603393823	0.022065178195921797
+PTGDR	upregulates-expression	CCNA2		PTGDR-active-by-network-sig	1.0		CCNA2-G	3.4808642132999155	0.030780798359570004
+E2F1	upregulates-expression	CCNA2		E2F1-active-by-network-sig	1.0		CCNA2-G	3.4808642132999155	0.030780798359570004
+MYCN	upregulates-expression	MCM8		MYCN-active-by-network-sig	1.0		MCM8-G	3.285778863727458	0.03741143533306235
+POLR2H	upregulates-expression	FANCI		POLR2H-G	2.2747100063866608	0.10282672320504112	FANCI-G	6.527562110771779	0.0014625670836149695
+POLR2H	upregulates-expression	FANCD2		POLR2H-G	2.2747100063866608	0.10282672320504112	FANCD2-G	4.4846804510528795	0.011280491614086062

@@ -1,0 +1,73 @@
+PPARG	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED31	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED30	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+KLF8	downregulates-expression	FN1	PMID:20728449	
+CREBBP	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+HIF1A	upregulates-expression	TFF3	http://pathwaycommons.org/pc12/TemplateReaction_6021f4a8210ceb4c0b9b6d1501ceeb8c http://pathwaycommons.org/pc12/TemplateReactionRegulation_d74485d57287bb1fdf6661c5588fe16b	
+MED16	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+RELA	upregulates-expression	TFF3	PMID:12912861	
+KLF8	downregulates-expression	VIM	PMID:20728449	
+MED16	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+WT1	downregulates-expression	MYB	PMID:7559553	
+CBFB	upregulates-expression	MYB	http://identifiers.org/reactome/R-HSA-8956607 http://identifiers.org/reactome/R-HSA-8956608	
+ARNT	upregulates-expression	TFF3	http://pathwaycommons.org/pc12/TemplateReaction_6021f4a8210ceb4c0b9b6d1501ceeb8c http://pathwaycommons.org/pc12/TemplateReactionRegulation_d74485d57287bb1fdf6661c5588fe16b	
+NFKB1	upregulates-expression	TFF3	PMID:12912861	
+FOS	upregulates-expression	ESR1	http://pathwaycommons.org/pc12/TemplateReaction_995794456c31ace2e0d8ea9092e8b9f5 http://pathwaycommons.org/pc12/TemplateReactionRegulation_223b6985448ae5803545eeaedbc89abc	
+CDK8	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+EP300	upregulates-expression	GATA3	http://pathwaycommons.org/pc12/TemplateReaction_04db74633fe8f180707256bd425a5dd6 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b036700e986da1ccd3facd3f70e4a570	
+EGR1	downregulates-expression	FCER2	PMID:9300687	
+FAM120B	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+TWIST2	downregulates-expression	SRPX	PMID:19051271	
+TWIST1	downregulates-expression	SRPX	PMID:19051271	
+RXRA	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+HIF1A	downregulates-expression	MMP2	PMID:18570733 PMID:17332917	
+PPARGC1A	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+CBFB	upregulates-expression	KCTD6	http://identifiers.org/reactome/R-HSA-8932033 http://identifiers.org/reactome/R-HSA-8932038	
+MED8	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED9	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+EP300	upregulates-expression	TFF3	http://identifiers.org/reactome/R-HSA-9018516 http://identifiers.org/reactome/R-HSA-9018497	
+MED10	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED14	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED13	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED12	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED1	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED11	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED6	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED18	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED7	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED17	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED13L	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED4	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED16	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED15	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+NFKB1	upregulates-expression	GATA3	PMID:20660789	
+MED16	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED19	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+CCNC	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+NCOA2	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+NCOA1	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+GTF2F2	upregulates-expression	MYB	http://identifiers.org/reactome/R-HSA-9011971 http://identifiers.org/reactome/R-HSA-9011972	
+CDK19	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+THRAP3	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+NCOA3	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+WT1	upregulates-expression	ETS1	PMID:18212735 PMID:20842112	
+RUNX1	upregulates-expression	MYB	http://identifiers.org/reactome/R-HSA-8956607 http://identifiers.org/reactome/R-HSA-8956608	
+RUNX1	upregulates-expression	KCTD6	http://identifiers.org/reactome/R-HSA-8932033 http://identifiers.org/reactome/R-HSA-8932038	
+RELA	upregulates-expression	GATA3	PMID:20660789	
+MED21	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED20	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+CBFB	upregulates-expression	RORC	http://identifiers.org/reactome/R-HSA-8949301 http://identifiers.org/reactome/R-HSA-8949304	
+MED25	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED24	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED23	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED22	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED29	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED28	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+WT1	downregulates-expression	IGF1R	PMID:10499530 PMID:12444079	
+VDR	upregulates-expression	CST5	PMID:19662683	
+MED27	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED26	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED16	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+EP300	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+HELZ2	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+MED16	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	

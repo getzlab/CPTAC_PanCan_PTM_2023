@@ -1,0 +1,27 @@
+
+E2F4	downregulates-expression	CDK1	http://identifiers.org/reactome/R-HSA-8964594 http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://identifiers.org/reactome/R-HSA-8961934 http://pathwaycommons.org/pc12/TemplateReactionRegulation_c139b1965ab1e755a85eedd79dcb07d3	
+FOXM1	upregulates-expression	AURKB	http://pathwaycommons.org/pc12/TemplateReaction_c0d505adb1aad54746b351df8921ab50 http://pathwaycommons.org/pc12/TemplateReactionRegulation_a68da07576162f4df28e6f67cc7852d3	
+E2F4	downregulates-expression	TTK	PMID:17981789	
+FOXM1	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_234ed6aec0f159d394f70ab2e8c6df8a http://pathwaycommons.org/pc12/TemplateReactionRegulation_e8f07c4376ee63785a5204cca9be44a7	
+ATR	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+E2F3	upregulates-expression	AURKA	PMID:18776222	
+ATR	phosphorylates	NBN	http://pathwaycommons.org/pc12/BiochemicalReaction_83225045231ca08850d1bcc00fc9ba2a PMID:17526493 http://pathwaycommons.org/pc12/Catalysis_e61274bb38c9f3464ad2ed569272575e PMID:18644472 PMID:18077418	S615;S343
+ATR	phosphorylates	EXO1	PMID:18048416	S714
+E2F1	upregulates-expression	AURKA	PMID:20300951	
+CDK1	phosphorylates	TTK		S281
+E2F1	upregulates-expression	CHEK2	PMID:15024084	
+E2F4	downregulates-expression	PLK1	PMID:17981789	
+CDK1	phosphorylates	USP1	PMID:23116119	S313
+E2F1	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 PMID:14618416 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9 http://identifiers.org/reactome/R-HSA-8961934 http://identifiers.org/reactome/R-HSA-8961933	
+E2F3	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9	
+FANCI	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+ATR	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK1	phosphorylates	RECQL5		S727
+CDK1	phosphorylates	TP53BP1	PMID:25607646	S1678;T1609
+AURKB	phosphorylates	RPA1		S384
+E2F1	upregulates-expression	PLK1	PMID:24076372	
+ATR	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK1	phosphorylates	TOP2A	PMID:18669648 PMID:20068230 PMID:12569090 PMID:18691976 PMID:20068231 PMID:16565220 PMID:18452278 PMID:19664994 PMID:19664995 PMID:18234856 PMID:17466629 PMID:20058876 PMID:17287340 PMID:17924679 PMID:19651622 PMID:19415658 PMID:19007248 PMID:19691289 PMID:18767875 PMID:19413330 PMID:16964243 PMID:7635160	S1393;S1361;S1354;S1213;S1247
+FOXM1	upregulates-expression	PLK1	http://identifiers.org/reactome/R-HSA-4088305 http://pathwaycommons.org/pc12/TemplateReaction_b5c4fa5dbfd6cb109038b31672069653 http://identifiers.org/reactome/R-HSA-4088302 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b13e898b04856a1255a954d838b07b6f	
+MDC1	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK1	phosphorylates	SAMHD1	PMID:18234856 PMID:23601106 PMID:23602554	T592

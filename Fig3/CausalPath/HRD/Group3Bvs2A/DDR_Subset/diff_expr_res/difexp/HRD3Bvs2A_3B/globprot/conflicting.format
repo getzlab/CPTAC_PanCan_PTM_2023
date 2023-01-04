@@ -1,0 +1,7 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	CHEK1	rppasite	CHEK1-P-S280|p|255 226 219|180 0 20|2.514729094288241
+node	FANCI	color	255 218 209
+node	FANCI	tooltip	FANCI-G, 3.2020052733490365
+node	MDC1	color	255 223 216
+node	MDC1	tooltip	MDC1-G, 2.737930649631235

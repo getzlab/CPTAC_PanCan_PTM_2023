@@ -1,0 +1,4 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	LIG1	rppasite	LIG1-P-S76|p|255 201 188|50 50 50|4.668318669592288
+node	CDK1	rppasite	CDK1-P-Y15|p|255 223 216|180 0 20|2.7302774129425145

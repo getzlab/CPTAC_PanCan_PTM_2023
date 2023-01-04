@@ -1,0 +1,598 @@
+Source	Relation	Target	Sites	Source data ID	Source change	 Source change pval	Target data ID	Target change	Target change pval
+IL13	upregulates-expression	FN1		IL13-inactive-by-network-sig	-1.0		FN1-R	-20.866496331222805	8.66554310066086E-10
+RELA	upregulates-expression	FN1		RELA-inactive-by-network-sig	-1.0		FN1-R	-20.866496331222805	8.66554310066086E-10
+IL4	upregulates-expression	FN1		IL4-inactive-by-network-sig	-1.0		FN1-R	-20.866496331222805	8.66554310066086E-10
+RELA	upregulates-expression	MMP2		RELA-inactive-by-network-sig	-1.0		MMP2-R	-20.099958629200803	1.86508608040842E-9
+RUNX2	upregulates-expression	MMP2		RUNX2-inactive-by-network-sig	-1.0		MMP2-R	-20.099958629200803	1.86508608040842E-9
+RUNX2	upregulates-expression	MMP2		RUNX2-G	-6.512036853174342	0.0014854509939959	MMP2-R	-20.099958629200803	1.86508608040842E-9
+MSC	upregulates-expression	MMP2		MSC-inactive-by-network-sig	-1.0		MMP2-R	-20.099958629200803	1.86508608040842E-9
+SRF	upregulates-expression	MMP2		SRF-inactive-by-network-sig	-1.0		MMP2-R	-20.099958629200803	1.86508608040842E-9
+IL13	upregulates-expression	COL1A2		IL13-inactive-by-network-sig	-1.0		COL1A2-R	-19.844167641322727	2.4087265265499404E-9
+IL4	upregulates-expression	COL1A2		IL4-inactive-by-network-sig	-1.0		COL1A2-R	-19.844167641322727	2.4087265265499404E-9
+PARP1	upregulates-expression	ZEB1		PARP1-inactive-by-network-sig	-1.0		ZEB1-R	-18.487309071408163	9.355428523187429E-9
+RUNX2	upregulates-expression	ITGA5		RUNX2-G	-6.512036853174342	0.0014854509939959	ITGA5-R	-18.436344896687338	9.844578920319041E-9
+RUNX2	upregulates-expression	ITGA5		RUNX2-inactive-by-network-sig	-1.0		ITGA5-R	-18.436344896687338	9.844578920319041E-9
+SRF	upregulates-expression	MMP14		SRF-inactive-by-network-sig	-1.0		MMP14-R	-16.95105201378318	4.34762070098274E-8
+RELA	upregulates-expression	MMP14		RELA-inactive-by-network-sig	-1.0		MMP14-R	-16.95105201378318	4.34762070098274E-8
+RUNX2	upregulates-expression	COL1A1		RUNX2-inactive-by-network-sig	-1.0		COL1A1-R	-16.72645606395257	5.44242470828586E-8
+RUNX2	upregulates-expression	COL1A1		RUNX2-G	-6.512036853174342	0.0014854509939959	COL1A1-R	-16.72645606395257	5.44242470828586E-8
+RELA	upregulates-expression	PLAU		RELA-inactive-by-network-sig	-1.0		PLAU-R	-16.564308468443404	6.40047544257629E-8
+SRF	upregulates-expression	PLAU		SRF-inactive-by-network-sig	-1.0		PLAU-R	-16.564308468443404	6.40047544257629E-8
+RELA	upregulates-expression	BGN		RELA-inactive-by-network-sig	-1.0		BGN-R	-16.34433138214681	7.97530076792025E-8
+RUNX2	upregulates-expression	SNAI2		RUNX2-inactive-by-network-sig	-1.0		SNAI2-R	-15.911162170652513	1.22990075643741E-7
+RUNX2	upregulates-expression	SNAI2		RUNX2-G	-6.512036853174342	0.0014854509939959	SNAI2-R	-15.911162170652513	1.22990075643741E-7
+ETS1	upregulates-expression	TMEM158		ETS1-inactive-by-network-sig	-1.0		TMEM158-R	-13.944377328966693	8.790910781671379E-7
+RUNX2	upregulates-expression	ITGBL1		RUNX2-G	-6.512036853174342	0.0014854509939959	ITGBL1-R	-11.098430474303024	1.51360616241052E-5
+RUNX2	upregulates-expression	ITGBL1		RUNX2-inactive-by-network-sig	-1.0		ITGBL1-R	-11.098430474303024	1.51360616241052E-5
+RELA	upregulates-expression	CXCL12		RELA-inactive-by-network-sig	-1.0		CXCL12-R	-10.93119548284154	1.7891309195203E-5
+RELA	upregulates-expression	PLAUR		RELA-inactive-by-network-sig	-1.0		PLAUR-R	-10.350574032762802	3.19744301382048E-5
+ETS1	upregulates-expression	BMP4		ETS1-inactive-by-network-sig	-1.0		BMP4-R	-9.53139704158487	7.253821427031808E-5
+SRF	upregulates-expression	TAGLN		SRF-inactive-by-network-sig	-1.0		TAGLN-R	-9.426376505560087	8.05706188295337E-5
+PARP1	upregulates-expression	SERPINE1		PARP1-inactive-by-network-sig	-1.0		SERPINE1-R	-8.40833997493087	2.22999734981E-4
+RELA	upregulates-expression	SERPINE1		RELA-inactive-by-network-sig	-1.0		SERPINE1-R	-8.40833997493087	2.22999734981E-4
+SMAD4	upregulates-expression	SERPINE1		SMAD4-inactive-by-network-sig	-1.0		SERPINE1-R	-8.40833997493087	2.22999734981E-4
+SMAD3	upregulates-expression	SERPINE1		SMAD3-inactive-by-network-sig	-1.0		SERPINE1-R	-8.40833997493087	2.22999734981E-4
+PARP1	upregulates-expression	VIM		PARP1-inactive-by-network-sig	-1.0		VIM-R	-8.248108258267441	2.617532587937E-4
+FOSL2	upregulates-expression	COL1A2		FOSL2-G	-8.179267581893264	2.804072402768E-4	COL1A2-R	-19.844167641322727	2.4087265265499404E-9
+IL4	upregulates-expression	CD36		IL4-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+FAM120B	upregulates-expression	CD36		FAM120B-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+CDK19	upregulates-expression	CD36		CDK19-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED18	upregulates-expression	CD36		MED18-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED19	upregulates-expression	CD36		MED19-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED16	upregulates-expression	CD36		MED16-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED17	upregulates-expression	CD36		MED17-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED14	upregulates-expression	CD36		MED14-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED15	upregulates-expression	CD36		MED15-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED12	upregulates-expression	CD36		MED12-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED13	upregulates-expression	CD36		MED13-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED10	upregulates-expression	CD36		MED10-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED11	upregulates-expression	CD36		MED11-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED6	upregulates-expression	CD36		MED6-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED7	upregulates-expression	CD36		MED7-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED8	upregulates-expression	CD36		MED8-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED1	upregulates-expression	CD36		MED1-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED4	upregulates-expression	CD36		MED4-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED9	upregulates-expression	CD36		MED9-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED29	upregulates-expression	CD36		MED29-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED27	upregulates-expression	CD36		MED27-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED28	upregulates-expression	CD36		MED28-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED25	upregulates-expression	CD36		MED25-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED26	upregulates-expression	CD36		MED26-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED23	upregulates-expression	CD36		MED23-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED24	upregulates-expression	CD36		MED24-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED21	upregulates-expression	CD36		MED21-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED22	upregulates-expression	CD36		MED22-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED20	upregulates-expression	CD36		MED20-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED13L	upregulates-expression	CD36		MED13L-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+CDK8	upregulates-expression	CD36		CDK8-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+THRAP3	upregulates-expression	CD36		THRAP3-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED30	upregulates-expression	CD36		MED30-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+MED31	upregulates-expression	CD36		MED31-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+HELZ2	upregulates-expression	CD36		HELZ2-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+NCOA2	upregulates-expression	CD36		NCOA2-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+NCOA1	upregulates-expression	CD36		NCOA1-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+CCNC	upregulates-expression	CD36		CCNC-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+RXRA	upregulates-expression	CD36		RXRA-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+IL13	upregulates-expression	CD36		IL13-inactive-by-network-sig	-1.0		CD36-R	-8.047929068473524	3.197634454606E-4
+IL4	upregulates-expression	F13A1		IL4-inactive-by-network-sig	-1.0		F13A1-R	-7.811158208991713	4.051884830012E-4
+IL13	upregulates-expression	F13A1		IL13-inactive-by-network-sig	-1.0		F13A1-R	-7.811158208991713	4.051884830012E-4
+SMAD4	upregulates-expression	RUNX1T1		SMAD4-inactive-by-network-sig	-1.0		RUNX1T1-R	-7.4506374037049525	5.810711172459E-4
+RXRA	upregulates-expression	ACSL1		RXRA-inactive-by-network-sig	-1.0		ACSL1-R	-7.308407969716032	6.698826771017E-4
+HELZ2	upregulates-expression	ACSL1		HELZ2-inactive-by-network-sig	-1.0		ACSL1-R	-7.308407969716032	6.698826771017E-4
+NCOA2	upregulates-expression	ACSL1		NCOA2-inactive-by-network-sig	-1.0		ACSL1-R	-7.308407969716032	6.698826771017E-4
+NCOA1	upregulates-expression	ACSL1		NCOA1-inactive-by-network-sig	-1.0		ACSL1-R	-7.308407969716032	6.698826771017E-4
+MED1	upregulates-expression	ACSL1		MED1-inactive-by-network-sig	-1.0		ACSL1-R	-7.308407969716032	6.698826771017E-4
+WT1	downregulates-expression	IGF1		WT1-G	6.983472822866555	9.270780284398E-4	IGF1-R	-7.456421552606488	5.777198169349E-4
+SMAD3	upregulates-expression	ENG		SMAD3-inactive-by-network-sig	-1.0		ENG-R	-6.896773046186918	0.0010110427588814
+SMAD4	upregulates-expression	ENG		SMAD4-inactive-by-network-sig	-1.0		ENG-R	-6.896773046186918	0.0010110427588814
+MED21	upregulates-expression	ADIPOQ		MED21-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED22	upregulates-expression	ADIPOQ		MED22-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED20	upregulates-expression	ADIPOQ		MED20-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED25	upregulates-expression	ADIPOQ		MED25-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED26	upregulates-expression	ADIPOQ		MED26-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED23	upregulates-expression	ADIPOQ		MED23-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED24	upregulates-expression	ADIPOQ		MED24-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED29	upregulates-expression	ADIPOQ		MED29-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED27	upregulates-expression	ADIPOQ		MED27-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED28	upregulates-expression	ADIPOQ		MED28-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED30	upregulates-expression	ADIPOQ		MED30-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED31	upregulates-expression	ADIPOQ		MED31-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED10	upregulates-expression	ADIPOQ		MED10-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED11	upregulates-expression	ADIPOQ		MED11-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED14	upregulates-expression	ADIPOQ		MED14-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED15	upregulates-expression	ADIPOQ		MED15-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED12	upregulates-expression	ADIPOQ		MED12-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED13	upregulates-expression	ADIPOQ		MED13-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED18	upregulates-expression	ADIPOQ		MED18-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED19	upregulates-expression	ADIPOQ		MED19-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED16	upregulates-expression	ADIPOQ		MED16-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED17	upregulates-expression	ADIPOQ		MED17-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+CDK19	upregulates-expression	ADIPOQ		CDK19-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+CDK8	upregulates-expression	ADIPOQ		CDK8-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+THRAP3	upregulates-expression	ADIPOQ		THRAP3-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED9	upregulates-expression	ADIPOQ		MED9-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+FAM120B	upregulates-expression	ADIPOQ		FAM120B-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED1	upregulates-expression	ADIPOQ		MED1-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED4	upregulates-expression	ADIPOQ		MED4-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED6	upregulates-expression	ADIPOQ		MED6-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED8	upregulates-expression	ADIPOQ		MED8-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED7	upregulates-expression	ADIPOQ		MED7-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+MED13L	upregulates-expression	ADIPOQ		MED13L-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+RXRA	upregulates-expression	ADIPOQ		RXRA-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+NCOA2	upregulates-expression	ADIPOQ		NCOA2-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+NCOA1	upregulates-expression	ADIPOQ		NCOA1-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+CCNC	upregulates-expression	ADIPOQ		CCNC-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+HELZ2	upregulates-expression	ADIPOQ		HELZ2-inactive-by-network-sig	-1.0		ADIPOQ-R	-6.874257265176201	0.0010340653898697
+IL13	upregulates-expression	CCL22		IL13-inactive-by-network-sig	-1.0		CCL22-R	-6.755535053896846	0.0011644166419519
+RELA	upregulates-expression	CCL22		RELA-inactive-by-network-sig	-1.0		CCL22-R	-6.755535053896846	0.0011644166419519
+IL4	upregulates-expression	CCL22		IL4-inactive-by-network-sig	-1.0		CCL22-R	-6.755535053896846	0.0011644166419519
+RELA	upregulates-expression	CCL11		RELA-inactive-by-network-sig	-1.0		CCL11-R	-6.725998113780991	0.0011993229211754
+RELA	upregulates-expression	SDC1		RELA-inactive-by-network-sig	-1.0		SDC1-R	-6.725998113780991	0.0011993229211754
+RUNX1	upregulates-expression	MYL9		RUNX1-P-S21	-5.093018321896669	0.0061394610233056	MYL9-R	-6.715727939900089	0.0012117036433774
+RUNX1	upregulates-expression	MYL9		RUNX1-P-T14-S21	-4.189391949342234	0.015155497382079	MYL9-R	-6.715727939900089	0.0012117036433774
+RUNX1	upregulates-expression	MYL9		RUNX1-G	-15.374823205351458	2.102805584295E-7	MYL9-R	-6.715727939900089	0.0012117036433774
+RUNX2	upregulates-expression	VEGFC		RUNX2-G	-6.512036853174342	0.0014854509939959	VEGFC-R	-6.616493368184403	0.0013381150048269
+RUNX2	upregulates-expression	VEGFC		RUNX2-inactive-by-network-sig	-1.0		VEGFC-R	-6.616493368184403	0.0013381150048269
+RXRA	upregulates-expression	GLIPR1		RXRA-inactive-by-network-sig	-1.0		GLIPR1-R	-6.607284833934985	0.0013504939913642
+HELZ2	upregulates-expression	GLIPR1		HELZ2-inactive-by-network-sig	-1.0		GLIPR1-R	-6.607284833934985	0.0013504939913642
+NCOA2	upregulates-expression	GLIPR1		NCOA2-inactive-by-network-sig	-1.0		GLIPR1-R	-6.607284833934985	0.0013504939913642
+NCOA1	upregulates-expression	GLIPR1		NCOA1-inactive-by-network-sig	-1.0		GLIPR1-R	-6.607284833934985	0.0013504939913642
+MED1	upregulates-expression	GLIPR1		MED1-inactive-by-network-sig	-1.0		GLIPR1-R	-6.607284833934985	0.0013504939913642
+SMAD3	upregulates-expression	VDR		SMAD3-inactive-by-network-sig	-1.0		VDR-R	-6.360095939478505	0.0017292008052753
+HSF1	downregulates-expression	HSD17B6		HSF1-G	6.15107621174217	0.0021311869269951	HSD17B6-R	-7.955321890008262	3.507903206698E-4
+ETS1	upregulates-expression	KDR		ETS1-inactive-by-network-sig	-1.0		KDR-R	-6.116335024224028	0.0022065280338282
+ZEB2	upregulates-expression	ITGA5		ZEB2-G	-5.881887627756708	0.0027895147367498	ITGA5-R	-18.436344896687338	9.844578920319041E-9
+ZEB2	upregulates-expression	VIM		ZEB2-G	-5.881887627756708	0.0027895147367498	VIM-R	-8.248108258267441	2.617532587937E-4
+RFX5	downregulates-expression	COL1A2		RFX5-G	5.818278672451204	0.0029727177642546	COL1A2-R	-19.844167641322727	2.4087265265499404E-9
+ETS1	upregulates-expression	TGFBR2		ETS1-inactive-by-network-sig	-1.0		TGFBR2-R	-5.8020508446764465	0.0030213520633863
+EWSR1	downregulates-expression	TGFBR2		EWSR1-G	6.143802160469996	0.0021467458094229	TGFBR2-R	-5.8020508446764465	0.0030213520633863
+COL10A1	upregulates-expression	RUNX2		COL10A1-G	-5.772157439883331	0.0031130340801878	RUNX2-R	-17.625466887090848	2.21491462084774E-8
+VEGFA	upregulates-expression	AKT3		VEGFA-inactive-by-network-sig	-1.0		AKT3-R	-5.644575906998678	0.003536647950767
+RELA	upregulates-expression	BMP2		RELA-inactive-by-network-sig	-1.0		BMP2-R	-5.602904094183544	0.0036871403503415
+RUNX2	upregulates-expression	MMP13		RUNX2-G	-6.512036853174342	0.0014854509939959	MMP13-R	-5.439162457236662	0.0043431192959997
+RUNX2	upregulates-expression	MMP13		RUNX2-inactive-by-network-sig	-1.0		MMP13-R	-5.439162457236662	0.0043431192959997
+RELA	upregulates-expression	MMP13		RELA-inactive-by-network-sig	-1.0		MMP13-R	-5.439162457236662	0.0043431192959997
+ETS1	upregulates-expression	MMP13		ETS1-inactive-by-network-sig	-1.0		MMP13-R	-5.439162457236662	0.0043431192959997
+YY1	downregulates-expression	HAS2		YY1-G	5.323579362989081	0.0048752720888661	HAS2-R	-6.7363169549738355	0.0011870109303983
+YY1	downregulates-expression	POSTN		YY1-G	5.323579362989081	0.0048752720888661	POSTN-R	-12.25355101274966	4.76815551300911E-6
+GPNMB	upregulates-expression	MITF		GPNMB-G	-5.818278672451204	0.0029727177642546	MITF-R	-5.207314335949646	0.0054763616229199
+ETS1	upregulates-expression	ERG		ETS1-inactive-by-network-sig	-1.0		ERG-R	-5.184311987522524	0.0056037907672732
+ETS1	upregulates-expression	PRL		ETS1-inactive-by-network-sig	-1.0		PRL-R	-5.046391603329408	0.0064325026404065
+NCOA1	upregulates-expression	PRL		NCOA1-inactive-by-network-sig	-1.0		PRL-R	-5.046391603329408	0.0064325026404065
+NOTCH3	upregulates-expression	HEYL		NOTCH3-G	-5.034482751969249	0.0065095643054391	HEYL-R	-13.189546272097038	1.87004834947642E-6
+ETS1	upregulates-expression	FLT1		ETS1-inactive-by-network-sig	-1.0		FLT1-R	-4.978628071690622	0.0068834997506153
+ETS1	upregulates-expression	ANGPT1		ETS1-inactive-by-network-sig	-1.0		ANGPT1-R	-4.891837834677964	0.0075076120384779
+SMAD4	upregulates-expression	ITGB5		SMAD4-inactive-by-network-sig	-1.0		ITGB5-R	-4.840243381282609	0.0079051298568027
+SMAD3	upregulates-expression	ITGB5		SMAD3-inactive-by-network-sig	-1.0		ITGB5-R	-4.840243381282609	0.0079051298568027
+SRF	upregulates-expression	SAMD4A		SRF-inactive-by-network-sig	-1.0		SAMD4A-R	-4.785298850840588	0.0083516274840623
+JUNB	upregulates-expression	COL1A2		JUNB-G	-4.7555638256477994	0.0086036923430565	COL1A2-R	-19.844167641322727	2.4087265265499404E-9
+JUNB	upregulates-expression	MMP2		JUNB-G	-4.7555638256477994	0.0086036923430565	MMP2-R	-20.099958629200803	1.86508608040842E-9
+TPSB2	upregulates-expression	MITF		TPSB2-G	-4.658393145125892	0.0094816858606301	MITF-R	-5.207314335949646	0.0054763616229199
+SMAD4	upregulates-expression	ID1		SMAD4-inactive-by-network-sig	-1.0		ID1-R	-4.656353116519725	0.0095010485144892
+STAT5A	upregulates-expression	ID1		STAT5A-P-Y694	-2.9473247715253876	0.052479914080912	ID1-R	-4.656353116519725	0.0095010485144892
+STAT5A	upregulates-expression	ID1		STAT5A-G	-6.314110981503597	0.0018105746796953	ID1-R	-4.656353116519725	0.0095010485144892
+MAX	downregulates-expression	SERPINE1		MAX-G	4.599077601057448	0.0100611118247607	SERPINE1-R	-8.40833997493087	2.22999734981E-4
+MAX	downregulates-expression	COL1A2		MAX-G	4.599077601057448	0.0100611118247607	COL1A2-R	-19.844167641322727	2.4087265265499404E-9
+MAX	downregulates-expression	SFXN3		MAX-G	4.599077601057448	0.0100611118247607	SFXN3-R	-6.173752267507722	0.0020834038270139
+MAX	downregulates-expression	PDGFRB		MAX-G	4.599077601057448	0.0100611118247607	PDGFRB-R	-16.099260504894705	1.0190136463590401E-7
+MAX	downregulates-expression	LGALS1		MAX-G	4.599077601057448	0.0100611118247607	LGALS1-R	-7.165241823899905	7.729920269148E-4
+RELA	upregulates-expression	RGS4		RELA-inactive-by-network-sig	-1.0		RGS4-R	-4.560887196857333	0.0104527811538324
+STAT5B	upregulates-expression	IGF1		STAT5B-G	-4.526739438958004	0.0108158844935624	IGF1-R	-7.456421552606488	5.777198169349E-4
+STAT5B	upregulates-expression	ID1		STAT5B-G	-4.526739438958004	0.0108158844935624	ID1-R	-4.656353116519725	0.0095010485144892
+VEGFA	upregulates-expression	HIF1A		VEGFA-inactive-by-network-sig	-1.0		HIF1A-R	-4.500108133382716	0.0111077953498135
+SMAD4	upregulates-expression	SNAI1		SMAD4-inactive-by-network-sig	-1.0		SNAI1-R	-4.490397953078336	0.0112161794082142
+SMAD3	upregulates-expression	SNAI1		SMAD3-inactive-by-network-sig	-1.0		SNAI1-R	-4.490397953078336	0.0112161794082142
+RELA	upregulates-expression	SNAI1		RELA-inactive-by-network-sig	-1.0		SNAI1-R	-4.490397953078336	0.0112161794082142
+SMAD4	upregulates-expression	MEF2C		SMAD4-inactive-by-network-sig	-1.0		MEF2C-R	-4.4312190024656815	0.0118999747291746
+MED1	upregulates-expression	TIAM2		MED1-inactive-by-network-sig	-1.0		TIAM2-R	-4.38718009200204	0.0124357474868924
+RXRA	upregulates-expression	TIAM2		RXRA-inactive-by-network-sig	-1.0		TIAM2-R	-4.38718009200204	0.0124357474868924
+NCOA1	upregulates-expression	TIAM2		NCOA1-inactive-by-network-sig	-1.0		TIAM2-R	-4.38718009200204	0.0124357474868924
+NCOA2	upregulates-expression	TIAM2		NCOA2-inactive-by-network-sig	-1.0		TIAM2-R	-4.38718009200204	0.0124357474868924
+HELZ2	upregulates-expression	TIAM2		HELZ2-inactive-by-network-sig	-1.0		TIAM2-R	-4.38718009200204	0.0124357474868924
+HIC1	downregulates-expression	SIRT1		HIC1-G	-5.374358527510846	0.0046338902934854	SIRT1-R	4.376574352598582	0.0125683396601969
+GTF2I	upregulates-expression	SIRT1		GTF2I-G	5.613100731746011	0.0036497349453166	SIRT1-R	4.376574352598582	0.0125683396601969
+TGIF2	downregulates-expression	SERPINE1		TGIF2-G	4.36450293101577	0.0127209768069959	SERPINE1-R	-8.40833997493087	2.22999734981E-4
+NOTCH3	upregulates-expression	PLXND1		NOTCH3-G	-5.034482751969249	0.0065095643054391	PLXND1-R	-4.364439965275577	0.0127217778179344
+SRF	upregulates-expression	CCN1		SRF-inactive-by-network-sig	-1.0		CCN1-R	-4.318444467680996	0.0133205880402159
+FOSL2	upregulates-expression	CCR4		FOSL2-G	-8.179267581893264	2.804072402768E-4	CCR4-R	-4.3172182056246236	0.0133369325912014
+FOXP3	upregulates-expression	CCR4		FOXP3-inactive-by-network-sig	-1.0		CCR4-R	-4.3172182056246236	0.0133369325912014
+HOPX	upregulates-expression	FLG		HOPX-G	-10.875310273439126	1.89196352429709E-5	FLG-R	-4.3100762260413035	0.0134325256469653
+HELZ2	upregulates-expression	PLIN2		HELZ2-inactive-by-network-sig	-1.0		PLIN2-R	-4.286312354969582	0.0137555574964409
+NCOA2	upregulates-expression	PLIN2		NCOA2-inactive-by-network-sig	-1.0		PLIN2-R	-4.286312354969582	0.0137555574964409
+NCOA1	upregulates-expression	PLIN2		NCOA1-inactive-by-network-sig	-1.0		PLIN2-R	-4.286312354969582	0.0137555574964409
+RXRA	upregulates-expression	PLIN2		RXRA-inactive-by-network-sig	-1.0		PLIN2-R	-4.286312354969582	0.0137555574964409
+MED1	upregulates-expression	PLIN2		MED1-inactive-by-network-sig	-1.0		PLIN2-R	-4.286312354969582	0.0137555574964409
+RUNX2	upregulates-expression	TWIST1		RUNX2-G	-6.512036853174342	0.0014854509939959	TWIST1-R	-4.2156659196103305	0.0147624878629909
+RUNX2	upregulates-expression	TWIST1		RUNX2-inactive-by-network-sig	-1.0		TWIST1-R	-4.2156659196103305	0.0147624878629909
+RELA	upregulates-expression	TWIST1		RELA-inactive-by-network-sig	-1.0		TWIST1-R	-4.2156659196103305	0.0147624878629909
+RELA	upregulates-expression	VCAM1		RELA-inactive-by-network-sig	-1.0		VCAM1-R	-4.186592222593832	0.0151979880869112
+IL13	upregulates-expression	VCAM1		IL13-inactive-by-network-sig	-1.0		VCAM1-R	-4.186592222593832	0.0151979880869112
+RXRA	upregulates-expression	CXCR5		RXRA-inactive-by-network-sig	-1.0		CXCR5-R	-4.181307381765396	0.0152785196456638
+RELA	upregulates-expression	NFKBIB		RELA-inactive-by-network-sig	-1.0		NFKBIB-R	-4.1534281888344	0.015710465617998
+RXRA	upregulates-expression	FABP4		RXRA-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+NCOA2	upregulates-expression	FABP4		NCOA2-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+NCOA1	upregulates-expression	FABP4		NCOA1-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+FAM120B	upregulates-expression	FABP4		FAM120B-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED13L	upregulates-expression	FABP4		MED13L-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED8	upregulates-expression	FABP4		MED8-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED9	upregulates-expression	FABP4		MED9-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED6	upregulates-expression	FABP4		MED6-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED7	upregulates-expression	FABP4		MED7-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED4	upregulates-expression	FABP4		MED4-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED1	upregulates-expression	FABP4		MED1-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+THRAP3	upregulates-expression	FABP4		THRAP3-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED29	upregulates-expression	FABP4		MED29-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED28	upregulates-expression	FABP4		MED28-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED27	upregulates-expression	FABP4		MED27-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED26	upregulates-expression	FABP4		MED26-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED25	upregulates-expression	FABP4		MED25-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED24	upregulates-expression	FABP4		MED24-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED23	upregulates-expression	FABP4		MED23-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED22	upregulates-expression	FABP4		MED22-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED21	upregulates-expression	FABP4		MED21-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED20	upregulates-expression	FABP4		MED20-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED19	upregulates-expression	FABP4		MED19-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED18	upregulates-expression	FABP4		MED18-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED17	upregulates-expression	FABP4		MED17-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED16	upregulates-expression	FABP4		MED16-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED15	upregulates-expression	FABP4		MED15-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED14	upregulates-expression	FABP4		MED14-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED13	upregulates-expression	FABP4		MED13-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED12	upregulates-expression	FABP4		MED12-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED11	upregulates-expression	FABP4		MED11-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED10	upregulates-expression	FABP4		MED10-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+CDK8	upregulates-expression	FABP4		CDK8-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+CDK19	upregulates-expression	FABP4		CDK19-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED31	upregulates-expression	FABP4		MED31-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+MED30	upregulates-expression	FABP4		MED30-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+CCNC	upregulates-expression	FABP4		CCNC-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+HELZ2	upregulates-expression	FABP4		HELZ2-inactive-by-network-sig	-1.0		FABP4-R	-4.143050952198935	0.0158743456778056
+NCOA2	upregulates-expression	ABCB4		NCOA2-inactive-by-network-sig	-1.0		ABCB4-R	-4.128052452602364	0.0161142315119002
+NCOA1	upregulates-expression	ABCB4		NCOA1-inactive-by-network-sig	-1.0		ABCB4-R	-4.128052452602364	0.0161142315119002
+MED1	upregulates-expression	ABCB4		MED1-inactive-by-network-sig	-1.0		ABCB4-R	-4.128052452602364	0.0161142315119002
+RXRA	upregulates-expression	ABCB4		RXRA-inactive-by-network-sig	-1.0		ABCB4-R	-4.128052452602364	0.0161142315119002
+HELZ2	upregulates-expression	ABCB4		HELZ2-inactive-by-network-sig	-1.0		ABCB4-R	-4.128052452602364	0.0161142315119002
+LDHA	upregulates-expression	HIF1A		LDHA-G	-4.095565567063563	0.0166463290046942	HIF1A-R	-4.500108133382716	0.0111077953498135
+SMAD4	upregulates-expression	FOXO1		SMAD4-inactive-by-network-sig	-1.0		FOXO1-R	-4.027102120967888	0.0178259125156565
+DCN	upregulates-expression	FOXO1		DCN-G	-10.034502560393324	4.38602304665373E-5	FOXO1-R	-4.027102120967888	0.0178259125156565
+WT1	downregulates-expression	TBXA2R		WT1-G	6.983472822866555	9.270780284398E-4	TBXA2R-R	-4.020872285099378	0.0179373116637486
+ETS1	upregulates-expression	TBXA2R		ETS1-inactive-by-network-sig	-1.0		TBXA2R-R	-4.020872285099378	0.0179373116637486
+MED13L	upregulates-expression	PLIN1		MED13L-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+HELZ2	upregulates-expression	PLIN1		HELZ2-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+NCOA2	upregulates-expression	PLIN1		NCOA2-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+NCOA1	upregulates-expression	PLIN1		NCOA1-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+CCNC	upregulates-expression	PLIN1		CCNC-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+CDK8	upregulates-expression	PLIN1		CDK8-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+RXRA	upregulates-expression	PLIN1		RXRA-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+RELA	upregulates-expression	PLIN1		RELA-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+CDK19	upregulates-expression	PLIN1		CDK19-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+FAM120B	upregulates-expression	PLIN1		FAM120B-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED6	upregulates-expression	PLIN1		MED6-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED7	upregulates-expression	PLIN1		MED7-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED8	upregulates-expression	PLIN1		MED8-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED9	upregulates-expression	PLIN1		MED9-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED17	upregulates-expression	PLIN1		MED17-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED16	upregulates-expression	PLIN1		MED16-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED19	upregulates-expression	PLIN1		MED19-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED18	upregulates-expression	PLIN1		MED18-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED11	upregulates-expression	PLIN1		MED11-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED10	upregulates-expression	PLIN1		MED10-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED1	upregulates-expression	PLIN1		MED1-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED13	upregulates-expression	PLIN1		MED13-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED12	upregulates-expression	PLIN1		MED12-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED15	upregulates-expression	PLIN1		MED15-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED4	upregulates-expression	PLIN1		MED4-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED14	upregulates-expression	PLIN1		MED14-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED28	upregulates-expression	PLIN1		MED28-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED27	upregulates-expression	PLIN1		MED27-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED29	upregulates-expression	PLIN1		MED29-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED20	upregulates-expression	PLIN1		MED20-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED22	upregulates-expression	PLIN1		MED22-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED21	upregulates-expression	PLIN1		MED21-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED24	upregulates-expression	PLIN1		MED24-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED23	upregulates-expression	PLIN1		MED23-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED26	upregulates-expression	PLIN1		MED26-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED25	upregulates-expression	PLIN1		MED25-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED31	upregulates-expression	PLIN1		MED31-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+MED30	upregulates-expression	PLIN1		MED30-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+THRAP3	upregulates-expression	PLIN1		THRAP3-inactive-by-network-sig	-1.0		PLIN1-R	-4.0160089466964966	0.0180247593518976
+RELA	upregulates-expression	NOX4		RELA-inactive-by-network-sig	-1.0		NOX4-R	-3.9719578415775985	0.0188365180917426
+HSF1	upregulates-expression	SERPINE1		HSF1-P-S303-S307	3.9576538813757103	0.0191078911244302	SERPINE1-R	-8.40833997493087	2.22999734981E-4
+HELZ2	upregulates-expression	ANGPTL4		HELZ2-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+NCOA2	upregulates-expression	ANGPTL4		NCOA2-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+NCOA1	upregulates-expression	ANGPTL4		NCOA1-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+CCNC	upregulates-expression	ANGPTL4		CCNC-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+CDK8	upregulates-expression	ANGPTL4		CDK8-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+SMAD3	upregulates-expression	ANGPTL4		SMAD3-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+THRAP3	upregulates-expression	ANGPTL4		THRAP3-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED13L	upregulates-expression	ANGPTL4		MED13L-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED1	upregulates-expression	ANGPTL4		MED1-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED6	upregulates-expression	ANGPTL4		MED6-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED4	upregulates-expression	ANGPTL4		MED4-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED9	upregulates-expression	ANGPTL4		MED9-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED7	upregulates-expression	ANGPTL4		MED7-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED8	upregulates-expression	ANGPTL4		MED8-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED18	upregulates-expression	ANGPTL4		MED18-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED19	upregulates-expression	ANGPTL4		MED19-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED14	upregulates-expression	ANGPTL4		MED14-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED15	upregulates-expression	ANGPTL4		MED15-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED16	upregulates-expression	ANGPTL4		MED16-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+FAM120B	upregulates-expression	ANGPTL4		FAM120B-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED17	upregulates-expression	ANGPTL4		MED17-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED10	upregulates-expression	ANGPTL4		MED10-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED11	upregulates-expression	ANGPTL4		MED11-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED12	upregulates-expression	ANGPTL4		MED12-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED13	upregulates-expression	ANGPTL4		MED13-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED29	upregulates-expression	ANGPTL4		MED29-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED25	upregulates-expression	ANGPTL4		MED25-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED26	upregulates-expression	ANGPTL4		MED26-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED27	upregulates-expression	ANGPTL4		MED27-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED28	upregulates-expression	ANGPTL4		MED28-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED21	upregulates-expression	ANGPTL4		MED21-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED22	upregulates-expression	ANGPTL4		MED22-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED23	upregulates-expression	ANGPTL4		MED23-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED24	upregulates-expression	ANGPTL4		MED24-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED20	upregulates-expression	ANGPTL4		MED20-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED30	upregulates-expression	ANGPTL4		MED30-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+MED31	upregulates-expression	ANGPTL4		MED31-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+CDK19	upregulates-expression	ANGPTL4		CDK19-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+RXRA	upregulates-expression	ANGPTL4		RXRA-inactive-by-network-sig	-1.0		ANGPTL4-R	-3.9353220744970856	0.0195394051698419
+NCOR1	downregulates-expression	S100B		NCOR1-G	3.903128092105608	0.0201786918123766	S100B-R	-5.333066325522801	0.0048292392663039
+NCOR1	downregulates-expression	SNAI2		NCOR1-G	3.903128092105608	0.0201786918123766	SNAI2-R	-15.911162170652513	1.22990075643741E-7
+RELA	upregulates-expression	LIPE		RELA-inactive-by-network-sig	-1.0		LIPE-R	-3.8133570608148344	0.0220739508372086
+MED1	upregulates-expression	TNFRSF21		MED1-inactive-by-network-sig	-1.0		TNFRSF21-R	-3.7871887002061544	0.0226592142367949
+HELZ2	upregulates-expression	TNFRSF21		HELZ2-inactive-by-network-sig	-1.0		TNFRSF21-R	-3.7871887002061544	0.0226592142367949
+NCOA2	upregulates-expression	TNFRSF21		NCOA2-inactive-by-network-sig	-1.0		TNFRSF21-R	-3.7871887002061544	0.0226592142367949
+NCOA1	upregulates-expression	TNFRSF21		NCOA1-inactive-by-network-sig	-1.0		TNFRSF21-R	-3.7871887002061544	0.0226592142367949
+VDR	upregulates-expression	TNFRSF21		VDR-G	-4.447155741151652	0.0117118311213398	TNFRSF21-R	-3.7871887002061544	0.0226592142367949
+RXRA	upregulates-expression	TNFRSF21		RXRA-inactive-by-network-sig	-1.0		TNFRSF21-R	-3.7871887002061544	0.0226592142367949
+ELK1	downregulates-expression	TAGLN		ELK1-G	3.752175495376908	0.0234666387204492	TAGLN-R	-9.426376505560087	8.05706188295337E-5
+ELK1	downregulates-expression	ACTA2		ELK1-G	3.752175495376908	0.0234666387204492	ACTA2-R	-15.463610579328236	1.9241514620611802E-7
+SERPINE1	upregulates-expression	HIF1A		SERPINE1-G	-3.7464885517305224	0.0236004723639204	HIF1A-R	-4.500108133382716	0.0111077953498135
+PARP1	downregulates-expression	SNAI1		PARP1-G	3.602141544527408	0.0272652700905191	SNAI1-R	-4.490397953078336	0.0112161794082142
+PARP1	downregulates-expression	FOXO1		PARP1-G	3.602141544527408	0.0272652700905191	FOXO1-R	-4.027102120967888	0.0178259125156565
+PARP1	downregulates-expression	SERPINF1		PARP1-G	3.602141544527408	0.0272652700905191	SERPINF1-R	-16.787523313315543	5.12001531694019E-8
+WWTR1	upregulates-expression	SERPINE1		WWTR1-G	-3.5914175040283585	0.0275592373925085	SERPINE1-R	-8.40833997493087	2.22999734981E-4
+GABPB1	upregulates-expression	TFAM		GABPB1-G	3.5914175040283585	0.0275592373925085	TFAM-R	4.038028703376429	0.0176321964680385
+ESRRA	downregulates-expression	NR2F1		ESRRA-G	3.5914175040283585	0.0275592373925085	NR2F1-R	-4.461773343098234	0.0115418774199379
+WWTR1	upregulates-expression	CCN2		WWTR1-G	-3.5914175040283585	0.0275592373925085	CCN2-R	-6.152031633665842	0.0021291517166787
+ESRRA	downregulates-expression	SNAI1		ESRRA-G	3.5914175040283585	0.0275592373925085	SNAI1-R	-4.490397953078336	0.0112161794082142
+ESRRA	downregulates-expression	SNAI2		ESRRA-G	3.5914175040283585	0.0275592373925085	SNAI2-R	-15.911162170652513	1.22990075643741E-7
+MAX	upregulates-expression	DKC1		MAX-G	4.599077601057448	0.0100611118247607	DKC1-R	3.577625963221602	0.0279419548047524
+RELA	upregulates-expression	IRF4		RELA-inactive-by-network-sig	-1.0		IRF4-R	-3.565267632169584	0.0282894133138924
+IL4	upregulates-expression	IRF4		IL4-inactive-by-network-sig	-1.0		IRF4-R	-3.565267632169584	0.0282894133138924
+RELA	upregulates-expression	NOS3		RELA-inactive-by-network-sig	-1.0		NOS3-R	-3.552227091027943	0.0286607384502957
+JUNB	upregulates-expression	NOS3		JUNB-G	-4.7555638256477994	0.0086036923430565	NOS3-R	-3.552227091027943	0.0286607384502957
+VEGFA	upregulates-expression	S1PR1		VEGFA-inactive-by-network-sig	-1.0		S1PR1-R	-3.5017929116133684	0.0301432906891223
+SIRT1	downregulates-expression	ADAMTS5		SIRT1-G	3.4926163138177873	0.0304211766176507	ADAMTS5-R	-7.280683324820391	6.887147869563E-4
+SIRT1	downregulates-expression	COL1A2		SIRT1-G	3.4926163138177873	0.0304211766176507	COL1A2-R	-19.844167641322727	2.4087265265499404E-9
+SIRT1	downregulates-expression	DLL4		SIRT1-G	3.4926163138177873	0.0304211766176507	DLL4-R	-6.755535053896846	0.0011644166419519
+SIRT1	downregulates-expression	COL10A1		SIRT1-G	3.4926163138177873	0.0304211766176507	COL10A1-R	-13.744372423114177	1.0737295350931602E-6
+SIRT1	downregulates-expression	CFH		SIRT1-G	3.4926163138177873	0.0304211766176507	CFH-R	-3.48276221367578	0.0307224318001117
+NCOR1	downregulates-expression	IGFBP3		NCOR1-G	3.903128092105608	0.0201786918123766	IGFBP3-R	-3.481553591226765	0.0307595860690926
+RUNX1	upregulates-expression	RSPO3		RUNX1-G	-15.374823205351458	2.102805584295E-7	RSPO3-R	-3.436236361437534	0.0321855925969636
+RUNX1	upregulates-expression	RSPO3		RUNX1-P-S21	-5.093018321896669	0.0061394610233056	RSPO3-R	-3.436236361437534	0.0321855925969636
+RUNX1	upregulates-expression	RSPO3		RUNX1-P-T14-S21	-4.189391949342234	0.015155497382079	RSPO3-R	-3.436236361437534	0.0321855925969636
+FOXP3	upregulates-expression	RSPO3		FOXP3-inactive-by-network-sig	-1.0		RSPO3-R	-3.436236361437534	0.0321855925969636
+FLT1	upregulates-expression	AKT3		FLT1-G	-3.4268644522409004	0.0324886509476953	AKT3-R	-5.644575906998678	0.003536647950767
+FLT1	upregulates-expression	ETS1		FLT1-G	-3.4268644522409004	0.0324886509476953	ETS1-R	-6.390933628472253	0.0016766900648245
+FOXO1	upregulates-expression	FABP4		FOXO1-G	-3.4112049514994873	0.0330014113087114	FABP4-R	-4.143050952198935	0.0158743456778056
+SP1	downregulates-expression	HAS2		SP1-G	3.4112049514994873	0.0330014113087114	HAS2-R	-6.7363169549738355	0.0011870109303983
+SP1	upregulates-expression	MACROD1		SP1-G	3.4112049514994873	0.0330014113087114	MACROD1-R	4.1983169524527035	0.0150208363397891
+SP1	upregulates-expression	SP3		SP1-G	3.4112049514994873	0.0330014113087114	SP3-R	4.162297898661416	0.0155717345085784
+SP1	downregulates-expression	CETP		SP1-G	3.4112049514994873	0.0330014113087114	CETP-R	-5.7734307721311	0.0031090726761321
+SP1	downregulates-expression	KDR		SP1-G	3.4112049514994873	0.0330014113087114	KDR-R	-6.116335024224028	0.0022065280338282
+FOXO1	upregulates-expression	ABCA6		FOXO1-G	-3.4112049514994873	0.0330014113087114	ABCA6-R	-10.601298290527495	2.48836825016947E-5
+NOTCH3	upregulates-expression	PTCRA		NOTCH3-G	-5.034482751969249	0.0065095643054391	PTCRA-R	-3.3972850615795487	0.0334639994399027
+CDK9	upregulates-expression	MYB		CDK9-G	3.301493643775415	0.0368281182100089	MYB-R	4.30517004875098	0.0134985899282674
+SP1	upregulates-expression	PMVK		SP1-G	3.4112049514994873	0.0330014113087114	PMVK-R	3.2724433995328055	0.0379136755496777
+SP1	upregulates-expression	YY1		SP1-G	3.4112049514994873	0.0330014113087114	YY1-R	3.2617904697378624	0.0383197262483245
+RELA	downregulates-expression	YY1		RELA-inactive-by-network-sig	-1.0		YY1-R	3.2617904697378624	0.0383197262483245
+THBS1	downregulates-expression	YY1		THBS1-G	-9.858872687138755	5.22812537976276E-5	YY1-R	3.2617904697378624	0.0383197262483245
+YY1	downregulates-expression	EPAS1		YY1-G	5.323579362989081	0.0048752720888661	EPAS1-R	-3.218531434117791	0.0400137780023885
+RELA	upregulates-expression	EPAS1		RELA-inactive-by-network-sig	-1.0		EPAS1-R	-3.218531434117791	0.0400137780023885
+SMAD4	downregulates-expression	EBAG9		SMAD4-inactive-by-network-sig	-1.0		EBAG9-R	3.212161031997598	0.0402694955054799
+SRF	upregulates-expression	VCL		SRF-inactive-by-network-sig	-1.0		VCL-R	-3.1614287882098666	0.0423651669659559
+TRRAP	downregulates-expression	MITF		TRRAP-G	3.133651800503719	0.0435584397267633	MITF-R	-5.207314335949646	0.0054763616229199
+RUNX1	upregulates-expression	IGHA1		RUNX1-P-S21	-5.093018321896669	0.0061394610233056	IGHA1-R	-3.1023087906642104	0.0449453131910005
+RUNX1	upregulates-expression	IGHA1		RUNX1-G	-15.374823205351458	2.102805584295E-7	IGHA1-R	-3.1023087906642104	0.0449453131910005
+RUNX1	upregulates-expression	IGHA1		RUNX1-P-T14-S21	-4.189391949342234	0.015155497382079	IGHA1-R	-3.1023087906642104	0.0449453131910005
+SMAD4	upregulates-expression	IGHA1		SMAD4-inactive-by-network-sig	-1.0		IGHA1-R	-3.1023087906642104	0.0449453131910005
+SMAD3	upregulates-expression	IGHA1		SMAD3-inactive-by-network-sig	-1.0		IGHA1-R	-3.1023087906642104	0.0449453131910005
+NCOA1	upregulates-expression	LPL		NCOA1-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+NCOA2	upregulates-expression	LPL		NCOA2-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+HELZ2	upregulates-expression	LPL		HELZ2-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+RELA	upregulates-expression	LPL		RELA-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+RXRA	upregulates-expression	LPL		RXRA-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+THRAP3	upregulates-expression	LPL		THRAP3-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED4	upregulates-expression	LPL		MED4-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED1	upregulates-expression	LPL		MED1-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED9	upregulates-expression	LPL		MED9-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED7	upregulates-expression	LPL		MED7-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED8	upregulates-expression	LPL		MED8-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED13L	upregulates-expression	LPL		MED13L-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED6	upregulates-expression	LPL		MED6-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+FAM120B	upregulates-expression	LPL		FAM120B-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED10	upregulates-expression	LPL		MED10-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED11	upregulates-expression	LPL		MED11-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED12	upregulates-expression	LPL		MED12-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED13	upregulates-expression	LPL		MED13-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED14	upregulates-expression	LPL		MED14-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED15	upregulates-expression	LPL		MED15-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED16	upregulates-expression	LPL		MED16-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED17	upregulates-expression	LPL		MED17-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED18	upregulates-expression	LPL		MED18-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED19	upregulates-expression	LPL		MED19-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED20	upregulates-expression	LPL		MED20-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED21	upregulates-expression	LPL		MED21-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED22	upregulates-expression	LPL		MED22-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED23	upregulates-expression	LPL		MED23-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED24	upregulates-expression	LPL		MED24-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED25	upregulates-expression	LPL		MED25-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED26	upregulates-expression	LPL		MED26-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED27	upregulates-expression	LPL		MED27-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED28	upregulates-expression	LPL		MED28-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED29	upregulates-expression	LPL		MED29-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED30	upregulates-expression	LPL		MED30-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MED31	upregulates-expression	LPL		MED31-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+CDK19	upregulates-expression	LPL		CDK19-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+CDK8	upregulates-expression	LPL		CDK8-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+CCNC	upregulates-expression	LPL		CCNC-inactive-by-network-sig	-1.0		LPL-R	-3.0777529614918677	0.0460626449838223
+MAX	upregulates-expression	SHMT1		MAX-G	4.599077601057448	0.0100611118247607	SHMT1-R	3.075442856811927	0.0461691775188471
+RUNX1	upregulates-expression	CLDN5		RUNX1-G	-15.374823205351458	2.102805584295E-7	CLDN5-R	-3.053333170976315	0.0472013317863439
+RUNX1	upregulates-expression	CLDN5		RUNX1-P-T14-S21	-4.189391949342234	0.015155497382079	CLDN5-R	-3.053333170976315	0.0472013317863439
+RUNX1	upregulates-expression	CLDN5		RUNX1-P-S21	-5.093018321896669	0.0061394610233056	CLDN5-R	-3.053333170976315	0.0472013317863439
+THRAP3	downregulates-expression	LEP		THRAP3-G	7.706509902295005	4.49888896525E-4	LEP-R	-3.0236721647795606	0.0486223408815466
+ETS1	upregulates-expression	FLI1		ETS1-inactive-by-network-sig	-1.0		FLI1-R	-2.987012371788955	0.0504379015427579
+ETS1	upregulates-expression	CSF1R		ETS1-inactive-by-network-sig	-1.0		CSF1R-R	-2.932253605963904	0.053276837754609
+RELA	upregulates-expression	TNC		RELA-inactive-by-network-sig	-1.0		TNC-R	-2.931997240417808	0.0532904978511285
+ETS1	upregulates-expression	TNC		ETS1-inactive-by-network-sig	-1.0		TNC-R	-2.931997240417808	0.0532904978511285
+SMAD3	upregulates-expression	TNC		SMAD3-inactive-by-network-sig	-1.0		TNC-R	-2.931997240417808	0.0532904978511285
+SMAD4	upregulates-expression	TNC		SMAD4-inactive-by-network-sig	-1.0		TNC-R	-2.931997240417808	0.0532904978511285
+MED14	downregulates-expression	LEP		MED14-G	2.9186901667228713	0.0540043777249688	LEP-R	-3.0236721647795606	0.0486223408815466
+POLR2J	upregulates-expression	MYB		POLR2J-G	2.9049478462773037	0.0547516460291932	MYB-R	4.30517004875098	0.0134985899282674
+CTNNB1	upregulates-expression	STARD7		CTNNB1-G	2.8944367773641893	0.055330179529981	STARD7-R	3.2560447692259116	0.0385405336582107
+RELA	upregulates-expression	CCR7		RELA-inactive-by-network-sig	-1.0		CCR7-R	-2.8403612935353246	0.0584045609618709
+STAT3	upregulates-expression	LEP		STAT3-G	-2.826482905830285	0.0592207728543743	LEP-R	-3.0236721647795606	0.0486223408815466
+STAT3	upregulates-expression	AKAP12		STAT3-G	-2.826482905830285	0.0592207728543743	AKAP12-R	-4.840243381282609	0.0079051298568027
+STAT3	upregulates-expression	KRT17		STAT3-G	-2.826482905830285	0.0592207728543743	KRT17-R	-3.071062184900785	0.0463718731854221
+STAT3	upregulates-expression	LBP		STAT3-G	-2.826482905830285	0.0592207728543743	LBP-R	-6.310975873389799	0.0018162599343516
+STAT3	upregulates-expression	FSCN1		STAT3-G	-2.826482905830285	0.0592207728543743	FSCN1-R	-6.589178489865294	0.0013751692151591
+STAT3	upregulates-expression	HGF		STAT3-G	-2.826482905830285	0.0592207728543743	HGF-R	-4.872674954400928	0.0076528668141129
+STAT3	upregulates-expression	CCL11		STAT3-G	-2.826482905830285	0.0592207728543743	CCL11-R	-6.725998113780991	0.0011993229211754
+STAT3	upregulates-expression	FOXO1		STAT3-G	-2.826482905830285	0.0592207728543743	FOXO1-R	-4.027102120967888	0.0178259125156565
+STAT3	upregulates-expression	TWIST1		STAT3-G	-2.826482905830285	0.0592207728543743	TWIST1-R	-4.2156659196103305	0.0147624878629909
+STAT3	upregulates-expression	VIM		STAT3-G	-2.826482905830285	0.0592207728543743	VIM-R	-8.248108258267441	2.617532587937E-4
+STAT3	upregulates-expression	ZEB1		STAT3-G	-2.826482905830285	0.0592207728543743	ZEB1-R	-18.487309071408163	9.355428523187429E-9
+STAT3	upregulates-expression	IRF4		STAT3-G	-2.826482905830285	0.0592207728543743	IRF4-R	-3.565267632169584	0.0282894133138924
+STAT3	upregulates-expression	MMP2		STAT3-G	-2.826482905830285	0.0592207728543743	MMP2-R	-20.099958629200803	1.86508608040842E-9
+STAT3	upregulates-expression	F2R		STAT3-G	-2.826482905830285	0.0592207728543743	F2R-R	-10.215259605397847	3.66074200170617E-5
+STAT3	upregulates-expression	PRDM1		STAT3-G	-2.826482905830285	0.0592207728543743	PRDM1-R	-9.088080951701151	1.130047220919E-4
+STAT3	upregulates-expression	S1PR1		STAT3-G	-2.826482905830285	0.0592207728543743	S1PR1-R	-3.5017929116133684	0.0301432906891223
+STAT3	upregulates-expression	HIF1A		STAT3-G	-2.826482905830285	0.0592207728543743	HIF1A-R	-4.500108133382716	0.0111077953498135
+STAT3	upregulates-expression	TGFB1		STAT3-G	-2.826482905830285	0.0592207728543743	TGFB1-R	-5.096015010049163	0.0061210905122882
+FAS	upregulates-expression	ETS1		FAS-G	-2.816099498818256	0.0598388897687193	ETS1-R	-6.390933628472253	0.0016766900648245
+FAS	downregulates-expression	YY1		FAS-G	-2.816099498818256	0.0598388897687193	YY1-R	3.2617904697378624	0.0383197262483245
+FOXO1	upregulates-expression	FBXO32		FOXO1-G	-3.4112049514994873	0.0330014113087114	FBXO32-R	-2.8107008362419355	0.0601628133337924
+STAT5B	upregulates-expression	IL2RA		STAT5B-G	-4.526739438958004	0.0108158844935624	IL2RA-R	-2.7936043470020033	0.061200229039094
+STAT5A	upregulates-expression	IL2RA		STAT5A-G	-6.314110981503597	0.0018105746796953	IL2RA-R	-2.7936043470020033	0.061200229039094
+STAT5A	upregulates-expression	IL2RA		STAT5A-P-Y694	-2.9473247715253876	0.052479914080912	IL2RA-R	-2.7936043470020033	0.061200229039094
+RXRA	upregulates-expression	IL2RA		RXRA-inactive-by-network-sig	-1.0		IL2RA-R	-2.7936043470020033	0.061200229039094
+FOXP3	upregulates-expression	IL2RA		FOXP3-inactive-by-network-sig	-1.0		IL2RA-R	-2.7936043470020033	0.061200229039094
+MSC	upregulates-expression	IL2RA		MSC-inactive-by-network-sig	-1.0		IL2RA-R	-2.7936043470020033	0.061200229039094
+STAT5A	upregulates-expression	CDK6		STAT5A-G	-6.314110981503597	0.0018105746796953	CDK6-R	-2.773273226100112	0.062457233147437
+STAT5A	upregulates-expression	CDK6		STAT5A-P-Y694	-2.9473247715253876	0.052479914080912	CDK6-R	-2.773273226100112	0.062457233147437
+STAT5B	upregulates-expression	CDK6		STAT5B-G	-4.526739438958004	0.0108158844935624	CDK6-R	-2.773273226100112	0.062457233147437
+RELA	upregulates-expression	CDK6		RELA-inactive-by-network-sig	-1.0		CDK6-R	-2.773273226100112	0.062457233147437
+SP1	downregulates-expression	CDK6		SP1-G	3.4112049514994873	0.0330014113087114	CDK6-R	-2.773273226100112	0.062457233147437
+ENO1	upregulates-expression	HIF1A		ENO1-G	-2.7534118020228266	0.0637101236504575	HIF1A-R	-4.500108133382716	0.0111077953498135
+RUNX1	upregulates-expression	BLK		RUNX1-P-S21	-5.093018321896669	0.0061394610233056	BLK-R	-2.742365788687584	0.0644177676532201
+RUNX1	upregulates-expression	BLK		RUNX1-P-T14-S21	-4.189391949342234	0.015155497382079	BLK-R	-2.742365788687584	0.0644177676532201
+RUNX1	upregulates-expression	BLK		RUNX1-G	-15.374823205351458	2.102805584295E-7	BLK-R	-2.742365788687584	0.0644177676532201
+NCOA2	upregulates-expression	ABCA1		NCOA2-inactive-by-network-sig	-1.0		ABCA1-R	-2.733088023514557	0.0650182016101515
+NCOA1	upregulates-expression	ABCA1		NCOA1-inactive-by-network-sig	-1.0		ABCA1-R	-2.733088023514557	0.0650182016101515
+MED1	upregulates-expression	ABCA1		MED1-inactive-by-network-sig	-1.0		ABCA1-R	-2.733088023514557	0.0650182016101515
+RXRA	upregulates-expression	ABCA1		RXRA-inactive-by-network-sig	-1.0		ABCA1-R	-2.733088023514557	0.0650182016101515
+NCOR1	downregulates-expression	ABCA1		NCOR1-G	3.903128092105608	0.0201786918123766	ABCA1-R	-2.733088023514557	0.0650182016101515
+HELZ2	upregulates-expression	ABCA1		HELZ2-inactive-by-network-sig	-1.0		ABCA1-R	-2.733088023514557	0.0650182016101515
+NCOA6	upregulates-expression	CPT2		NCOA6-G	6.2407160500393495	0.0019484598284744	CPT2-R	2.6908529186380794	0.0678230671370631
+RUNX1	upregulates-expression	SPI1		RUNX1-P-S21	-5.093018321896669	0.0061394610233056	SPI1-R	-2.6851026922155072	0.0682141885704696
+RUNX1	upregulates-expression	SPI1		RUNX1-P-T14-S21	-4.189391949342234	0.015155497382079	SPI1-R	-2.6851026922155072	0.0682141885704696
+RUNX1	upregulates-expression	SPI1		RUNX1-G	-15.374823205351458	2.102805584295E-7	SPI1-R	-2.6851026922155072	0.0682141885704696
+NCOA6	upregulates-expression	ACADM		NCOA6-G	6.2407160500393495	0.0019484598284744	ACADM-R	2.6798963724495573	0.0685702595541448
+SP1	upregulates-expression	TMPO		SP1-G	3.4112049514994873	0.0330014113087114	TMPO-R	2.6660244677573406	0.0695280877506237
+RELA	upregulates-expression	FOXP3		RELA-inactive-by-network-sig	-1.0		FOXP3-R	-2.6296515244284917	0.0721035841990287
+MSC	upregulates-expression	FOXP3		MSC-inactive-by-network-sig	-1.0		FOXP3-R	-2.6296515244284917	0.0721035841990287
+SMAD3	upregulates-expression	FOXP3		SMAD3-inactive-by-network-sig	-1.0		FOXP3-R	-2.6296515244284917	0.0721035841990287
+RUNX1	upregulates-expression	FOXP3		RUNX1-G	-15.374823205351458	2.102805584295E-7	FOXP3-R	-2.6296515244284917	0.0721035841990287
+RUNX1	upregulates-expression	FOXP3		RUNX1-P-T14-S21	-4.189391949342234	0.015155497382079	FOXP3-R	-2.6296515244284917	0.0721035841990287
+RUNX1	upregulates-expression	FOXP3		RUNX1-P-S21	-5.093018321896669	0.0061394610233056	FOXP3-R	-2.6296515244284917	0.0721035841990287
+STAT5A	upregulates-expression	FOXP3		STAT5A-P-Y694	-2.9473247715253876	0.052479914080912	FOXP3-R	-2.6296515244284917	0.0721035841990287
+STAT5A	upregulates-expression	FOXP3		STAT5A-G	-6.314110981503597	0.0018105746796953	FOXP3-R	-2.6296515244284917	0.0721035841990287
+STAT5B	upregulates-expression	FOXP3		STAT5B-G	-4.526739438958004	0.0108158844935624	FOXP3-R	-2.6296515244284917	0.0721035841990287
+MAPK1	upregulates-expression	PLAUR		MAPK1-P-T185-Y187	-2.6232497709993052	0.0725666542149853	PLAUR-R	-10.350574032762802	3.19744301382048E-5
+MAPK1	upregulates-expression	PLAU		MAPK1-P-T185-Y187	-2.6232497709993052	0.0725666542149853	PLAU-R	-16.564308468443404	6.40047544257629E-8
+MAPK1	upregulates-expression	CHRNA1		MAPK1-P-T185-Y187	-2.6232497709993052	0.0725666542149853	CHRNA1-R	-6.025440238699959	0.002416487501844
+MED13L	downregulates-expression	LEP		MED13L-G	2.5880457342026366	0.075166792533722	LEP-R	-3.0236721647795606	0.0486223408815466
+MTA1	downregulates-expression	RNF144A		MTA1-G	2.563968343739301	0.0769985765441222	RNF144A-R	-3.319967699285775	0.0361539995351933
+RELA	upregulates-expression	VEGFD		RELA-inactive-by-network-sig	-1.0		VEGFD-R	-2.5639532941678844	0.0769997353484186
+HDAC1	downregulates-expression	SERPINE1		HDAC1-G	2.5637087293144583	0.0770185690803485	SERPINE1-R	-8.40833997493087	2.22999734981E-4
+HDAC1	downregulates-expression	SNAI2		HDAC1-G	2.5637087293144583	0.0770185690803485	SNAI2-R	-15.911162170652513	1.22990075643741E-7
+HDAC1	downregulates-expression	MMP28		HDAC1-G	2.5637087293144583	0.0770185690803485	MMP28-R	-2.9396380176663524	0.0528848686621572
+CFB	upregulates-expression	STAT2		CFB-G	-11.076477142268748	1.54720228519224E-5	STAT2-R	-2.5529159759305684	0.0778543133809559
+NCOR1	downregulates-expression	G0S2		NCOR1-G	3.903128092105608	0.0201786918123766	G0S2-R	-2.4975583394883256	0.0822856672062224
+HELZ2	upregulates-expression	G0S2		HELZ2-inactive-by-network-sig	-1.0		G0S2-R	-2.4975583394883256	0.0822856672062224
+RXRA	upregulates-expression	G0S2		RXRA-inactive-by-network-sig	-1.0		G0S2-R	-2.4975583394883256	0.0822856672062224
+NCOA1	upregulates-expression	G0S2		NCOA1-inactive-by-network-sig	-1.0		G0S2-R	-2.4975583394883256	0.0822856672062224
+NCOA2	upregulates-expression	G0S2		NCOA2-inactive-by-network-sig	-1.0		G0S2-R	-2.4975583394883256	0.0822856672062224
+MED1	upregulates-expression	G0S2		MED1-inactive-by-network-sig	-1.0		G0S2-R	-2.4975583394883256	0.0822856672062224
+VEGFA	upregulates-expression	STAT3		VEGFA-inactive-by-network-sig	-1.0		STAT3-R	-2.4801963424791578	0.083726784853731
+A2M	upregulates-expression	STAT3		A2M-G	-6.441369187501637	0.0015942223962263	STAT3-R	-2.4801963424791578	0.083726784853731
+FGA	upregulates-expression	STAT3		FGA-G	-4.580271093798783	0.0102521166344025	STAT3-R	-2.4801963424791578	0.083726784853731
+NNMT	upregulates-expression	STAT3		NNMT-G	-24.32794356529126	2.719620796787489E-11	STAT3-R	-2.4801963424791578	0.083726784853731
+HIC1	upregulates-expression	STAT3		HIC1-G	-5.374358527510846	0.0046338902934854	STAT3-R	-2.4801963424791578	0.083726784853731
+IL13	upregulates-expression	ITGAM		IL13-inactive-by-network-sig	-1.0		ITGAM-R	-2.4747030419862814	0.0841879868430103
+RELA	upregulates-expression	CCR3		RELA-inactive-by-network-sig	-1.0		CCR3-R	-2.473309187877566	0.0843054144338291
+PAWR	downregulates-expression	BCL2		PAWR-G	-3.2227077886258297	0.0398470147538564	BCL2-R	2.470168757943611	0.0845705858390876
+PARP1	downregulates-expression	BCL2		PARP1-inactive-by-network-sig	-1.0		BCL2-R	2.470168757943611	0.0845705858390876
+DEK	upregulates-expression	BCL2		DEK-G	4.90969167720767	0.007374761788018	BCL2-R	2.470168757943611	0.0845705858390876
+HIST1H2BO	upregulates-expression	BCL2		HIST1H2BO-G	2.5386555996912086	0.0789724991069031	BCL2-R	2.470168757943611	0.0845705858390876
+HIST1H2BD	upregulates-expression	BCL2		HIST1H2BD-G	2.4629328479598245	0.0851847503252441	BCL2-R	2.470168757943611	0.0845705858390876
+SP1	upregulates-expression	CENPH		SP1-G	3.4112049514994873	0.0330014113087114	CENPH-R	2.4625612212925763	0.0852164131331153
+GABPA	upregulates-expression	TOMM70		GABPA-G	2.4582914643842826	0.0855810443912466	TOMM70-R	3.1202368034582824	0.0441467130874814
+GABPA	upregulates-expression	TFAM		GABPA-G	2.4582914643842826	0.0855810443912466	TFAM-R	4.038028703376429	0.0176321964680385
+STAT3	upregulates-expression	MMP3		STAT3-G	-2.826482905830285	0.0592207728543743	MMP3-R	-2.4487356935133486	0.0864027570385063
+ETS1	upregulates-expression	ECE1		ETS1-inactive-by-network-sig	-1.0		ECE1-R	-2.432068611634371	0.0878549067980106
+SP1	upregulates-expression	MMP11		SP1-P-S59	2.4018395063834057	0.0905512304261456	MMP11-R	-13.381505418021042	1.54342680122224E-6
+SP1	upregulates-expression	MMP14		SP1-P-S59	2.4018395063834057	0.0905512304261456	MMP14-R	-16.95105201378318	4.34762070098274E-8
+SP1	upregulates-expression	ABCA1		SP1-P-S59	2.4018395063834057	0.0905512304261456	ABCA1-R	-2.733088023514557	0.0650182016101515
+SP1	upregulates-expression	COL1A2		SP1-P-S59	2.4018395063834057	0.0905512304261456	COL1A2-R	-19.844167641322727	2.4087265265499404E-9
+SP1	upregulates-expression	ENG		SP1-P-S59	2.4018395063834057	0.0905512304261456	ENG-R	-6.896773046186918	0.0010110427588814
+SP1	upregulates-expression	TIMP3		SP1-P-S59	2.4018395063834057	0.0905512304261456	TIMP3-R	-11.077328931376947	1.5458849562604002E-5
+SP1	upregulates-expression	CYP1B1		SP1-P-S59	2.4018395063834057	0.0905512304261456	CYP1B1-R	-10.786095353859677	2.06851324711196E-5
+SP1	upregulates-expression	SERPINE1		SP1-P-S59	2.4018395063834057	0.0905512304261456	SERPINE1-R	-8.40833997493087	2.22999734981E-4
+SP1	upregulates-expression	SMPD1		SP1-P-S59	2.4018395063834057	0.0905512304261456	SMPD1-R	-3.349943524802909	0.0350863355526086
+SP1	upregulates-expression	TNC		SP1-P-S59	2.4018395063834057	0.0905512304261456	TNC-R	-2.931997240417808	0.0532904978511285
+SP1	upregulates-expression	IGFBP3		SP1-P-S59	2.4018395063834057	0.0905512304261456	IGFBP3-R	-3.481553591226765	0.0307595860690926
+SP1	upregulates-expression	ITGA5		SP1-P-S59	2.4018395063834057	0.0905512304261456	ITGA5-R	-18.436344896687338	9.844578920319041E-9
+SP1	upregulates-expression	ADIPOQ		SP1-P-S59	2.4018395063834057	0.0905512304261456	ADIPOQ-R	-6.874257265176201	0.0010340653898697
+SP1	upregulates-expression	CXCL14		SP1-P-S59	2.4018395063834057	0.0905512304261456	CXCL14-R	-10.013384307417558	4.47963315286403E-5
+SP1	upregulates-expression	RECK		SP1-P-S59	2.4018395063834057	0.0905512304261456	RECK-R	-7.316613510868756	6.644084175737E-4
+SP1	upregulates-expression	LEP		SP1-P-S59	2.4018395063834057	0.0905512304261456	LEP-R	-3.0236721647795606	0.0486223408815466
+SP1	upregulates-expression	ITGB5		SP1-P-S59	2.4018395063834057	0.0905512304261456	ITGB5-R	-4.840243381282609	0.0079051298568027
+SP1	upregulates-expression	APOB		SP1-P-S59	2.4018395063834057	0.0905512304261456	APOB-R	-6.342335994551959	0.0017601856464594
+SP1	upregulates-expression	KRT16		SP1-P-S59	2.4018395063834057	0.0905512304261456	KRT16-R	-3.3959211443822337	0.0335096727044248
+SP1	upregulates-expression	ADAM23		SP1-P-S59	2.4018395063834057	0.0905512304261456	ADAM23-R	-4.056993673092221	0.0173009533321471
+SP1	upregulates-expression	MMP2		SP1-P-S59	2.4018395063834057	0.0905512304261456	MMP2-R	-20.099958629200803	1.86508608040842E-9
+SP1	upregulates-expression	HGF		SP1-P-S59	2.4018395063834057	0.0905512304261456	HGF-R	-4.872674954400928	0.0076528668141129
+SP1	upregulates-expression	TGFB1		SP1-P-S59	2.4018395063834057	0.0905512304261456	TGFB1-R	-5.096015010049163	0.0061210905122882
+SP1	upregulates-expression	PLAUR		SP1-P-S59	2.4018395063834057	0.0905512304261456	PLAUR-R	-10.350574032762802	3.19744301382048E-5
+SP1	upregulates-expression	PTGIR		SP1-P-S59	2.4018395063834057	0.0905512304261456	PTGIR-R	-12.630529358916364	3.27062533001777E-6
+SP1	upregulates-expression	APLNR		SP1-P-S59	2.4018395063834057	0.0905512304261456	APLNR-R	-9.327285071973172	8.896343885875121E-5
+SP1	upregulates-expression	VIM		SP1-P-S59	2.4018395063834057	0.0905512304261456	VIM-R	-8.248108258267441	2.617532587937E-4
+SP1	upregulates-expression	NOS3		SP1-P-S59	2.4018395063834057	0.0905512304261456	NOS3-R	-3.552227091027943	0.0286607384502957
+SP1	upregulates-expression	SPN		SP1-P-S59	2.4018395063834057	0.0905512304261456	SPN-R	-2.3947532107257428	0.0911951821385232
+MSC	upregulates-expression	CTLA4		MSC-inactive-by-network-sig	-1.0		CTLA4-R	-2.388162631235242	0.09179819615878
+FOXP3	upregulates-expression	CTLA4		FOXP3-inactive-by-network-sig	-1.0		CTLA4-R	-2.388162631235242	0.09179819615878
+SMAD4	upregulates-expression	LAMC1		SMAD4-inactive-by-network-sig	-1.0		LAMC1-R	-2.384691433798023	0.0921173995104435
+SMAD3	upregulates-expression	LAMC1		SMAD3-inactive-by-network-sig	-1.0		LAMC1-R	-2.384691433798023	0.0921173995104435
+MAPK3	upregulates-expression	PLAUR		MAPK3-P-T202-Y204	-2.3557698948088084	0.0948204766328309	PLAUR-R	-10.350574032762802	3.19744301382048E-5
+MAPK3	upregulates-expression	PLAU		MAPK3-P-T202-Y204	-2.3557698948088084	0.0948204766328309	PLAU-R	-16.564308468443404	6.40047544257629E-8
+MAPK3	upregulates-expression	CHRNA1		MAPK3-P-T202-Y204	-2.3557698948088084	0.0948204766328309	CHRNA1-R	-6.025440238699959	0.002416487501844
+NOTCH2	upregulates-expression	ACTA2		NOTCH2-G	-2.3412781662483413	0.0962045941466734	ACTA2-R	-15.463610579328236	1.9241514620611802E-7
+SMAD3	upregulates-expression	PTPN7		SMAD3-inactive-by-network-sig	-1.0		PTPN7-R	-2.3155055629619095	0.0987162640975016
+SP1	downregulates-expression	ITGAV		SP1-G	3.4112049514994873	0.0330014113087114	ITGAV-R	-2.312781010727573	0.0989855884429337
+STAT3	upregulates-expression	S100A11		STAT3-G	-2.826482905830285	0.0592207728543743	S100A11-R	-2.308617109019257	0.0993986140059179
+FOSL2	upregulates-expression	LIF		FOSL2-G	-8.179267581893264	2.804072402768E-4	LIF-R	-2.296936539432035	0.100566453672042
+STAT3	upregulates-expression	LIF		STAT3-G	-2.826482905830285	0.0592207728543743	LIF-R	-2.296936539432035	0.100566453672042
+STAT5A	upregulates-expression	SOCS2		STAT5A-G	-6.314110981503597	0.0018105746796953	SOCS2-R	-2.2959119788166644	0.100669542901266
+STAT5A	upregulates-expression	SOCS2		STAT5A-P-Y694	-2.9473247715253876	0.052479914080912	SOCS2-R	-2.2959119788166644	0.100669542901266
+STAT5B	upregulates-expression	SOCS2		STAT5B-G	-4.526739438958004	0.0108158844935624	SOCS2-R	-2.2959119788166644	0.100669542901266
+SP1	upregulates-expression	MT2A		SP1-P-S59	2.4018395063834057	0.0905512304261456	MT2A-R	-2.2805425034963114	0.10222873222469
+TWIST1	upregulates-expression	NR2F1		TWIST1-P-S68	-2.2766701201800177	0.1026253685300669	NR2F1-R	-4.461773343098234	0.0115418774199379
+TWIST1	downregulates-expression	MYB		TWIST1-P-S68	-2.2766701201800177	0.1026253685300669	MYB-R	4.30517004875098	0.0134985899282674
+TWIST1	upregulates-expression	MMP2		TWIST1-P-S68	-2.2766701201800177	0.1026253685300669	MMP2-R	-20.099958629200803	1.86508608040842E-9
+TWIST1	upregulates-expression	FN1		TWIST1-P-S68	-2.2766701201800177	0.1026253685300669	FN1-R	-20.866496331222805	8.66554310066086E-10
+TWIST1	upregulates-expression	AKR1C2		TWIST1-P-S68	-2.2766701201800177	0.1026253685300669	AKR1C2-R	-3.198744975400542	0.0408133936625246
+MED16	downregulates-expression	LEP		MED16-G	2.2757888769996293	0.102715846296821	LEP-R	-3.0236721647795606	0.0486223408815466
+VDR	upregulates-expression	HOXA10		VDR-G	-4.447155741151652	0.0117118311213398	HOXA10-R	-2.269067900951476	0.103408522161061

@@ -1,0 +1,17 @@
+
+RELA	downregulates-expression	YY1	PMID:16784892	
+RELA	upregulates-expression	PLIN1	PMID:17272828	
+VDR	upregulates-expression	CD14	PMID:16402404	
+RELA	downregulates-expression	PGR	PMID:8626413	
+RELA	upregulates-expression	UPP1	PMID:20544543	
+RELA	upregulates-expression	FN1	PMID:10867646 PMID:10649441	
+RELA	upregulates-expression	MMP2	PMID:19303700 PMID:17498959 PMID:20352621	
+RELA	upregulates-expression	TF	PMID:12744731	
+RELA	upregulates-expression	MMP14	PMID:19303700 PMID:21627988	
+RELA	upregulates-expression	CDK6	PMID:18504428	
+IL13	upregulates-expression	ITGAM	http://identifiers.org/reactome/R-HSA-6788346 http://identifiers.org/reactome/R-HSA-6789530	
+IL4	upregulates-expression	ANXA1	http://identifiers.org/reactome/R-HSA-6797277 http://identifiers.org/reactome/R-HSA-6785895	
+IL13	upregulates-expression	ANXA1	http://identifiers.org/reactome/R-HSA-6797277 http://identifiers.org/reactome/R-HSA-6785895	
+RELA	upregulates-expression	CFI	PMID:10630630	
+RELA	upregulates-expression	JUNB	PMID:17018379	
+RELA	upregulates-expression	LIPE	PMID:17272828	

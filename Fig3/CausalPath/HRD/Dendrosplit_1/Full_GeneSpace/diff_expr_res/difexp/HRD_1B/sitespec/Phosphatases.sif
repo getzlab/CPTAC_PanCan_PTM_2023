@@ -1,0 +1,4 @@
+
+CAMK2G	phosphorylates	MYLK	PMID:18088087 PMID:10748018 PMID:2160950	S1760
+PRKD1	phosphorylates	SSH1	PMID:21525957 PMID:19567672 PMID:19329994	S978;S402;S937
+PLPP1	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0 http://pathwaycommons.org/pc12/BiochemicalReaction_ffdb16a7f9779c4fa41623cef3749503 http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d http://pathwaycommons.org/pc12/Catalysis_bb2241b069788393e877d59380c2db0a http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0	S664;T507

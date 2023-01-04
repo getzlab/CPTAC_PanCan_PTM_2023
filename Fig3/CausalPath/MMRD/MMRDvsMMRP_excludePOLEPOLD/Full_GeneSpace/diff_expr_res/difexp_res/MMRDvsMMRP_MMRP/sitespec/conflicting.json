@@ -1,0 +1,69 @@
+{
+  "nodes" : [ {
+    "css" : {
+      "backgroundColor" : "rgb(222,228,255)"
+    },
+    "data" : {
+      "tooltipText" : "AKT1-G, -2.295483733999766",
+      "sites" : [ ],
+      "id" : "AKT1",
+      "text" : "AKT1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,226,219)",
+        "siteText" : "p",
+        "siteInfo" : "TBC1D4-P-S588-S591",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TBC1D4",
+      "text" : "TBC1D4"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(186,198,255)"
+    },
+    "data" : {
+      "tooltipText" : "RPS6KA1-G, -4.847657559001469",
+      "sites" : [ ],
+      "id" : "RPS6KA1",
+      "text" : "RPS6KA1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(219,225,255)"
+    },
+    "data" : {
+      "tooltipText" : "YWHAE-G, -2.53688172526897",
+      "sites" : [ ],
+      "id" : "YWHAE",
+      "text" : "YWHAE"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "TBC1D4_751, TBC1D4_642, TBC1D4_588, TBC1D4_666, TBC1D4_568, TBC1D4_318, TBC1D4_570, TBC1D4_341",
+      "edgeType" : "phosphorylates",
+      "source" : "RPS6KA1",
+      "pcLinks" : [ "" ],
+      "target" : "TBC1D4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "TBC1D4_751, TBC1D4_642, TBC1D4_588, TBC1D4_568, TBC1D4_318, TBC1D4_341",
+      "edgeType" : "phosphorylates",
+      "source" : "YWHAE",
+      "pcLinks" : [ "PMID:17617058", "PMID:16880201", "PMID:20410134", "PMID:26465605" ],
+      "target" : "TBC1D4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "TBC1D4_751, TBC1D4_642, TBC1D4_588, TBC1D4_666, TBC1D4_568, TBC1D4_318, TBC1D4_570, TBC1D4_341",
+      "edgeType" : "phosphorylates",
+      "source" : "AKT1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/BiochemicalReaction_afb4c5e6782922fc97ae6182e1ae5772", "http://pathwaycommons.org/pc12/Catalysis_0399e1cf7296dfa96c5e61a3265833f1", "http://pathwaycommons.org/pc12/Catalysis_365573793a00980c818d649c447ea9c2", "http://identifiers.org/reactome/R-HSA-1445144", "PMID:26465605", "PMID:16880201", "PMID:11994271" ],
+      "target" : "TBC1D4"
+    }
+  } ]
+}

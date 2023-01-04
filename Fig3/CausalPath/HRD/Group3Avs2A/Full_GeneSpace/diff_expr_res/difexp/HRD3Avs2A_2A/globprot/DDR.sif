@@ -1,0 +1,34 @@
+
+NELFE	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+NELFA	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+NELFB	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+SP1	upregulates-expression	DHFR	http://pathwaycommons.org/pc12/TemplateReaction_7afc7f1f67f0e4ffc16ab42673bd3e52 http://pathwaycommons.org/pc12/TemplateReaction_764931ee76efd5a0eec1f71572715522 http://pathwaycommons.org/pc12/TemplateReactionRegulation_8d60fbfae6c75636800e981a40ca69e1 http://pathwaycommons.org/pc12/TemplateReactionRegulation_fa03ef217735479745605f97b7d6ac68	
+GABPA	upregulates-expression	POLG2	http://identifiers.org/reactome/R-HSA-1592235 http://identifiers.org/reactome/R-HSA-1592256	
+ACTL6A	upregulates-expression	PTMA	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a1e591de73a313847bf1236f9cd4456a http://pathwaycommons.org/pc12/TemplateReaction_a78e169b29f9694517a2941d15e54b35	
+GABPB1	upregulates-expression	POLG2	http://identifiers.org/reactome/R-HSA-1592235 http://identifiers.org/reactome/R-HSA-1592256	
+STAT5A	upregulates-expression	YWHAG	http://pathwaycommons.org/pc12/TemplateReactionRegulation_1224f2d94e90ce1bf9d22bebde7c924a http://pathwaycommons.org/pc12/TemplateReaction_5118f8d809917a42be5959c549d5043c	
+STAT5B	upregulates-expression	YWHAG	http://pathwaycommons.org/pc12/TemplateReactionRegulation_1224f2d94e90ce1bf9d22bebde7c924a http://pathwaycommons.org/pc12/TemplateReaction_5118f8d809917a42be5959c549d5043c	
+THBS1	downregulates-expression	YY1	PMID:15365249	
+SP1	upregulates-expression	YY1	PMID:22553354	
+ACTL6A	upregulates-expression	NCL	http://pathwaycommons.org/pc12/TemplateReactionRegulation_654b2ddff0aebb3b389ca61035e48ac6 http://pathwaycommons.org/pc12/TemplateReaction_1df6ec5560006327aa50d58ceadaae90	
+RUVBL2	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_70103806de0d906629a773a5c7e73ca2 http://pathwaycommons.org/pc12/TemplateReaction_db5f0abfa1a03b8816ff7bfd24c93889	
+RUVBL1	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_70103806de0d906629a773a5c7e73ca2 http://pathwaycommons.org/pc12/TemplateReaction_db5f0abfa1a03b8816ff7bfd24c93889	
+SP1	downregulates-expression	CDK6	PMID:11297539	
+POLR2J	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+STAT5A	upregulates-expression	CDK6	http://pathwaycommons.org/pc12/TemplateReaction_c9d4c3e235456e2a2e2ab1ed9d652634 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5bc5f7897d5acf3f5f9151330004babc	
+STAT5B	upregulates-expression	CDK6	http://pathwaycommons.org/pc12/TemplateReaction_c9d4c3e235456e2a2e2ab1ed9d652634 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5bc5f7897d5acf3f5f9151330004babc	
+MTA1	upregulates-expression	SUMO2	PMID:21965678	
+PARP1	upregulates-expression	CDH1	PMID:21577210	
+RUVBL2	upregulates-expression	NCL	http://pathwaycommons.org/pc12/TemplateReactionRegulation_654b2ddff0aebb3b389ca61035e48ac6 http://pathwaycommons.org/pc12/TemplateReaction_1df6ec5560006327aa50d58ceadaae90	
+RUVBL1	upregulates-expression	NCL	http://pathwaycommons.org/pc12/TemplateReactionRegulation_654b2ddff0aebb3b389ca61035e48ac6 http://pathwaycommons.org/pc12/TemplateReaction_1df6ec5560006327aa50d58ceadaae90	
+CDK9	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+PARP1	downregulates-expression	FOXO1	PMID:19281796	
+YY1	downregulates-expression	POSTN	PMID:21839814	
+YY1	downregulates-expression	FAS	PMID:16784892 PMID:17530016	
+FAS	downregulates-expression	YY1	PMID:11418634	
+ACTL6A	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_70103806de0d906629a773a5c7e73ca2 http://pathwaycommons.org/pc12/TemplateReaction_db5f0abfa1a03b8816ff7bfd24c93889	
+MDC1	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+RUVBL1	upregulates-expression	PTMA	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a1e591de73a313847bf1236f9cd4456a http://pathwaycommons.org/pc12/TemplateReaction_a78e169b29f9694517a2941d15e54b35	
+RUVBL2	upregulates-expression	PTMA	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a1e591de73a313847bf1236f9cd4456a http://pathwaycommons.org/pc12/TemplateReaction_a78e169b29f9694517a2941d15e54b35	
+PARP1	downregulates-expression	SERPINF1	PMID:18312852	
+SP1	upregulates-expression	SOD1	PMID:9867871 PMID:8921911	

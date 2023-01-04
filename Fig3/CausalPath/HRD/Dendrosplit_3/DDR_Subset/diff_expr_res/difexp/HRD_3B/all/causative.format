@@ -1,0 +1,9 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	TTK	rppasite	TTK-P-S821|p|255 215 206|50 50 50|3.440247504629346
+node	SMUG1	color	219 226 255
+node	SMUG1	tooltip	SMUG1-G, -2.4782277648684516
+node	CDK6	color	255 227 221
+node	CDK6	tooltip	CDK6-G, 2.3630249091369455
+node	SOD1	color	221 227 255
+node	SOD1	tooltip	SOD1-G, -2.3630249091369455

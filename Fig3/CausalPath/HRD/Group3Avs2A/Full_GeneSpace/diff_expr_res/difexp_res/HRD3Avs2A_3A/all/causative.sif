@@ -1,0 +1,2716 @@
+CHD9	upregulates-expression	TIAM2	http://identifiers.org/reactome/R-HSA-1989768 http://identifiers.org/reactome/R-HSA-1989804	
+TGS1	upregulates-expression	ACSL1	http://identifiers.org/reactome/R-HSA-1989787 http://identifiers.org/reactome/R-HSA-1989778	
+RUNX2	upregulates-expression	COL1A1	http://identifiers.org/reactome/R-HSA-8985644 http://identifiers.org/reactome/R-HSA-8985649	
+NCOA1	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED21	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED22	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+NCOA2	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED20	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+RELA	upregulates-expression	CXCL12	PMID:17530707	
+NFKB1	downregulates-expression	YY1	PMID:16784892	
+GPNMB	upregulates-expression	MITF	PMID:1999537 PMID:19067971	
+PAWR	downregulates-expression	BCL2	PMID:9989812 PMID:11912153	
+WWTR1	upregulates-expression	SERPINE1	http://identifiers.org/reactome/R-HSA-2106588 http://identifiers.org/reactome/R-HSA-2106586	
+HSF1	downregulates-expression	HSD17B6	PMID:16278218	
+PARP1	downregulates-expression	SNAI1	PMID:21577210	
+STAT3	upregulates-expression	LEP	PMID:19492417 PMID:18242580	
+MED13L	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED25	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED26	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED23	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED24	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+HDAC1	downregulates-expression	SERPINE1	http://identifiers.org/reactome/R-HSA-2106586 http://identifiers.org/reactome/R-HSA-2186613	
+SMAD4	upregulates-expression	ID1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_38defae0628f75f94d18070217854e54 http://pathwaycommons.org/pc12/TemplateReaction_ebb37183d5d150381542dec3ce0383cb http://pathwaycommons.org/pc12/TemplateReactionRegulation_1d32642b6fcab5752fe6e369d60813bb http://pathwaycommons.org/pc12/TemplateReaction_2039b61c4948b071ed692a36ba4f0cf0	
+MED29	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED27	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED28	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+ETS1	upregulates-expression	CSF1R	http://pathwaycommons.org/pc12/TemplateReactionRegulation_ea53ed9ee342f20f9379c7f812ae8f8c http://pathwaycommons.org/pc12/TemplateReaction_bc611510e11ccc2d7f2b1d66ab54a149	
+FOXO1	upregulates-expression	FBXO32	http://pathwaycommons.org/pc12/Control_57aa7b18c93375d743212425f81e6e97 http://identifiers.org/reactome/R-HSA-9624624	
+MED30	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED31	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+SMARCD3	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560473 http://identifiers.org/reactome/R-HSA-1989823	
+FOXO1	upregulates-expression	FABP4	PMID:20102700	
+SMAD4	upregulates-expression	FOXO1	PMID:12351634	
+HELZ2	upregulates-expression	PLIN2	http://identifiers.org/reactome/R-HSA-1989806 http://identifiers.org/reactome/R-HSA-1989770	
+HELZ2	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+ELK1	downregulates-expression	TAGLN	http://pathwaycommons.org/pc12/TemplateReactionRegulation_02e373e4347ed490515be2115b5352c3 http://pathwaycommons.org/pc12/TemplateReaction_2923271a9cab641530d74573bca00a96	
+IL4	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-6797282 http://identifiers.org/reactome/R-HSA-6797267	
+HELZ2	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473 http://identifiers.org/reactome/R-HSA-1989823	
+NCOR1	downregulates-expression	IGFBP3	PMID:23098689	
+PARP1	upregulates-expression	SERPINE1	PMID:22159350	
+RELA	upregulates-expression	VCAM1	PMID:11359843 PMID:19281832 PMID:10329958 PMID:10946302 PMID:16385502 PMID:22708120 PMID:19422386 PMID:16317091	
+EPAS1	upregulates-expression	SERPINE1	PMID:15039136 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5da45fbc5bf319be1c8625e54b2515ba http://pathwaycommons.org/pc12/TemplateReaction_9df31a9a7f61d60f7d5293cf72deb345	
+RXRA	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+PARP1	upregulates-expression	VIM	PMID:17720873	
+IL13	upregulates-expression	CCL22	http://identifiers.org/reactome/R-HSA-6797277 http://identifiers.org/reactome/R-HSA-6785895	
+HELZ2	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+NCOA2	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473 http://identifiers.org/reactome/R-HSA-1989823	
+FLT1	upregulates-expression	AKT3	http://pathwaycommons.org/pc12/TemplateReactionRegulation_eed1db8c9c97626faff5bd461947cf92 http://pathwaycommons.org/pc12/TemplateReaction_a8ee040981e7c77e7836884eb532c836	
+HOPX	upregulates-expression	FLG	PMID:21256618	
+NFKB1	upregulates-expression	NFKBIB	http://pathwaycommons.org/pc12/TemplateReactionRegulation_1a81db44525250b372579148d31a73eb http://pathwaycommons.org/pc12/TemplateReaction_2195bd09b04620ede1eb79dbd8b6afe4	
+YY1	downregulates-expression	HAS2	PMID:21795679	
+CHD9	upregulates-expression	GLIPR1	http://identifiers.org/reactome/R-HSA-1989772 http://identifiers.org/reactome/R-HSA-1989810	
+EDNRA	upregulates-expression	COL3A1	http://pathwaycommons.org/pc12/TemplateReaction_892e8b792496d54f4c1f2b89a237f601 http://pathwaycommons.org/pc12/TemplateReactionRegulation_155f66bd6b2d9f9274e76f4bca5f3288	
+RUNX2	upregulates-expression	SNAI2	PMID:22641097	
+NCOA1	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473 http://identifiers.org/reactome/R-HSA-1989823	
+GABPB1	upregulates-expression	TFAM	http://identifiers.org/reactome/R-HSA-1592246 http://identifiers.org/reactome/R-HSA-1592263	
+FOSL2	upregulates-expression	LIF	http://pathwaycommons.org/pc12/TemplateReaction_39bdd1c1e3295d4d619eaead5b38d95f http://pathwaycommons.org/pc12/TemplateReactionRegulation_246897796051a16f18b3f917fb28cfd7	
+CHD9	upregulates-expression	ACSL1	http://identifiers.org/reactome/R-HSA-1989787 http://identifiers.org/reactome/R-HSA-1989778	
+TGS1	upregulates-expression	TIAM2	http://identifiers.org/reactome/R-HSA-1989768 http://identifiers.org/reactome/R-HSA-1989804	
+RELA	upregulates-expression	PLAUR	PMID:19020743	
+HDAC1	downregulates-expression	SNAI2	PMID:18588516	
+RUNX1	upregulates-expression	RSPO3	http://identifiers.org/reactome/R-HSA-8877885 http://identifiers.org/reactome/R-HSA-8877884	
+MED10	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+NCOA2	upregulates-expression	PLIN2	http://identifiers.org/reactome/R-HSA-1989806 http://identifiers.org/reactome/R-HSA-1989770	
+MED11	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+NCOA1	upregulates-expression	PLIN2	http://identifiers.org/reactome/R-HSA-1989806 http://identifiers.org/reactome/R-HSA-1989770	
+NCOA2	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MTA1	downregulates-expression	RNF144A	PMID:22184113	
+MAX	downregulates-expression	SERPINE1	http://pathwaycommons.org/pc12/TemplateReaction_e7634de49878135dd970c992f537a91f http://pathwaycommons.org/pc12/TemplateReactionRegulation_ffa22a6c3b09d3b2d648eafc8fbf7cce	
+MAX	upregulates-expression	SHMT1	http://pathwaycommons.org/pc12/TemplateReaction_631137b7afb05886109b89ef6332ada8 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e4a0b9f42e4f44ed6818ff6da1fb4c2a	
+NCOA1	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+CREBBP	upregulates-expression	ACSL1	http://identifiers.org/reactome/R-HSA-1989787 http://identifiers.org/reactome/R-HSA-1989778	
+MED1	upregulates-expression	TIAM2	http://identifiers.org/reactome/R-HSA-1989768 http://identifiers.org/reactome/R-HSA-1989804	
+CCNC	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+ETS1	upregulates-expression	PRL	PMID:12200232	
+TGS1	upregulates-expression	TNFRSF21	http://identifiers.org/reactome/R-HSA-1989771 http://identifiers.org/reactome/R-HSA-1989790	
+CREBBP	upregulates-expression	GLIPR1	http://identifiers.org/reactome/R-HSA-1989772 http://identifiers.org/reactome/R-HSA-1989810	
+RELA	upregulates-expression	FOXP3	PMID:20462637	
+CCNC	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED14	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED15	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED12	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+NCOA6	upregulates-expression	CPT2	http://identifiers.org/reactome/R-HSA-1989793 http://identifiers.org/reactome/R-HSA-1989773	
+MED13	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED18	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+RELA	upregulates-expression	CCL11	PMID:16604092	
+RUNX1	upregulates-expression	CLDN5	http://identifiers.org/reactome/R-HSA-8936007 http://identifiers.org/reactome/R-HSA-8936009	
+MED19	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED16	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED17	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED1	upregulates-expression	TNFRSF21	http://identifiers.org/reactome/R-HSA-1989771 http://identifiers.org/reactome/R-HSA-1989790	
+TGS1	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-1989789	
+MSC	upregulates-expression	FOXP3	PMID:19561533	
+EPAS1	upregulates-expression	MMP14	http://pathwaycommons.org/pc12/TemplateReaction_8751e2f1f2e5af67182fd778c5459251 PMID:15592504 http://pathwaycommons.org/pc12/TemplateReactionRegulation_415b1dfd25c5085c052662c970b6d47c	
+RELA	upregulates-expression	MMP2	PMID:19303700 PMID:17498959 PMID:20352621	
+IL13	upregulates-expression	COL1A2	http://identifiers.org/reactome/R-HSA-6797277 http://identifiers.org/reactome/R-HSA-6785895	
+SRF	upregulates-expression	SAMD4A	PMID:16814806	
+RUNX2	upregulates-expression	MMP2	PMID:22641097	
+EPAS1	upregulates-expression	COL10A1	PMID:20495570	
+FAM120B	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+STAT3	upregulates-expression	AKAP12	PMID:22584896	
+ETS1	upregulates-expression	TMEM158	PMID:11822868	
+RXRA	upregulates-expression	GLIPR1	http://identifiers.org/reactome/R-HSA-1989772 http://identifiers.org/reactome/R-HSA-1989810	
+RELA	upregulates-expression	IRF4	PMID:17018379	
+MAX	downregulates-expression	COL1A2	http://pathwaycommons.org/pc12/TemplateReaction_24f9200fd752f1c9ff49b24db274e540 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b0280dd6a0cd1458b1045cc24c7b5e0a	
+RELA	upregulates-expression	CCL22	PMID:17018379	
+NFKB1	upregulates-expression	MMP14	PMID:19303700 PMID:21627988	
+NFKB1	upregulates-expression	MMP13	PMID:19022820 PMID:12734180	
+CDK19	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+STAT3	upregulates-expression	KRT17	PMID:21796151	
+RELA	upregulates-expression	BMP2	PMID:16835229	
+STAT3	upregulates-expression	LBP	http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615 http://pathwaycommons.org/pc12/TemplateReactionRegulation_3d4e4bd65340926be3b389102f03555d http://pathwaycommons.org/pc12/TemplateReaction_ef4cc236beea62057c51f23bd58fdce6	
+CREBBP	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-1989789 http://identifiers.org/reactome/R-HSA-560540	
+NFKB1	upregulates-expression	BGN	PMID:15536164	
+ESRRA	downregulates-expression	NR2F1	PMID:15955695	
+SP1	downregulates-expression	HAS2	PMID:21795679	
+CDK19	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+VEGFA	upregulates-expression	STAT3	PMID:18408167	
+NFKB1	upregulates-expression	VEGFD	PMID:18941249	
+NCOA2	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+FOSL2	upregulates-expression	CCR4	PMID:22493372	
+NCOA1	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+SIRT1	downregulates-expression	ADAMTS5	PMID:21337390	
+MAX	downregulates-expression	SFXN3	http://pathwaycommons.org/pc12/TemplateReaction_bb8666f277ce68aaaa670b262b906449 http://pathwaycommons.org/pc12/TemplateReactionRegulation_d13ca5239b13b700ef3970bcf01b7052	
+STAT3	upregulates-expression	FSCN1	http://identifiers.org/reactome/R-HSA-6790041 http://identifiers.org/reactome/R-HSA-6797261	
+CDK8	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+ZEB2	upregulates-expression	ITGA5	PMID:22227038	
+SP1	upregulates-expression	YY1	PMID:22553354	
+TRRAP	downregulates-expression	MITF	PMID:15581068	
+CDK8	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+SMARCD3	upregulates-expression	PLIN2	http://identifiers.org/reactome/R-HSA-1989806 http://identifiers.org/reactome/R-HSA-1989770	
+CDK8	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+FAS	upregulates-expression	ETS1	PMID:11970950	
+RUNX2	upregulates-expression	MMP13	PMID:15564063 http://identifiers.org/reactome/R-HSA-8940021 http://identifiers.org/reactome/R-HSA-8940007	
+RELA	upregulates-expression	PLAU	PMID:11689575 PMID:17407600 PMID:20352621	
+COL10A1	upregulates-expression	RUNX2	PMID:19116917	
+CDK6	phosphorylates	ZYX		T270;S259;S267;S344;S202;T179;T274;S281;S308
+RELA	upregulates-expression	LPL	PMID:20200316	
+IL4	upregulates-expression	F13A1	http://identifiers.org/reactome/R-HSA-6797277 http://identifiers.org/reactome/R-HSA-6785895	
+CHD9	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-1989789	
+DCN	upregulates-expression	FOXO1	PMID:16690806	
+RXRA	upregulates-expression	ACSL1	http://identifiers.org/reactome/R-HSA-1989787 http://identifiers.org/reactome/R-HSA-1989778	
+RELA	upregulates-expression	RGS4	PMID:18260825	
+SP1	upregulates-expression	CENPH	PMID:22682030	
+RXRA	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+TGIF2	downregulates-expression	SERPINE1	http://identifiers.org/reactome/R-HSA-2106586 http://identifiers.org/reactome/R-HSA-2186613	
+NFKB1	upregulates-expression	SNAI1	PMID:17665043 PMID:18477483	
+CREBBP	upregulates-expression	PLXND1	http://identifiers.org/reactome/R-HSA-9021454 http://identifiers.org/reactome/R-HSA-9021450	
+SMAD3	upregulates-expression	ANGPTL4	PMID:24330518	
+NCOA2	upregulates-expression	ABCB4	http://identifiers.org/reactome/R-HSA-1989762 http://identifiers.org/reactome/R-HSA-1989788	
+NCOA1	upregulates-expression	ABCB4	http://identifiers.org/reactome/R-HSA-1989762 http://identifiers.org/reactome/R-HSA-1989788	
+MSC	upregulates-expression	MMP2	PMID:18279606	
+THRAP3	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+SP1	upregulates-expression	PMVK	http://identifiers.org/reactome/R-HSA-1655839 http://identifiers.org/reactome/R-HSA-1655853	
+CREBBP	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+HELZ2	upregulates-expression	GLIPR1	http://identifiers.org/reactome/R-HSA-1989772 http://identifiers.org/reactome/R-HSA-1989810	
+SP1	upregulates-expression	MACROD1	PMID:18206366	
+IL13	upregulates-expression	FN1	http://identifiers.org/reactome/R-HSA-6797277 http://identifiers.org/reactome/R-HSA-6785895	
+STAT3	upregulates-expression	HGF	http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615 PMID:12168776	
+FAM120B	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+NCOA2	upregulates-expression	ABCA1	http://identifiers.org/reactome/R-HSA-1989820 http://identifiers.org/reactome/R-HSA-1989765	
+NCOA1	upregulates-expression	ABCA1	http://identifiers.org/reactome/R-HSA-1989820 http://identifiers.org/reactome/R-HSA-1989765	
+RELA	upregulates-expression	SERPINE1	PMID:11757833 PMID:12675842	
+SMARCD3	upregulates-expression	GLIPR1	http://identifiers.org/reactome/R-HSA-1989772 http://identifiers.org/reactome/R-HSA-1989810	
+IL4	upregulates-expression	IRF4	http://pathwaycommons.org/pc12/TemplateReaction_020cc295f7e234f74336426226653889 http://pathwaycommons.org/pc12/TemplateReactionRegulation_fa4628ed3bdde0a3da5424045638114a	
+SMARCD3	upregulates-expression	G0S2	http://identifiers.org/reactome/R-HSA-1989759 http://identifiers.org/reactome/R-HSA-1989807	
+STAT5A	upregulates-expression	CDK6	http://pathwaycommons.org/pc12/TemplateReaction_c9d4c3e235456e2a2e2ab1ed9d652634 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5bc5f7897d5acf3f5f9151330004babc	
+SP1	upregulates-expression	SP3	PMID:16024108	
+STAT5B	upregulates-expression	CDK6	http://pathwaycommons.org/pc12/TemplateReaction_c9d4c3e235456e2a2e2ab1ed9d652634 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5bc5f7897d5acf3f5f9151330004babc	
+THRAP3	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+STAT3	upregulates-expression	CCL11	PMID:19265112	
+RELA	upregulates-expression	NOS3	PMID:17081374	
+RXRA	upregulates-expression	PLIN2	http://identifiers.org/reactome/R-HSA-1989806 http://identifiers.org/reactome/R-HSA-1989770	
+RXRA	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED18	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED19	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+THRAP3	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED16	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+NFKB1	upregulates-expression	CCR7	PMID:19164127 PMID:11830455	
+MED17	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+RXRA	upregulates-expression	TIAM2	http://identifiers.org/reactome/R-HSA-1989768 http://identifiers.org/reactome/R-HSA-1989804	
+MED14	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED15	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED12	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+NFKB1	upregulates-expression	CCR3	PMID:16604092	
+MED13	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED10	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED11	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+RELA	upregulates-expression	PLIN1	PMID:17272828	
+STAT3	upregulates-expression	FOXO1	http://identifiers.org/reactome/R-HSA-6790036 http://identifiers.org/reactome/R-HSA-6797258	
+MED6	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED9	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED7	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED8	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED1	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-1989789 http://identifiers.org/reactome/R-HSA-560540	
+MED4	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+FAM120B	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+SMAD3	upregulates-expression	VDR	PMID:17471513	
+NFKB1	upregulates-expression	SDC1	PMID:16132527	
+MED9	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED29	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+ETS1	upregulates-expression	BMP4	PMID:15695386	
+MED27	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+PARP1	downregulates-expression	FOXO1	PMID:19281796	
+MED28	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED25	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED26	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED23	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+YY1	downregulates-expression	POSTN	PMID:21839814	
+MED24	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED21	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED1	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+GABPA	upregulates-expression	TOMM70	PMID:17167546	
+MED22	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED4	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED20	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED6	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+NCOA1	upregulates-expression	TIAM2	http://identifiers.org/reactome/R-HSA-1989768 http://identifiers.org/reactome/R-HSA-1989804	
+NCOA2	upregulates-expression	TIAM2	http://identifiers.org/reactome/R-HSA-1989768 http://identifiers.org/reactome/R-HSA-1989804	
+MED8	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED7	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+RELA	upregulates-expression	FN1	PMID:10867646 PMID:10649441	
+MED4	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED1	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+RUNX1	upregulates-expression	IGHA1	http://pathwaycommons.org/pc12/TemplateReaction_adce6eda3b6e17974e5af9047904cb60 http://pathwaycommons.org/pc12/TemplateReactionRegulation_df5576be2c8e8d5920f3efe561d7f458	
+MED1	upregulates-expression	ABCB4	http://identifiers.org/reactome/R-HSA-1989762 http://identifiers.org/reactome/R-HSA-1989788	
+MED9	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED7	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+SMARCD3	upregulates-expression	ACSL1	http://identifiers.org/reactome/R-HSA-1989787 http://identifiers.org/reactome/R-HSA-1989778	
+MED8	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED13L	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED6	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+ETS1	upregulates-expression	FLI1	PMID:19829305	
+SRF	upregulates-expression	MMP14	PMID:12654640	
+NCOR1	downregulates-expression	G0S2	PMID:23098689	
+MED13L	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+TGS1	upregulates-expression	ABCB4	http://identifiers.org/reactome/R-HSA-1989762 http://identifiers.org/reactome/R-HSA-1989788	
+VDR	upregulates-expression	HOXA10	PMID:15905361	
+MED13L	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED13L	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+IL13	upregulates-expression	VCAM1	http://identifiers.org/reactome/R-HSA-6788346 http://identifiers.org/reactome/R-HSA-6789530	
+CREBBP	upregulates-expression	IL2RA	http://pathwaycommons.org/pc12/TemplateReaction_16cc3e65b8d5b95349f7afb95cb25d38 http://pathwaycommons.org/pc12/TemplateReactionRegulation_6a3bd2717a8a35b43cd6fbc615412c70	
+VEGFA	upregulates-expression	AKT3	http://pathwaycommons.org/pc12/TemplateReactionRegulation_eed1db8c9c97626faff5bd461947cf92 http://pathwaycommons.org/pc12/TemplateReaction_a8ee040981e7c77e7836884eb532c836	
+MED8	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED9	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED6	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED7	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED4	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED1	upregulates-expression	ABCA1	http://identifiers.org/reactome/R-HSA-1989820 http://identifiers.org/reactome/R-HSA-1989765	
+FOXP3	upregulates-expression	RSPO3	http://identifiers.org/reactome/R-HSA-8877885 http://identifiers.org/reactome/R-HSA-8877884	
+HELZ2	upregulates-expression	ACSL1	http://identifiers.org/reactome/R-HSA-1989787 http://identifiers.org/reactome/R-HSA-1989778	
+MED1	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+VEGFA	upregulates-expression	S1PR1	http://pathwaycommons.org/pc12/TemplateReaction_16a91e27fbeeb8c584e8af194c886352 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b16150116b137cfa04d1ca3570b3ade9	
+TGS1	upregulates-expression	ABCA1	http://identifiers.org/reactome/R-HSA-1989820 http://identifiers.org/reactome/R-HSA-1989765	
+THRAP3	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+EDNRA	upregulates-expression	COL1A2	http://pathwaycommons.org/pc12/TemplateReaction_5a8da917434146fe366bd1a792044e61 http://pathwaycommons.org/pc12/TemplateReactionRegulation_9b7582c541dc11342ebcf7a1b896a8d1	
+SMAD3	upregulates-expression	FOXP3	PMID:20937549	
+RELA	upregulates-expression	NOX4	PMID:20622120	
+ETS1	upregulates-expression	TGFBR2	PMID:14976186	
+RUNX1	upregulates-expression	SPI1	PMID:18316480 PMID:12576332	
+MED13L	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+HIC1	downregulates-expression	SIRT1	PMID:19649206 PMID:19525223	
+HELZ2	upregulates-expression	G0S2	http://identifiers.org/reactome/R-HSA-1989759 http://identifiers.org/reactome/R-HSA-1989807	
+PARP1	upregulates-expression	ZEB1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_83009138f1f1c3147729d48dbfbe844d http://pathwaycommons.org/pc12/TemplateReaction_e77432f0f10ef462bdd4397386be4268	
+STAT3	upregulates-expression	LIF	http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615	
+RUNX1	upregulates-expression	MYL9	http://identifiers.org/reactome/R-HSA-8938201 http://identifiers.org/reactome/R-HSA-8938204	
+CREBBP	upregulates-expression	TNFRSF21	http://identifiers.org/reactome/R-HSA-1989771 http://identifiers.org/reactome/R-HSA-1989790	
+VEGFA	upregulates-expression	HIF1A	PMID:19420388	
+A2M	upregulates-expression	STAT3	PMID:11466367	
+FAM120B	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+CHD9	upregulates-expression	ABCB4	http://identifiers.org/reactome/R-HSA-1989762 http://identifiers.org/reactome/R-HSA-1989788	
+EPAS1	upregulates-expression	FLT1	PMID:19616846 PMID:15192019 http://pathwaycommons.org/pc12/TemplateReactionRegulation_2db90f068a750bfa701168c795227452 http://pathwaycommons.org/pc12/TemplateReaction_f19960c8cf713cb1314da92fe6be92f9	
+RELA	upregulates-expression	LIPE	PMID:17272828	
+STAT3	upregulates-expression	TWIST1	PMID:23623921 http://identifiers.org/reactome/R-HSA-6790036 http://identifiers.org/reactome/R-HSA-6797258	
+NOTCH3	upregulates-expression	HEYL	http://identifiers.org/reactome/R-HSA-9013488 http://identifiers.org/reactome/R-HSA-9017433	
+MED29	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+SRF	upregulates-expression	CCN1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_2f468a7a7fa76d5d36e2ba80d2d1375d http://pathwaycommons.org/pc12/TemplateReaction_a82a92ad20a292e7c254ab18139868d7	
+MED28	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED27	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED26	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED25	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED24	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+HELZ2	upregulates-expression	TNFRSF21	http://identifiers.org/reactome/R-HSA-1989771 http://identifiers.org/reactome/R-HSA-1989790	
+CDK8	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED10	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED11	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+STAT3	upregulates-expression	VIM	http://identifiers.org/reactome/R-HSA-6790041 http://identifiers.org/reactome/R-HSA-6797261	
+MED12	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED13	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED14	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED15	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED16	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+CHD9	upregulates-expression	ABCA1	http://identifiers.org/reactome/R-HSA-1989820 http://identifiers.org/reactome/R-HSA-1989765	
+MED17	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED18	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+SP1	downregulates-expression	CETP	PMID:10669650	
+MED19	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+RUNX2	upregulates-expression	TWIST1	PMID:22641097	
+MED23	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED22	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+SMARCD3	upregulates-expression	TNFRSF21	http://identifiers.org/reactome/R-HSA-1989771 http://identifiers.org/reactome/R-HSA-1989790	
+NFKB1	upregulates-expression	PLAU	PMID:11689575 PMID:17407600 PMID:20352621	
+MED21	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED20	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+NFKB1	upregulates-expression	RGS4	PMID:18260825	
+JUNB	upregulates-expression	NOS3	http://pathwaycommons.org/pc12/TemplateReaction_ac40933b874856a661855e57d9966711 http://pathwaycommons.org/pc12/TemplateReactionRegulation_837757b2dd9029e001eecfdeb523b76c	
+RELA	upregulates-expression	TNC	PMID:9154819	
+MED19	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED18	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED17	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+RFX5	downregulates-expression	COL1A2	PMID:16464847 PMID:23079621	
+MED16	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+CDK19	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED15	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED14	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED13	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MED20	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED21	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED22	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED23	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED24	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED25	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+CREBBP	upregulates-expression	ABCA1	http://identifiers.org/reactome/R-HSA-1989820 http://identifiers.org/reactome/R-HSA-1989765	
+MED26	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+CREBBP	upregulates-expression	HOXA9	PMID:16849538	
+MED27	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED28	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED29	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+RELA	downregulates-expression	YY1	PMID:16784892	
+SMAD4	upregulates-expression	IGHA1	http://pathwaycommons.org/pc12/TemplateReaction_adce6eda3b6e17974e5af9047904cb60 http://pathwaycommons.org/pc12/TemplateReactionRegulation_df5576be2c8e8d5920f3efe561d7f458	
+ELF1	upregulates-expression	FLI1	PMID:19829305	
+SP1	downregulates-expression	KDR	PMID:16678129	
+RUNX2	upregulates-expression	ITGBL1	http://identifiers.org/reactome/R-HSA-8939829 http://identifiers.org/reactome/R-HSA-9009255	
+MED12	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+SIRT1	downregulates-expression	CFH	PMID:17558024	
+MED11	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+SMAD4	upregulates-expression	RUNX1T1	PMID:21540640	
+SMAD3	upregulates-expression	IGHA1	http://pathwaycommons.org/pc12/TemplateReaction_adce6eda3b6e17974e5af9047904cb60 http://pathwaycommons.org/pc12/TemplateReactionRegulation_df5576be2c8e8d5920f3efe561d7f458	
+MED10	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+NOTCH2	upregulates-expression	ACTA2	http://identifiers.org/reactome/R-HSA-9604664 http://pathwaycommons.org/pc12/Control_881743f59f5b5059282f7b8b346e4bf2	
+WWTR1	upregulates-expression	CCN2	http://identifiers.org/reactome/R-HSA-1989766 http://identifiers.org/reactome/R-HSA-2032783	
+RELA	upregulates-expression	BGN	PMID:15536164	
+MED1	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473 http://identifiers.org/reactome/R-HSA-1989823	
+ELF1	upregulates-expression	TEK	http://pathwaycommons.org/pc12/TemplateReaction_97bae342997f27e358829523d088ed2d PMID:19674970 http://pathwaycommons.org/pc12/TemplateReactionRegulation_1d4a9ea628b442964783f8290393a372	
+MED6	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+TPSB2	upregulates-expression	MITF	PMID:15451032 PMID:1999537 PMID:19067971	
+MED4	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED30	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MED9	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED31	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+POLR2J	upregulates-expression	MYB	http://identifiers.org/reactome/R-HSA-9011971 http://identifiers.org/reactome/R-HSA-9011972	
+NFKB1	upregulates-expression	BMP2	PMID:16835229	
+NFKB1	upregulates-expression	MMP2	PMID:19303700 PMID:17498959 PMID:20352621	
+MED7	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+TGS1	upregulates-expression	PLIN2	http://identifiers.org/reactome/R-HSA-1989806 http://identifiers.org/reactome/R-HSA-1989770	
+MED8	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+RXRA	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+JUNB	upregulates-expression	COL1A2	http://pathwaycommons.org/pc12/TemplateReaction_4d2867f7df175e5f2b50883d30adbae9 http://pathwaycommons.org/pc12/TemplateReactionRegulation_888ae7234f5e623a5b21a2a49dde47a7 http://pathwaycommons.org/pc12/TemplateReaction_4ba93a0fce06bd5287aa5dc0a7b15f8b http://pathwaycommons.org/pc12/TemplateReactionRegulation_f0f68dd54f0edc5e1984e513ee18c2bb	
+MED13L	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+NFKB1	upregulates-expression	LPL	PMID:20200316	
+EPAS1	upregulates-expression	KDR	http://pathwaycommons.org/pc12/TemplateReaction_ac44c2fbe1b543fce6e45e3e177785cc http://pathwaycommons.org/pc12/TemplateReactionRegulation_514f7b9526bec27be46539a98fb1a93d	
+JUNB	upregulates-expression	MMP2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_3f2b7376591a012f99b02392d5b95af7 http://pathwaycommons.org/pc12/TemplateReaction_6145de3397312c806af4af2e005fa124	
+NCOA6	upregulates-expression	ACADM	http://identifiers.org/reactome/R-HSA-1989794 http://identifiers.org/reactome/R-HSA-1989745	
+FAM120B	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+THRAP3	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+NFKB1	upregulates-expression	VCAM1	PMID:11359843 PMID:19281832 PMID:10329958 PMID:10946302 PMID:16385502 PMID:22708120 PMID:16271621 PMID:19422386 PMID:16317091	
+SRF	upregulates-expression	TAGLN	http://pathwaycommons.org/pc12/TemplateReaction_2923271a9cab641530d74573bca00a96 http://pathwaycommons.org/pc12/TemplateReactionRegulation_a9488da5e2939fec36b3ee8241d2c906 PMID:14970199	
+FOSL2	upregulates-expression	COL1A2	http://pathwaycommons.org/pc12/TemplateReaction_4d2867f7df175e5f2b50883d30adbae9 http://pathwaycommons.org/pc12/TemplateReactionRegulation_dd41580a57fa03d1478bf16b78a1d441 http://pathwaycommons.org/pc12/TemplateReaction_7bfcf3a601dc1ae70090c371afeb26c4 http://pathwaycommons.org/pc12/TemplateReactionRegulation_888ae7234f5e623a5b21a2a49dde47a7	
+RXRA	upregulates-expression	CXCR5	PMID:14993281	
+RXRA	upregulates-expression	G0S2	http://identifiers.org/reactome/R-HSA-1989759 http://identifiers.org/reactome/R-HSA-1989807	
+MED6	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+NFKB1	upregulates-expression	CXCL12	PMID:17530707	
+MED7	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED8	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+EPAS1	upregulates-expression	TWIST1	http://pathwaycommons.org/pc12/TemplateReaction_84ed261646e7766aea1309ab79fd5959 http://pathwaycommons.org/pc12/TemplateReactionRegulation_ceb28a01bbf800867c1ffc1ff96e3db6	
+MED9	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+STAT5B	upregulates-expression	IGF1	PMID:22419735	
+NCOA2	upregulates-expression	TNFRSF21	http://identifiers.org/reactome/R-HSA-1989771 http://identifiers.org/reactome/R-HSA-1989790	
+SP1	upregulates-expression	TMPO	PMID:19747485	
+SIRT1	downregulates-expression	COL1A2	PMID:23079621	
+TGS1	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560473 http://identifiers.org/reactome/R-HSA-1989823	
+NCOA1	upregulates-expression	TNFRSF21	http://identifiers.org/reactome/R-HSA-1989771 http://identifiers.org/reactome/R-HSA-1989790	
+MED18	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED19	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+STAT5B	upregulates-expression	ID1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_c0533b47a039662723f025b9513f911e http://pathwaycommons.org/pc12/TemplateReaction_d145c2c3576056d7b6dadcbd764c014e	
+STAT5A	upregulates-expression	ID1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_c0533b47a039662723f025b9513f911e http://pathwaycommons.org/pc12/TemplateReaction_d145c2c3576056d7b6dadcbd764c014e	
+MED14	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED17	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED15	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED16	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED16	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED19	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+IL4	upregulates-expression	FN1	http://identifiers.org/reactome/R-HSA-6797277 http://identifiers.org/reactome/R-HSA-6785895	
+MED17	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED18	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+FAM120B	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED10	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+STAT3	upregulates-expression	ZEB1	http://identifiers.org/reactome/R-HSA-6790036 http://identifiers.org/reactome/R-HSA-6797258	
+RUNX2	upregulates-expression	ITGA5	http://identifiers.org/reactome/R-HSA-8939661 http://identifiers.org/reactome/R-HSA-8939667	
+THRAP3	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED11	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED12	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED13	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+IL4	upregulates-expression	COL1A2	http://identifiers.org/reactome/R-HSA-6797277 http://identifiers.org/reactome/R-HSA-6785895	
+NCOA2	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED11	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+NCOA1	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+MED10	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED1	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED13	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED1	upregulates-expression	PLIN2	http://identifiers.org/reactome/R-HSA-1989806 http://identifiers.org/reactome/R-HSA-1989770	
+MED12	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED15	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED4	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED14	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+CREBBP	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473 http://identifiers.org/reactome/R-HSA-1989823	
+EPAS1	upregulates-expression	CCR7	PMID:19305150	
+CDK19	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MAX	downregulates-expression	PDGFRB	http://pathwaycommons.org/pc12/TemplateReactionRegulation_29ccce5bf45c0692e45e787e95339baa http://pathwaycommons.org/pc12/TemplateReaction_a0f4d7197fbfa49c5b54bcc1179993b3	
+CHD9	upregulates-expression	PLIN2	http://identifiers.org/reactome/R-HSA-1989806 http://identifiers.org/reactome/R-HSA-1989770	
+MED29	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED25	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED28	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED26	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+STAT3	upregulates-expression	IRF4	http://identifiers.org/reactome/R-HSA-6790041 http://identifiers.org/reactome/R-HSA-6797261	
+SMAD4	upregulates-expression	SNAI1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_17194393757f031ec8d06afdefd54545 http://pathwaycommons.org/pc12/TemplateReaction_0c2b6bc784b5b7c1e775e1b78e76e933	
+MED27	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED27	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MAX	upregulates-expression	DKC1	http://pathwaycommons.org/pc12/TemplateReaction_e30e1e500e018eedfb89e5964c806b8e http://pathwaycommons.org/pc12/TemplateReactionRegulation_5d4573ce0ceaaa380edb135ac882cd58	
+MED28	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED29	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED21	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED22	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED23	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+SMAD3	upregulates-expression	SNAI1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_17194393757f031ec8d06afdefd54545 http://pathwaycommons.org/pc12/TemplateReaction_0c2b6bc784b5b7c1e775e1b78e76e933	
+MED24	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+RELA	upregulates-expression	MMP13	PMID:19022820 PMID:12734180	
+RUNX2	upregulates-expression	VEGFC	PMID:22641097	
+MED20	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+RELA	upregulates-expression	NFKBIB	http://pathwaycommons.org/pc12/TemplateReactionRegulation_1a81db44525250b372579148d31a73eb http://pathwaycommons.org/pc12/TemplateReaction_2195bd09b04620ede1eb79dbd8b6afe4	
+NCOR1	downregulates-expression	S100B	http://identifiers.org/reactome/R-HSA-8954179 http://identifiers.org/reactome/R-HSA-8954181	
+MED22	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED30	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+MED20	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+RELA	upregulates-expression	MMP14	PMID:19303700 PMID:21627988	
+MED21	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED31	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+RXRA	upregulates-expression	ABCB4	http://identifiers.org/reactome/R-HSA-1989762 http://identifiers.org/reactome/R-HSA-1989788	
+MED24	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED23	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+ETS1	upregulates-expression	ERG	PMID:7731694	
+MED26	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED25	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+STAT3	upregulates-expression	S100A11	PMID:24376686	
+NCOA1	upregulates-expression	G0S2	http://identifiers.org/reactome/R-HSA-1989759 http://identifiers.org/reactome/R-HSA-1989807	
+STAT3	upregulates-expression	MMP2	PMID:19284568 http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615 PMID:17533737 PMID:20069389	
+NCOA2	upregulates-expression	G0S2	http://identifiers.org/reactome/R-HSA-1989759 http://identifiers.org/reactome/R-HSA-1989807	
+SMAD3	upregulates-expression	PTPN7	http://identifiers.org/reactome/R-HSA-9009916 http://identifiers.org/reactome/R-HSA-9008894	
+STAT3	upregulates-expression	MMP3	http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615	
+RELA	upregulates-expression	CDK6	PMID:18504428	
+ENO1	upregulates-expression	HIF1A	PMID:8955077	
+FGA	upregulates-expression	STAT3	PMID:16524883	
+MAX	downregulates-expression	LGALS1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_ff0137ccd585704e249b6096dc2fdf09 http://pathwaycommons.org/pc12/TemplateReaction_bc2690978ed953b7db18dfcec01c3195	
+RELA	upregulates-expression	VEGFD	PMID:18941249	
+NFKB1	upregulates-expression	PLIN1	PMID:17272828	
+WT1	downregulates-expression	TBXA2R	PMID:19067769	
+MED31	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED30	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED30	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+MED31	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+CHD9	upregulates-expression	G0S2	http://identifiers.org/reactome/R-HSA-1989759 http://identifiers.org/reactome/R-HSA-1989807	
+MAPK7	phosphorylates	GJA1	http://pathwaycommons.org/pc12/BiochemicalReaction_c5a53876a5fdc4324bcb1a4b87e37400 http://pathwaycommons.org/pc12/Catalysis_bbe42b9ccf200bf2ec03e7f6d79863e6 PMID:9535905 PMID:19664994 PMID:12637502 PMID:8631994 PMID:9535909	S255;S282
+CDK19	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+NNMT	upregulates-expression	STAT3	PMID:17922140	
+RXRA	upregulates-expression	ABCA1	http://pathwaycommons.org/pc12/TemplateReaction_a9fd634a57a1e57b545c14fcc680b128 http://identifiers.org/reactome/R-HSA-1989820 http://identifiers.org/reactome/R-HSA-1989765 http://pathwaycommons.org/pc12/TemplateReactionRegulation_f6cc181b16228951cfddb8716d887a24 PMID:14764426	
+THBS1	downregulates-expression	YY1	PMID:15365249	
+NFKB1	upregulates-expression	FOXP3	PMID:20462637	
+CDK8	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+NOTCH3	upregulates-expression	PTCRA	http://identifiers.org/reactome/R-HSA-9016899 http://identifiers.org/reactome/R-HSA-9016861	
+IL13	upregulates-expression	ITGAM	http://identifiers.org/reactome/R-HSA-6788346 http://identifiers.org/reactome/R-HSA-6789530	
+NFKB1	upregulates-expression	CCL19	PMID:20953353	
+RELA	upregulates-expression	SNAI1	PMID:17665043 PMID:18477483	
+YY1	downregulates-expression	EPAS1	PMID:19483472	
+ETS1	upregulates-expression	MMP13	PMID:22270366	
+NFKB1	upregulates-expression	CCL11	PMID:16604092	
+MSC	upregulates-expression	CTLA4	PMID:19561533	
+CREBBP	upregulates-expression	HEYL	http://identifiers.org/reactome/R-HSA-2220973 http://identifiers.org/reactome/R-HSA-2220981 http://identifiers.org/reactome/R-HSA-1980081 http://identifiers.org/reactome/R-HSA-1980065	
+EDNRA	upregulates-expression	CYSLTR2	http://pathwaycommons.org/pc12/TemplateReaction_ee09d47aba28c41f668b06c5d974318e http://pathwaycommons.org/pc12/TemplateReactionRegulation_3b6bc84357d77b87d2f6021c0147b24a	
+CDK19	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+CREBBP	upregulates-expression	G0S2	http://identifiers.org/reactome/R-HSA-1989759 http://identifiers.org/reactome/R-HSA-1989807	
+CREBBP	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+IL4	upregulates-expression	CCL22	http://identifiers.org/reactome/R-HSA-6797277 http://identifiers.org/reactome/R-HSA-6785895	
+CREBBP	upregulates-expression	PLIN2	http://identifiers.org/reactome/R-HSA-1989806 http://identifiers.org/reactome/R-HSA-1989770	
+NCOA2	upregulates-expression	ACSL1	http://identifiers.org/reactome/R-HSA-1989787 http://identifiers.org/reactome/R-HSA-1989778	
+NCOR1	downregulates-expression	SNAI2	PMID:18588516	
+NCOA1	upregulates-expression	ACSL1	http://identifiers.org/reactome/R-HSA-1989787 http://identifiers.org/reactome/R-HSA-1989778	
+CHD9	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560473 http://identifiers.org/reactome/R-HSA-1989823	
+NFKB1	upregulates-expression	SERPINE1	PMID:11757833 PMID:12675842	
+ETS1	upregulates-expression	TNC	PMID:15001984	
+RUNX1	upregulates-expression	BLK	http://identifiers.org/reactome/R-HSA-8938986 http://identifiers.org/reactome/R-HSA-8938987	
+NCOR1	downregulates-expression	ABCA1	http://identifiers.org/reactome/R-HSA-9029646 http://identifiers.org/reactome/R-HSA-1989765	
+SIRT1	downregulates-expression	DLL4	PMID:20631301	
+NFKB1	upregulates-expression	CCL22	PMID:17018379	
+MED31	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+STAT5B	upregulates-expression	IL2RA	http://pathwaycommons.org/pc12/TemplateReaction_c359a7f39efc1b7c515347a1cf76ef30 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b1553af7d864e23fec9dba8aa6565f62	
+MED30	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+SMAD4	upregulates-expression	ITGB5	http://pathwaycommons.org/pc12/TemplateReactionRegulation_59b455cd43cc1e3ef9cd2f8557a8d05a http://pathwaycommons.org/pc12/TemplateReaction_7ab9e8d82e734e2dfabf30d6606a1680	
+STAT5A	upregulates-expression	IL2RA	http://pathwaycommons.org/pc12/TemplateReaction_c359a7f39efc1b7c515347a1cf76ef30 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b1553af7d864e23fec9dba8aa6565f62	
+SMAD3	upregulates-expression	ITGB5	http://pathwaycommons.org/pc12/TemplateReactionRegulation_59b455cd43cc1e3ef9cd2f8557a8d05a http://pathwaycommons.org/pc12/TemplateReaction_7ab9e8d82e734e2dfabf30d6606a1680	
+RUNX1	upregulates-expression	FOXP3	http://identifiers.org/reactome/R-HSA-8865551 http://identifiers.org/reactome/R-HSA-8865546	
+SMARCD3	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-1989789	
+CTNNB1	upregulates-expression	STARD7	PMID:21622533	
+ELF1	upregulates-expression	BLK	http://identifiers.org/reactome/R-HSA-8938986 http://identifiers.org/reactome/R-HSA-8938987	
+CREBBP	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+HIC1	upregulates-expression	STAT3	PMID:24067369	
+CREBBP	upregulates-expression	HOXA10	PMID:16849538	
+HELZ2	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-1989789 http://identifiers.org/reactome/R-HSA-560540	
+NFKB1	upregulates-expression	LIPE	PMID:17272828	
+SP1	downregulates-expression	CDK6	PMID:11297539	
+MED1	upregulates-expression	G0S2	http://identifiers.org/reactome/R-HSA-1989759 http://identifiers.org/reactome/R-HSA-1989807	
+ETS1	upregulates-expression	FLT1	http://pathwaycommons.org/pc12/TemplateReaction_f19960c8cf713cb1314da92fe6be92f9 http://pathwaycommons.org/pc12/TemplateReactionRegulation_50e955b6860ac8df38cd018d5cf5c1df	
+FLT1	upregulates-expression	ETS1	PMID:16861237	
+SRF	upregulates-expression	PLAU	PMID:15514113	
+STAT3	upregulates-expression	F2R	PMID:23504318	
+NCOA2	upregulates-expression	GLIPR1	http://identifiers.org/reactome/R-HSA-1989772 http://identifiers.org/reactome/R-HSA-1989810	
+ESRRA	downregulates-expression	SNAI1	PMID:15955695	
+NCOA1	upregulates-expression	GLIPR1	http://identifiers.org/reactome/R-HSA-1989772 http://identifiers.org/reactome/R-HSA-1989810	
+ESRRA	downregulates-expression	SNAI2	PMID:15955695	
+RELA	upregulates-expression	EPAS1	PMID:20495570	
+FOXO1	upregulates-expression	ABCA6	http://pathwaycommons.org/pc12/Control_1d7c7d5a92a6419a51e5311660d8825b http://identifiers.org/reactome/R-HSA-9625092	
+ETS1	upregulates-expression	ECE1	PMID:11723240 PMID:9595399	
+SMAD4	upregulates-expression	LAMC1	http://pathwaycommons.org/pc12/TemplateReaction_b54c872ac997b6aaa417958afa585483 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4c3c1864e00055d0fbddf34e464da62c	
+SMAD3	upregulates-expression	LAMC1	http://pathwaycommons.org/pc12/TemplateReaction_b54c872ac997b6aaa417958afa585483 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4c3c1864e00055d0fbddf34e464da62c	
+RXRA	upregulates-expression	IL2RA	PMID:12149223	
+VDR	upregulates-expression	TNFRSF21	PMID:12520529	
+STAT3	upregulates-expression	PRDM1	PMID:1702555	
+ZEB2	upregulates-expression	VIM	PMID:22227038	
+CREBBP	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+PARP1	downregulates-expression	BCL2	PMID:20564216	
+GTF2I	upregulates-expression	SIRT1	PMID:21407215	
+NCOA1	upregulates-expression	PRL	http://pathwaycommons.org/pc12/TemplateReaction_fdef40eab8eec58d6dc6256533952ce2 http://pathwaycommons.org/pc12/TemplateReactionRegulation_58d400040dc5d601c0bd1009332412bb	
+MED14	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+THRAP3	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+MED16	downregulates-expression	LEP	http://identifiers.org/reactome/R-HSA-1183003 http://identifiers.org/reactome/R-HSA-1183067	
+HDAC1	downregulates-expression	MMP28	PMID:20144149	
+HELZ2	upregulates-expression	TIAM2	http://identifiers.org/reactome/R-HSA-1989768 http://identifiers.org/reactome/R-HSA-1989804	
+TGS1	upregulates-expression	G0S2	http://identifiers.org/reactome/R-HSA-1989759 http://identifiers.org/reactome/R-HSA-1989807	
+HELZ2	upregulates-expression	ABCB4	http://identifiers.org/reactome/R-HSA-1989762 http://identifiers.org/reactome/R-HSA-1989788	
+SRF	upregulates-expression	VCL	http://pathwaycommons.org/pc12/TemplateReaction_9f86a209b1e2ca4ce9c2df3cc657f493 http://pathwaycommons.org/pc12/TemplateReactionRegulation_859ba46646d770a0c0af920f043f5730	
+LDHA	upregulates-expression	HIF1A	PMID:8089148	
+GABPA	upregulates-expression	TFAM	http://identifiers.org/reactome/R-HSA-1592246 http://identifiers.org/reactome/R-HSA-1592263	
+NFKB1	upregulates-expression	NOX4	PMID:20622120	
+STAT5A	upregulates-expression	SOCS2	http://identifiers.org/reactome/R-HSA-8983073 http://identifiers.org/reactome/R-HSA-8983011	
+STAT5B	upregulates-expression	SOCS2	http://identifiers.org/reactome/R-HSA-8983073 http://identifiers.org/reactome/R-HSA-8983011	
+RXRA	upregulates-expression	TNFRSF21	http://identifiers.org/reactome/R-HSA-1989771 http://identifiers.org/reactome/R-HSA-1989790	
+NFKB1	upregulates-expression	FN1	PMID:10867646 PMID:10649441	
+NCOA2	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-1989789 http://identifiers.org/reactome/R-HSA-560540	
+FOXP3	upregulates-expression	IL2RA	http://identifiers.org/reactome/R-HSA-8877394 http://pathwaycommons.org/pc12/TemplateReaction_5362ee5769a47ff7d49cb8a1512455d8 http://pathwaycommons.org/pc12/TemplateReactionRegulation_0d2683e7e03de71bfb01be61cb280643 PMID:21036387 http://identifiers.org/reactome/R-HSA-8877396	
+NCOA1	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-1989789 http://identifiers.org/reactome/R-HSA-560540	
+FOXP3	upregulates-expression	CTLA4	http://pathwaycommons.org/pc12/TemplateReactionRegulation_272dc3d253c16321057df762ab31bcbf http://pathwaycommons.org/pc12/TemplateReaction_d0b307d69c704d12fec0697095d75625 http://identifiers.org/reactome/R-HSA-8877421 http://identifiers.org/reactome/R-HSA-8877420	
+CDK8	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+CCNC	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+CCNC	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+RXRA	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473 http://identifiers.org/reactome/R-HSA-1989823	
+SP1	downregulates-expression	ITGAV	PMID:23319049	
+HELZ2	upregulates-expression	ABCA1	http://identifiers.org/reactome/R-HSA-1989820 http://identifiers.org/reactome/R-HSA-1989765	
+ETS1	upregulates-expression	TBXA2R	PMID:18698092	
+NFKB1	upregulates-expression	PLAUR	PMID:19020743	
+RELA	upregulates-expression	CCR7	PMID:19164127 PMID:11830455	
+SRF	upregulates-expression	MMP2	PMID:12654640	
+RELA	upregulates-expression	CCR3	PMID:16604092	
+NFKB1	upregulates-expression	NOS3	PMID:17644577 PMID:17081374	
+DEK	upregulates-expression	BCL2	PMID:17685435	
+WT1	downregulates-expression	IGF1	PMID:9076342	
+FOXP3	upregulates-expression	CCR4	PMID:21036387	
+SERPINE1	upregulates-expression	HIF1A	PMID:11877282	
+SMAD3	upregulates-expression	TNC	PMID:15001984	
+ELF1	upregulates-expression	IL2RA	http://pathwaycommons.org/pc12/TemplateReaction_c359a7f39efc1b7c515347a1cf76ef30 http://pathwaycommons.org/pc12/TemplateReactionRegulation_2b44cb65fbe3ee4539509fe80e3414d7	
+SMAD4	upregulates-expression	TNC	PMID:15001984	
+TGS1	upregulates-expression	GLIPR1	http://identifiers.org/reactome/R-HSA-1989772 http://identifiers.org/reactome/R-HSA-1989810	
+SMAD4	upregulates-expression	SERPINE1	PMID:9765209 http://identifiers.org/reactome/R-HSA-2106588 http://pathwaycommons.org/pc12/TemplateReactionRegulation_d2e1060d58be60467878a4f190ff0862 http://identifiers.org/reactome/R-HSA-2106586 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5a3b018c331571a01f03152c34c11282 http://pathwaycommons.org/pc12/TemplateReaction_93feeba1547dfa8f29c5bf5961cd76ab http://pathwaycommons.org/pc12/TemplateReaction_e7634de49878135dd970c992f537a91f	
+SMAD3	upregulates-expression	SERPINE1	PMID:9765209 http://identifiers.org/reactome/R-HSA-2106588 PMID:17761371 PMID:24330518 http://pathwaycommons.org/pc12/TemplateReactionRegulation_d2e1060d58be60467878a4f190ff0862 http://identifiers.org/reactome/R-HSA-2106586 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5a3b018c331571a01f03152c34c11282 http://pathwaycommons.org/pc12/TemplateReaction_93feeba1547dfa8f29c5bf5961cd76ab http://pathwaycommons.org/pc12/TemplateReaction_e7634de49878135dd970c992f537a91f	
+CCNC	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+RXRA	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-1989789 http://identifiers.org/reactome/R-HSA-560540	
+EPAS1	upregulates-expression	MSC	PMID:21081659	
+NOTCH3	upregulates-expression	PLXND1	http://identifiers.org/reactome/R-HSA-9021454 http://identifiers.org/reactome/R-HSA-9021450	
+FAS	downregulates-expression	YY1	PMID:11418634	
+HELZ2	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+CCNC	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+SMAD4	downregulates-expression	EBAG9	http://pathwaycommons.org/pc12/TemplateReactionRegulation_27f653f9df5a4e2218e79c49ef100631 http://pathwaycommons.org/pc12/TemplateReaction_ecd9f59973c3663439ae5a8beec3814b	
+CDK9	upregulates-expression	MYB	http://identifiers.org/reactome/R-HSA-9011971 http://identifiers.org/reactome/R-HSA-9011972	
+NFKB1	upregulates-expression	IRF4	PMID:17018379	
+IL13	upregulates-expression	F13A1	http://identifiers.org/reactome/R-HSA-6797277 http://identifiers.org/reactome/R-HSA-6785895	
+SIRT1	downregulates-expression	COL10A1	PMID:21337390	
+STAT3	upregulates-expression	S1PR1	PMID:21102457 http://identifiers.org/reactome/R-HSA-6797259 http://identifiers.org/reactome/R-HSA-6790022	
+STAT5A	upregulates-expression	FOXP3	http://pathwaycommons.org/pc12/TemplateReactionRegulation_dd0c8858187aca13cf2598735e01d83d http://pathwaycommons.org/pc12/TemplateReaction_9b92d8b329a47305bbf4ba3660d02901	
+CREBBP	upregulates-expression	ABCB4	http://identifiers.org/reactome/R-HSA-1989762 http://identifiers.org/reactome/R-HSA-1989788	
+SMARCD3	upregulates-expression	TIAM2	http://identifiers.org/reactome/R-HSA-1989768 http://identifiers.org/reactome/R-HSA-1989804	
+SMARCD3	upregulates-expression	ABCA1	http://identifiers.org/reactome/R-HSA-1989820 http://identifiers.org/reactome/R-HSA-1989765	
+STAT5B	upregulates-expression	FOXP3	http://pathwaycommons.org/pc12/TemplateReactionRegulation_dd0c8858187aca13cf2598735e01d83d http://pathwaycommons.org/pc12/TemplateReaction_9b92d8b329a47305bbf4ba3660d02901	
+ELK1	downregulates-expression	ACTA2	http://pathwaycommons.org/pc12/TemplateReaction_e8cfd29df435db87f5975040a06216c2 http://pathwaycommons.org/pc12/TemplateReactionRegulation_34702b6a39c79b70b9fd1d39ea27dfa1	
+ETS1	upregulates-expression	ANGPT1	http://pathwaycommons.org/pc12/TemplateReaction_2829d1faf7950b1c6a2e836531d71ad5 http://pathwaycommons.org/pc12/TemplateReactionRegulation_6610e5f6690c90ad2b61b55a117eb30d	
+CHD9	upregulates-expression	TNFRSF21	http://identifiers.org/reactome/R-HSA-1989771 http://identifiers.org/reactome/R-HSA-1989790	
+CFB	upregulates-expression	STAT2	PMID:16689942	
+RELA	upregulates-expression	SDC1	PMID:16132527	
+SMAD3	upregulates-expression	ENG	http://pathwaycommons.org/pc12/TemplateReactionRegulation_91121f627a074ac46aee5a6fd47497d3 http://pathwaycommons.org/pc12/TemplateReaction_b498288a9fb46fd0d901f38ee92589e7	
+SMAD4	upregulates-expression	ENG	http://pathwaycommons.org/pc12/TemplateReactionRegulation_91121f627a074ac46aee5a6fd47497d3 http://pathwaycommons.org/pc12/TemplateReaction_b498288a9fb46fd0d901f38ee92589e7	
+STAT3	upregulates-expression	HIF1A	PMID:18644974 PMID:17597020 PMID:19265129 http://identifiers.org/reactome/R-HSA-6790036 http://identifiers.org/reactome/R-HSA-6797258	
+CREBBP	upregulates-expression	ACTA2	http://identifiers.org/reactome/R-HSA-9604664 http://pathwaycommons.org/pc12/Control_881743f59f5b5059282f7b8b346e4bf2	
+MED1	upregulates-expression	GLIPR1	http://identifiers.org/reactome/R-HSA-1989772 http://identifiers.org/reactome/R-HSA-1989810	
+CREBBP	upregulates-expression	TIAM2	http://identifiers.org/reactome/R-HSA-1989768 http://identifiers.org/reactome/R-HSA-1989804	
+HIST1H2BD	upregulates-expression	BCL2	http://identifiers.org/reactome/R-HSA-9011941 http://identifiers.org/reactome/R-HSA-9011943	
+HIST1H2BO	upregulates-expression	BCL2	http://identifiers.org/reactome/R-HSA-9011941 http://identifiers.org/reactome/R-HSA-9011943	
+RELA	upregulates-expression	TWIST1	PMID:22253230	
+STAT3	upregulates-expression	TGFB1	http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615 PMID:16474852	
+IL13	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-6797282 http://identifiers.org/reactome/R-HSA-6797267	
+SMARCD3	upregulates-expression	ABCB4	http://identifiers.org/reactome/R-HSA-1989762 http://identifiers.org/reactome/R-HSA-1989788	
+MED1	upregulates-expression	ACSL1	http://identifiers.org/reactome/R-HSA-1989787 http://identifiers.org/reactome/R-HSA-1989778	
+EWSR1	downregulates-expression	TGFBR2	PMID:10508522	
+PARP1	downregulates-expression	SERPINF1	PMID:18312852	
+HELZ2	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+MSC	upregulates-expression	IL2RA	PMID:19561533	
+SMAD4	upregulates-expression	MEF2C	http://pathwaycommons.org/pc12/TemplateReactionRegulation_86f0be84a76d5d20466163807b3440bd http://pathwaycommons.org/pc12/TemplateReaction_b72280ff73028a4a9f7734903a16fad9	
+ETS1	upregulates-expression	KDR	http://pathwaycommons.org/pc12/TemplateReactionRegulation_80054c18a86bb6f1d2c33b1795d48e79 http://pathwaycommons.org/pc12/TemplateReaction_ac44c2fbe1b543fce6e45e3e177785cc	
+ADGRL3
+GALNT1
+TRPC3
+DCLRE1A
+AP1M1
+BHLHE22
+RGS11
+NIT2
+DUSP16
+TICAM2
+BST2
+FAM131B
+ANXA2
+IGLV6-57
+HCCS
+GPX1
+EXT1
+TUBB3
+ARHGAP21
+ATP1A1
+HP
+UTP25
+ENTPD7
+LRTOMT
+CORO1C
+RNASEL
+FANCL
+BAG3
+AP2A1
+ACTR3
+HMGN2
+ING1
+RFT1
+PNPT1
+SUPT20H
+ADARB1
+ABAT
+RASGRP2
+PRKCD
+ERRFI1
+ANXA6
+CHSY3
+TSC22D3
+ARPC3
+MTMR6
+PC
+LSM4
+TPR
+FAM20A
+MOXD1
+NUAK1
+LIN37
+MAGOH
+EIF4A2
+TKFC
+MYH9
+BAD
+MCU
+TPT1
+PAPSS2
+HECTD1
+UBQLN4
+MTFMT
+RGS6
+LMTK2
+POLE3
+ACTN2
+TAF9
+LRP5
+FKBP4
+CHST11
+AUH
+PAX1
+LAMP1
+SVIL
+SF1
+PYGL
+ARHGAP35
+ZNF365
+SCCPDH
+ERBB3
+RRP9
+ATP1B1
+CDC5L
+GALNT15
+GNB3
+KRR1
+PEAK1
+WDR43
+PFDN4
+PTGER4
+PPA2
+RPL15
+FAM126A
+CXCL14
+MOAP1
+HAS1
+IVD
+APOC2
+RANBP3
+NEK1
+ALYREF
+POLD2
+PLCB2
+RDH14
+ADRB3
+RPS27A
+LY9
+EDIL3
+PTPMT1
+ZNF143
+ADPRHL2
+SH3GLB1
+MAP2K5
+HTD2
+HEATR1
+FMO1
+AMDHD2
+IGHV3-53
+SRRT
+GFPT2
+LNPEP
+SRSF11
+CDC42EP1
+S100A10
+ACACB
+SNRPA
+CAMK2G
+ACVRL1
+USP24
+DYNC1LI2
+OSCAR
+MAFB
+PLD3
+MECR
+ATP6V0A2
+SCO1
+SYP
+SSTR5
+CWC22
+FIP1L1
+TRMT10A
+SEC24D
+DPM3
+CTSB
+TRPC6
+ANKRD55
+SELL
+CKAP4
+CAMK2D
+NACA
+ECM1
+C1R
+COX7A2L
+FANCG
+CHPF
+PLAGL1
+H2AFY
+GNPAT
+DCP1A
+ARHGAP24
+MAP3K7
+TRA2B
+CBLL1
+RGPD3
+RBM14
+GABARAPL1
+BACH2
+MAPK12
+WDR48
+C4BPA
+PNKD
+MARK2
+ZNF521
+PYCR2
+ZC3H11A
+ACPP
+NUDT16
+FN3K
+APOBR
+SEC24A
+HTRA2
+PUS1
+PRKD3
+MAGED1
+GALNT12
+RYR2
+FARSB
+COX6C
+MMS22L
+MATN3
+MYL12A
+KLHL6
+STX4
+CASP4
+TADA3
+KCND2
+HSD17B11
+PRKACB
+GRHL2
+DENND1A
+DCTD
+NOP58
+MME
+DDR2
+GRIK2
+FAM227B
+ACTN1
+ARHGAP31
+SCAMP3
+MTR
+RPL32
+AVEN
+SERPINA5
+ACTG2
+SYNPO2
+SPAG9
+NMRAL1
+PHLDB1
+PYCR1
+PCCA
+TPSAB1
+GSTZ1
+MTM1
+ELOC
+TMEM47
+AHNAK2
+AMOTL1
+PXN
+DNPEP
+TMLHE
+PBX1
+PARD3
+ABHD14B
+ATP6V1B2
+SLC16A7
+TRMT5
+PLA2G2A
+IGFBP5
+SETD1A
+SFI1
+PAPOLA
+MAPK10
+EPCAM
+FMO3
+ABI2
+SLC20A1
+NUDT12
+RAP1GAP
+USP36
+GNG11
+FMNL2
+POLB
+ACO2
+LIMA1
+NTF3
+ACP6
+SNRNP70
+RPL21
+COL6A1
+PCDHGB7
+VWF
+UNG
+GNB4
+SORBS3
+FTO
+UTP4
+AKAP13
+IRAK4
+SERPINH1
+MAP2K7
+ZNF76
+HNMT
+CAPZA1
+PFKFB4
+IARS2
+NDUFAB1
+AHCY
+F5
+YIF1A
+NDN
+B4GALNT3
+TDP2
+SH3RF1
+SCRIB
+GSTK1
+UQCRQ
+CWC27
+DDR1
+TGFBR3
+ECI1
+GNL3
+DPPA4
+CHTOP
+CYP26B1
+DAB2
+NELFE
+CYC1
+GLS
+SEMA3C
+PMEPA1
+CHCHD2
+SLC4A2
+CYP4B1
+ARFGAP1
+GRN
+ADA
+LIPT1
+SON
+ADAM23
+TIMELESS
+MAP1LC3B
+DNPH1
+PHLDB2
+MYCT1
+TAGLN2
+NUDT10
+FERMT2
+SACM1L
+MYL6B
+GREB1
+EPHX2
+KRT16
+VKORC1L1
+BRD8
+SRSF9
+FAM20C
+TRAPPC6A
+NSL1
+VARS2
+EEF2
+DPYD
+ATAT1
+C8A
+ARSG
+FBXW7
+COL24A1
+C1S
+HSCB
+APCS
+GFI1
+SMPD2
+PSME1
+SNX27
+RBBP4
+S100A8
+CYR61
+PSMF1
+IRAK1
+TNNI1
+STUB1
+PGM1
+BMP1
+TGFBI
+PLOD3
+APTX
+PPP1R12C
+CCL17
+GNG2
+SUDS3
+HSPA2
+DOCK4
+PARVA
+PARD6G
+CDH5
+NDST1
+FMO2
+RGS9
+SEC23A
+CRYAB
+NKD2
+SWAP70
+GPD1
+ELK3
+IGLV1-44
+NSF
+CBX3
+MYL5
+CORO2A
+ACP1
+ACKR3
+EP400
+MAP4K1
+MAN1A1
+NID1
+SUCLG1
+CDK18
+DIABLO
+SSTR3
+SBF2
+ATP6V1C2
+ZMYND8
+DGKI
+PRDX2
+GADD45GIP1
+MDFI
+GJA5
+PSMD7
+FGF1
+MCAM
+PRDX5
+ALDH9A1
+NRBP1
+NAPEPLD
+DUSP3
+WNT2
+SEPT7
+MT2A
+CNOT10
+HAUS8
+USP28
+MAN2A2
+SOX18
+EPB41L3
+TUBB
+INTS3
+ARID4B
+PDHA2
+NDUFA5
+TXNRD2
+TIAM1
+DLD
+CHPF2
+NCK2
+TUBB6
+LIPG
+NREP
+PDHX
+PCDHGA12
+IGLV2-8
+MAP1A
+RPL10A
+RBM45
+FST
+INPP5B
+BDH1
+RIPK1
+PCDH10
+GABRB2
+SLC27A6
+KNG1
+CCNE1
+SFTPD
+FBXO4
+IGFBP4
+IGF1R
+ECH1
+OLR1
+NDST4
+PTPRZ1
+ZAP70
+FOXO4
+ALDH6A1
+STK10
+RAVER1
+ARSJ
+TJP2
+PPAT
+PTPRF
+FHL2
+P4HB
+TNFAIP6
+NRP1
+MRVI1
+IGKV1-17
+GAS1
+COL6A3
+DAPK1
+GUCY1B1
+MAP4
+CHKB
+RPRD1A
+YWHAG
+RASGRP3
+PTPRD
+DACT3
+NEK4
+RPL6
+IL11
+TFAP4
+PIGA
+SPARC
+DES
+BAG1
+PPOX
+MXRA8
+CTBP2
+AMPD2
+TAF12
+MYO1E
+PLPPR4
+PVR
+PPIF
+LRWD1
+PDE2A
+MEAF6
+SLC6A6
+CD2AP
+SORL1
+DPYS
+MPLKIP
+KLF5
+CAAP1
+TK2
+THY1
+SLC25A3
+SEC61B
+RLN1
+SGIP1
+HACD4
+RPRD2
+CTGF
+C5AR1
+IGHG2
+CDH11
+LHX6
+DCUN1D3
+ACSF3
+SNX1
+MYEF2
+ARPC5
+PPP2R5A
+PPP1R7
+PTPRH
+PDGFRL
+KLF2
+GPX8
+EPHB2
+GALNT13
+DSN1
+PLS3
+CAP1
+CENPC
+GLRX
+INSRR
+RBM39
+ACP2
+CILP
+CDC42EP2
+RALBP1
+SRP9
+LRRFIP1
+COX6A1
+CGN
+CLEC2B
+PROC
+MFF
+DARS2
+PGLYRP2
+ME1
+VAMP8
+PALLD
+AQP1
+LMNA
+LAS1L
+NFIA
+PDE10A
+RAD17
+NOP56
+LIMK1
+MAP1B
+PCDHGC5
+LMNB1
+TUBA1C
+SERPINA10
+POLR1E
+PCDHGC4
+NRBF2
+CALU
+GDF6
+SUGP2
+DPYSL4
+NDUFA1
+SPTBN1
+SAP130
+CYP1B1
+IGLC7
+INTS14
+EIF2A
+CFL1
+WAPL
+PCDHGA6
+TADA1
+INTS13
+KCNAB2
+SLC27A2
+C5
+SPRED1
+AHNAK
+DHPS
+PAM
+INTS12
+MS4A1
+HSD17B10
+SATB2
+NOL11
+IMPAD1
+SF3A1
+CHRNA1
+PBX2
+B3GNT9
+AIFM1
+AZIN2
+IGKV5-2
+GCKR
+CTIF
+PCBD2
+NHS
+DNAJB1
+ARID2
+MSRB3
+PUDP
+SMPD1
+CCDC80
+CA8
+IGKV3D-20
+GNA12
+PTMA
+HLX
+CCT3
+IL17RB
+ILF2
+IGF2BP1
+TAL1
+ADH4
+ARHGEF17
+AGR2
+NT5C
+RCVRN
+P4HA3
+DDT
+RECK
+NUDT21
+GRAP
+ARHGDIB
+SLC1A3
+WWC1
+ALDH1A3
+DYNLL2
+MGAT5
+PLIN3
+COLGALT1
+DAP3
+ABCB5
+NDUFAF2
+SHOC2
+ZFYVE9
+TGM2
+MTTP
+HOXC6
+CHST15
+PICALM
+MAP4K5
+TLL1
+AFDN
+DBT
+PDHA1
+SMTN
+CYP7B1
+SUZ12
+CTPS2
+NDC1
+KCNA1
+PCDHB6
+HACL1
+DRG2
+LRP1
+DOCK1
+SH2B3
+PRICKLE1
+SOD1
+RHOC
+GUCY1A1
+ST3GAL2
+DSTN
+FGG
+MYH7
+ASAP3
+PLOD1
+C3
+DCAF11
+GSTM5
+UAP1L1
+RAD21
+TPP1
+SRPX
+SCAI
+RIPOR1
+VIP
+ITGA11
+ACTR2
+AES
+MFGE8
+DCPS
+PRKAA2
+CHRNA3
+HABP4
+PGM3
+MYH13
+PCDHGA2
+TRUB1
+TTR
+VDAC2
+MCCC1
+PPP1R9B
+EPHA3
+MFAP3L
+C1QTNF5
+ARPC2
+GIP
+PTGR2
+MAF1
+PROS1
+CA11
+CERS4
+SETD9
+PRKAG2
+FCGR2A
+SNX17
+RBKS
+SPN
+PLSCR3
+LLGL2
+PAK4
+SETD2
+DCHS1
+CCDC50
+TCF4
+SSTR2
+ZBTB14
+ATF7IP
+B3GLCT
+SEMA3A
+RHOG
+GOSR2
+SPHK1
+FOXP2
+SLC12A4
+MPRIP
+SHBG
+BRCC3
+DCTPP1
+DNAJB6
+LSP1
+DMPK
+PRPF19
+FEZ1
+IGHV4-34
+HIBADH
+P4HA1
+PPP1R9A
+BACH1
+MSH2
+PLA2G2C
+UCK2
+LY96
+CDC42EP4
+HOXA4
+ITGAD
+RRAD
+ANKRD28
+PLEKHG2
+PIP5K1C
+PTGES2
+DCBLD1
+C1orf198
+MMP11
+EXT2
+CLTCL1
+L3HYPDH
+SEPSECS
+FDXR
+CHDH
+WDR5
+PKP2
+HAX1
+NUP214
+SYK
+EXOC8
+CDK5R2
+DEGS2
+RPL26
+POLG2
+CD93
+NUP107
+CPS1
+PCDH12
+TAF4
+C4BPB
+DLAT
+PDLIM7
+ECHDC2
+SSB
+MRPS18B
+ARID4A
+PTGIR
+CAV1
+COX7A1
+PLN
+TUBB2A
+COL11A1
+APBA2
+AGK
+PHF6
+TDO2
+ROCK2
+WDR36
+PCDHGC3
+BCAT2
+RAB3IP
+FAF1
+DLK1
+DCLK1
+NGFR
+TESK2
+ARL6IP5
+KCNIP2
+TCF12
+UQCR10
+PCDHGA11
+CTSG
+CLCA2
+AK9
+ISL1
+RPS15A
+BRD7
+SCN2A
+PLPBP
+DNAJC3
+CDH13
+TAF5
+PCDH1
+ZDHHC13
+DIO2
+CDH1
+TWIST2
+LOXL2
+SRSF10
+NRK
+DCAF1
+SDHD
+STARD10
+SUPV3L1
+DIO1
+UTP18
+PTPN21
+TRMT1
+GSTA1
+HOXA1
+GUCA1A
+VRK1
+ETFBKMT
+LATS1
+AP2M1
+ADCY7
+SRGAP2
+APOA4
+RETSAT
+STARD3
+MEOX2
+RPS27L
+BCKDHA
+ADK
+PCDHGA3
+SPCS1
+CD3E
+TUFM
+ST8SIA2
+PLA2G4C
+CKB
+HPR
+HELLS
+ABHD10
+IDH3A
+CYLD
+EXOSC3
+APBB1IP
+P3H1
+PI4K2B
+PCDHGA8
+GUCY1A2
+MDH2
+DLG2
+MTERF4
+SSBP4
+ABHD5
+OPA1
+GC
+PTPN2
+CTSV
+IGHV4-59
+CLTRN
+ITGA1
+FARSA
+RBP1
+PAK1
+PCDHGA10
+PRKG1
+PDE1C
+CD55
+FLNC
+RAG1
+CACNA2D2
+AP3B1
+DNAJB4
+MYH2
+NHEJ1
+SCAMP1
+SEMA4A
+P3H2
+GOT1
+PCYT2
+SELENOH
+FANCD2
+NTPCR
+ICAM2
+PLPP4
+ST6GAL2
+EYA4
+GAPDHS
+CD58
+HSPA9
+CEP170
+WARS2
+RPS25
+L2HGDH
+PPIC
+SPEN
+ATP5F1D
+MST1
+ILK
+ATP5ME
+AADAT
+UBXN1
+TYMP
+APOB
+IGHV3-11
+ACY1
+ITGA6
+CEP250
+PSMC4
+LUM
+MS4A2
+LCAT
+AGPAT4
+RGS17
+GLS2
+CACNA1C
+TNS2
+F10
+ARHGEF6
+STMN1
+PKD2
+PRSS23
+PANX1
+LASP1
+EIF4G3
+HOXC10
+OXT
+ASPA
+APPL1
+ADRA2C
+DHTKD1
+HOMER3
+ATP5PB
+SELENBP1
+SCT
+ATP6V0D2
+DDAH1
+NDUFA4L2
+HOXA2
+URI1
+SORBS2
+DNAJA3
+NQO1
+BICD2
+LTBP1
+SMARCE1
+MMAB
+PXDN
+PTGDR
+PDE3A
+ARPC4
+DYNLRB2
+CES1
+IGLV2-11
+CCNG1
+SCARF1
+RAB4A
+CAMK2A
+ADIPOR1
+MARCKS
+PRKG2
+FGF7
+TPSD1
+GPC1
+ZNF217
+TPST2
+CD4
+DPYSL2
+DBN1
+SNW1
+MIS12
+VAMP2
+MYL1
+SYT2
+COQ5
+CD99
+HOXA5
+CCS
+ADAMTS1
+ATP5PD
+AK5
+ACTR1A
+TRADD
+CSGALNACT2
+RBBP7
+GULP1
+CREG1
+EIF4B
+RASAL2
+THNSL1
+GIT2
+APOA1
+NUFIP2
+EHMT2
+SRSF1
+SASH1
+ATP8B3
+TXN
+PDHB
+CCAR1
+SLC10A1
+GATAD2A
+MYLPF
+ETV1
+FKBP10
+P2RX3
+CNN1
+LIN9
+PSIP1
+MAPRE3
+QTRT2
+COQ7
+ITPR3
+ENTPD1
+NCL
+PRPH
+COL11A2
+AKAP1
+TIMP2
+GPX7
+RUVBL2
+RNF40
+STOML2
+ARMC10
+FBN1
+PLRG1
+ROBO2
+RAB5B
+CDH15
+HMGCLL1
+ATP8A2
+NDUFS3
+EEF1B2
+MECOM
+CD46
+NT5M
+COL7A1
+SH3PXD2B
+COX6B1
+CKMT2
+PAPPA
+NPM1
+TOPORS
+PTPRB
+ALB
+FOXF1
+BAG2
+TYRP1
+SMG9
+GBGT1
+RASD1
+SETD7
+MIB1
+PPIA
+CREB3L4
+HTR6
+DLL1
+MTHFD2L
+PWP2
+PCSK6
+MLX
+PARP15
+QTRT1
+HMMR
+KAT8
+STXBP3
+HMOX1
+CCL26
+IDNK
+SPARCL1
+LRCH1
+RHOJ
+PHACTR1
+SSR1
+SRSF2
+GSTA3
+TST
+PPEF1
+TRHDE
+CASP3
+ELAVL1
+RBBP8
+ACAN
+SOST
+ACSL4
+POLA1
+TAB2
+KCTD6
+WSB1
+FERMT3
+CYP17A1
+ARHGAP1
+ANXA1
+ZCCHC8
+TAB1
+ELMO2
+TSC22D1
+COMMD6
+STAG2
+PRRC2A
+AKR1C2
+SMARCC2
+RBM8A
+ALDH1L1
+CENPM
+KAT7
+CTDSPL
+MAP1LC3C
+MYO6
+HSP90AA1
+MYO18A
+POU2F2
+QDPR
+ASNA1
+AXL
+SF3B1
+SUN2
+POLA2
+NAGA
+LRP8
+COX5B
+UBE2Q2
+SERPINA3
+HIRIP3
+DVL3
+TSPAN8
+PHF1
+APLNR
+HSD17B8
+SNX8
+NCKAP5L
+TLK1
+CHST14
+PLG
+SEPT3
+YEATS2
+F2RL3
+F3
+TBXAS1
+UGP2
+PRDX1
+PKP3
+FBL
+COL17A1
+MICAL1
+SYTL1
+KLB
+SNRPC
+ADA2
+TRPC4
+AFAP1L2
+NFIB
+NELFA
+ASH2L
+MYL2
+SOX8
+CFI
+PPP3CA
+EPHX1
+INPP5F
+DMAP1
+ATRIP
+TGFBR1
+GKAP1
+NSUN6
+DNM1
+HADH
+ACSM3
+SIRT3
+MPZL1
+SUPT5H
+AP2S1
+SLIT2
+FGB
+CACNA1F
+SNX18
+NFATC4
+CDC34
+STK17B
+CKMT1B
+PAK2
+IGHV3-13
+PPIL6
+HSPB8
+FHL1
+APOE
+THPO
+COPB1
+PLK2
+N6AMT1
+ATP5F1A
+NUDT14
+SPIB
+LXN
+PPIL3
+TNS1
+ACO1
+FOXP1
+MAVS
+PLPP1
+TUSC3
+CCL21
+PTPN4
+HCFC1
+GLUD1
+ROR2
+GPKOW
+EPB41L1
+FH
+CIC
+ACYP1
+RBBP5
+PRMT5
+AP2B1
+DLC1
+TNFSF4
+PON3
+PLAT
+ARHGEF28
+ELOVL7
+LOX
+OSCP1
+FOXF2
+HMGN1
+FLT3LG
+OXSM
+NTRK3
+APOBEC3B
+HTR2A
+RBMX
+SEH1L
+BPTF
+RPL36A
+EBF1
+CGGBP1
+HTRA1
+PEBP1
+PLA2G5
+SPSB4
+ECI2
+CKM
+WBP2
+SPSB1
+SULF2
+AKAP4
+RGS16
+WASL
+DGKA
+SNCB
+TPM2
+ATP10A
+GEM
+ATXN7L3
+METTL6
+AHSA1
+NDUFV2
+RBPMS
+GNG12
+CUL3
+KCNJ3
+TRIAP1
+BOD1L1
+YEATS4
+NXN
+FBXL7
+MBD3
+ADAM12
+GBE1
+ITGB1
+POGLUT1
+NES
+NEK6
+KIAA1217
+AHCYL1
+IL1RAP
+ZDHHC2
+CREB3L1
+PCDH7
+FARP2
+PIK3R5
+SMARCD1
+GRP
+APOD
+FKBP14
+HS2ST1
+CES3
+BTG2
+PON1
+PIGP
+BUD23
+DOK3
+SYNGAP1
+XPA
+NELFB
+GSN
+COL6A2
+FKBP11
+UNC5B
+FLAD1
+DMD
+RBM10
+PLA2G15
+PCCB
+LRP2
+FAAH
+NMNAT3
+CEP131
+OGG1
+MYO9B
+IGF2R
+PPP4R2
+TRIM24
+UMPS
+INTS6
+KHSRP
+CYB5R3
+A1BG
+ATP10D
+PCYT1B
+SSNA1
+PPP3R1
+CDC42EP5
+LAMB1
+GPD2
+TBK1
+HSPE1
+RCAN1
+MYCBP2
+NFATC1
+PITX2
+SAMD4B
+FMR1
+GDNF
+NR2C2
+INMT
+ACTL6A
+DPYSL3
+MTMR12
+GLI3
+AK2
+HMGB2
+GMPR2
+GAREM2
+EPGN
+NNT
+NOLC1
+CYB5RL
+HDAC11
+THBS2
+DSE
+VTN
+PI4KA
+MYLK3
+GPX3
+EDF1
+TPST1
+CH25H
+UQCRC2
+CSNK1G1
+HDGF
+GADD45G
+SMARCD2
+FCGR2C
+FHOD1
+CIDEC
+ITIH2
+SRSF6
+CSTF2
+MYO1C
+ACYP2
+RPE
+KPNA3
+FN3KRP
+PRG4
+FNIP2
+AQP7
+CNN3
+ENTPD6
+TOM1
+ATXN1
+AGT
+FASN
+RFC3
+SRR
+FUS
+ATP6V0D1
+NADK2
+PUM2
+PLCG1
+B3GALT6
+CYB5A
+SRGAP3
+IL16
+AFMID
+PHKG1
+PPP1R12B
+OXCT1
+ATP5F1B
+PCDHGB1
+RPL29
+PPIH
+LATS2
+NT5E
+ALDH1L2
+PXK
+SAFB2
+GALNT5
+NFE2L2
+PCDHGB2
+IMPA2
+MYO5A
+GLE1
+TYW3
+RCL1
+NKX3-2
+WNT7A
+ASPH
+ACAP1
+MAT2B
+ATIC
+MATR3
+SF3B2
+SUMO2
+RRM1
+CREB3L2
+DLX5
+DOK6
+NRBP2
+CSPG4
+SELENOP
+MGMT
+HOXA11
+SERPIND1
+ADH1B
+ADH1C
+PRKD1
+RBX1
+UXT
+MEGF10
+IGHV3-48
+HIBCH
+COQ9
+PCDHGA7
+GALNT2
+SH3GL1
+FUT11
+EBF3
+PSME2
+ACTN4
+GGT5
+ACVR1C
+FADS2
+EAPP
+SH3KBP1
+SOX11
+SET
+MAP4K4
+NPAT
+SAP30L
+NEK7
+RBM25
+PLTP
+ARID5B
+COX15
+MSN
+TNFAIP1
+NGLY1
+UTRN
+RAPGEF2
+GNB1
+SNX2
+HNRNPF
+LPCAT2
+CCDC86
+HSPB6
+NCBP2
+RAB11FIP5
+CSRP2
+ATP5F1C
+CALD1
+ITGB3BP
+PRKCSH
+KMO
+EVPL
+NEK11
+CELF1
+TFPI
+SDC3
+BMP8A
+ALG6
+SIRPA
+TPD52
+ABCB7
+HOXC9
+MAGI2
+PPIB
+BTF3
+RORC
+CDC42BPA
+CCR10
+SEC61A1
+MGLL
+ST8SIA1
+COL2A1
+SARM1
+FGF11
+PDK2
+PGM2L1
+USP13
+ARHGEF15
+BCL2L11
+ALDH3B1
+COX4I2
+COL5A2
+AGMO
+ZRANB2
+TPM1
+B4GALNT1
+GBA
+PCDHGA5
+CETN2
+TLR2
+LOXL1
+PKN2
+TRIM33
+MYH11
+SLC34A3
+ENPEP
+TLN1
+SMS
+NOL3
+SRSF5
+NKD1
+ACTB
+LIFR
+SUCLG2
+PPM1F
+CRTC2
+MALT1
+GARS
+ING5
+MRM3
+ELMO3
+HDLBP
+FHIT
+CLEC1B
+LRP6
+APOA2
+APOC3
+GALNT8
+CRTC3
+MLKL
+IGHV2-70
+BIRC7
+RTN4
+NOG
+PCDHGB6
+SYNPO
+HPGDS
+TCERG1
+COLGALT2
+ORC2
+NCK1
+RRAS
+IL18R1
+DDX42
+NCF4
+COX4I1
+PDGFB
+MYCBP
+CEMIP
+DAPK3
+MTMR9
+CTR9
+HSPD1
+CPSF6
+IMMT
+FBLN2
+PLEC
+DSP
+MAP1LC3A
+CSDC2
+PPP1R13L
+CRBN
+BCHE
+EBNA1BP2
+F2
+SEPT8
+PDGFC
+CEP70
+PIGO
+ENPP1
+TBX5
+ICE2
+RBMXL1
+ASAP1
+MAN2B1
+DMAC2L
+FSTL1
+ANP32B
+NUP35
+SLC16A3
+EN1
+TDP1
+PDPN
+CDK15
+HUWE1
+CSRP1
+ARFRP1
+BLMH
+CHCHD1
+ZADH2
+GCAT
+ZC3H18
+NKX2-5
+ADHFE1
+COPA
+CXXC1
+COQ6
+PCDHGA1
+SIRT2
+ANG
+SORBS1
+SMC3
+ENC1
+EEF1A1
+EOMES
+MYOF
+HNRNPU
+IGHV2-5
+TRMT61A
+TAF6
+NR1H4
+GMPR
+AK7
+EFEMP1
+TRIP10
+MSL2
+CPT1C
+HOXA7
+SFRP5
+PRPS2
+LPP
+APOH
+IL9R
+NTRK2
+RPS6KA5
+MAP3K2
+MBD1
+GPBP1
+AHSG
+SNRPA1
+FZD1
+SNX9
+PTPRN2
+GRK6
+AK8
+ZFYVE16
+PCBD1
+ARSB
+NUDC
+PYGO1
+THOC5
+CDH23
+LEO1
+CP
+MAPRE2
+VASP
+IL7R
+PTGS1
+RAI14
+UGDH
+RGCC
+SH3BGRL3
+ARSD
+SEC31A
+TNFAIP8L2
+MTMR2
+JPH2
+NEDD4
+PIAS1
+MDH1B
+MMACHC
+ALDOB
+CDK2AP1
+APIP
+DTNB
+UPP1
+PIK3R6
+PLXNA1
+P4HA2
+MB
+OGFR
+CLYBL
+RFC5
+FKBP9
+CHCHD3
+KIAA0319
+EDN3
+HTR3D
+H3-3A
+NUMA1
+PDLIM5
+ZNF609
+ATP6V1G3
+IGLC2
+RPL37
+ADPRH
+GBF1
+CEP63
+CNDP1
+CEBPZ
+NAPRT
+NUP62
+UIMC1
+QKI
+ACAD8
+STAG1
+GCSH
+SBF1
+CAPZB
+COX6B2
+WIPF1
+WDR77
+FLNA
+MGAT1
+ABCC9
+EXOC6
+NUCKS1
+PGGT1B
+EEA1
+EIF6
+DYNC1I1
+HEPH
+POMGNT1
+GGCX
+ACLY
+NUP88
+ACSS1
+COL5A1
+WAC
+ITGA2
+UNC5C
+IDH3B
+KIF5C
+PPP1R8
+TOM1L1
+GALNT10
+GAP43
+TSHR
+ALDH7A1
+TAF6L
+RGS19
+PENK
+CACNA1G
+RASGRF2
+ALDH18A1
+SAFB
+STIP1
+IRAK3
+CAVIN1
+PRDM16
+KLK4
+TRIO
+F2RL2
+MAZ
+PRIM1
+CDC37
+TF
+IL1RL1
+AIFM2
+SEPT2
+CYP26A1
+IL3RA
+SDC4
+OTUB1
+RUVBL1
+FAT1
+IL1R1
+RRP8
+ARSF
+MRGBP
+BCDIN3D
+TMEM97
+DACT1
+AIMP2
+SEC24B
+MYLK2
+DNMT3B
+MDH1
+BCAR1
+SUFU
+SMTNL2
+GAB3
+KDELR3
+NDUFB6
+COX8A
+UTP14A
+ACOT9
+TGFB1I1
+ALDH5A1
+AFAP1
+MYH1
+DST
+ECHS1
+DUSP28
+ATP5IF1
+VWA1
+CD33
+NTRK1
+SEPT11
+ARID3A
+MDC1
+PTH1R
+LPAR1
+MFAP5
+ILF3
+TLR5
+MYO3B
+SH3GL3
+EXTL1
+FSTL3
+EIF4G2
+TBL3
+PRDM6
+SHC1
+PTGIS
+SNED1
+COIL
+LAIR1
+NDUFS1
+CHAF1A
+PMPCA
+PPIE
+CLDN4
+CLDN11
+PCDH18
+SGF29
+XYLT1
+PARS2
+ALAS1
+F11R
+KMT2D
+CD14
+NDUFA7
+GRM5
+HAVCR2
+TIMP3
+ICMT
+PLXNA3
+SLC25A11
+KIF5B
+SUV39H2
+MPI
+POLL
+SIGIRR
+SDC2
+FDPS
+FAAH2
+DDHD2
+MC1R
+SNRPD3
+SDS
+SKI
+PPM1J
+DHRS2
+PLOD2
+PDGFRA
+MSH6
+PECAM1
+EPB41
+SERBP1
+ALDH1B1
+AEBP1
+ING3
+JUP
+F12
+SPR
+SIN3A
+MYLK
+MPHOSPH10
+YWHAH
+IGHG1
+RPS6KC1
+CBR4
+USP1
+PCF11
+PNPLA4
+TRPV2
+SNRPD1
+CLEC12B
+MFAP1
+SMC1A
+PDCD4
+PCDHGB4
+DAB1
+SEPTIN8
+UPF3A
+S100A9
+ANP32A
+COQ3
+HMGB1
+LUZP1
+HSPA1A
+PPCDC
+HFE
+ITIH3
+ADH1A
+GCDH
+WNT9B
+RAD23A
+WNT11
+C2CD5
+CDK14
+GLCE
+DHRS11
+ID3
+TXLNG
+SELP
+GDPD5
+CENPB
+IGF2
+OCLN
+RSL1D1
+HAND2
+DHFR
+LIMS1
+BST1
+SMAD9
+WIPI1
+RPS10
+CLDN3
+COX5A
+BCKDHB
+B4GALT7
+TAF2
+DLG3
+MIOS
+TAF1L
+HAT1
+PPIG
+AOC3
+RBM27
+DKK3
+GADD45B
+CTSK
+FANCE
+INTS1
+CEP57
+NUP133
+IGKV2D-40
+ANK3
+ADRM1
+HTR7
+GARS1
+ARHGEF25
+KDELR1
+U2AF2
+APOL1
+SEC13
+CHSY1
+RNF168
+COX20
+GPD1L
+PHOSPHO2
+SH2D3C
+PTPRE
+SERPINA1
+FZD7
+DDB1
+ATP8A1
+GRHPR
+SYNM
+RETREG1
+DCAF8
+COL4A6
+SAP18
+SYNJ2
+YKT6
+GBA2
+SFPQ
+B4GALT4
+TBX18
+CCR6
+NIPBL
+AIMP1
+RAP1GDS1
+PIK3CG
+ALOX15B
+VCAN
+AHRR
+WNT2B
+INPP5D
+CNN2
+NUDT5
+ZNF638
+CDKL5
+PCDHB12
+PPP1R1B
+RAP1B
+SSH1
+AMPH
+COQ8A
+WDR3
+INHBA
+SCG2
+BATF3
+PPP2R5C
+KDM6A
+LAMA4
+DTYMK
+NAXE
+STMN2
+IGFBP7
+LARP1
+CABLES1
+PDE1B
+TGFB3
+CACNA2D1
+REEP5
+TNFRSF12A
+KDM1A
+TBC1D20
+ARHGAP23
+GDF9
+MANSC1
+POLDIP3
+KYAT1
+BMX
+NF1
+MARS1
+BAZ1B
+PPP3CC
+HCLS1
+GNAL
+FBLIM1
+SERPINC1
+ACIN1
+LGMN
+UBA1
+ZFP36L1
+PGF
+RPL35
+SUGP1
+PPP1R12A
+PAX5
+IGKC
+RBM17
+PDZK1
+PDE1A
+ARPC1B
+FZD2
+SFRP4
+SMPD3
+FKBP7
+TSTD1
+RGL1
+PAXIP1
+ZNFX1
+EPHB3

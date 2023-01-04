@@ -1,0 +1,88 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	FAM120B	rppasite	FAM120B-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MMP2	rppasite	MMP2-R|r|219 226 255|50 50 50|-2.516718973658065
+node	RUNX1	color	209 217 255
+node	RUNX1	tooltip	RUNX1-G, -3.2405335456927817
+node	PPARG	rppasite	PPARG-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED1	rppasite	MED1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED21	rppasite	MED21-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	RELA	rppasite	RELA-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED15	rppasite	MED15-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED29	rppasite	MED29-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED9	rppasite	MED9-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED12	rppasite	MED12-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CCNC	rppasite	CCNC-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	FN1	rppasite	FN1-R|r|211 219 255|50 50 50|-3.044271294455243
+node	MED18	rppasite	MED18-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	GATA3	rppasite	GATA3-R|r|255 205 193|50 50 50|4.3123245411075555
+node	MED6	rppasite	MED6-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED16	color	255 225 218
+node	MED16	tooltip	MED16-G, 2.594362019750628
+node	MED27	rppasite	MED27-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	VIM	rppasite	VIM-P-S56|p|217 224 255|0 180 20|-2.6479396088386418
+node	RXRA	rppasite	RXRA-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	NCOA3	rppasite	NCOA3-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	RORC	rppasite	RORC-R|r|255 229 223|50 50 50|2.262356664340338
+node	MED23	rppasite	MED23-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CDK8	rppasite	CDK8-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CREBBP	rppasite	CREBBP-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ESR1	rppasite	ESR1-R|r|255 225 218|50 50 50|2.59292849075014
+node	MED7	rppasite	MED7-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED17	rppasite	MED17-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED10	rppasite	MED10-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CDK19	rppasite	CDK19-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED4	rppasite	MED4-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	LEP	rppasite	LEP-R|r|215 222 255|50 50 50|-2.808641240387742
+node	KCTD6	rppasite	KCTD6-R|r|255 205 193|50 50 50|4.3123245411075555
+node	FABP4	rppasite	FABP4-R|r|168 184 255|50 50 50|-6.085259247740214
+node	FCER2	rppasite	FCER2-R|r|207 216 255|50 50 50|-3.3721179561066528
+node	ETS1	rppasite	ETS1-R|r|199 209 255|50 50 50|-3.918366438808823
+node	MED20	rppasite	MED20-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	NCOA1	rppasite	NCOA1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED30	rppasite	MED30-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MYB	rppasite	MYB-R|r|255 222 215|50 50 50|2.808641240387742
+node	TWIST1	rppasite	TWIST1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	PLIN1	rppasite	PLIN1-R|r|219 226 255|50 50 50|-2.516718973658065
+node	MED25	rppasite	MED25-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	EGR1	rppasite	EGR1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	VDR	color	167 183 255
+node	VDR	tooltip	VDR-G, -6.128727624240267
+node	CBFB	color	209 218 255
+node	CBFB	tooltip	CBFB-G, -3.1874560465673505
+node	ADIPOQ	rppasite	ADIPOQ-R|r|204 213 255|50 50 50|-3.580020231196876
+node	MED19	rppasite	MED19-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	HELZ2	rppasite	HELZ2-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED13L	rppasite	MED13L-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	ARNT	rppasite	ARNT-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	TWIST2	rppasite	TWIST2-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	PAK1	color	255 221 214
+node	PAK1	tooltip	PAK1-G, 2.88684186194339
+node	MED31	rppasite	MED31-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	THRAP3	rppasite	THRAP3-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	NCOA2	rppasite	NCOA2-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED22	rppasite	MED22-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED28	rppasite	MED28-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	KLF8	rppasite	KLF8-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED14	rppasite	MED14-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	LPL	rppasite	LPL-R|r|209 218 255|50 50 50|-3.211561733070667
+node	MED13	rppasite	MED13-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	CST5	rppasite	CST5-R|r|255 212 202|50 50 50|3.7012163112115095
+node	WT1	color	255 221 213
+node	WT1	tooltip	WT1-G, 2.9137526875411752
+node	VIM	rppasite	VIM-R|r|212 220 255|50 50 50|-2.9675089660143006
+node	CD36	rppasite	CD36-R|r|181 195 255|50 50 50|-5.166561581881844
+node	HIF1A	rppasite	HIF1A-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	SRPX	rppasite	SRPX-R|r|207 216 255|50 50 50|-3.3557409129966937
+node	GTF2F2	color	222 228 255
+node	GTF2F2	tooltip	GTF2F2-G, -2.336877985074087
+node	IGF1R	rppasite	IGF1R-R|r|255 222 215|50 50 50|2.8246492469673496
+node	MED26	rppasite	MED26-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED24	rppasite	MED24-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	FOS	rppasite	FOS-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED8	rppasite	MED8-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED16	rppasite	MED16-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	TFF3	rppasite	TFF3-R|r|255 222 215|50 50 50|2.808641240387742
+node	NFKB1	rppasite	NFKB1-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	MED11	rppasite	MED11-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0
+node	PPARGC1A	rppasite	PPARGC1A-inactive-by-network-sig|i|241 243 255|0 180 20|-1.0

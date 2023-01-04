@@ -1,0 +1,34 @@
+{
+  "nodes" : [ {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,226,219)",
+        "siteText" : "p",
+        "siteInfo" : "CHEK1-P-S280",
+        "siteBorderColor" : "rgb(180,0,20)"
+      } ],
+      "id" : "CHEK1",
+      "text" : "CHEK1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,218,210)",
+        "siteText" : "r",
+        "siteInfo" : "FANCI-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FANCI",
+      "text" : "FANCI"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "CHEK1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6797711", "http://identifiers.org/reactome/R-HSA-6797712" ],
+      "target" : "FANCI"
+    }
+  } ]
+}

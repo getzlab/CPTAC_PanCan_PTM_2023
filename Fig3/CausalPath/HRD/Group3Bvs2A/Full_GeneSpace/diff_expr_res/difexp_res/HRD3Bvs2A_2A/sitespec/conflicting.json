@@ -1,0 +1,51 @@
+{
+  "nodes" : [ {
+    "css" : {
+      "backgroundColor" : "rgb(205,214,255)"
+    },
+    "data" : {
+      "tooltipText" : "LYN-G, -3.5092804574636705",
+      "sites" : [ ],
+      "id" : "LYN",
+      "text" : "LYN"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(219,226,255)"
+    },
+    "data" : {
+      "tooltipText" : "JAK2-G, -2.4876111425513745",
+      "sites" : [ ],
+      "id" : "JAK2",
+      "text" : "JAK2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,229,223)",
+        "siteText" : "p",
+        "siteInfo" : "PTK2-P-Y576-2",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "PTK2",
+      "text" : "PTK2"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "PTK2_577, PTK2_576, PTK2_407, PTK2_925, PTK2_397, PTK2_861",
+      "edgeType" : "phosphorylates",
+      "source" : "JAK2",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/Catalysis_486739b208dc68ed3eb989565b3b0468", "http://pathwaycommons.org/pc12/Transport_1257d482c1ea8ec3dc26c6cc796b0314", "http://pathwaycommons.org/pc12/Catalysis_7d5905ea1c96b3374b8c7741e7ff0037", "http://pathwaycommons.org/pc12/Catalysis_fa902b3286446ca677e8320b22a19f07", "http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd", "http://pathwaycommons.org/pc12/SmallMolecule_21d1714b69eec47d13f1ee5f51c33ad7", "http://pathwaycommons.org/pc12/ComplexAssembly_bc062f1cc8787056cf2232521a8c49ae" ],
+      "target" : "PTK2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PTK2_577, PTK2_576, PTK2_407, PTK2_925, PTK2_397, PTK2_861",
+      "edgeType" : "phosphorylates",
+      "source" : "LYN",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/Catalysis_29ef0f8b2f8a47f043cbadb03c1eed55", "http://pathwaycommons.org/pc12/Catalysis_0f01cd490cb80bb34b64e95ba88f37c3", "http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd", "http://pathwaycommons.org/pc12/ComplexAssembly_bc062f1cc8787056cf2232521a8c49ae" ],
+      "target" : "PTK2"
+    }
+  } ]
+}

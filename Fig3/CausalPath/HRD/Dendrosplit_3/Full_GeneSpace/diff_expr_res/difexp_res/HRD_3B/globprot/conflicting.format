@@ -1,0 +1,38 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	PLIN1	color	255 170 151
+node	PLIN1	tooltip	PLIN1-G, 7.26778627145958
+node	VDR	color	255 183 167
+node	VDR	tooltip	VDR-G, 6.128727624240267
+node	FABP4	color	255 172 153
+node	FABP4	tooltip	FABP4-G, 7.090135298743058
+node	IGF1R	color	210 218 255
+node	IGF1R	tooltip	IGF1R-G, -3.1639193602804827
+node	MED1	rppasite	MED1-active-by-network-sig|!|255 243 241|0 180 20|1.0
+node	NCOA2	rppasite	NCOA2-active-by-network-sig|!|255 243 241|0 180 20|1.0
+node	CPT2	color	211 219 255
+node	CPT2	tooltip	CPT2-G, -3.0878896670066918
+node	APOB	color	255 220 212
+node	APOB	tooltip	APOB-G, 2.9737694413272373
+node	TFF3	color	221 227 255
+node	TFF3	tooltip	TFF3-G, -2.4009149895423976
+node	NCOA1	rppasite	NCOA1-active-by-network-sig|!|255 243 241|0 180 20|1.0
+node	A1BG	color	255 217 208
+node	A1BG	tooltip	A1BG-G, 3.25497772054929
+node	CD36	color	255 163 142
+node	CD36	tooltip	CD36-G, 7.866906453529631
+node	CD14	color	255 222 214
+node	CD14	tooltip	CD14-G, 2.857378404502525
+node	MED16	color	218 225 255
+node	MED16	tooltip	MED16-G, -2.5943620197506214
+node	HELZ2	rppasite	HELZ2-active-by-network-sig|!|255 243 241|0 180 20|1.0
+node	PPARG	rppasite	PPARG-active-by-network-sig|!|255 243 241|0 180 20|1.0
+node	SKP2	color	255 205 194
+node	SKP2	tooltip	SKP2-G, 4.2501884042640645
+node	RELA	rppasite	RELA-active-by-network-sig|!|255 243 241|0 180 20|1.0
+node	A2M	color	255 200 188
+node	A2M	tooltip	A2M-G, 4.684976248625694
+node	WT1	color	213 221 255
+node	WT1	tooltip	WT1-G, -2.9137526875411788
+node	BAD	color	213 221 255
+node	BAD	tooltip	BAD-G, -2.945488801289141

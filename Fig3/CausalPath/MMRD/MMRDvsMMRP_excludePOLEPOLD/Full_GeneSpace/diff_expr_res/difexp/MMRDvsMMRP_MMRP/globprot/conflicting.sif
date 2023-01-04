@@ -1,0 +1,29 @@
+STAT1	upregulates-expression	MVP	PMID:16418217	
+FANCD2	upregulates-expression	ATM	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+ATM	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+HDAC9	downregulates-expression	MYEF2	PMID:10487760	
+ATM	upregulates-expression	FAS	PMID:19502594	
+F2	upregulates-expression	HNF4A	PMID:12911579	
+HNF4A	upregulates-expression	F2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_6fea14096e6c4c04f05f398db0dcde06 http://pathwaycommons.org/pc12/TemplateReaction_b0ae0a49e97c4a42a48f1b171aef943c	
+MYCN	upregulates-expression	NES	PMID:15117961	
+HNF4A	upregulates-expression	PCSK9	PMID:21123766	
+AGO2	downregulates-expression	MECP2	http://identifiers.org/reactome/R-HSA-9021183 http://pathwaycommons.org/pc12/Control_f38a9f8f29b443bc7244b1713dc1f081	
+CBFB	upregulates-expression	AXIN1	http://identifiers.org/reactome/R-HSA-8932076 http://identifiers.org/reactome/R-HSA-8932090	
+HDAC1	downregulates-expression	CCNA2	http://identifiers.org/reactome/R-HSA-8964588 http://identifiers.org/reactome/R-HSA-8964590	
+HDAC1	downregulates-expression	PCNA	PMID:9650586	
+SSRP1	upregulates-expression	ATM	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+MYCN	downregulates-expression	CLU	PMID:23362253	
+LCK	upregulates-expression	BCL2L1	http://pathwaycommons.org/pc12/TemplateReaction_5445cfba9d458ee70d2ed4c1f2b1a8ab http://pathwaycommons.org/pc12/TemplateReactionRegulation_120dfffed3642e4572f139938aa265a6	
+STAT1	downregulates-expression	HSP90AA1	PMID:12940076	
+HDAC1	downregulates-expression	CDK1	http://identifiers.org/reactome/R-HSA-8964594 http://identifiers.org/reactome/R-HSA-8961934	
+STAT1	upregulates-expression	KRT17	PMID:21796151	
+UHRF1	downregulates-expression	ABCB1	PMID:20037778	
+SPDEF	downregulates-expression	PLAUR	PMID:12907642	
+STAT1	upregulates-expression	BCL2L1	http://pathwaycommons.org/pc12/TemplateReaction_41fd3fd58c75df6d868119ccee43b707 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4fc010d5acb0720b60e589893d3fdc58	
+SUPT16H	upregulates-expression	ATM	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2H	upregulates-expression	ATM	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDX1	upregulates-expression	PCNA	PMID:11743638	
+HDAC1	downregulates-expression	SPP1	PMID:20609221 PMID:22422937	
+FOSL2	upregulates-expression	CCNA2	http://pathwaycommons.org/pc12/TemplateReaction_dd0161230f83842882b6169d0ad18976 http://pathwaycommons.org/pc12/TemplateReactionRegulation_fe47e8607fe1a42666faf06468d5639e	
+CTDP1	upregulates-expression	ATM	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+MOV10	downregulates-expression	KPNA2	http://identifiers.org/reactome/R-HSA-9012218 http://identifiers.org/reactome/R-HSA-9012196	

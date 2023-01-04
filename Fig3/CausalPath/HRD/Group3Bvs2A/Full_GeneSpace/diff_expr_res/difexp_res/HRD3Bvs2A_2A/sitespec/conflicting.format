@@ -1,0 +1,7 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	LYN	color	205 214 255
+node	LYN	tooltip	LYN-G, -3.5092804574636705
+node	JAK2	color	219 226 255
+node	JAK2	tooltip	JAK2-G, -2.4876111425513745
+node	PTK2	rppasite	PTK2-P-Y576-2|p|255 229 223|0 180 20|2.2539913318274207

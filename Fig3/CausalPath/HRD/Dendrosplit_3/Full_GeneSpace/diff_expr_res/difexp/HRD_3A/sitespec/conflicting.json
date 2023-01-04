@@ -1,0 +1,33 @@
+{
+  "nodes" : [ {
+    "css" : {
+      "backgroundColor" : "rgb(255,221,214)"
+    },
+    "data" : {
+      "tooltipText" : "PAK1-G, 2.88684186194339",
+      "sites" : [ ],
+      "id" : "PAK1",
+      "text" : "PAK1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(217,224,255)",
+        "siteText" : "p",
+        "siteInfo" : "VIM-P-S56",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "VIM",
+      "text" : "VIM"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "VIM_26, VIM_426, VIM_25, VIM_47, VIM_412, VIM_39, VIM_51, VIM_73, VIM_66, VIM_56",
+      "edgeType" : "phosphorylates",
+      "source" : "PAK1",
+      "pcLinks" : [ "PMID:15766329", "PMID:16997882", "PMID:16990256", "PMID:11895474" ],
+      "target" : "VIM"
+    }
+  } ]
+}

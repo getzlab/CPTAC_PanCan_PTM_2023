@@ -1,0 +1,35 @@
+NPM1	downregulates-expression	NOP2	http://identifiers.org/reactome/R-HSA-8869563 http://identifiers.org/reactome/R-HSA-8869560	
+TNRC6C	downregulates-expression	MECP2	http://identifiers.org/reactome/R-HSA-9021183 http://pathwaycommons.org/pc12/Control_f38a9f8f29b443bc7244b1713dc1f081	
+ETS1	upregulates-expression	ANGPT2	PMID:15003510 http://pathwaycommons.org/pc12/TemplateReactionRegulation_12289512a37c02795c88f81a1cc0215b http://pathwaycommons.org/pc12/TemplateReaction_d30acfb696276c76e3b2600994c149d8	
+MTOR	upregulates-expression	CYCS	http://pathwaycommons.org/pc12/TemplateReactionRegulation_86f37d800d82a2160d36f7917bfeb398 http://pathwaycommons.org/pc12/TemplateReaction_60f5acc4101163a12afeaca09f4e1404	
+ATF2	upregulates-expression	CCNA2	http://pathwaycommons.org/pc12/TemplateReaction_b872af3b247898b57a7225108e8dc8de http://pathwaycommons.org/pc12/TemplateReaction_b87635580478921c79683a8f722ff5cb http://pathwaycommons.org/pc12/TemplateReactionRegulation_108d8a191a0c5270dc74405800b45965 http://pathwaycommons.org/pc12/TemplateReactionRegulation_11c021145a11520a99245c6a7ed2ee1a http://pathwaycommons.org/pc12/TemplateReactionRegulation_fc995636de4adf7aa3ecddfdb1e9e6e8 http://pathwaycommons.org/pc12/TemplateReaction_3b971d58d269f80d34ca8e505160e163	
+MECP2	downregulates-expression	TFF1	PMID:15870696	
+ELF1	upregulates-expression	BLK	http://identifiers.org/reactome/R-HSA-8938986 http://identifiers.org/reactome/R-HSA-8938987	
+IFI16	downregulates-expression	ICAM1	PMID:17699163	
+E2F1	upregulates-expression	LRBA	PMID:15064745	
+STAT4	downregulates-expression	MSN	http://identifiers.org/reactome/R-HSA-8951192 http://identifiers.org/reactome/R-HSA-8950218	
+PCNA	upregulates-expression	TFF1	http://pathwaycommons.org/pc12/TemplateReaction_91728147fd570b8258133d7b73883964 http://pathwaycommons.org/pc12/TemplateReactionRegulation_f446143e0e82d86d42b8eadb4527b00d	
+YBX1	downregulates-expression	KPNA2	PMID:20596676	
+STAT4	downregulates-expression	RPLP0	http://identifiers.org/reactome/R-HSA-8950322 http://identifiers.org/reactome/R-HSA-8951296	
+DDX5	upregulates-expression	TFF1	http://identifiers.org/reactome/R-HSA-9023859 http://identifiers.org/reactome/R-HSA-9023867	
+YBX1	downregulates-expression	CCNB1	PMID:20596676	
+ETS1	upregulates-expression	ERG	PMID:7731694	
+YBX1	downregulates-expression	CKS2	PMID:20596676	
+IRF1	downregulates-expression	CCNB1	PMID:22200613	
+YBX1	downregulates-expression	TYMS	PMID:17072343	
+IRF1	downregulates-expression	CDK1	PMID:22200613	
+ETS1	downregulates-expression	NDRG1	PMID:18381358	
+IL6ST	upregulates-expression	STAT1	PMID:9169475	
+FOXA1	downregulates-expression	SERPINC1	PMID:8910619	
+STAT1	upregulates-expression	S100A10	PMID:12645529	
+DNMT1	downregulates-expression	BIRC5	PMID:17124180	
+ATF2	upregulates-expression	CBFB	http://pathwaycommons.org/pc12/TemplateReaction_818aca6e5c600bd0e25ed9238d687175 http://pathwaycommons.org/pc12/TemplateReactionRegulation_762eb18814c06bd49dafc2a181e49d72	
+E2F1	downregulates-expression	DNMT1	PMID:24502362	
+CCNT2	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+YBX1	downregulates-expression	CDC20	PMID:20596676	
+NPM1	downregulates-expression	HSPD1	http://identifiers.org/reactome/R-HSA-8869557 http://identifiers.org/reactome/R-HSA-8869558	
+STAT4	downregulates-expression	LCP1	http://identifiers.org/reactome/R-HSA-8951299 http://identifiers.org/reactome/R-HSA-8950426	
+LIN9	downregulates-expression	TOP2A	http://identifiers.org/reactome/R-HSA-8964532 http://identifiers.org/reactome/R-HSA-8964531	
+CCNT2	upregulates-expression	MDC1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+LIN9	downregulates-expression	PCNA	http://identifiers.org/reactome/R-HSA-8964518 http://identifiers.org/reactome/R-HSA-8961665	
+MOV10	downregulates-expression	KPNA2	http://identifiers.org/reactome/R-HSA-9012218 http://identifiers.org/reactome/R-HSA-9012196	

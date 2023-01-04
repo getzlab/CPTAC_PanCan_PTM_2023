@@ -1,0 +1,35 @@
+
+RBBP4	downregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+MAX	upregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_4bef8f5f253b190f65ca4f9a1084c75d http://identifiers.org/reactome/R-HSA-188376 http://identifiers.org/reactome/R-HSA-188345 http://pathwaycommons.org/pc12/TemplateReactionRegulation_42feed9fb3f5381c4c75c568a02a8a32	
+CDK1	phosphorylates	CDC25B	PMID:12107172 PMID:12766774 PMID:20801879	S307;S146;S321;S160;S50
+MELK	phosphorylates	CDC25B	PMID:12400006 PMID:15908796 PMID:23186163	S307;S280;S169;S323;S321
+E2F1	upregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReactionRegulation_78e0684a55932c58c36e7a26e3ab6689 http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8961967	
+CTDP1	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+MSC	downregulates-expression	CDC25A	PMID:15213307	
+TP53	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+E2F4	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+E2F5	downregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+E2F4	downregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://pathwaycommons.org/pc12/TemplateReactionRegulation_7cf95bd93c3de7b3fc2e7a180cb770e4 http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+PLK1	phosphorylates	CDC25B	PMID:21640712	S513;T404;T127;S465;S209;S50;S291;T58;S375;S397;S353;T167;T265
+AURKA	phosphorylates	CDC25B	PMID:15128871 PMID:16082213 PMID:23186163 http://pathwaycommons.org/pc12/Catalysis_e4f1f512aca3f293a992f44dd598b0cc http://pathwaycommons.org/pc12/BiochemicalReaction_cc67d88665a2e62443ee8af0fadd81b5	S339;S312;S353
+TP53	upregulates-expression	DUSP5	http://pathwaycommons.org/pc12/TemplateReaction_5bdea2f3cc89d04338c6f815ee57af4c http://pathwaycommons.org/pc12/TemplateReactionRegulation_85f0a7b9ea58c3b0c96f9f6608ce515e	
+MYC	upregulates-expression	CDC25C	PMID:22446629	
+MYC	upregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_4bef8f5f253b190f65ca4f9a1084c75d http://identifiers.org/reactome/R-HSA-188376 http://identifiers.org/reactome/R-HSA-188345 http://pathwaycommons.org/pc12/TemplateReactionRegulation_42feed9fb3f5381c4c75c568a02a8a32	
+LIN52	downregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+LIN54	downregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+CTDP1	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+YBX1	upregulates-expression	CDKN3	PMID:20596676	
+LIN9	downregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+LIN37	downregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+ATF2	upregulates-expression	DUSP5	http://pathwaycommons.org/pc12/TemplateReactionRegulation_4586c3d909498b98fa5a087fb4d4d5e1 http://pathwaycommons.org/pc12/TemplateReaction_81b3fa608eeeaaaa17bdcf40c3dfedf0	
+PPP2R5A	phosphorylates	BUB1B	PMID:23345399 PMID:27568981 PMID:19015317 PMID:23079597 PMID:33207204 PMID:20016069 PMID:17785528	S676;S670;T680
+FOXM1	upregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-4088166 http://identifiers.org/reactome/R-HSA-4088152	
+RBL2	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+RBL1	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+PTGDR	upregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReactionRegulation_78e0684a55932c58c36e7a26e3ab6689 http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f	
+RBL2	downregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://pathwaycommons.org/pc12/TemplateReactionRegulation_7cf95bd93c3de7b3fc2e7a180cb770e4 http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+RBL1	downregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://pathwaycommons.org/pc12/TemplateReactionRegulation_7cf95bd93c3de7b3fc2e7a180cb770e4	
+CDK5R1	phosphorylates	CDC25B	http://pathwaycommons.org/pc12/Catalysis_382ed601614d2c1ce83bda36bb7766da http://identifiers.org/reactome/R-HSA-8863007	T69;S321;S470;S160;S50
+CDC25B	dephosphorylates	CDK1	http://identifiers.org/reactome/R-HSA-170161 http://pathwaycommons.org/pc12/Catalysis_a387b70fb31f6a915c76f69d28237a19 http://pathwaycommons.org/pc12/BiochemicalReaction_6b6561ae89674a2a4bd3762191515d69 http://identifiers.org/reactome/R-HSA-170153 http://pathwaycommons.org/pc12/Catalysis_44f3cc5d7fda809cba74ced64c9e88ff http://pathwaycommons.org/pc12/Catalysis_7f84bf8dbf355dff85ee6a8db7aaf44e	T14;Y15
+OTX2	upregulates-expression	CDC25C	PMID:21047732	
+CTDP1	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	

@@ -1,0 +1,62 @@
+
+CDK2	phosphorylates	LRWD1	PMID:18847512	S245;S243
+E2F4	downregulates-expression	TTK	PMID:17981789	
+FOXM1	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_234ed6aec0f159d394f70ab2e8c6df8a http://pathwaycommons.org/pc12/TemplateReactionRegulation_e8f07c4376ee63785a5204cca9be44a7	
+CDK2	phosphorylates	CDC6	PMID:24216307 http://identifiers.org/reactome/R-HSA-69005 PMID:18691976 PMID:20068231 http://pathwaycommons.org/pc12/Catalysis_48e0c608416155699ae1724b214a5945 PMID:23129444 PMID:10339564 PMID:9889196	S74;S106;S54
+E2F3	upregulates-expression	AURKA	PMID:18776222	
+E2F1	upregulates-expression	AURKA	PMID:20300951	
+CDK1	phosphorylates	ORC1	PMID:11931757	S258;T375;S273
+CDK2	phosphorylates	ORC1	PMID:20068231 http://identifiers.org/reactome/R-HSA-68944 PMID:19413330 http://pathwaycommons.org/pc12/Catalysis_3daab231b2a5c3960f1a3b24208e62bf PMID:11931757	S258;T375;S273
+E2F1	upregulates-expression	CHEK2	PMID:15024084	
+CDK2	phosphorylates	ORC2	PMID:22334659 PMID:11931757	T226;T116
+CDK1	phosphorylates	ORC6	PMID:18234856	T195
+CDK2	phosphorylates	MCM4	PMID:12714602 PMID:18669648 PMID:19651622 PMID:20068231 PMID:18847512 PMID:16517729 PMID:16964243 PMID:16519687 PMID:17924679	S3;S32;S54;T7;T53;T110;T19
+CDK2	phosphorylates	MCM3	PMID:21965652	T722
+CDK1	phosphorylates	MCM4	PMID:12714602 PMID:18669648 PMID:20068231 PMID:16964243 PMID:16519687 PMID:17924679	S88;S32;T7;T110;T19
+CDK2	phosphorylates	MCM2	PMID:18847512 PMID:16446360 PMID:19647517	S108;S53;S41;S139;S13;S27;S40
+FANCI	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDC25B	dephosphorylates	CDK1	http://identifiers.org/reactome/R-HSA-170161 http://pathwaycommons.org/pc12/Catalysis_a387b70fb31f6a915c76f69d28237a19 http://pathwaycommons.org/pc12/BiochemicalReaction_6b6561ae89674a2a4bd3762191515d69 http://identifiers.org/reactome/R-HSA-170153 http://pathwaycommons.org/pc12/Catalysis_44f3cc5d7fda809cba74ced64c9e88ff http://pathwaycommons.org/pc12/Catalysis_7f84bf8dbf355dff85ee6a8db7aaf44e	T14;Y15
+PLK1	phosphorylates	TTK		S108;S214;T458;S333;T676;S345;S291;T12;T33;S37;T46;S321;T564;T594;S362;T210;S363;T371
+ATR	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK2	phosphorylates	XRCC6	PMID:18847512	T455
+CDK2	phosphorylates	ATRIP	http://pathwaycommons.org/pc12/Catalysis_cc6d6f6d309050dd3defd1b08dd5c70d http://pathwaycommons.org/pc12/BiochemicalReaction_b601a91728ceffca78a436db62fc2c1f PMID:17638878	S239;S224
+CDK1	phosphorylates	TP53BP1	PMID:25607646	S1678;T1609
+AURKB	phosphorylates	RPA1		S384
+CCNA2	phosphorylates	CDK1	PMID:33574676 PMID:1833185 PMID:8441405 PMID:31429764 PMID:1532335 PMID:25849598 PMID:34064109 PMID:21900495 PMID:12663041	T161
+ATR	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK2	phosphorylates	BOD1L1	PMID:18847512	S2905;S2907;S2909;S2908
+RBL2	downregulates-expression	CDK1	http://identifiers.org/reactome/R-HSA-8964594 http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://identifiers.org/reactome/R-HSA-8961934 http://pathwaycommons.org/pc12/TemplateReactionRegulation_c139b1965ab1e755a85eedd79dcb07d3	
+FOXM1	upregulates-expression	PLK1	http://identifiers.org/reactome/R-HSA-4088305 http://pathwaycommons.org/pc12/TemplateReaction_b5c4fa5dbfd6cb109038b31672069653 http://identifiers.org/reactome/R-HSA-4088302 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b13e898b04856a1255a954d838b07b6f	
+CDK2	phosphorylates	RAD18	PMID:18847512	S99
+MDC1	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+E2F4	downregulates-expression	CDK1	http://identifiers.org/reactome/R-HSA-8964594 http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://identifiers.org/reactome/R-HSA-8961934 http://pathwaycommons.org/pc12/TemplateReactionRegulation_c139b1965ab1e755a85eedd79dcb07d3	
+FOXM1	upregulates-expression	AURKB	http://pathwaycommons.org/pc12/TemplateReaction_c0d505adb1aad54746b351df8921ab50 http://pathwaycommons.org/pc12/TemplateReactionRegulation_a68da07576162f4df28e6f67cc7852d3	
+CDK1	phosphorylates	LIG1	PMID:12851383 PMID:18234856	S76
+CDK2	phosphorylates	LIG1	PMID:12851383 PMID:18847512	S76;T233;S91;T197;S51;T195
+E2F5	downregulates-expression	CDK1	http://identifiers.org/reactome/R-HSA-8964594 http://identifiers.org/reactome/R-HSA-8961934	
+ATR	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK2	phosphorylates	WRN		S1133
+CDK1	phosphorylates	CDC25B	PMID:12107172 PMID:12766774 PMID:20801879	S307;S146;S321;S160;S50
+ATR	phosphorylates	EXO1	PMID:18048416	S714
+CDK1	phosphorylates	TTK		S281
+CDK2	phosphorylates	TTK	PMID:17804818	S436;T468;T453
+PLK1	phosphorylates	TP53BP1	PMID:25607646	S1618
+E2F4	downregulates-expression	PLK1	PMID:17981789	
+CDK2	phosphorylates	DTL	PMID:18847512 PMID:23478441	S428;T429;T464
+ATR	phosphorylates	PARP1		S179
+CDK1	phosphorylates	USP1	PMID:23116119	S313
+E2F1	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 PMID:14618416 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9 http://identifiers.org/reactome/R-HSA-8961934 http://identifiers.org/reactome/R-HSA-8961933	
+PLK1	phosphorylates	CDC25B	PMID:21640712	S513;T404;T127;S465;S209;S50;S291;T58;S375;S397;S353;T167;T265
+E2F3	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9	
+CDK2	phosphorylates	TERF2	PMID:18847512	S365
+CDK1	phosphorylates	RECQL5		S727
+E2F1	upregulates-expression	PLK1	PMID:24076372	
+AURKA	phosphorylates	PLK1	PMID:12207013 PMID:18669648 http://pathwaycommons.org/pc12/BiochemicalReaction_0187fd34e5211634eaaa80ee14344f9b PMID:18615013 http://pathwaycommons.org/pc12/Catalysis_63ce59ba6d88019006233cbdf4ee3620 http://pathwaycommons.org/pc12/BiochemicalReaction_8e65324cbaa27236bcd4b3375793d26d http://pathwaycommons.org/pc12/BiochemicalReaction_823ca34e796b4cb70dfcd73f35c5c2cf http://pathwaycommons.org/pc12/Catalysis_75aa2c4891678f1d211eaf5a27e25bd6 PMID:27899378 http://pathwaycommons.org/pc12/Catalysis_9c166094aa5d71b5b278c9c263d578a6	Y425;T210
+AURKB	phosphorylates	PLK1	PMID:26206521	T210
+CDK1	phosphorylates	TOP2A	PMID:18669648 PMID:20068230 PMID:12569090 PMID:18691976 PMID:20068231 PMID:16565220 PMID:18452278 PMID:19664994 PMID:19664995 PMID:18234856 PMID:17466629 PMID:20058876 PMID:17287340 PMID:17924679 PMID:19651622 PMID:19415658 PMID:19007248 PMID:19691289 PMID:18767875 PMID:19413330 PMID:16964243 PMID:7635160	S1393;S1361;S1354;S1213;S1247
+AURKA	phosphorylates	CDC25B	PMID:15128871 PMID:16082213 PMID:23186163 http://pathwaycommons.org/pc12/Catalysis_e4f1f512aca3f293a992f44dd598b0cc http://pathwaycommons.org/pc12/BiochemicalReaction_cc67d88665a2e62443ee8af0fadd81b5	S339;S312;S353
+PLK1	phosphorylates	TOP2A	PMID:18171681 PMID:19098900 PMID:18062778	S1337;S1525;T1343
+CDK1	phosphorylates	SAMHD1	PMID:18234856 PMID:23601106 PMID:23602554	T592
+CDK2	phosphorylates	TICRR	PMID:25737283	S1001;T969
+AURKB	phosphorylates	RIF1	PMID:22267324	S2205
+CDK2	phosphorylates	SAMHD1	PMID:18847512	T592

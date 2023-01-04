@@ -1,0 +1,39 @@
+
+MAPK1	upregulates-expression	PLAUR	http://pathwaycommons.org/pc12/TemplateReaction_2264eb10dc8780acb8eae98479d737b4 http://pathwaycommons.org/pc12/TemplateReactionRegulation_ce6a4816532a92d5ec3c58b6532b00b2	
+MAPK3	upregulates-expression	PLAUR	http://pathwaycommons.org/pc12/TemplateReaction_2264eb10dc8780acb8eae98479d737b4 http://pathwaycommons.org/pc12/TemplateReactionRegulation_ce6a4816532a92d5ec3c58b6532b00b2	
+ETS1	upregulates-expression	CSF1R	http://pathwaycommons.org/pc12/TemplateReactionRegulation_ea53ed9ee342f20f9379c7f812ae8f8c http://pathwaycommons.org/pc12/TemplateReaction_bc611510e11ccc2d7f2b1d66ab54a149	
+FLT1	upregulates-expression	AKT3	http://pathwaycommons.org/pc12/TemplateReactionRegulation_eed1db8c9c97626faff5bd461947cf92 http://pathwaycommons.org/pc12/TemplateReaction_a8ee040981e7c77e7836884eb532c836	
+SP1	upregulates-expression	ENG	http://pathwaycommons.org/pc12/TemplateReactionRegulation_91121f627a074ac46aee5a6fd47497d3 PMID:21146604 http://pathwaycommons.org/pc12/TemplateReaction_b498288a9fb46fd0d901f38ee92589e7	
+CDK19	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+CDK19	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+CDK8	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+CDK8	upregulates-expression	ADIPOQ	http://identifiers.org/reactome/R-HSA-1183058 http://identifiers.org/reactome/R-HSA-1183084	
+CDK8	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+SP1	upregulates-expression	PMVK	http://identifiers.org/reactome/R-HSA-1655839 http://identifiers.org/reactome/R-HSA-1655853	
+STAT5A	upregulates-expression	CDK6	http://pathwaycommons.org/pc12/TemplateReaction_c9d4c3e235456e2a2e2ab1ed9d652634 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5bc5f7897d5acf3f5f9151330004babc	
+STAT5B	upregulates-expression	CDK6	http://pathwaycommons.org/pc12/TemplateReaction_c9d4c3e235456e2a2e2ab1ed9d652634 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5bc5f7897d5acf3f5f9151330004babc	
+MAPK3	upregulates-expression	PLAU	http://pathwaycommons.org/pc12/TemplateReaction_63eb5a4a447443ba08dc02470587ff57 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4ad16945f160f4ce0f4d8fa3d0964efc	
+MAPK1	upregulates-expression	PLAU	http://pathwaycommons.org/pc12/TemplateReaction_63eb5a4a447443ba08dc02470587ff57 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4ad16945f160f4ce0f4d8fa3d0964efc	
+VEGFA	upregulates-expression	AKT3	http://pathwaycommons.org/pc12/TemplateReactionRegulation_eed1db8c9c97626faff5bd461947cf92 http://pathwaycommons.org/pc12/TemplateReaction_a8ee040981e7c77e7836884eb532c836	
+MAPK3	upregulates-expression	CHRNA1	http://pathwaycommons.org/pc12/TemplateReaction_f1c983854791aebce2700e55ab2a9839 http://pathwaycommons.org/pc12/TemplateReactionRegulation_71a87cfc4d88dd093805f1d42256091b	
+MAPK1	upregulates-expression	CHRNA1	http://pathwaycommons.org/pc12/TemplateReaction_f1c983854791aebce2700e55ab2a9839 http://pathwaycommons.org/pc12/TemplateReactionRegulation_71a87cfc4d88dd093805f1d42256091b	
+ETS1	upregulates-expression	TGFBR2	PMID:14976186	
+CDK8	upregulates-expression	CD36	http://identifiers.org/reactome/R-HSA-560517 http://identifiers.org/reactome/R-HSA-560540	
+CDK19	upregulates-expression	PLIN1	http://identifiers.org/reactome/R-HSA-560493 http://identifiers.org/reactome/R-HSA-560522	
+SP1	downregulates-expression	KDR	PMID:16678129	
+CDK19	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+MAX	downregulates-expression	PDGFRB	http://pathwaycommons.org/pc12/TemplateReactionRegulation_29ccce5bf45c0692e45e787e95339baa http://pathwaycommons.org/pc12/TemplateReaction_a0f4d7197fbfa49c5b54bcc1179993b3	
+RELA	upregulates-expression	CDK6	PMID:18504428	
+CDK19	upregulates-expression	ANGPTL4	http://identifiers.org/reactome/R-HSA-560539 http://identifiers.org/reactome/R-HSA-560473	
+CDK8	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+CDK19	upregulates-expression	FABP4	http://identifiers.org/reactome/R-HSA-390515 http://identifiers.org/reactome/R-HSA-560510	
+RUNX1	upregulates-expression	BLK	http://identifiers.org/reactome/R-HSA-8938986 http://identifiers.org/reactome/R-HSA-8938987	
+SP1	downregulates-expression	CDK6	PMID:11297539	
+ETS1	upregulates-expression	FLT1	http://pathwaycommons.org/pc12/TemplateReaction_f19960c8cf713cb1314da92fe6be92f9 http://pathwaycommons.org/pc12/TemplateReactionRegulation_50e955b6860ac8df38cd018d5cf5c1df	
+FLT1	upregulates-expression	ETS1	PMID:16861237	
+CDK8	upregulates-expression	LPL	http://identifiers.org/reactome/R-HSA-560526 http://identifiers.org/reactome/R-HSA-560498	
+CDK9	upregulates-expression	MYB	http://identifiers.org/reactome/R-HSA-9011971 http://identifiers.org/reactome/R-HSA-9011972	
+SMAD3	upregulates-expression	ENG	http://pathwaycommons.org/pc12/TemplateReactionRegulation_91121f627a074ac46aee5a6fd47497d3 http://pathwaycommons.org/pc12/TemplateReaction_b498288a9fb46fd0d901f38ee92589e7	
+SMAD4	upregulates-expression	ENG	http://pathwaycommons.org/pc12/TemplateReactionRegulation_91121f627a074ac46aee5a6fd47497d3 http://pathwaycommons.org/pc12/TemplateReaction_b498288a9fb46fd0d901f38ee92589e7	
+EWSR1	downregulates-expression	TGFBR2	PMID:10508522	
+ETS1	upregulates-expression	KDR	http://pathwaycommons.org/pc12/TemplateReactionRegulation_80054c18a86bb6f1d2c33b1795d48e79 http://pathwaycommons.org/pc12/TemplateReaction_ac44c2fbe1b543fce6e45e3e177785cc	

@@ -1,0 +1,70 @@
+
+EDNRA	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0 http://pathwaycommons.org/pc12/Catalysis_b40e92f63e24d2b4f5450bb3c8e2ac55 http://pathwaycommons.org/pc12/BiochemicalReaction_08c3d85777426d0bc4495127377f9293 http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0	S664;T507
+CDK2	phosphorylates	LRWD1	PMID:18847512	S245;S243
+FAM20C	phosphorylates	KNG1	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:19824718	S332
+FAM20C	phosphorylates	FSTL3	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:26091039	S255
+CDK1	phosphorylates	DLGAP5	PMID:18669648 PMID:20068231 PMID:15145941 PMID:23186163	T329;T759;T402;S67;S642;T401;S618;S839;T639
+FAM20C	phosphorylates	SERPINC1	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569 PMID:26091039	T63;S68
+FAM20C	phosphorylates	SPP1	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:21406692 PMID:15869464 PMID:26091039	S219;S239;S258;S215;S234;S311;S62;S280;S63;T190;S26;S243;S27;S263;S228;T237;S303;S267;S224;S308;S191;S291;S254;S310;S275;S195;S270
+GFRA1	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_781acb7456680d07220d6c81442db67d http://pathwaycommons.org/pc12/BiochemicalReaction_ea7ce72bad4fc6f1b4e519b15d357004	Y576;Y861;Y925
+CDK2	phosphorylates	MICALL1	PMID:18847512	S621;T469;S620;S470;S471;S619
+CDK1	phosphorylates	MAP7	PMID:18234856	S209
+CDK2	phosphorylates	MTA2	PMID:18847512	T439;T438;S435;S440
+CDK2	phosphorylates	MTA1	PMID:18847512	S522
+FGA	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073	Y397;Y576;Y861;Y577;Y925;Y407
+CDK2	phosphorylates	SETDB1	PMID:18847512	S1066
+CDK1	phosphorylates	LMNA	PMID:20068231 PMID:23870088 PMID:7925482 http://pathwaycommons.org/pc12/Catalysis_b08f80e2a6bd561b250c8e7fd50862df PMID:16565220 PMID:19664994 PMID:19664995 http://identifiers.org/reactome/R-HSA-5244669 PMID:17287340 PMID:17924679 PMID:18077418 PMID:18815303 PMID:18491316 PMID:19165338 PMID:20166139 PMID:18767875 PMID:18669648 PMID:18691976 PMID:18212344 PMID:18452278 PMID:18234856 PMID:20058876 PMID:18707149 PMID:2344612 PMID:19651622 PMID:19415658 PMID:19007248 PMID:19691289 PMID:22367880 PMID:19413330 PMID:16964243	S390;S22;T19;S392
+FGB	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073	Y397;Y576;Y861;Y577;Y925;Y407
+CDK2	phosphorylates	WRN		S1133
+HGF	phosphorylates	PTK2	http://identifiers.org/reactome/R-HSA-8874082 http://identifiers.org/reactome/R-HSA-8874080 http://pathwaycommons.org/pc12/Catalysis_1a5077326250c614dde79a379db612f9 http://identifiers.org/reactome/R-HSA-8874078 http://pathwaycommons.org/pc12/Catalysis_16473b6612166cfc8b2534add042de40 http://pathwaycommons.org/pc12/Catalysis_715cfc14543ea59ef945572929f7415d	Y397;Y576;Y577;Y194
+CDK2	phosphorylates	NRF1		S102;S136
+CDK2	phosphorylates	UNG	PMID:18847512	S64;S23;S12;T60
+VWF	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073	Y397;Y576;Y861;Y577;Y925;Y407
+FGG	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073	Y397;Y576;Y861;Y577;Y925;Y407
+CAMK2G	phosphorylates	MYLK	PMID:18088087 PMID:10748018 PMID:2160950	S1760
+CDK2	phosphorylates	ORC2	PMID:22334659 PMID:11931757	T226;T116
+CDK2	phosphorylates	MCM4	PMID:12714602 PMID:18669648 PMID:19651622 PMID:20068231 PMID:18847512 PMID:16517729 PMID:16964243 PMID:16519687 PMID:17924679	S3;S32;S54;T7;T53;T110;T19
+CDK1	phosphorylates	MCM4	PMID:12714602 PMID:18669648 PMID:20068231 PMID:16964243 PMID:16519687 PMID:17924679	S88;S32;T7;T110;T19
+WNT5A	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_486739b208dc68ed3eb989565b3b0468 http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd http://pathwaycommons.org/pc12/SmallMolecule_21d1714b69eec47d13f1ee5f51c33ad7 http://pathwaycommons.org/pc12/Transport_1b4eff3cd25e687b26efb91fd122a9ea http://pathwaycommons.org/pc12/Catalysis_1c489dc08a1cb5f67c3e2ef59643a0c9	Y397;Y576;Y861;Y577;Y925;Y407
+CDK1	phosphorylates	HJURP		S448;S412;S473
+CNGB3	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_486739b208dc68ed3eb989565b3b0468 http://pathwaycommons.org/pc12/Transport_bc4388403c07b09f855bd993613f25be http://pathwaycommons.org/pc12/Catalysis_6e5a62feb9774b08f07be822bf429ec4 http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd http://pathwaycommons.org/pc12/SmallMolecule_21d1714b69eec47d13f1ee5f51c33ad7	Y397;Y576;Y861;Y577;Y925;Y407
+FAM20C	phosphorylates	ALB	PMID:18318008 http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569 PMID:26091039	T107;S89;S29;S82
+FAM20C	phosphorylates	GOLM1	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:26091039	S309
+PTK2	phosphorylates	WASL	http://pathwaycommons.org/pc12/Catalysis_593ebd25ba12ea2c581e2aa10c58b441 http://pathwaycommons.org/pc12/BiochemicalReaction_ef83f56ba0aa55b09a6c494d8e5740c1 http://identifiers.org/reactome/R-HSA-2197698 PMID:14676198 http://pathwaycommons.org/pc12/Catalysis_9a2bbdafe29d9e8d86b12963e4c3d203	Y256
+CDK2	phosphorylates	THRAP3	PMID:18847512	T874
+TBK1	phosphorylates	PPP1R13L		T308;S134;S332;T341;S152
+CDK1	phosphorylates	KIFC1		S31;S6;S26
+FAM20C	phosphorylates	FBN1	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569	S2702
+CDK2	phosphorylates	ILF3	PMID:18847512	T368;S384;T363;T364;S382
+CDK2	phosphorylates	TERF2	PMID:18847512	S365
+TLN1	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://pathwaycommons.org/pc12/Catalysis_1b8c030488662c55662ed2dcde45d1cf http://identifiers.org/reactome/R-HSA-354073 http://pathwaycommons.org/pc12/BiochemicalReaction_187082ceaec275f675a07aa0eeed4408	Y397;Y576;Y861;Y577;Y925;Y407
+PRKD1	phosphorylates	SSH1	PMID:21525957 PMID:19567672 PMID:19329994	S978;S402;S937
+GNAZ	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/Catalysis_42cef19ed00ff7758d30a161993d1bf2 http://pathwaycommons.org/pc12/SmallMolecule_943e3f32f4ca93ae832ebab910f6f6c0 http://identifiers.org/reactome/R-HSA-198314 http://identifiers.org/reactome/R-HSA-111879 http://identifiers.org/reactome/R-HSA-1489502	S645;S664;T507
+NRP1	phosphorylates	DPYSL3	http://pathwaycommons.org/pc12/Catalysis_434985714d36b9e7c3ad2ca95c077cac http://identifiers.org/reactome/R-HSA-399944	S522
+GNA11	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0 http://pathwaycommons.org/pc12/Catalysis_b40e92f63e24d2b4f5450bb3c8e2ac55 http://pathwaycommons.org/pc12/BiochemicalReaction_08c3d85777426d0bc4495127377f9293 http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0 http://pathwaycommons.org/pc12/Catalysis_cbc9db30abb03e00301499828ca9485e http://pathwaycommons.org/pc12/BiochemicalReaction_43fd4813e4dfe4f5e65e6a370d63610d	S664;T507
+RAP1B	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073	Y397;Y576;Y861;Y577;Y925;Y407
+CDK2	phosphorylates	ATRIP	http://pathwaycommons.org/pc12/Catalysis_cc6d6f6d309050dd3defd1b08dd5c70d http://pathwaycommons.org/pc12/BiochemicalReaction_b601a91728ceffca78a436db62fc2c1f PMID:17638878	S239;S224
+FAM20C	phosphorylates	TNC	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569	S72
+FLNA	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_486739b208dc68ed3eb989565b3b0468 http://pathwaycommons.org/pc12/Transport_46896e6de1043160ede274c493cdf769 http://pathwaycommons.org/pc12/Catalysis_32f2b87ecb094c1770a9b7310c470a45 http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd http://pathwaycommons.org/pc12/SmallMolecule_21d1714b69eec47d13f1ee5f51c33ad7	Y397;Y576;Y861;Y577;Y925;Y407
+AURKB	phosphorylates	CDCA2	PMID:23746640	S977;S893;S981
+CSNK1A1	phosphorylates	YBX1		S176
+PDGFRB	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0 http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d PMID:18387943 http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0 http://pathwaycommons.org/pc12/BiochemicalReaction_fb5778556b7543195fa35d428a27a175 http://pathwaycommons.org/pc12/Catalysis_dec025293ecb1bfbf700987bdec9988a	Y334;Y313;S664;T507
+FAM20C	phosphorylates	FGA	PMID:18088087 http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569 PMID:26091039	S524;S45;S56;S364;S560;S609
+CDK1	phosphorylates	GJA1		S255;S262
+FAM20C	phosphorylates	AHSG	PMID:18088087 http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569 PMID:26091039	S328;T319;S138;S325;S135;S330
+CDK2	phosphorylates	ILRUN		S215
+FN1	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073 http://pathwaycommons.org/pc12/Catalysis_c6966c5b87f101bba7e44e9d0ab660d5 http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_1a7c67e65e4c1ed7b43da9f1191ecbec	Y397;Y576;Y861;Y577;Y925;Y407
+PAK2	phosphorylates	MYLK	http://pathwaycommons.org/pc12/Catalysis_0ed89e1b699792b7d45eddc4ee3a1945 PMID:18088087 http://identifiers.org/reactome/R-HSA-5668984 PMID:10748018 PMID:2160950	S1208;S1759;S1760
+CDK1	phosphorylates	PPP1R13L		S113;S84
+CDK2	phosphorylates	LRCH3	PMID:18847512	S419
+PRKCD	phosphorylates	KRT8	PMID:15972820	S74;S456;S34;S330
+CDK1	phosphorylates	ZYX		T270;S259;S267;S344;S202;T179;T274;S308
+PRKCD	phosphorylates	TAGLN	PMID:11053353 PMID:18212344 PMID:20166139	S181
+GNAZ	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_486739b208dc68ed3eb989565b3b0468 http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd http://pathwaycommons.org/pc12/SmallMolecule_21d1714b69eec47d13f1ee5f51c33ad7 http://pathwaycommons.org/pc12/Transport_a8429b20fc5a977d6ca3a9917c6687e6 http://pathwaycommons.org/pc12/Catalysis_5e921c58f3cedc8b4d7195ada278785e	Y576;Y861;Y577;Y925;Y407
+FAM20C	phosphorylates	VCAN	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569	S2116
+AURKB	phosphorylates	MKI67	PMID:22267324	S538;S374
+PRKCD	phosphorylates	PRKD1	PMID:21726532 PMID:15024053 PMID:18337243 http://pathwaycommons.org/pc12/BiochemicalReaction_c2c31839b509e5b522ab2d830d170cfd PMID:34010649 PMID:16891660 PMID:15226414 PMID:21285358 http://pathwaycommons.org/pc12/Catalysis_b0ad8734438b714c57af7cb0251ce9a5 PMID:17804414 PMID:11948398 PMID:15755722 PMID:18692497 PMID:19029298	S205;S910;Y95;S742;S412;S420;S738
+PRKCD	phosphorylates	PGR		S400
+PRKG1	phosphorylates	LIPE	PMID:2537200	S853
+AURKB	phosphorylates	RIF1	PMID:22267324	S2205
+PLPP1	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0 http://pathwaycommons.org/pc12/BiochemicalReaction_ffdb16a7f9779c4fa41623cef3749503 http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d http://pathwaycommons.org/pc12/Catalysis_bb2241b069788393e877d59380c2db0a http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0	S664;T507

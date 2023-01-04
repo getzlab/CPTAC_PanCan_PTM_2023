@@ -1,0 +1,5 @@
+
+RELA	downregulates-expression	YY1	PMID:16784892	
+STAT5A	upregulates-expression	CDK6	http://pathwaycommons.org/pc12/TemplateReaction_c9d4c3e235456e2a2e2ab1ed9d652634 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5bc5f7897d5acf3f5f9151330004babc	
+STAT5B	upregulates-expression	CDK6	http://pathwaycommons.org/pc12/TemplateReaction_c9d4c3e235456e2a2e2ab1ed9d652634 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5bc5f7897d5acf3f5f9151330004babc	
+RELA	upregulates-expression	CDK6	PMID:18504428	

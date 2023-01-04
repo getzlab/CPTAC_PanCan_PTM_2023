@@ -1,0 +1,62 @@
+{
+  "nodes" : [ {
+    "css" : {
+      "backgroundColor" : "rgb(255,165,145)"
+    },
+    "data" : {
+      "tooltipText" : "KPNA2-G, 7.693001099098745",
+      "sites" : [ ],
+      "id" : "KPNA2",
+      "text" : "KPNA2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,203,191)",
+        "siteText" : "p",
+        "siteInfo" : "TP53BP1-P-S1678",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TP53BP1",
+      "text" : "TP53BP1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(222,228,255)"
+    },
+    "data" : {
+      "tooltipText" : "MRE11-G, -2.2830980762068513",
+      "sites" : [ ],
+      "id" : "MRE11",
+      "text" : "MRE11"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,207,196)",
+        "siteText" : "p",
+        "siteInfo" : "WRN-P-S1133",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "WRN",
+      "text" : "WRN"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "TP53BP1_1678",
+      "edgeType" : "dephosphorylates",
+      "source" : "KPNA2",
+      "pcLinks" : [ "PMID:29603287", "PMID:30685087" ],
+      "target" : "TP53BP1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "WRN_1133",
+      "edgeType" : "phosphorylates",
+      "source" : "MRE11",
+      "pcLinks" : [ "PMID:27634057" ],
+      "target" : "WRN"
+    }
+  } ]
+}

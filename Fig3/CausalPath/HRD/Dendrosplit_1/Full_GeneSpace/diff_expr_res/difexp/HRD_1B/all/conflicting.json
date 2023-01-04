@@ -1,0 +1,4287 @@
+{
+  "nodes" : [ {
+    "css" : {
+      "backgroundColor" : "rgb(255,151,127)"
+    },
+    "data" : {
+      "tooltipText" : "RUNX1-G, 8.928853537007322",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,131,103)",
+        "siteText" : "r",
+        "siteInfo" : "RUNX1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RUNX1",
+      "text" : "RUNX1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(212,220,255)"
+    },
+    "data" : {
+      "tooltipText" : "SMS-G, -2.9740015009055156",
+      "sites" : [ ],
+      "id" : "SMS",
+      "text" : "SMS"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(218,225,255)",
+        "siteText" : "r",
+        "siteInfo" : "SRP9-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SRP9",
+      "text" : "SRP9"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,226,220)",
+        "siteText" : "r",
+        "siteInfo" : "SALL4-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SALL4",
+      "text" : "SALL4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,165,144)",
+        "siteText" : "r",
+        "siteInfo" : "LAMB1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "LAMB1",
+      "text" : "LAMB1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,218,210)",
+        "siteText" : "r",
+        "siteInfo" : "CDKN1A-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CDKN1A",
+      "text" : "CDKN1A"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(222,228,255)"
+    },
+    "data" : {
+      "tooltipText" : "TGS1-G, -2.330176287644632",
+      "sites" : [ ],
+      "id" : "TGS1",
+      "text" : "TGS1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,226,219)",
+        "siteText" : "p",
+        "siteInfo" : "PLEC-P-T2886",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PLEC",
+      "text" : "PLEC"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,226,220)",
+        "siteText" : "p",
+        "siteInfo" : "TGFB1I1-P-Y60",
+        "siteBorderColor" : "rgb(180,0,20)"
+      } ],
+      "id" : "TGFB1I1",
+      "text" : "TGFB1I1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(219,225,255)",
+        "siteText" : "r",
+        "siteInfo" : "ITGA6-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ITGA6",
+      "text" : "ITGA6"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,90,53)",
+        "siteText" : "r",
+        "siteInfo" : "HIC1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "HIC1",
+      "text" : "HIC1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(205,214,255)"
+    },
+    "data" : {
+      "tooltipText" : "MED6-G, -3.5185482084095714",
+      "sites" : [ ],
+      "id" : "MED6",
+      "text" : "MED6"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,179,161)",
+        "siteText" : "r",
+        "siteInfo" : "KLF2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "KLF2",
+      "text" : "KLF2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(211,219,255)"
+    },
+    "data" : {
+      "tooltipText" : "MED14-G, -3.065797375832021",
+      "sites" : [ ],
+      "id" : "MED14",
+      "text" : "MED14"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,212,202)"
+    },
+    "data" : {
+      "tooltipText" : "DVL3-G, 3.716250947157401",
+      "sites" : [ ],
+      "id" : "DVL3",
+      "text" : "DVL3"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,195,181)"
+    },
+    "data" : {
+      "tooltipText" : "FGG-G, 5.136334707284949",
+      "sites" : [ ],
+      "id" : "FGG",
+      "text" : "FGG"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,243,241)",
+        "siteText" : "!",
+        "siteInfo" : "TP53-active-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "TP53",
+      "text" : "TP53"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(190,202,255)",
+        "siteText" : "r",
+        "siteInfo" : "CCNB1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CCNB1",
+      "text" : "CCNB1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(198,209,255)"
+    },
+    "data" : {
+      "tooltipText" : "CDK1-G, -3.9506562910270393",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(217,224,255)",
+        "siteText" : "p",
+        "siteInfo" : "CDK1-P-T14-Y15",
+        "siteBorderColor" : "rgb(180,0,20)"
+      }, {
+        "siteBackgroundColor" : "rgb(215,223,255)",
+        "siteText" : "r",
+        "siteInfo" : "CDK1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CDK1",
+      "text" : "CDK1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "MYCN-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "MYCN",
+      "text" : "MYCN"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,109,76)",
+        "siteText" : "r",
+        "siteInfo" : "PLAU-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PLAU",
+      "text" : "PLAU"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,216,207)",
+        "siteText" : "r",
+        "siteInfo" : "TWIST1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      }, {
+        "siteBackgroundColor" : "rgb(255,227,220)",
+        "siteText" : "p",
+        "siteInfo" : "TWIST1-P-S68",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "TWIST1",
+      "text" : "TWIST1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(198,208,255)"
+    },
+    "data" : {
+      "tooltipText" : "ILF3-G, -4.004987295898525",
+      "sites" : [ ],
+      "id" : "ILF3",
+      "text" : "ILF3"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,80,40)"
+    },
+    "data" : {
+      "tooltipText" : "PRKG1-G, 24.095384850174682",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,227,220)",
+        "siteText" : "p",
+        "siteInfo" : "PRKG1-P-T517",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "PRKG1",
+      "text" : "PRKG1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(218,225,255)",
+        "siteText" : "p",
+        "siteInfo" : "HJURP-P-S473",
+        "siteBorderColor" : "rgb(50,50,50)"
+      }, {
+        "siteBackgroundColor" : "rgb(216,224,255)",
+        "siteText" : "p",
+        "siteInfo" : "HJURP-P-S448",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "HJURP",
+      "text" : "HJURP"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(203,213,255)",
+        "siteText" : "r",
+        "siteInfo" : "CKS2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CKS2",
+      "text" : "CKS2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,228,222)"
+    },
+    "data" : {
+      "tooltipText" : "TGFBR2-G, 2.302752915890101",
+      "sites" : [ ],
+      "id" : "TGFBR2",
+      "text" : "TGFBR2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,168,148)"
+    },
+    "data" : {
+      "tooltipText" : "RUNX2-G, 7.466476082822157",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,125,96)",
+        "siteText" : "r",
+        "siteInfo" : "RUNX2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      }, {
+        "siteBackgroundColor" : "rgb(255,243,241)",
+        "siteText" : "!",
+        "siteInfo" : "RUNX2-active-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "RUNX2",
+      "text" : "RUNX2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(214,221,255)"
+    },
+    "data" : {
+      "tooltipText" : "NCOA6-G, -2.8939473563311537",
+      "sites" : [ ],
+      "id" : "NCOA6",
+      "text" : "NCOA6"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,197,184)",
+        "siteText" : "r",
+        "siteInfo" : "PLIN1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PLIN1",
+      "text" : "PLIN1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(193,205,255)"
+    },
+    "data" : {
+      "tooltipText" : "EWSR1-G, -4.300169912258435",
+      "sites" : [ ],
+      "id" : "EWSR1",
+      "text" : "EWSR1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "p",
+        "siteInfo" : "KRT8-P-S34",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "KRT8",
+      "text" : "KRT8"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(210,218,255)",
+        "siteText" : "r",
+        "siteInfo" : "TAP1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TAP1",
+      "text" : "TAP1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,91,53)",
+        "siteText" : "r",
+        "siteInfo" : "HEYL-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "HEYL",
+      "text" : "HEYL"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,214,205)"
+    },
+    "data" : {
+      "tooltipText" : "STAT5B-G, 3.4818243625906007",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,229,223)",
+        "siteText" : "r",
+        "siteInfo" : "STAT5B-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "STAT5B",
+      "text" : "STAT5B"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,181,164)",
+        "siteText" : "r",
+        "siteInfo" : "TGFB1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TGFB1",
+      "text" : "TGFB1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,200,188)"
+    },
+    "data" : {
+      "tooltipText" : "STAM2-G, 4.688190062557273",
+      "sites" : [ ],
+      "id" : "STAM2",
+      "text" : "STAM2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(221,228,255)"
+    },
+    "data" : {
+      "tooltipText" : "PAPOLA-G, -2.354752771075254",
+      "sites" : [ ],
+      "id" : "PAPOLA",
+      "text" : "PAPOLA"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(217,224,255)",
+        "siteText" : "p",
+        "siteInfo" : "KIFC1-P-S6",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "KIFC1",
+      "text" : "KIFC1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,80,40)",
+        "siteText" : "r",
+        "siteInfo" : "VCAN-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "VCAN",
+      "text" : "VCAN"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,108,75)"
+    },
+    "data" : {
+      "tooltipText" : "COL5A2-G, 12.565918170023469",
+      "sites" : [ ],
+      "id" : "COL5A2",
+      "text" : "COL5A2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,243,241)",
+        "siteText" : "!",
+        "siteInfo" : "SMAD4-active-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "SMAD4",
+      "text" : "SMAD4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,212,202)",
+        "siteText" : "p",
+        "siteInfo" : "PXN-P-S258",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PXN",
+      "text" : "PXN"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(173,188,255)"
+    },
+    "data" : {
+      "tooltipText" : "MED15-G, -5.736692612782143",
+      "sites" : [ ],
+      "id" : "MED15",
+      "text" : "MED15"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,210,200)",
+        "siteText" : "r",
+        "siteInfo" : "ABCB4-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ABCB4",
+      "text" : "ABCB4"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(221,227,255)"
+    },
+    "data" : {
+      "tooltipText" : "CTCF-G, -2.360001091498948",
+      "sites" : [ ],
+      "id" : "CTCF",
+      "text" : "CTCF"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,227,220)",
+        "siteText" : "r",
+        "siteInfo" : "SNAI1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SNAI1",
+      "text" : "SNAI1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(208,217,255)"
+    },
+    "data" : {
+      "tooltipText" : "TOP2B-G, -3.2617644314249907",
+      "sites" : [ ],
+      "id" : "TOP2B",
+      "text" : "TOP2B"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(216,223,255)",
+        "siteText" : "r",
+        "siteInfo" : "TNFRSF10A-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TNFRSF10A",
+      "text" : "TNFRSF10A"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,243,241)",
+        "siteText" : "!",
+        "siteInfo" : "ESR1-active-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "ESR1",
+      "text" : "ESR1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,101,66)",
+        "siteText" : "r",
+        "siteInfo" : "BMP4-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "BMP4",
+      "text" : "BMP4"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(135,158,255)"
+    },
+    "data" : {
+      "tooltipText" : "BIRC5-G, -8.350292727586494",
+      "sites" : [ ],
+      "id" : "BIRC5",
+      "text" : "BIRC5"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(212,220,255)",
+        "siteText" : "r",
+        "siteInfo" : "MYC-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      }, {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "MYC-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "MYC",
+      "text" : "MYC"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(181,194,255)"
+    },
+    "data" : {
+      "tooltipText" : "LIN9-G, -5.186813001613132",
+      "sites" : [ ],
+      "id" : "LIN9",
+      "text" : "LIN9"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,212,202)",
+        "siteText" : "r",
+        "siteInfo" : "APOD-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "APOD",
+      "text" : "APOD"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(222,228,255)"
+    },
+    "data" : {
+      "tooltipText" : "HMGA1-G, -2.3330058352223237",
+      "sites" : [ ],
+      "id" : "HMGA1",
+      "text" : "HMGA1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,156,133)"
+    },
+    "data" : {
+      "tooltipText" : "COL3A1-G, 8.517349567761881",
+      "sites" : [ ],
+      "id" : "COL3A1",
+      "text" : "COL3A1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,220,212)"
+    },
+    "data" : {
+      "tooltipText" : "GATA3-G, 2.9980763244541038",
+      "sites" : [ ],
+      "id" : "GATA3",
+      "text" : "GATA3"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,243,241)",
+        "siteText" : "!",
+        "siteInfo" : "NOTCH1-active-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "NOTCH1",
+      "text" : "NOTCH1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "CYP4A11-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CYP4A11",
+      "text" : "CYP4A11"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(215,222,255)",
+        "siteText" : "r",
+        "siteInfo" : "HSP90AA1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "HSP90AA1",
+      "text" : "HSP90AA1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,224,217)"
+    },
+    "data" : {
+      "tooltipText" : "FOXO1-G, 2.6347410721729414",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,225,218)",
+        "siteText" : "r",
+        "siteInfo" : "FOXO1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FOXO1",
+      "text" : "FOXO1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,201,189)"
+    },
+    "data" : {
+      "tooltipText" : "STAT5A-G, 4.598697971144896",
+      "sites" : [ ],
+      "id" : "STAT5A",
+      "text" : "STAT5A"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(213,221,255)",
+        "siteText" : "p",
+        "siteInfo" : "MCM4-P-T19",
+        "siteBorderColor" : "rgb(180,0,20)"
+      } ],
+      "id" : "MCM4",
+      "text" : "MCM4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,207,196)",
+        "siteText" : "r",
+        "siteInfo" : "MSL1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MSL1",
+      "text" : "MSL1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,80,40)",
+        "siteText" : "r",
+        "siteInfo" : "FGF1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FGF1",
+      "text" : "FGF1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(179,193,255)"
+    },
+    "data" : {
+      "tooltipText" : "EZH2-G, -5.28197677060662",
+      "sites" : [ ],
+      "id" : "EZH2",
+      "text" : "EZH2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(189,201,255)"
+    },
+    "data" : {
+      "tooltipText" : "CLDN4-G, -4.6337889714955125",
+      "sites" : [ ],
+      "id" : "CLDN4",
+      "text" : "CLDN4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,142,116)",
+        "siteText" : "r",
+        "siteInfo" : "ACTA2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ACTA2",
+      "text" : "ACTA2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(197,208,255)"
+    },
+    "data" : {
+      "tooltipText" : "TAF9-G, -4.026511010464144",
+      "sites" : [ ],
+      "id" : "TAF9",
+      "text" : "TAF9"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(187,199,255)"
+    },
+    "data" : {
+      "tooltipText" : "SOX9-G, -4.760632442242165",
+      "sites" : [ ],
+      "id" : "SOX9",
+      "text" : "SOX9"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "E2F3-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "E2F3",
+      "text" : "E2F3"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,207,196)"
+    },
+    "data" : {
+      "tooltipText" : "NF1-G, 4.119140924050899",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,222,215)",
+        "siteText" : "r",
+        "siteInfo" : "NF1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "NF1",
+      "text" : "NF1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(214,222,255)"
+    },
+    "data" : {
+      "tooltipText" : "PA2G4-G, -2.844901899616561",
+      "sites" : [ ],
+      "id" : "PA2G4",
+      "text" : "PA2G4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(209,218,255)",
+        "siteText" : "r",
+        "siteInfo" : "RBBP8-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RBBP8",
+      "text" : "RBBP8"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(216,223,255)"
+    },
+    "data" : {
+      "tooltipText" : "TAF1-G, -2.7181409901450806",
+      "sites" : [ ],
+      "id" : "TAF1",
+      "text" : "TAF1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,124,94)",
+        "siteText" : "r",
+        "siteInfo" : "F2R-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "F2R",
+      "text" : "F2R"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,177,159)"
+    },
+    "data" : {
+      "tooltipText" : "COL1A2-G, 6.6661560321170965",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,80,40)",
+        "siteText" : "r",
+        "siteInfo" : "COL1A2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "COL1A2",
+      "text" : "COL1A2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(212,220,255)"
+    },
+    "data" : {
+      "tooltipText" : "LONP1-G, -3.00234662405955",
+      "sites" : [ ],
+      "id" : "LONP1",
+      "text" : "LONP1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(219,226,255)"
+    },
+    "data" : {
+      "tooltipText" : "NELFCD-G, -2.5160970444071884",
+      "sites" : [ ],
+      "id" : "NELFCD",
+      "text" : "NELFCD"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "ID1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ID1",
+      "text" : "ID1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,169,149)"
+    },
+    "data" : {
+      "tooltipText" : "ZEB1-G, 7.404750554843665",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,80,40)",
+        "siteText" : "r",
+        "siteInfo" : "ZEB1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ZEB1",
+      "text" : "ZEB1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,223,216)",
+        "siteText" : "r",
+        "siteInfo" : "SMAD7-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SMAD7",
+      "text" : "SMAD7"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,214,205)",
+        "siteText" : "r",
+        "siteInfo" : "RET-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "RET",
+      "text" : "RET"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,114,81)"
+    },
+    "data" : {
+      "tooltipText" : "COL6A2-G, 12.118638913636838",
+      "sites" : [ ],
+      "id" : "COL6A2",
+      "text" : "COL6A2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,211,202)"
+    },
+    "data" : {
+      "tooltipText" : "MSX2-G, 3.7304683756652013",
+      "sites" : [ ],
+      "id" : "MSX2",
+      "text" : "MSX2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,229,223)",
+        "siteText" : "p",
+        "siteInfo" : "ANXA2-P-S12",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ANXA2",
+      "text" : "ANXA2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,203,191)",
+        "siteText" : "r",
+        "siteInfo" : "PLXND1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PLXND1",
+      "text" : "PLXND1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(198,209,255)"
+    },
+    "data" : {
+      "tooltipText" : "NCOR1-G, -3.9578287448591674",
+      "sites" : [ ],
+      "id" : "NCOR1",
+      "text" : "NCOR1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(206,215,255)"
+    },
+    "data" : {
+      "tooltipText" : "CBX3-G, -3.401506718413152",
+      "sites" : [ ],
+      "id" : "CBX3",
+      "text" : "CBX3"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(192,203,255)"
+    },
+    "data" : {
+      "tooltipText" : "HDAC1-G, -4.425388776552118",
+      "sites" : [ ],
+      "id" : "HDAC1",
+      "text" : "HDAC1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,213,204)"
+    },
+    "data" : {
+      "tooltipText" : "NUPR1-G, 3.591818869457218",
+      "sites" : [ ],
+      "id" : "NUPR1",
+      "text" : "NUPR1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(197,208,255)"
+    },
+    "data" : {
+      "tooltipText" : "SSRP1-G, -4.018086142634397",
+      "sites" : [ ],
+      "id" : "SSRP1",
+      "text" : "SSRP1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(160,178,255)"
+    },
+    "data" : {
+      "tooltipText" : "HSF1-G, -6.62689756532415",
+      "sites" : [ ],
+      "id" : "HSF1",
+      "text" : "HSF1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,161,139)",
+        "siteText" : "r",
+        "siteInfo" : "SLC6A6-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SLC6A6",
+      "text" : "SLC6A6"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,201,189)",
+        "siteText" : "r",
+        "siteInfo" : "MITF-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MITF",
+      "text" : "MITF"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,203,191)",
+        "siteText" : "r",
+        "siteInfo" : "ADIPOQ-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ADIPOQ",
+      "text" : "ADIPOQ"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(205,214,255)"
+    },
+    "data" : {
+      "tooltipText" : "CDK2-G, -3.479264444761042",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "CDK2-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "CDK2",
+      "text" : "CDK2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(197,208,255)"
+    },
+    "data" : {
+      "tooltipText" : "MAX-G, -4.048184010595176",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "MAX-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "MAX",
+      "text" : "MAX"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,219,211)",
+        "siteText" : "r",
+        "siteInfo" : "KL-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "KL",
+      "text" : "KL"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,215,206)",
+        "siteText" : "p",
+        "siteInfo" : "TAGLN-P-S181",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TAGLN",
+      "text" : "TAGLN"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,167,147)",
+        "siteText" : "r",
+        "siteInfo" : "AXL-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "AXL",
+      "text" : "AXL"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,205,194)",
+        "siteText" : "p",
+        "siteInfo" : "ZYX-P-T270",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ZYX",
+      "text" : "ZYX"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(172,188,255)"
+    },
+    "data" : {
+      "tooltipText" : "AURKB-G, -5.759546254738021",
+      "sites" : [ ],
+      "id" : "AURKB",
+      "text" : "AURKB"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(219,226,255)"
+    },
+    "data" : {
+      "tooltipText" : "PAK1-G, -2.5250861694188687",
+      "sites" : [ ],
+      "id" : "PAK1",
+      "text" : "PAK1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(187,199,255)",
+        "siteText" : "r",
+        "siteInfo" : "MSH2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MSH2",
+      "text" : "MSH2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,224,216)"
+    },
+    "data" : {
+      "tooltipText" : "CCND1-G, 2.6860614698811163",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,215,206)",
+        "siteText" : "r",
+        "siteInfo" : "CCND1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CCND1",
+      "text" : "CCND1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,224,217)",
+        "siteText" : "r",
+        "siteInfo" : "SSTR2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SSTR2",
+      "text" : "SSTR2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,189,174)"
+    },
+    "data" : {
+      "tooltipText" : "S100A10-G, 5.641521673875538",
+      "sites" : [ ],
+      "id" : "S100A10",
+      "text" : "S100A10"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(161,179,255)"
+    },
+    "data" : {
+      "tooltipText" : "PARP1-G, -6.556743494723124",
+      "sites" : [ ],
+      "id" : "PARP1",
+      "text" : "PARP1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(141,162,255)"
+    },
+    "data" : {
+      "tooltipText" : "SNW1-G, -7.945359405246202",
+      "sites" : [ ],
+      "id" : "SNW1",
+      "text" : "SNW1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,104,69)"
+    },
+    "data" : {
+      "tooltipText" : "COL6A3-G, 12.943461729246513",
+      "sites" : [ ],
+      "id" : "COL6A3",
+      "text" : "COL6A3"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,139,112)",
+        "siteText" : "r",
+        "siteInfo" : "SRPX-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SRPX",
+      "text" : "SRPX"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,224,217)",
+        "siteText" : "p",
+        "siteInfo" : "GJA1-P-S255",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "GJA1",
+      "text" : "GJA1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,218,210)"
+    },
+    "data" : {
+      "tooltipText" : "ZEB2-G, 3.1439125817996176",
+      "sites" : [ ],
+      "id" : "ZEB2",
+      "text" : "ZEB2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(202,212,255)"
+    },
+    "data" : {
+      "tooltipText" : "EHMT2-G, -3.6971105627743137",
+      "sites" : [ ],
+      "id" : "EHMT2",
+      "text" : "EHMT2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,156,134)"
+    },
+    "data" : {
+      "tooltipText" : "FHL2-G, 8.456157005905641",
+      "sites" : [ ],
+      "id" : "FHL2",
+      "text" : "FHL2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(222,228,255)"
+    },
+    "data" : {
+      "tooltipText" : "USF1-G, -2.323063421672785",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(220,227,255)",
+        "siteText" : "r",
+        "siteInfo" : "USF1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "USF1",
+      "text" : "USF1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,225,218)",
+        "siteText" : "p",
+        "siteInfo" : "PRKD1-P-S205",
+        "siteBorderColor" : "rgb(0,180,20)"
+      }, {
+        "siteBackgroundColor" : "rgb(255,226,219)",
+        "siteText" : "p",
+        "siteInfo" : "PRKD1-P-S910",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "PRKD1",
+      "text" : "PRKD1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,198,185)",
+        "siteText" : "r",
+        "siteInfo" : "VDR-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "VDR",
+      "text" : "VDR"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(222,228,255)",
+        "siteText" : "p",
+        "siteInfo" : "DLGAP5-P-S618",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "DLGAP5",
+      "text" : "DLGAP5"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,226,220)"
+    },
+    "data" : {
+      "tooltipText" : "PURA-G, 2.4528616952726607",
+      "sites" : [ ],
+      "id" : "PURA",
+      "text" : "PURA"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(193,204,255)"
+    },
+    "data" : {
+      "tooltipText" : "SIN3A-G, -4.333173262823301",
+      "sites" : [ ],
+      "id" : "SIN3A",
+      "text" : "SIN3A"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,80,40)",
+        "siteText" : "r",
+        "siteInfo" : "MMP2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MMP2",
+      "text" : "MMP2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(205,215,255)",
+        "siteText" : "r",
+        "siteInfo" : "IFNB1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "IFNB1",
+      "text" : "IFNB1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(215,222,255)",
+        "siteText" : "r",
+        "siteInfo" : "COP1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "COP1",
+      "text" : "COP1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,219,211)"
+    },
+    "data" : {
+      "tooltipText" : "NOTCH3-G, 3.091636638780914",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,214,205)",
+        "siteText" : "r",
+        "siteInfo" : "NOTCH3-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "NOTCH3",
+      "text" : "NOTCH3"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(216,224,255)",
+        "siteText" : "r",
+        "siteInfo" : "SP3-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SP3",
+      "text" : "SP3"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,227,220)",
+        "siteText" : "r",
+        "siteInfo" : "STAT2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "STAT2",
+      "text" : "STAT2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(214,222,255)",
+        "siteText" : "r",
+        "siteInfo" : "E2F1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "E2F1",
+      "text" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(210,218,255)",
+        "siteText" : "r",
+        "siteInfo" : "CDC25C-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CDC25C",
+      "text" : "CDC25C"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,195,182)"
+    },
+    "data" : {
+      "tooltipText" : "TIMP3-G, 5.122593726557251",
+      "sites" : [ ],
+      "id" : "TIMP3",
+      "text" : "TIMP3"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,199,186)",
+        "siteText" : "r",
+        "siteInfo" : "DACH1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "DACH1",
+      "text" : "DACH1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,223,215)",
+        "siteText" : "p",
+        "siteInfo" : "LMNA-P-S390",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "LMNA",
+      "text" : "LMNA"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,227,221)",
+        "siteText" : "r",
+        "siteInfo" : "LEF1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "LEF1",
+      "text" : "LEF1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,228,222)",
+        "siteText" : "r",
+        "siteInfo" : "KDM4B-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "KDM4B",
+      "text" : "KDM4B"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,224,217)"
+    },
+    "data" : {
+      "tooltipText" : "KRT19-G, 2.65861236397874",
+      "sites" : [ ],
+      "id" : "KRT19",
+      "text" : "KRT19"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,212,202)",
+        "siteText" : "p",
+        "siteInfo" : "VIM-P-S47",
+        "siteBorderColor" : "rgb(50,50,50)"
+      }, {
+        "siteBackgroundColor" : "rgb(255,211,201)",
+        "siteText" : "p",
+        "siteInfo" : "VIM-P-S7",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "VIM",
+      "text" : "VIM"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(196,207,255)"
+    },
+    "data" : {
+      "tooltipText" : "DIAPH1-G, -4.114017713562839",
+      "sites" : [ ],
+      "id" : "DIAPH1",
+      "text" : "DIAPH1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(220,226,255)",
+        "siteText" : "r",
+        "siteInfo" : "OGG1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "OGG1",
+      "text" : "OGG1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(204,214,255)",
+        "siteText" : "r",
+        "siteInfo" : "UXT-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "UXT",
+      "text" : "UXT"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,196,183)"
+    },
+    "data" : {
+      "tooltipText" : "F2-G, 5.01501688959147",
+      "sites" : [ ],
+      "id" : "F2",
+      "text" : "F2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(211,219,255)",
+        "siteText" : "p",
+        "siteInfo" : "MAP7-P-S209-2",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MAP7",
+      "text" : "MAP7"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(161,179,255)"
+    },
+    "data" : {
+      "tooltipText" : "THRAP3-G, -6.535418040781077",
+      "sites" : [ ],
+      "id" : "THRAP3",
+      "text" : "THRAP3"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,222,215)",
+        "siteText" : "p",
+        "siteInfo" : "PTK2-P-Y576-2",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "PTK2",
+      "text" : "PTK2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(209,217,255)"
+    },
+    "data" : {
+      "tooltipText" : "YBX1-G, -3.2186561437574803",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(196,207,255)",
+        "siteText" : "r",
+        "siteInfo" : "YBX1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "YBX1",
+      "text" : "YBX1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,193,178)",
+        "siteText" : "r",
+        "siteInfo" : "SERPINE1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SERPINE1",
+      "text" : "SERPINE1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(219,226,255)"
+    },
+    "data" : {
+      "tooltipText" : "REL-G, -2.527003854121396",
+      "sites" : [ ],
+      "id" : "REL",
+      "text" : "REL"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,225,218)"
+    },
+    "data" : {
+      "tooltipText" : "AGO3-G, 2.6022607233443695",
+      "sites" : [ ],
+      "id" : "AGO3",
+      "text" : "AGO3"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(215,222,255)"
+    },
+    "data" : {
+      "tooltipText" : "MED19-G, -2.7893751652615144",
+      "sites" : [ ],
+      "id" : "MED19",
+      "text" : "MED19"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(217,224,255)"
+    },
+    "data" : {
+      "tooltipText" : "NFIB-G, -2.6350468050843534",
+      "sites" : [ ],
+      "id" : "NFIB",
+      "text" : "NFIB"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(197,208,255)"
+    },
+    "data" : {
+      "tooltipText" : "WT1-G, -4.015767363895391",
+      "sites" : [ ],
+      "id" : "WT1",
+      "text" : "WT1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,151,128)"
+    },
+    "data" : {
+      "tooltipText" : "PRG4-G, 8.872934797007174",
+      "sites" : [ ],
+      "id" : "PRG4",
+      "text" : "PRG4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,197,183)",
+        "siteText" : "r",
+        "siteInfo" : "CD36-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CD36",
+      "text" : "CD36"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,186,170)"
+    },
+    "data" : {
+      "tooltipText" : "COL1A1-G, 5.899615853130087",
+      "sites" : [ ],
+      "id" : "COL1A1",
+      "text" : "COL1A1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,173,154)",
+        "siteText" : "r",
+        "siteInfo" : "NR2F1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "NR2F1",
+      "text" : "NR2F1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,227,221)",
+        "siteText" : "p",
+        "siteInfo" : "PPP1R13L-P-S113",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PPP1R13L",
+      "text" : "PPP1R13L"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,201,189)",
+        "siteText" : "r",
+        "siteInfo" : "NOTCH4-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "NOTCH4",
+      "text" : "NOTCH4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(184,197,255)",
+        "siteText" : "r",
+        "siteInfo" : "PCNA-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PCNA",
+      "text" : "PCNA"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(219,226,255)"
+    },
+    "data" : {
+      "tooltipText" : "MED22-G, -2.500709692279602",
+      "sites" : [ ],
+      "id" : "MED22",
+      "text" : "MED22"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,153,129)",
+        "siteText" : "r",
+        "siteInfo" : "NDN-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "NDN",
+      "text" : "NDN"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(216,224,255)",
+        "siteText" : "r",
+        "siteInfo" : "FOXC1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FOXC1",
+      "text" : "FOXC1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(210,219,255)"
+    },
+    "data" : {
+      "tooltipText" : "PLCG2-G, -3.123748157122561",
+      "sites" : [ ],
+      "id" : "PLCG2",
+      "text" : "PLCG2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,200,187)",
+        "siteText" : "p",
+        "siteInfo" : "MYLK-P-S1759",
+        "siteBorderColor" : "rgb(50,50,50)"
+      }, {
+        "siteBackgroundColor" : "rgb(255,220,212)",
+        "siteText" : "p",
+        "siteInfo" : "MYLK-P-S1759-S1760",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MYLK",
+      "text" : "MYLK"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,80,40)"
+    },
+    "data" : {
+      "tooltipText" : "LIMA1-G, 16.204135274857784",
+      "sites" : [ ],
+      "id" : "LIMA1",
+      "text" : "LIMA1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,205,193)"
+    },
+    "data" : {
+      "tooltipText" : "RARA-G, 4.304333640072032",
+      "sites" : [ ],
+      "id" : "RARA",
+      "text" : "RARA"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(220,226,255)"
+    },
+    "data" : {
+      "tooltipText" : "KIF2C-G, -2.4483565615197733",
+      "sites" : [ ],
+      "id" : "KIF2C",
+      "text" : "KIF2C"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,165,145)"
+    },
+    "data" : {
+      "tooltipText" : "TF-G, 7.687234975904575",
+      "sites" : [ ],
+      "id" : "TF",
+      "text" : "TF"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,208,197)",
+        "siteText" : "r",
+        "siteInfo" : "SALL2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "SALL2",
+      "text" : "SALL2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,164,143)"
+    },
+    "data" : {
+      "tooltipText" : "SMPD1-G, 7.784789265066136",
+      "sites" : [ ],
+      "id" : "SMPD1",
+      "text" : "SMPD1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(210,218,255)",
+        "siteText" : "r",
+        "siteInfo" : "BLM-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "BLM",
+      "text" : "BLM"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,171,152)",
+        "siteText" : "r",
+        "siteInfo" : "MYCT1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MYCT1",
+      "text" : "MYCT1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(192,204,255)"
+    },
+    "data" : {
+      "tooltipText" : "FDPS-G, -4.398303192273435",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(179,193,255)",
+        "siteText" : "r",
+        "siteInfo" : "FDPS-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FDPS",
+      "text" : "FDPS"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(187,199,255)",
+        "siteText" : "r",
+        "siteInfo" : "TYMS-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TYMS",
+      "text" : "TYMS"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(118,143,255)"
+    },
+    "data" : {
+      "tooltipText" : "RBBP4-G, -9.591763629150547",
+      "sites" : [ ],
+      "id" : "RBBP4",
+      "text" : "RBBP4"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(219,226,255)"
+    },
+    "data" : {
+      "tooltipText" : "PRKCD-G, -2.4782520043591183",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,208,197)",
+        "siteText" : "p",
+        "siteInfo" : "PRKCD-P-T507",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "PRKCD",
+      "text" : "PRKCD"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(218,225,255)",
+        "siteText" : "r",
+        "siteInfo" : "YY1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "YY1",
+      "text" : "YY1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(204,213,255)"
+    },
+    "data" : {
+      "tooltipText" : "TFAP4-G, -3.5633371926955273",
+      "sites" : [ ],
+      "id" : "TFAP4",
+      "text" : "TFAP4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,220,211)",
+        "siteText" : "p",
+        "siteInfo" : "PGR-P-S400",
+        "siteBorderColor" : "rgb(180,0,20)"
+      } ],
+      "id" : "PGR",
+      "text" : "PGR"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(194,206,255)",
+        "siteText" : "p",
+        "siteInfo" : "PRKCQ-P-S676",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "PRKCQ",
+      "text" : "PRKCQ"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,227,220)"
+    },
+    "data" : {
+      "tooltipText" : "SREBF1-G, 2.4232563257501987",
+      "sites" : [ ],
+      "id" : "SREBF1",
+      "text" : "SREBF1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,166,145)"
+    },
+    "data" : {
+      "tooltipText" : "ITGB1-G, 7.642537365878759",
+      "sites" : [ ],
+      "id" : "ITGB1",
+      "text" : "ITGB1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,226,219)",
+        "siteText" : "r",
+        "siteInfo" : "TIAM2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "TIAM2",
+      "text" : "TIAM2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,183,167)",
+        "siteText" : "r",
+        "siteInfo" : "CES1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CES1",
+      "text" : "CES1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(127,151,255)"
+    },
+    "data" : {
+      "tooltipText" : "SSB-G, -8.921985943067671",
+      "sites" : [ ],
+      "id" : "SSB",
+      "text" : "SSB"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(222,228,255)"
+    },
+    "data" : {
+      "tooltipText" : "SYK-G, -2.2806373274727885",
+      "sites" : [ ],
+      "id" : "SYK",
+      "text" : "SYK"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(195,206,255)",
+        "siteText" : "r",
+        "siteInfo" : "CDC25A-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CDC25A",
+      "text" : "CDC25A"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,226,220)"
+    },
+    "data" : {
+      "tooltipText" : "AR-G, 2.45913893982304",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,221,214)",
+        "siteText" : "r",
+        "siteInfo" : "AR-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "AR",
+      "text" : "AR"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(206,215,255)"
+    },
+    "data" : {
+      "tooltipText" : "FOXL1-G, -3.4041307559002276",
+      "sites" : [ ],
+      "id" : "FOXL1",
+      "text" : "FOXL1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,229,222)",
+        "siteText" : "r",
+        "siteInfo" : "ABCC3-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ABCC3",
+      "text" : "ABCC3"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,153,130)",
+        "siteText" : "r",
+        "siteInfo" : "LRP1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "LRP1",
+      "text" : "LRP1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,212,202)"
+    },
+    "data" : {
+      "tooltipText" : "FASN-G, 3.706279925063129",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,222,215)",
+        "siteText" : "r",
+        "siteInfo" : "FASN-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FASN",
+      "text" : "FASN"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,212,202)",
+        "siteText" : "r",
+        "siteInfo" : "FABP4-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FABP4",
+      "text" : "FABP4"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,151,127)",
+        "siteText" : "r",
+        "siteInfo" : "PGF-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PGF",
+      "text" : "PGF"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(218,225,255)"
+    },
+    "data" : {
+      "tooltipText" : "TCF7L2-G, -2.559369290723789",
+      "sites" : [ ],
+      "id" : "TCF7L2",
+      "text" : "TCF7L2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,181,164)",
+        "siteText" : "r",
+        "siteInfo" : "NAT1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "NAT1",
+      "text" : "NAT1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(194,206,255)"
+    },
+    "data" : {
+      "tooltipText" : "KLF5-G, -4.231213959064171",
+      "sites" : [ ],
+      "id" : "KLF5",
+      "text" : "KLF5"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,225,219)"
+    },
+    "data" : {
+      "tooltipText" : "STAT3-G, 2.535550091875924",
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,210,199)",
+        "siteText" : "r",
+        "siteInfo" : "STAT3-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "STAT3",
+      "text" : "STAT3"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,183,166)",
+        "siteText" : "r",
+        "siteInfo" : "MEOX2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "MEOX2",
+      "text" : "MEOX2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,218,210)",
+        "siteText" : "r",
+        "siteInfo" : "KLK4-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "KLK4",
+      "text" : "KLK4"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(217,224,255)"
+    },
+    "data" : {
+      "tooltipText" : "HIST1H2BO-G, -2.6571292731546463",
+      "sites" : [ ],
+      "id" : "HIST1H2BO",
+      "text" : "HIST1H2BO"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(189,201,255)",
+        "siteText" : "r",
+        "siteInfo" : "HTRA2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "HTRA2",
+      "text" : "HTRA2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,176,158)",
+        "siteText" : "r",
+        "siteInfo" : "PLAT-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "PLAT",
+      "text" : "PLAT"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(217,224,255)",
+        "siteText" : "p",
+        "siteInfo" : "GTF2I-P-S743",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "GTF2I",
+      "text" : "GTF2I"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,141,115)",
+        "siteText" : "r",
+        "siteInfo" : "LOX-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "LOX",
+      "text" : "LOX"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "TFDP1-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "TFDP1",
+      "text" : "TFDP1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(209,218,255)"
+    },
+    "data" : {
+      "tooltipText" : "MYCBP-G, -3.1964720391182233",
+      "sites" : [ ],
+      "id" : "MYCBP",
+      "text" : "MYCBP"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,209,199)",
+        "siteText" : "r",
+        "siteInfo" : "AGR2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "AGR2",
+      "text" : "AGR2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,125,96)"
+    },
+    "data" : {
+      "tooltipText" : "THBS1-G, 11.127345777905994",
+      "sites" : [ ],
+      "id" : "THBS1",
+      "text" : "THBS1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(219,226,255)"
+    },
+    "data" : {
+      "tooltipText" : "SOX10-G, -2.5153250678193504",
+      "sites" : [ ],
+      "id" : "SOX10",
+      "text" : "SOX10"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(219,225,255)",
+        "siteText" : "r",
+        "siteInfo" : "NDRG2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "NDRG2",
+      "text" : "NDRG2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,221,213)",
+        "siteText" : "r",
+        "siteInfo" : "CXXC5-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CXXC5",
+      "text" : "CXXC5"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TFDP1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6798285", "http://identifiers.org/reactome/R-HSA-6798268" ],
+      "target" : "CDC25C"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "PMID:23202365" ],
+      "target" : "KLF2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED22",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1183058", "http://identifiers.org/reactome/R-HSA-1183084" ],
+      "target" : "ADIPOQ"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TWIST1",
+      "pcLinks" : [ "PMID:21503964", "PMID:21931630" ],
+      "target" : "RUNX2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "HDAC1",
+      "pcLinks" : [ "PMID:9724731", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_d0d023d607f0f5454880c85939e6ac9b", "http://identifiers.org/reactome/R-HSA-8964513", "http://pathwaycommons.org/pc12/TemplateReaction_aa718efb2bd14259982fa982adc56144", "http://identifiers.org/reactome/R-HSA-8964548" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "LONP1",
+      "pcLinks" : [ "PMID:15528381" ],
+      "target" : "STAT3"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "STAT5B",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_4a6255baeb5ef848ff30432ed23956db", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_fa06547fef31959f95e95873dbb96c3a" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "RBBP4",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-8964518", "http://identifiers.org/reactome/R-HSA-8961665" ],
+      "target" : "PCNA"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "LIN9",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-8964514", "http://identifiers.org/reactome/R-HSA-8964513" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "STAT5A",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_4a6255baeb5ef848ff30432ed23956db", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_fa06547fef31959f95e95873dbb96c3a" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "DLGAP5_839, DLGAP5_639, DLGAP5_618, DLGAP5_329, DLGAP5_67, DLGAP5_759, DLGAP5_402, DLGAP5_642, DLGAP5_401",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK1",
+      "pcLinks" : [ "PMID:18669648", "PMID:20068231", "PMID:15145941", "PMID:23186163" ],
+      "target" : "DLGAP5"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "USF1",
+      "pcLinks" : [ "PMID:16902162" ],
+      "target" : "SERPINE1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "MAP7_209",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK1",
+      "pcLinks" : [ "PMID:18234856" ],
+      "target" : "MAP7"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "LONP1",
+      "pcLinks" : [ "PMID:15528381" ],
+      "target" : "STAT5B"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "AGO3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1912409", "http://identifiers.org/reactome/R-HSA-1980091", "http://identifiers.org/reactome/R-HSA-1980096" ],
+      "target" : "NOTCH3"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "AGO3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1980094", "http://identifiers.org/reactome/R-HSA-1912410", "http://identifiers.org/reactome/R-HSA-1980092" ],
+      "target" : "NOTCH4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SREBF1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1655824", "http://identifiers.org/reactome/R-HSA-1655856" ],
+      "target" : "FDPS"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED22",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-390515", "http://identifiers.org/reactome/R-HSA-560510" ],
+      "target" : "FABP4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "CLDN4",
+      "pcLinks" : [ "PMID:16689942", "PMID:17651017" ],
+      "target" : "STAT2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "PMID:16734743" ],
+      "target" : "SLC6A6"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED19",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-390515", "http://identifiers.org/reactome/R-HSA-560510" ],
+      "target" : "FABP4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "NF1",
+      "pcLinks" : [ "PMID:9562250" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED15",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-390515", "http://identifiers.org/reactome/R-HSA-560510" ],
+      "target" : "FABP4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED14",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-390515", "http://identifiers.org/reactome/R-HSA-560510" ],
+      "target" : "FABP4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "GATA3",
+      "pcLinks" : [ "PMID:21892208" ],
+      "target" : "LOX"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "PARP1",
+      "pcLinks" : [ "PMID:22159350" ],
+      "target" : "SERPINE1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "GTF2I_784, GTF2I_763, GTF2I_412, GTF2I_764, GTF2I_743, GTF2I_391, GTF2I_392, GTF2I_371",
+      "edgeType" : "phosphorylates",
+      "source" : "PRKG1",
+      "pcLinks" : [ "PMID:19651622", "PMID:20068231", "PMID:12082086", "PMID:16055503" ],
+      "target" : "GTF2I"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "STAT3",
+      "pcLinks" : [ "PMID:19259613", "http://pathwaycommons.org/pc12/Control_a2192c31c32feb4c8cf2ff42e0cdab33", "http://identifiers.org/reactome/R-HSA-9634445", "http://pathwaycommons.org/pc12/TemplateReaction_eeb26289d835438b63935f7930e5b8f1", "PMID:15184887", "PMID:17204573", "http://identifiers.org/reactome/R-HSA-6790036", "http://identifiers.org/reactome/R-HSA-6797258", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_0f7acb880b15fee2119e88c9ec4be51b" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MYC",
+      "pcLinks" : [ "PMID:17959148" ],
+      "target" : "STAT3"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MYCN",
+      "pcLinks" : [ "PMID:19885598" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "EZH2",
+      "pcLinks" : [ "PMID:21629038" ],
+      "target" : "MMP2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "DVL3",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_c8b9eded018262166664b15dccfdada5", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_6a707d302ebb72290a5a54bd0eb7d163" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TFAP4",
+      "pcLinks" : [ "PMID:19270520" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "MAX",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_11dbac31a728acaa6ac51686baafd9ed", "http://pathwaycommons.org/pc12/TemplateReaction_3084b4c4366927362263858f89bdc449" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TCF7L2",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_887dfc85457ed703719bcc2ccb2e790c", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_d489fe4a86bbedcbb8ee35d1d344e1aa" ],
+      "target" : "LEF1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MAX",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_0f16fe26683fe6a2eb1a788c8068439e", "http://pathwaycommons.org/pc12/TemplateReaction_0c2b6bc784b5b7c1e775e1b78e76e933" ],
+      "target" : "SNAI1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TGS1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1989768", "http://identifiers.org/reactome/R-HSA-1989804" ],
+      "target" : "TIAM2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "STAT5A",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_8ee7c93aa385c1aaa401646a0e9e5430", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_fe7942d44cb771734a392ca34b6596a3" ],
+      "target" : "SRP9"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "CDK1",
+      "pcLinks" : [ "PMID:17609436" ],
+      "target" : "FOXO1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "PGR",
+      "pcLinks" : [ "PMID:19147544" ],
+      "target" : "KLK4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "GJA1_262, GJA1_255",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK1",
+      "pcLinks" : [ "" ],
+      "target" : "GJA1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SNW1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-5255397", "http://identifiers.org/reactome/R-HSA-2106591" ],
+      "target" : "SMAD7"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED6",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560493", "http://identifiers.org/reactome/R-HSA-560522" ],
+      "target" : "PLIN1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "CCND1",
+      "pcLinks" : [ "PMID:12391153" ],
+      "target" : "FOXO1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "RUNX2",
+      "pcLinks" : [ "PMID:19389811" ],
+      "target" : "AR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "RBBP4",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-188345", "http://identifiers.org/reactome/R-HSA-8964503" ],
+      "target" : "CDC25A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SSB",
+      "pcLinks" : [ "PMID:21896617" ],
+      "target" : "LAMB1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED19",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560493", "http://identifiers.org/reactome/R-HSA-560522" ],
+      "target" : "PLIN1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "THRAP3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560517", "http://identifiers.org/reactome/R-HSA-560540" ],
+      "target" : "CD36"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED14",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1183058", "http://identifiers.org/reactome/R-HSA-1183084" ],
+      "target" : "ADIPOQ"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "THBS1",
+      "pcLinks" : [ "PMID:20976175" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED15",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1183058", "http://identifiers.org/reactome/R-HSA-1183084" ],
+      "target" : "ADIPOQ"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "FOXL1",
+      "pcLinks" : [ "PMID:17873379" ],
+      "target" : "BMP4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TFDP1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_7a7a1358833dc978c06ee7bbbd91a6e9", "http://pathwaycommons.org/pc12/TemplateReaction_634b7919ef34981deaecf563f501d45c", "http://identifiers.org/reactome/R-HSA-9007624", "http://identifiers.org/reactome/R-HSA-9007625" ],
+      "target" : "RBBP8"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "STAT3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6790041", "http://identifiers.org/reactome/R-HSA-6797261" ],
+      "target" : "HSP90AA1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "PMID:11809683" ],
+      "target" : "STAT3"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "WT1",
+      "pcLinks" : [ "PMID:20220130" ],
+      "target" : "CXXC5"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED19",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1183058", "http://identifiers.org/reactome/R-HSA-1183084" ],
+      "target" : "ADIPOQ"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED15",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560493", "http://identifiers.org/reactome/R-HSA-560522" ],
+      "target" : "PLIN1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED14",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560493", "http://identifiers.org/reactome/R-HSA-560522" ],
+      "target" : "PLIN1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TGS1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560517", "http://identifiers.org/reactome/R-HSA-1989789" ],
+      "target" : "CD36"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TF",
+      "pcLinks" : [ "PMID:8706718", "PMID:", "7610049" ],
+      "target" : "NR2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "CDK2",
+      "pcLinks" : [ "PMID:1999537", "PMID:19067971" ],
+      "target" : "MITF"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "DIAPH1",
+      "pcLinks" : [ "PMID:1999537", "PMID:19067971" ],
+      "target" : "MITF"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "FDPS",
+      "pcLinks" : [ "PMID:10318878" ],
+      "target" : "YY1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "STAT3",
+      "pcLinks" : [ "PMID:23424038" ],
+      "target" : "VDR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "LMNA_392, LMNA_22, LMNA_19, LMNA_390",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK1",
+      "pcLinks" : [ "PMID:20068231", "PMID:23870088", "PMID:7925482", "http://pathwaycommons.org/pc12/Catalysis_b08f80e2a6bd561b250c8e7fd50862df", "PMID:16565220", "PMID:19664994", "PMID:19664995", "http://identifiers.org/reactome/R-HSA-5244669", "PMID:17287340", "PMID:17924679", "PMID:18077418", "PMID:18815303", "PMID:18491316", "PMID:19165338", "PMID:20166139", "PMID:18767875", "PMID:18669648", "PMID:18691976", "PMID:18212344", "PMID:18452278", "PMID:18234856", "PMID:20058876", "PMID:18707149", "PMID:2344612", "PMID:19651622", "PMID:19415658", "PMID:19007248", "PMID:19691289", "PMID:22367880", "PMID:19413330", "PMID:16964243" ],
+      "target" : "LMNA"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED22",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560493", "http://identifiers.org/reactome/R-HSA-560522" ],
+      "target" : "PLIN1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "SMAD4",
+      "pcLinks" : [ "PMID:14525983" ],
+      "target" : "DACH1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "YBX1",
+      "pcLinks" : [ "PMID:20596676" ],
+      "target" : "CKS2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "ANXA2_12, ANXA2_26",
+      "edgeType" : "dephosphorylates",
+      "source" : "S100A10",
+      "pcLinks" : [ "PMID:18412141", "PMID:21115493", "PMID:12962548", "PMID:23757730", "PMID:11106498" ],
+      "target" : "ANXA2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "ESR1",
+      "pcLinks" : [ "PMID:17350616" ],
+      "target" : "RUNX2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "FASN",
+      "pcLinks" : [ "PMID:14519204" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SOX9",
+      "pcLinks" : [ "PMID:17234760" ],
+      "target" : "AR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TWIST1",
+      "pcLinks" : [ "PMID:21876555" ],
+      "target" : "YBX1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "COL5A2",
+      "pcLinks" : [ "PMID:11279127" ],
+      "target" : "SMAD7"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "HJURP_448, HJURP_473, HJURP_412",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK1",
+      "pcLinks" : [ "" ],
+      "target" : "HJURP"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_caed21d369ccfef368d1b3a35e9c6405", "PMID:11313989", "http://pathwaycommons.org/pc12/TemplateReaction_974a7228d1d031d2dc3cff26efbb4315", "http://identifiers.org/reactome/R-HSA-5633441", "http://identifiers.org/reactome/R-HSA-5633444" ],
+      "target" : "TNFRSF10A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "KIFC1_6, KIFC1_26, KIFC1_31",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK1",
+      "pcLinks" : [ "" ],
+      "target" : "KIFC1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "WT1",
+      "pcLinks" : [ "PMID:17634147" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TWIST1",
+      "pcLinks" : [ "PMID:19051271" ],
+      "target" : "SRPX"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "F2",
+      "pcLinks" : [ "PMID:12911579" ],
+      "target" : "SP3"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "EZH2",
+      "pcLinks" : [ "PMID:23079660" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "FOXO1",
+      "pcLinks" : [ "PMID:19074551" ],
+      "target" : "AR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TAF1",
+      "pcLinks" : [ "PMID:20181722" ],
+      "target" : "AR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "STAM2",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_6e1372dcc3eef46914305b51b9b71297", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_eb794cea6c87309731f2d7702aaafdac" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TOP2B",
+      "pcLinks" : [ "PMID:24327541" ],
+      "target" : "RUNX1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "RUNX1",
+      "pcLinks" : [ "PMID:15988004" ],
+      "target" : "NF1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "NOTCH1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1980079", "http://identifiers.org/reactome/R-HSA-1980067", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_a33e071fc508157979021a131a69cde7", "http://pathwaycommons.org/pc12/TemplateReaction_776860c944b3c0b3cf9273547cc03fce", "http://identifiers.org/reactome/R-HSA-2220974", "http://identifiers.org/reactome/R-HSA-2220985" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "HSF1",
+      "pcLinks" : [ "PMID:20176657" ],
+      "target" : "NAT1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PRKCD_507, PRKCD_302, PRKCD_313, PRKCD_645, PRKCD_664",
+      "edgeType" : "phosphorylates",
+      "source" : "PLCG2",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0", "http://pathwaycommons.org/pc12/Catalysis_6762ed7505cae15aa781177cdd59eea6", "http://pathwaycommons.org/pc12/BiochemicalReaction_9f41af1d24b9caee7d37c3a2e45bdc61", "http://pathwaycommons.org/pc12/SmallMolecule_943e3f32f4ca93ae832ebab910f6f6c0", "http://identifiers.org/reactome/R-HSA-198314", "http://pathwaycommons.org/pc12/BiochemicalReaction_c13063c90db627028663d038dde92940", "http://pathwaycommons.org/pc12/Catalysis_c5343244b54593aac4b9e4b05fdff40f", "http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d", "http://identifiers.org/reactome/R-HSA-9032478", "http://identifiers.org/reactome/R-HSA-1489502", "http://pathwaycommons.org/pc12/Catalysis_cef9724aaea0921f7dfa4fb40b4187e3", "http://pathwaycommons.org/pc12/Catalysis_4d6a77b82804b7c61416970fee0bd99e", "http://identifiers.org/reactome/R-HSA-5607735", "http://identifiers.org/reactome/R-HSA-2730847", "PMID:11381116", "http://pathwaycommons.org/pc12/Catalysis_99af8e452a9f89bb5a85b8d712917dab", "http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0", "http://pathwaycommons.org/pc12/BiochemicalReaction_939f39f56c819375fe0f969cc8ee73ca", "http://pathwaycommons.org/pc12/Catalysis_4d2ef9faf8d866af6ec9ea2ffb8a84da" ],
+      "target" : "PRKCD"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PRKCD_507, PRKCD_664",
+      "edgeType" : "phosphorylates",
+      "source" : "PAPOLA",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0", "http://pathwaycommons.org/pc12/Catalysis_bc8689af1d788e848c2063fb4d14321b", "http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d", "http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0", "http://pathwaycommons.org/pc12/BiochemicalReaction_53a4b856479fa63a1e5f9c9c6ba0c35a" ],
+      "target" : "PRKCD"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "HDAC1",
+      "pcLinks" : [ "PMID:9650586" ],
+      "target" : "PCNA"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "ILF3",
+      "pcLinks" : [ "PMID:22986534" ],
+      "target" : "PLAU"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PRKCD_507, PRKCD_664",
+      "edgeType" : "dephosphorylates",
+      "source" : "SMPD1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/Control_172c9713567fcabeba907a03429578a5", "http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0", "http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d", "http://pathwaycommons.org/pc12/BiochemicalReaction_3185c41e281fb63879912ae9a4924611", "http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0" ],
+      "target" : "PRKCD"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "MAX",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_e027f890c68fc45681065c552dc41348", "http://pathwaycommons.org/pc12/TemplateReaction_066a9973bec538f919b345282d8ecaf9" ],
+      "target" : "NDRG2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "ESR1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_fd74a3d587052abae7a8ca89dedec8ab", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_685b76f9a4a5e107317985886facf625" ],
+      "target" : "COL1A2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "YBX1",
+      "pcLinks" : [ "PMID:17072343" ],
+      "target" : "TYMS"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "PMID:12808109" ],
+      "target" : "CCND1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MAX",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_e6753fbf6764093cb1988d56cc6424f1", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_da6dc510587690e1614f6f0cac180b25" ],
+      "target" : "MYCT1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "NF1",
+      "pcLinks" : [ "PMID:15044208" ],
+      "target" : "PLAT"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "USF1",
+      "pcLinks" : [ "PMID:14757763" ],
+      "target" : "TGFB1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "WT1",
+      "pcLinks" : [ "PMID:23362234" ],
+      "target" : "VDR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PXN_272, PXN_258",
+      "edgeType" : "phosphorylates",
+      "source" : "PAK1",
+      "pcLinks" : [ "PMID:16717130", "PMID:23317503" ],
+      "target" : "PXN"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "COL6A3",
+      "pcLinks" : [ "PMID:11279127" ],
+      "target" : "SMAD7"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "COL6A2",
+      "pcLinks" : [ "PMID:11279127" ],
+      "target" : "SMAD7"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "PA2G4",
+      "pcLinks" : [ "PMID:20048076" ],
+      "target" : "AGR2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "HIST1H2BO",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-9009382", "http://identifiers.org/reactome/R-HSA-9009378" ],
+      "target" : "CCND1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "ZYX_270, ZYX_308, ZYX_259, ZYX_267, ZYX_344, ZYX_179, ZYX_202, ZYX_274",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK1",
+      "pcLinks" : [ "" ],
+      "target" : "ZYX"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "LIMA1",
+      "pcLinks" : [ "PMID:15979100" ],
+      "target" : "LEF1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "CTCF",
+      "pcLinks" : [ "PMID:12032779", "PMID:12524457" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "TAGLN_181",
+      "edgeType" : "phosphorylates",
+      "source" : "PRKCD",
+      "pcLinks" : [ "PMID:11053353", "PMID:18212344", "PMID:20166139" ],
+      "target" : "TAGLN"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "KLF5",
+      "pcLinks" : [ "PMID:18774944" ],
+      "target" : "FASN"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "HDAC1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_c0533b47a039662723f025b9513f911e", "http://pathwaycommons.org/pc12/TemplateReaction_d145c2c3576056d7b6dadcbd764c014e" ],
+      "target" : "ID1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "NOTCH3",
+      "pcLinks" : [ "PMID:21705670" ],
+      "target" : "APOD"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PGR_400",
+      "edgeType" : "phosphorylates",
+      "source" : "PRKCD",
+      "pcLinks" : [ "" ],
+      "target" : "PGR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PRKD1_205, PRKD1_910, PRKD1_742, PRKD1_412, PRKD1_420, PRKD1_95, PRKD1_738",
+      "edgeType" : "phosphorylates",
+      "source" : "PRKCD",
+      "pcLinks" : [ "PMID:21726532", "PMID:15024053", "PMID:18337243", "http://pathwaycommons.org/pc12/BiochemicalReaction_c2c31839b509e5b522ab2d830d170cfd", "PMID:34010649", "PMID:16891660", "PMID:15226414", "PMID:21285358", "http://pathwaycommons.org/pc12/Catalysis_b0ad8734438b714c57af7cb0251ce9a5", "PMID:17804414", "PMID:11948398", "PMID:15755722", "PMID:18692497", "PMID:19029298" ],
+      "target" : "PRKD1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "VIM_25, VIM_47, VIM_412, VIM_39, VIM_73, VIM_72, VIM_66, VIM_7, VIM_65, VIM_87",
+      "edgeType" : "phosphorylates",
+      "source" : "AURKB",
+      "pcLinks" : [ "PMID:18669648", "", "PMID:12458200", "http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_bb0fd4323183004cc4de78ce85507d36", "PMID:15676024", "http://pathwaycommons.org/pc12/Catalysis_9e390b747241388b4f4a1bb086c33e30", "PMID:14722118" ],
+      "target" : "VIM"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "NCOA6",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1989762", "http://identifiers.org/reactome/R-HSA-1989788" ],
+      "target" : "ABCB4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "MAX",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_d03245728d96cbf8c24baf8361f65c3a", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_eaafa30db9b766564aef5e4d14f37c88" ],
+      "target" : "ITGA6"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TFDP1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_e02361a962525ce6dc66ce593df813db", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_9dbfe535022ec49d5012972d5f81537d" ],
+      "target" : "CES1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "NCOR1",
+      "pcLinks" : [ "PMID:21720703" ],
+      "target" : "AR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PRKCD_507, PRKCD_664",
+      "edgeType" : "phosphorylates",
+      "source" : "SYK",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0", "http://pathwaycommons.org/pc12/Catalysis_6762ed7505cae15aa781177cdd59eea6", "http://pathwaycommons.org/pc12/BiochemicalReaction_c13063c90db627028663d038dde92940", "http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d", "http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0", "http://pathwaycommons.org/pc12/BiochemicalReaction_939f39f56c819375fe0f969cc8ee73ca", "http://pathwaycommons.org/pc12/Catalysis_4d2ef9faf8d866af6ec9ea2ffb8a84da" ],
+      "target" : "PRKCD"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "RBBP4",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-8964514", "http://identifiers.org/reactome/R-HSA-8964513" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SOX9",
+      "pcLinks" : [ "PMID:20651055", "PMID:19273910" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "SIN3A",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_7024af8fe84d26d92a48975d42e52ef0", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_0dd0e56bd8a4ecd36fd5aeb1b3e8d2d3" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_24dd294812185044206e930ed78adc8f", "http://pathwaycommons.org/pc12/TemplateReaction_754a00901c97f3118f954c54564d9e8c" ],
+      "target" : "PCNA"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TCF7L2",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_2ccaeec21c44e4a4fc7b7b9212b2d354", "http://pathwaycommons.org/pc12/TemplateReaction_a51a1cb3a04455eae54f6c793684f892" ],
+      "target" : "SALL4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "FHL2",
+      "pcLinks" : [ "PMID:21377781" ],
+      "target" : "CCND1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PTK2_577, PTK2_576, PTK2_407, PTK2_925, PTK2_397, PTK2_861",
+      "edgeType" : "phosphorylates",
+      "source" : "SYK",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/Catalysis_0f01cd490cb80bb34b64e95ba88f37c3", "http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd" ],
+      "target" : "PTK2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "VIM_26, VIM_426, VIM_25, VIM_47, VIM_412, VIM_39, VIM_51, VIM_73, VIM_66, VIM_56",
+      "edgeType" : "phosphorylates",
+      "source" : "PAK1",
+      "pcLinks" : [ "PMID:15766329", "PMID:16997882", "PMID:16990256", "PMID:11895474" ],
+      "target" : "VIM"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "HSF1",
+      "pcLinks" : [ "PMID:19401454", "PMID:17259369" ],
+      "target" : "SERPINE1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "COL3A1",
+      "pcLinks" : [ "PMID:11279127" ],
+      "target" : "SMAD7"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "MCM4_19, MCM4_110, MCM4_88, MCM4_32, MCM4_7",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK1",
+      "pcLinks" : [ "PMID:12714602", "PMID:18669648", "PMID:20068231", "PMID:16964243", "PMID:16519687", "PMID:17924679" ],
+      "target" : "MCM4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PGR_20, PGR_162, PGR_294, PGR_25, PGR_430, PGR_400, PGR_213, PGR_554, PGR_676, PGR_190",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK2",
+      "pcLinks" : [ "PMID:9171245", "PMID:19706513", "PMID:15572662", "PMID:11110801", "PMID:10655479" ],
+      "target" : "PGR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SNW1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-9604664", "http://pathwaycommons.org/pc12/Control_881743f59f5b5059282f7b8b346e4bf2" ],
+      "target" : "ACTA2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "KLF5",
+      "pcLinks" : [ "PMID:19189969" ],
+      "target" : "CCND1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "HIST1H2BO",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-9011965", "http://identifiers.org/reactome/R-HSA-9011966" ],
+      "target" : "KDM4B"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "CDK1_161, CDK1_14",
+      "edgeType" : "phosphorylates",
+      "source" : "TGFBR2",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/BiochemicalReaction_69f7aa6d02e9e0fad4b98c40f5ee56f7", "http://pathwaycommons.org/pc12/Catalysis_22f55f222018acb08ecc51f1087caf03" ],
+      "target" : "CDK1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "CDK1",
+      "pcLinks" : [ "PMID:15023526" ],
+      "target" : "SMAD7"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "LIN9",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-8964518", "http://identifiers.org/reactome/R-HSA-8961665" ],
+      "target" : "PCNA"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "ESR1",
+      "pcLinks" : [ "PMID:17268063" ],
+      "target" : "BLM"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "THRAP3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1183058", "http://identifiers.org/reactome/R-HSA-1183084" ],
+      "target" : "ADIPOQ"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SOX10",
+      "pcLinks" : [ "PMID:20977903" ],
+      "target" : "RET"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "RARA",
+      "pcLinks" : [ "PMID:17272513" ],
+      "target" : "ABCC3"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "STAT3",
+      "pcLinks" : [ "PMID:23042533" ],
+      "target" : "PGF"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "THRAP3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560493", "http://identifiers.org/reactome/R-HSA-560522" ],
+      "target" : "PLIN1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "MYCBP",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_776860c944b3c0b3cf9273547cc03fce", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_4271c2706b8e7155b6f41b2195a849fb" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "PRG4",
+      "pcLinks" : [ "PMID:18301748" ],
+      "target" : "FOXO1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED19",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560517", "http://identifiers.org/reactome/R-HSA-560540" ],
+      "target" : "CD36"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "E2F3",
+      "pcLinks" : [ "PMID:10030670" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED14",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560517", "http://identifiers.org/reactome/R-HSA-560540" ],
+      "target" : "CD36"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED15",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560517", "http://identifiers.org/reactome/R-HSA-560540" ],
+      "target" : "CD36"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "YBX1",
+      "pcLinks" : [ "PMID:20596676" ],
+      "target" : "CCNB1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "CCND1",
+      "pcLinks" : [ "PMID:7929342", "PMID:", "10594784" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TWIST1",
+      "pcLinks" : [ "PMID:19051271" ],
+      "target" : "F2R"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "SREBF1",
+      "pcLinks" : [ "PMID:20980003" ],
+      "target" : "LRP1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "PMID:16293709" ],
+      "target" : "OGG1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "NCOA6",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1989755", "http://identifiers.org/reactome/R-HSA-1989801" ],
+      "target" : "CYP4A11"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "PURA",
+      "pcLinks" : [ "PMID:19790234", "PMID:18413735" ],
+      "target" : "AR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED6",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560517", "http://identifiers.org/reactome/R-HSA-560540" ],
+      "target" : "CD36"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "FOXO1",
+      "pcLinks" : [ "PMID:17482685" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "NCOA6",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560517", "http://identifiers.org/reactome/R-HSA-1989789" ],
+      "target" : "CD36"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "ZEB1",
+      "pcLinks" : [ "PMID:17655524" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "STAT3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6789960", "http://identifiers.org/reactome/R-HSA-6797257" ],
+      "target" : "NDN"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "NUPR1",
+      "pcLinks" : [ "PMID:19650074" ],
+      "target" : "MSL1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "NCOR1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_7024af8fe84d26d92a48975d42e52ef0", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_0dd0e56bd8a4ecd36fd5aeb1b3e8d2d3" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "HDAC1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-8964594", "http://identifiers.org/reactome/R-HSA-8961934" ],
+      "target" : "CDK1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SSRP1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_52ff1290d54007b69c1ffdc61244425a", "http://pathwaycommons.org/pc12/TemplateReaction_97b748e4a3418b662540d2b320bfa897" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "STAT3",
+      "pcLinks" : [ "PMID:14673954" ],
+      "target" : "FGF1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TFDP1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_4380b5f536a2f10fe71c6ed999c6c291", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_02b6be2814596793f1e7148b9b413a90" ],
+      "target" : "UXT"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "LIN9",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-188345", "http://identifiers.org/reactome/R-HSA-8964503" ],
+      "target" : "CDC25A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TAF9",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_aed7df3a0f0ea5c86b911cf215455a4d", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_866d34da9036eb7cbf8b53524337ed79", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_2e4a44fae4017ff424569762b8d18d82", "http://pathwaycommons.org/pc12/TemplateReaction_b1d7e5dda27032720d6fefaceacaac0e", "http://pathwaycommons.org/pc12/TemplateReaction_0df6797ba197f54541891a9aec52ccae", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_1f437d17a4bfe49a6b3a0f338e78be11" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "HMGA1",
+      "pcLinks" : [ "PMID:15378028" ],
+      "target" : "KL"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED22",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560517", "http://identifiers.org/reactome/R-HSA-560540" ],
+      "target" : "CD36"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "NCOA6",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1989768", "http://identifiers.org/reactome/R-HSA-1989804" ],
+      "target" : "TIAM2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "ESR1",
+      "pcLinks" : [ "PMID:21486948" ],
+      "target" : "HTRA2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED6",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1183058", "http://identifiers.org/reactome/R-HSA-1183084" ],
+      "target" : "ADIPOQ"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TAF1",
+      "pcLinks" : [ "PMID:17996705" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "KIF2C",
+      "pcLinks" : [ "PMID:18440323" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "MSX2",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-9007772", "http://identifiers.org/reactome/R-HSA-9007686" ],
+      "target" : "RUNX2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "EWSR1",
+      "pcLinks" : [ "PMID:12966428" ],
+      "target" : "MITF"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "NFIB",
+      "pcLinks" : [ "PMID:17130157" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MYC",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_0f16fe26683fe6a2eb1a788c8068439e", "http://pathwaycommons.org/pc12/TemplateReaction_0c2b6bc784b5b7c1e775e1b78e76e933" ],
+      "target" : "SNAI1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TFDP1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_9149cbd35ee06ab6da6fe0198455b01c", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_b097a298ae844c31d68b3b5c03259284" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TGS1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1989755", "http://identifiers.org/reactome/R-HSA-1989801" ],
+      "target" : "CYP4A11"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "KRT19",
+      "pcLinks" : [ "PMID:12351634" ],
+      "target" : "FOXO1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PLEC_2886",
+      "edgeType" : "phosphorylates",
+      "source" : "AURKB",
+      "pcLinks" : [ "PMID:22267324" ],
+      "target" : "PLEC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "MAX",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-8953556", "http://identifiers.org/reactome/R-HSA-8953585" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "EZH2",
+      "pcLinks" : [ "PMID:23077658" ],
+      "target" : "AXL"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "HMGA1",
+      "pcLinks" : [ "PMID:22276142" ],
+      "target" : "TWIST1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SNW1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-9021454", "http://identifiers.org/reactome/R-HSA-9021450" ],
+      "target" : "PLXND1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "CBX3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-8953556", "http://identifiers.org/reactome/R-HSA-8953585" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "ESR1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_65869a010ca2edcf9b48e638f0433aff", "http://identifiers.org/reactome/R-HSA-9011982", "http://identifiers.org/reactome/R-HSA-9011994", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_97b9ca479b5cf52cc3e91ff6073bd4e8", "http://pathwaycommons.org/pc12/TemplateReaction_ffb40f296fb77be0283bc02ef0a034ee", "http://identifiers.org/reactome/R-HSA-9011975", "http://identifiers.org/reactome/R-HSA-9011977", "http://pathwaycommons.org/pc12/TemplateReaction_ba5634c9961b43c1e917d544e0f3af0c" ],
+      "target" : "MYC"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "AGO3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-8936064", "http://identifiers.org/reactome/R-HSA-8938460", "http://identifiers.org/reactome/R-HSA-8935787", "http://identifiers.org/reactome/R-HSA-8935873", "http://identifiers.org/reactome/R-HSA-8938480", "http://identifiers.org/reactome/R-HSA-8935785", "http://identifiers.org/reactome/R-HSA-8939140", "http://identifiers.org/reactome/R-HSA-8938513", "http://identifiers.org/reactome/R-HSA-8937139", "http://identifiers.org/reactome/R-HSA-8935954" ],
+      "target" : "RUNX1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "EZH2",
+      "pcLinks" : [ "PMID:21697275", "PMID:20132185" ],
+      "target" : "CCND1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PTK2_577, PTK2_576, PTK2_407, PTK2_925, PTK2_397, PTK2_861",
+      "edgeType" : "phosphorylates",
+      "source" : "PRKCQ",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/Catalysis_486739b208dc68ed3eb989565b3b0468", "http://pathwaycommons.org/pc12/Transport_46896e6de1043160ede274c493cdf769", "http://pathwaycommons.org/pc12/Catalysis_32f2b87ecb094c1770a9b7310c470a45", "http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd", "http://pathwaycommons.org/pc12/SmallMolecule_21d1714b69eec47d13f1ee5f51c33ad7" ],
+      "target" : "PTK2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TCF7L2",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_94178b504ce0658a975e7ac927c97359", "http://pathwaycommons.org/pc12/TemplateReaction_e643c93d5e361079fe2688aea54b13a7" ],
+      "target" : "VCAN"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TGS1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1989762", "http://identifiers.org/reactome/R-HSA-1989788" ],
+      "target" : "ABCB4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "STAT5B",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_8ee7c93aa385c1aaa401646a0e9e5430", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_fe7942d44cb771734a392ca34b6596a3" ],
+      "target" : "SRP9"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "COL1A2",
+      "pcLinks" : [ "PMID:11279127" ],
+      "target" : "SMAD7"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "COL1A1",
+      "pcLinks" : [ "PMID:11279127" ],
+      "target" : "SMAD7"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MYCBP",
+      "pcLinks" : [ "PMID:15979100" ],
+      "target" : "LEF1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "FGG",
+      "pcLinks" : [ "PMID:7499336" ],
+      "target" : "USF1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED6",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-390515", "http://identifiers.org/reactome/R-HSA-560510" ],
+      "target" : "FABP4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_02be843ddc8d64712913eb11d8887788", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_b928e9a95c49362adf93d4b803ab49b7" ],
+      "target" : "COP1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "PMID:14695784" ],
+      "target" : "SSTR2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "CDK1",
+      "pcLinks" : [ "PMID:11799067" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "RUNX2",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-9008460", "http://identifiers.org/reactome/R-HSA-9008456" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SMS",
+      "pcLinks" : [ "PMID:15048993" ],
+      "target" : "AR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "THRAP3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-390515", "http://identifiers.org/reactome/R-HSA-560510" ],
+      "target" : "FABP4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MYC",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_e6753fbf6764093cb1988d56cc6424f1", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_da6dc510587690e1614f6f0cac180b25" ],
+      "target" : "MYCT1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6806569", "http://pathwaycommons.org/pc12/TemplateReaction_6e9f061f3d31d284a3427e543de6d6d4", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_a4cddb6dfed27ba3e9e4fbab884b2be8", "http://identifiers.org/reactome/R-HSA-6806394" ],
+      "target" : "MSH2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "TGFB1I1_60",
+      "edgeType" : "dephosphorylates",
+      "source" : "AR",
+      "pcLinks" : [ "PMID:10838081", "PMID:23322602", "PMID:11856738" ],
+      "target" : "TGFB1I1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "BIRC5",
+      "pcLinks" : [ "PMID:17533050" ],
+      "target" : "STAT3"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "YBX1",
+      "pcLinks" : [ "PMID:20596676" ],
+      "target" : "RBBP8"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "MYC",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_e027f890c68fc45681065c552dc41348", "http://pathwaycommons.org/pc12/TemplateReaction_066a9973bec538f919b345282d8ecaf9" ],
+      "target" : "NDRG2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "CBX3",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-9007465", "http://identifiers.org/reactome/R-HSA-9007483" ],
+      "target" : "UXT"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "EHMT2",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-8953556", "http://identifiers.org/reactome/R-HSA-8953585" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "SIN3A",
+      "pcLinks" : [ "PMID:16254079" ],
+      "target" : "E2F1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "NELFCD",
+      "pcLinks" : [ "PMID:20735431" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TFAP4",
+      "pcLinks" : [ "PMID:21228219" ],
+      "target" : "SALL2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "ZEB2",
+      "pcLinks" : [ "PMID:20516212" ],
+      "target" : "MEOX2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "ITGB1",
+      "pcLinks" : [ "PMID:15979100" ],
+      "target" : "LEF1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TWIST1",
+      "pcLinks" : [ "PMID:19051271" ],
+      "target" : "NF1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "PARP1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_83009138f1f1c3147729d48dbfbe844d", "http://pathwaycommons.org/pc12/TemplateReaction_e77432f0f10ef462bdd4397386be4268" ],
+      "target" : "ZEB1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "EZH2",
+      "pcLinks" : [ "PMID:21465172" ],
+      "target" : "FOXC1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "HDAC1",
+      "pcLinks" : [ "PMID:16464847" ],
+      "target" : "COL1A2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "MYLK_1772, MYLK_1208, MYLK_1759, MYLK_18, MYLK_837, MYLK_850",
+      "edgeType" : "phosphorylates",
+      "source" : "PAK1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/Catalysis_0ed89e1b699792b7d45eddc4ee3a1945", "PMID:15310280", "http://identifiers.org/reactome/R-HSA-5668984", "PMID:10092231" ],
+      "target" : "MYLK"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "PPP1R13L_84, PPP1R13L_113",
+      "edgeType" : "phosphorylates",
+      "source" : "CDK1",
+      "pcLinks" : [ "" ],
+      "target" : "PPP1R13L"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "KRT8_330, KRT8_74, KRT8_456, KRT8_34",
+      "edgeType" : "phosphorylates",
+      "source" : "PRKCD",
+      "pcLinks" : [ "PMID:15972820" ],
+      "target" : "KRT8"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TP53",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_c4dd3c0d6b00efe6d8f8de10ee407d30", "http://pathwaycommons.org/pc12/TemplateReaction_76ff97202f286d46023ecaad0eb505e3" ],
+      "target" : "TAP1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SMAD4",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_a20875072965af2387959ea85be7c040", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_c5e45130bdffb745635577c8bed50db1" ],
+      "target" : "IFNB1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "SNW1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-2220973", "http://identifiers.org/reactome/R-HSA-2220981", "http://identifiers.org/reactome/R-HSA-1980081", "http://identifiers.org/reactome/R-HSA-1980065" ],
+      "target" : "HEYL"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "TIMP3",
+      "pcLinks" : [ "PMID:16690806" ],
+      "target" : "FOXO1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "TFDP1",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_da6bf0d86d65046fad2725c1f8b001f8", "http://pathwaycommons.org/pc12/TemplateReaction_f80af36cdba7900780f1901aa0a29c16" ],
+      "target" : "HIC1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "REL",
+      "pcLinks" : [ "PMID:15566959" ],
+      "target" : "CDKN1A"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "PRKCD",
+      "pcLinks" : [ "PMID:17553165" ],
+      "target" : "AR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "MYC",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReaction_d03245728d96cbf8c24baf8361f65c3a", "http://pathwaycommons.org/pc12/TemplateReactionRegulation_eaafa30db9b766564aef5e4d14f37c88" ],
+      "target" : "ITGA6"
+    }
+  } ]
+}
