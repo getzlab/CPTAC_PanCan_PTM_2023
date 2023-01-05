@@ -20,6 +20,9 @@ Authors: Yo Akiyama (yakiyama@broadinstitute.org), Shankara Anand (sanad@broadin
 * phosphoproteome_raw_res_X.tsv
 * acetylome_raw_res_X.tsv
 
+**Reference files** (`./ref`)
+* PanCan_Participant_Freeze_mapping.tsv: Mapping file to convert sample names across different data types
+
 **Other files** (`./`)
 * union_somatic_maf_v1.1_hotspot_cptac2fix.maf: Pan-Cancer harmonized WXS mutation annotation formatted file
 
