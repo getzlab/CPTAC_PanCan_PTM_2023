@@ -1,0 +1,15 @@
+Overall graph size pval = 0.0423
+Gene	Downstream crowded pval	Downstream suggests activation pval	Downstream suggests inhibition pval
+MRE11	0.0873	0.0873	1.0
+PLK1	0.1229	0.1229	1.0
+CDK2	0.1745	0.1745	1.0
+MAPK3	0.2058	0.2058	1.0
+CDK5	0.211	0.211	1.0
+MAPK1	0.275	0.275	1.0
+CDK1	0.4881	0.4881	1.0
+CSNK2A1	1.0	1.0	1.0
+CHEK1	1.0	1.0	1.0
+AKT1	1.0	1.0	1.0
+ATM	1.0	1.0	1.0
+PRKACA	1.0	1.0	1.0
+ATR	1.0	1.0	1.0

@@ -1,0 +1,13 @@
+
+HDAC1	downregulates-expression	SERPINE1	http://identifiers.org/reactome/R-HSA-2106586 http://identifiers.org/reactome/R-HSA-2186613	
+SP1	upregulates-expression	MACROD1	PMID:18206366	
+SIRT1	downregulates-expression	CFH	PMID:17558024	
+GTF2I	upregulates-expression	SIRT1	PMID:21407215	
+MTA1	upregulates-expression	SUMO2	PMID:21965678	
+SIRT1	downregulates-expression	COL1A2	PMID:23079621	
+SIRT1	upregulates-expression	HSF1	PMID:23349863	
+SP1	upregulates-expression	MTA1	PMID:21555589	
+SIRT1	downregulates-expression	COL10A1	PMID:21337390	
+SIRT1	downregulates-expression	ADAMTS5	PMID:21337390	
+HIC1	downregulates-expression	SIRT1	PMID:19649206 PMID:19525223	
+MAX	upregulates-expression	MTA1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_5a237c871783d5dac59fbac0d4cc7444 http://pathwaycommons.org/pc12/TemplateReaction_2141eb6c0f4d4bd40838ce6b6921125a	

@@ -1,0 +1,131 @@
+{
+  "nodes" : [ {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,187,172)",
+        "siteText" : "r",
+        "siteInfo" : "FANCD2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FANCD2",
+      "text" : "FANCD2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(201,211,255)",
+        "siteText" : "r",
+        "siteInfo" : "ERCC1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "ERCC1",
+      "text" : "ERCC1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(210,218,255)",
+        "siteText" : "p",
+        "siteInfo" : "POLR2A-P-S1917",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "POLR2A",
+      "text" : "POLR2A"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,208,198)",
+        "siteText" : "r",
+        "siteInfo" : "CHEK1-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "CHEK1",
+      "text" : "CHEK1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,191,177)",
+        "siteText" : "r",
+        "siteInfo" : "FANCI-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "FANCI",
+      "text" : "FANCI"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,220,212)"
+    },
+    "data" : {
+      "tooltipText" : "PARP1-G, 2.973817357484635",
+      "sites" : [ ],
+      "id" : "PARP1",
+      "text" : "PARP1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,229,223)",
+        "siteText" : "r",
+        "siteInfo" : "BRCA2-R",
+        "siteBorderColor" : "rgb(50,50,50)"
+      } ],
+      "id" : "BRCA2",
+      "text" : "BRCA2"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(255,243,241)",
+        "siteText" : "!",
+        "siteInfo" : "E2F1-active-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "E2F1",
+      "text" : "E2F1"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "POLR2A",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6797711", "http://identifiers.org/reactome/R-HSA-6797712" ],
+      "target" : "FANCD2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "POLR2A",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6797711", "http://identifiers.org/reactome/R-HSA-6797712" ],
+      "target" : "CHEK1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "E2F1",
+      "pcLinks" : [ "PMID:22159227" ],
+      "target" : "ERCC1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "PARP1",
+      "pcLinks" : [ "PMID:18990703" ],
+      "target" : "BRCA2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "POLR2A",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6797711", "http://identifiers.org/reactome/R-HSA-6797712" ],
+      "target" : "FANCI"
+    }
+  } ]
+}

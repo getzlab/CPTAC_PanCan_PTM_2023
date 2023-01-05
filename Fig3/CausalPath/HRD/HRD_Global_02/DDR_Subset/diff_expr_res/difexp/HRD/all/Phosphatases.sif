@@ -1,0 +1,12 @@
+
+CDC25B	dephosphorylates	CDK1	http://identifiers.org/reactome/R-HSA-170161 http://pathwaycommons.org/pc12/Catalysis_a387b70fb31f6a915c76f69d28237a19 http://pathwaycommons.org/pc12/BiochemicalReaction_6b6561ae89674a2a4bd3762191515d69 http://identifiers.org/reactome/R-HSA-170153 http://pathwaycommons.org/pc12/Catalysis_44f3cc5d7fda809cba74ced64c9e88ff http://pathwaycommons.org/pc12/Catalysis_7f84bf8dbf355dff85ee6a8db7aaf44e	T14;Y15
+FOXM1	upregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-4088166 http://identifiers.org/reactome/R-HSA-4088152	
+E2F4	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+E2F5	downregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+E2F4	downregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://pathwaycommons.org/pc12/TemplateReactionRegulation_7cf95bd93c3de7b3fc2e7a180cb770e4 http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+CDK1	phosphorylates	CDC25B	PMID:12107172 PMID:12766774 PMID:20801879	S307;S146;S321;S160;S50
+PLK1	phosphorylates	CDC25B	PMID:21640712	S513;T404;T127;S465;S209;S50;S291;T58;S375;S397;S353;T167;T265
+RBL2	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+RBL2	downregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://pathwaycommons.org/pc12/TemplateReactionRegulation_7cf95bd93c3de7b3fc2e7a180cb770e4 http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+AURKA	phosphorylates	CDC25B	PMID:15128871 PMID:16082213 PMID:23186163 http://pathwaycommons.org/pc12/Catalysis_e4f1f512aca3f293a992f44dd598b0cc http://pathwaycommons.org/pc12/BiochemicalReaction_cc67d88665a2e62443ee8af0fadd81b5	S339;S312;S353
+E2F1	upregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReactionRegulation_78e0684a55932c58c36e7a26e3ab6689 http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8961967	

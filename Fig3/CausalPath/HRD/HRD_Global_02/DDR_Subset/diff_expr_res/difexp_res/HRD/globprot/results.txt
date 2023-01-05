@@ -1,0 +1,35 @@
+Source	Relation	Target	Sites	Source data ID	Source change	 Source change pval	Target data ID	Target change	Target change pval
+MYCN	upregulates-expression	MCM4		MYCN-active-by-network-sig	1.0		MCM4-G	7.002521620073635	9.095854423817377E-4
+MYCN	upregulates-expression	MCM3		MYCN-active-by-network-sig	1.0		MCM3-G	7.002521620073635	9.095854423817377E-4
+E2F3	upregulates-expression	MCM3		E2F3-active-by-network-sig	1.0		MCM3-G	7.002521620073635	9.095854423817377E-4
+E2F1	upregulates-expression	MCM3		E2F1-active-by-network-sig	1.0		MCM3-G	7.002521620073635	9.095854423817377E-4
+MYCN	upregulates-expression	MCM5		MYCN-active-by-network-sig	1.0		MCM5-G	6.840496796665002	0.0010695719078720554
+MYCN	upregulates-expression	MCM2		MYCN-active-by-network-sig	1.0		MCM2-G	6.78528148445505	0.0011302894999150339
+MYCN	upregulates-expression	MCM6		MYCN-active-by-network-sig	1.0		MCM6-G	6.720021062184887	0.001206512801894723
+MYCN	upregulates-expression	MCM7		MYCN-active-by-network-sig	1.0		MCM7-G	6.720021062184887	0.001206512801894723
+E2F4	downregulates-expression	CDK1		E2F4-inactive-by-network-sig	-1.0		CDK1-G	5.994028987059673	0.0024935971135386643
+E2F1	upregulates-expression	CDK1		E2F1-active-by-network-sig	1.0		CDK1-G	5.994028987059673	0.0024935971135386643
+E2F3	upregulates-expression	CDK1		E2F3-active-by-network-sig	1.0		CDK1-G	5.994028987059673	0.0024935971135386643
+E2F4	downregulates-expression	TOP2A		E2F4-inactive-by-network-sig	-1.0		TOP2A-G	5.897283458188298	0.002746896752321253
+E2F1	upregulates-expression	TOP2A		E2F1-active-by-network-sig	1.0		TOP2A-G	5.897283458188298	0.002746896752321253
+E2F1	upregulates-expression	RRM2		E2F1-active-by-network-sig	1.0		RRM2-G	5.069332394960659	0.006286615716484282
+E2F3	upregulates-expression	RRM2		E2F3-active-by-network-sig	1.0		RRM2-G	5.069332394960659	0.006286615716484282
+E2F4	downregulates-expression	PCNA		E2F4-inactive-by-network-sig	-1.0		PCNA-G	4.976900576843629	0.006895401237882991
+E2F1	upregulates-expression	TYMS		E2F1-active-by-network-sig	1.0		TYMS-G	4.976900576843629	0.006895401237882991
+E2F1	upregulates-expression	PCNA		E2F1-active-by-network-sig	1.0		PCNA-G	4.976900576843629	0.006895401237882991
+E2F3	upregulates-expression	TYMS		E2F3-active-by-network-sig	1.0		TYMS-G	4.976900576843629	0.006895401237882991
+E2F1	upregulates-expression	CHEK2		E2F1-active-by-network-sig	1.0		CHEK2-G	4.9618037961095105	0.007000289342700968
+ATR	upregulates-expression	FANCI		ATR-P-T1989	4.637882246904616	0.009678171918677432	FANCI-G	5.010058457528318	0.006670513353134298
+E2F4	downregulates-expression	TTK		E2F4-inactive-by-network-sig	-1.0		TTK-G	4.3165855078645885	0.01334537350857076
+E2F4	downregulates-expression	CCNA2		E2F4-inactive-by-network-sig	-1.0		CCNA2-G	3.7405844519295166	0.023740224056117178
+E2F1	upregulates-expression	CCNA2		E2F1-active-by-network-sig	1.0		CCNA2-G	3.7405844519295166	0.023740224056117178
+FANCI	upregulates-expression	MDC1		FANCI-G	5.010058457528318	0.006670513353134298	MDC1-G	3.7193897601991988	0.02424876089059522
+MDC1	upregulates-expression	FANCI		MDC1-G	3.7193897601991988	0.02424876089059522	FANCI-G	5.010058457528318	0.006670513353134298
+ATR	upregulates-expression	MDC1		ATR-P-T1989	4.637882246904616	0.009678171918677432	MDC1-G	3.7193897601991988	0.02424876089059522
+E2F4	downregulates-expression	PCLAF		E2F4-inactive-by-network-sig	-1.0		PCLAF-G	3.4335681037261545	0.032271586728838224
+E2F3	upregulates-expression	AURKA		E2F3-active-by-network-sig	1.0		AURKA-G	2.7678709118697578	0.06279555979745774
+E2F1	upregulates-expression	AURKA		E2F1-active-by-network-sig	1.0		AURKA-G	2.7678709118697578	0.06279555979745774
+E2F1	upregulates-expression	POLA1		E2F1-active-by-network-sig	1.0		POLA1-G	2.7138977180608785	0.06627796976618763
+E2F3	upregulates-expression	POLA1		E2F3-active-by-network-sig	1.0		POLA1-G	2.7138977180608785	0.06627796976618763
+E2F4	downregulates-expression	CDC25C		E2F4-inactive-by-network-sig	-1.0		CDC25C-G	2.5816241952373415	0.07565103213860506
+MYCN	upregulates-expression	MCM8		MYCN-active-by-network-sig	1.0		MCM8-G	2.321196154824276	0.09815610545707183

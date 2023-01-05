@@ -1,0 +1,2833 @@
+ESR1	downregulates-expression	PTMA	PMID:12149645	
+ESR1	upregulates-expression	COL18A1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_160cb482114f68fe5d65ea9484d62ff2 http://pathwaycommons.org/pc12/TemplateReaction_1aa4377e1bd13f53db9e1ca1a6709ebe http://pathwaycommons.org/pc12/TemplateReaction_e9a011d11fa361da50932c123d14673a http://pathwaycommons.org/pc12/TemplateReactionRegulation_8ed99f78f52fcf9b1c1ae3e976924688	
+RUNX2	upregulates-expression	COL1A1	http://identifiers.org/reactome/R-HSA-8985644 http://identifiers.org/reactome/R-HSA-8985649	
+WT1	upregulates-expression	ODC1	PMID:8604351	
+ESR1	upregulates-expression	TFF3	http://identifiers.org/reactome/R-HSA-9018516 http://identifiers.org/reactome/R-HSA-9018497	
+NELFCD	downregulates-expression	CCND1	PMID:20735431	
+ESR1	upregulates-expression	PRL	http://pathwaycommons.org/pc12/TemplateReaction_fdef40eab8eec58d6dc6256533952ce2 http://pathwaycommons.org/pc12/TemplateReactionRegulation_58d400040dc5d601c0bd1009332412bb	
+CDK1	phosphorylates	DLGAP5	PMID:18669648 PMID:20068231 PMID:15145941 PMID:23186163	T329;T759;T402;S67;S642;T401;S618;S839;T639
+HSF1	downregulates-expression	HSD17B6	PMID:16278218	
+PARP1	downregulates-expression	SNAI1	PMID:21577210	
+FGA	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073	Y397;Y576;Y861;Y577;Y925;Y407
+RBBP4	upregulates-expression	CCNB2	http://identifiers.org/reactome/R-HSA-4088299 http://identifiers.org/reactome/R-HSA-4088296	
+RBBP4	upregulates-expression	CCNB1	http://identifiers.org/reactome/R-HSA-4088312 http://identifiers.org/reactome/R-HSA-4088298	
+FGB	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073	Y397;Y576;Y861;Y577;Y925;Y407
+HDAC1	downregulates-expression	SERPINE1	http://identifiers.org/reactome/R-HSA-2106586 http://identifiers.org/reactome/R-HSA-2186613	
+SMAD4	upregulates-expression	ID1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_38defae0628f75f94d18070217854e54 http://pathwaycommons.org/pc12/TemplateReaction_ebb37183d5d150381542dec3ce0383cb http://pathwaycommons.org/pc12/TemplateReactionRegulation_1d32642b6fcab5752fe6e369d60813bb http://pathwaycommons.org/pc12/TemplateReaction_2039b61c4948b071ed692a36ba4f0cf0	
+TCF7L2	upregulates-expression	MYC	http://pathwaycommons.org/pc12/TemplateReaction_f9b6f20fea77882b5893aebf780d7bab http://pathwaycommons.org/pc12/TemplateReactionRegulation_18aae11005d565027cd993d3b4962b0a http://identifiers.org/reactome/R-HSA-4411357 http://pathwaycommons.org/pc12/TemplateReaction_c8b9eded018262166664b15dccfdada5 http://pathwaycommons.org/pc12/TemplateReactionRegulation_6a707d302ebb72290a5a54bd0eb7d163 http://identifiers.org/reactome/R-HSA-4411399	
+FGG	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073	Y397;Y576;Y861;Y577;Y925;Y407
+MAX	downregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReaction_23ff629f5d223ac6b2b7848753c0ab57 http://pathwaycommons.org/pc12/TemplateReactionRegulation_85fd2c7c2f5ed6be1a881c431148cbfd	
+GATA3	downregulates-expression	FOXC1	PMID:22120723	
+EXOSC8	upregulates-expression	MYC	PMID:12747840	
+NFIB	downregulates-expression	CCND1	http://pathwaycommons.org/pc12/TemplateReaction_147a2979deb4ae6b1beccb4d095e59c3 http://pathwaycommons.org/pc12/TemplateReactionRegulation_eeea8802c7360c79545b117344201ccf	
+TCF7L2	upregulates-expression	STARD7	PMID:21622533	
+FOXO1	upregulates-expression	FABP4	PMID:20102700	
+SMAD4	upregulates-expression	FOXO1	PMID:12351634	
+ELK1	downregulates-expression	TAGLN	http://pathwaycommons.org/pc12/TemplateReactionRegulation_02e373e4347ed490515be2115b5352c3 http://pathwaycommons.org/pc12/TemplateReaction_2923271a9cab641530d74573bca00a96	
+PURA	downregulates-expression	PCNA	PMID:18386260	
+MYC	upregulates-expression	NDUFAF2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_6965ae7227401e9cc70948586cbaceb6 http://pathwaycommons.org/pc12/TemplateReaction_6a999b0d92a4761985198bc40d2a1cec	
+E2F2	downregulates-expression	SERPINE1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_9c6792937e7cb334fc48b48992ffc75f http://pathwaycommons.org/pc12/TemplateReaction_9f10cd791e6e46567f1dbac6255feeca	
+C1QBP	upregulates-expression	MYC	PMID:11983916	
+FAM20C	phosphorylates	FBN1	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569	S2702
+SMN1	upregulates-expression	MYC	PMID:12747840	
+MITF	upregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReaction_11427978e34428241ad2394ec0b8ad1c http://pathwaycommons.org/pc12/TemplateReactionRegulation_7c9f37aff57940906c98cb554f3c1f3f	
+HOPX	upregulates-expression	FLG	PMID:21256618	
+ESRRA	upregulates-expression	CYCS	http://identifiers.org/reactome/R-HSA-1592231 http://identifiers.org/reactome/R-HSA-1605565	
+TFAP4	upregulates-expression	CDKN1A	PMID:19270520	
+EDNRA	upregulates-expression	COL3A1	http://pathwaycommons.org/pc12/TemplateReaction_892e8b792496d54f4c1f2b89a237f601 http://pathwaycommons.org/pc12/TemplateReactionRegulation_155f66bd6b2d9f9274e76f4bca5f3288	
+RUNX2	upregulates-expression	SNAI2	PMID:22641097	
+E2F3	downregulates-expression	SERPINE1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_9c6792937e7cb334fc48b48992ffc75f http://pathwaycommons.org/pc12/TemplateReaction_9f10cd791e6e46567f1dbac6255feeca	
+CDK2	phosphorylates	ATRIP	http://pathwaycommons.org/pc12/Catalysis_cc6d6f6d309050dd3defd1b08dd5c70d http://pathwaycommons.org/pc12/BiochemicalReaction_b601a91728ceffca78a436db62fc2c1f PMID:17638878	S239;S224
+TWIST1	upregulates-expression	NR2F1	PMID:19051271	
+TFDP1	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 PMID:14618416 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9 http://identifiers.org/reactome/R-HSA-8961934 http://identifiers.org/reactome/R-HSA-8961933	
+HDAC1	downregulates-expression	SNAI2	PMID:18588516	
+E2F2	upregulates-expression	EED	http://identifiers.org/reactome/R-HSA-3240782 http://identifiers.org/reactome/R-HSA-3240785	
+E2F3	upregulates-expression	EED	http://identifiers.org/reactome/R-HSA-3240782 http://identifiers.org/reactome/R-HSA-3240785	
+RFC2	upregulates-expression	MYC	PMID:12747840	
+HDAC2	downregulates-expression	SNAI2	PMID:23836662	
+RUNX1	upregulates-expression	RSPO3	http://identifiers.org/reactome/R-HSA-8877885 http://identifiers.org/reactome/R-HSA-8877884	
+CDK1	phosphorylates	GJA1		S255;S262
+TP53	upregulates-expression	VCAN	http://pathwaycommons.org/pc12/TemplateReaction_8d64b6d3716e6a82abcf625647a1efea http://pathwaycommons.org/pc12/TemplateReactionRegulation_dc782273007eb4fd847863d337ece308 PMID:12438652	
+MYC	upregulates-expression	HDAC2	PMID:20697349	
+FYN	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0 http://pathwaycommons.org/pc12/BiochemicalReaction_368f7fe712f290bac8b0c0a9a9ff05f2 http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d PMID:18387943 http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0 http://pathwaycommons.org/pc12/BiochemicalReaction_939f39f56c819375fe0f969cc8ee73ca http://pathwaycommons.org/pc12/Catalysis_152412aeecad8578dae57d90e28cf4bd http://pathwaycommons.org/pc12/Catalysis_4d2ef9faf8d866af6ec9ea2ffb8a84da	Y334;Y311;Y313;S664;T507
+RRP1B	upregulates-expression	E2F1	PMID:20040599	
+E2F3	upregulates-expression	RRM1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_bb1cbcbc14d3a1144253455eed06ce7b http://pathwaycommons.org/pc12/TemplateReaction_b0be845255ee1e81d1f92faa99bae4b9	
+E2F5	downregulates-expression	MYC	http://identifiers.org/reactome/R-HSA-1484103 http://identifiers.org/reactome/R-HSA-1484099	
+FYN	phosphorylates	DPYSL3	http://pathwaycommons.org/pc12/Catalysis_434985714d36b9e7c3ad2ca95c077cac http://identifiers.org/reactome/R-HSA-399944	S522
+MAX	downregulates-expression	SERPINE1	http://pathwaycommons.org/pc12/TemplateReaction_e7634de49878135dd970c992f537a91f http://pathwaycommons.org/pc12/TemplateReactionRegulation_ffa22a6c3b09d3b2d648eafc8fbf7cce	
+GATA3	upregulates-expression	CCND1	http://identifiers.org/reactome/R-HSA-9009382 http://identifiers.org/reactome/R-HSA-9009378	
+WT1	downregulates-expression	PDGFA	PMID:1429549 PMID:7535092	
+AR	downregulates-expression	E2F1	PMID:17178887	
+TGS1	upregulates-expression	ACADM	http://identifiers.org/reactome/R-HSA-1989794 http://identifiers.org/reactome/R-HSA-1989745	
+CDK2	phosphorylates	LRCH3	PMID:18847512	S419
+HIST1H2BO	upregulates-expression	MYC	http://identifiers.org/reactome/R-HSA-9011982 http://identifiers.org/reactome/R-HSA-9011994 http://identifiers.org/reactome/R-HSA-9011975	
+GNAZ	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_486739b208dc68ed3eb989565b3b0468 http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd http://pathwaycommons.org/pc12/SmallMolecule_21d1714b69eec47d13f1ee5f51c33ad7 http://pathwaycommons.org/pc12/Transport_a8429b20fc5a977d6ca3a9917c6687e6 http://pathwaycommons.org/pc12/Catalysis_5e921c58f3cedc8b4d7195ada278785e	Y576;Y861;Y577;Y925;Y407
+MDC1	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+MYC	upregulates-expression	EIF4A1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_05d8e29b262105f507d088e783f21eb6 http://pathwaycommons.org/pc12/TemplateReaction_15087d0a5b1659b1ea6a91b3bf20e688	
+HDAC2	downregulates-expression	COL1A2	PMID:16464847	
+TP53	downregulates-expression	MYC	PMID:19411072 PMID:16107691	
+RUNX1	upregulates-expression	CLDN5	http://identifiers.org/reactome/R-HSA-8936007 http://identifiers.org/reactome/R-HSA-8936009	
+ACTL6A	upregulates-expression	PTMA	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a1e591de73a313847bf1236f9cd4456a http://pathwaycommons.org/pc12/TemplateReaction_a78e169b29f9694517a2941d15e54b35	
+TP53	upregulates-expression	MMP2	http://pathwaycommons.org/pc12/TemplateReaction_d5aea4beb6d0edab567d0eab6e539d34 PMID:11792711 http://pathwaycommons.org/pc12/TemplateReactionRegulation_253c3a69720993ea6deaa0c514ed3a21 PMID:10029407 PMID:9343394	
+TFDP1	upregulates-expression	MCM3	http://pathwaycommons.org/pc12/TemplateReaction_0df2a1c9ce0519f3649d23b795e41324 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5f9b1a75f73f8fb732bb070939277796	
+MYC	downregulates-expression	CCND1	PMID:14757441 PMID:8196642	
+MAX	upregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_4bef8f5f253b190f65ca4f9a1084c75d http://identifiers.org/reactome/R-HSA-188376 http://identifiers.org/reactome/R-HSA-188345 http://pathwaycommons.org/pc12/TemplateReactionRegulation_42feed9fb3f5381c4c75c568a02a8a32	
+RUVBL2	upregulates-expression	MYC	PMID:11983916	
+PPAT	upregulates-expression	MYC	PMID:14519204	
+TWIST1	upregulates-expression	MMP2	PMID:20646316	
+WT1	downregulates-expression	AR	PMID:11299720	
+NOP56	upregulates-expression	MYC	PMID:11983916	
+TWIST1	upregulates-expression	FN1	PMID:20646316	
+TP53	upregulates-expression	TYRP1	http://pathwaycommons.org/pc12/TemplateReaction_9644933167cfc1a2a51e3ee8e35908e0 http://pathwaycommons.org/pc12/TemplateReactionRegulation_7b844d642d7a532515687f8bd89c4301	
+RUNX2	upregulates-expression	MMP2	PMID:22641097	
+EIF3B	upregulates-expression	MYC	PMID:11983916	
+CDK2	phosphorylates	MICALL1	PMID:18847512	S621;T469;S620;S470;S471;S619
+TP53	downregulates-expression	EZH2	PMID:15208672 PMID:21165554	
+STAT3	upregulates-expression	AKAP12	PMID:22584896	
+PIAS1	upregulates-expression	MYC	PMID:11983916	
+TRRAP	upregulates-expression	NCL	http://pathwaycommons.org/pc12/TemplateReactionRegulation_654b2ddff0aebb3b389ca61035e48ac6 http://pathwaycommons.org/pc12/TemplateReaction_1df6ec5560006327aa50d58ceadaae90	
+CDK2	phosphorylates	WRN		S1133
+MAX	downregulates-expression	COL1A2	http://pathwaycommons.org/pc12/TemplateReaction_24f9200fd752f1c9ff49b24db274e540 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b0280dd6a0cd1458b1045cc24c7b5e0a	
+CDK2	phosphorylates	UNG	PMID:18847512	S64;S23;S12;T60
+MAX	upregulates-expression	CDCA7	http://pathwaycommons.org/pc12/TemplateReactionRegulation_56f05383c5f44962459288cfd317e529 http://pathwaycommons.org/pc12/TemplateReaction_7d212bd74f8cf8d6a1f7c4d940956c21	
+DNAJB1	upregulates-expression	MYC	PMID:11983916	
+RARA	upregulates-expression	THBD	PMID:9269772	
+MYC	upregulates-expression	RIOX2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_52cb3433303aed6b8462072f0eb50dcf http://pathwaycommons.org/pc12/TemplateReaction_c0d2c993bc9f2354a7d7bae652994a7d	
+SNW1	upregulates-expression	MYC	http://identifiers.org/reactome/R-HSA-1980079 http://identifiers.org/reactome/R-HSA-1980067 http://identifiers.org/reactome/R-HSA-2220974 http://identifiers.org/reactome/R-HSA-2220985	
+HDAC1	upregulates-expression	BCL2A1	PMID:17000776	
+FHL2	upregulates-expression	CDKN1A	PMID:21377781	
+E2F2	upregulates-expression	EZH2	http://identifiers.org/reactome/R-HSA-3240783 http://identifiers.org/reactome/R-HSA-3240786	
+CDK1	phosphorylates	HJURP		S448;S412;S473
+SSRP1	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+E2F3	upregulates-expression	EZH2	http://identifiers.org/reactome/R-HSA-3240783 http://identifiers.org/reactome/R-HSA-3240786	
+TP53	upregulates-expression	ZNF385A	http://identifiers.org/reactome/R-HSA-6803537 http://identifiers.org/reactome/R-HSA-6803437	
+GABPA	upregulates-expression	SSBP1	http://identifiers.org/reactome/R-HSA-1592264 http://identifiers.org/reactome/R-HSA-1592241	
+CDK1	phosphorylates	KIFC1		S31;S6;S26
+FYN	phosphorylates	TGFB1I1	PMID:10838081	Y60;Y43
+ESRRA	downregulates-expression	NR2F1	PMID:15955695	
+CDK2	phosphorylates	ILF3	PMID:18847512	T368;S384;T363;T364;S382
+TP53	upregulates-expression	PLK2	http://identifiers.org/reactome/R-HSA-6801647 http://identifiers.org/reactome/R-HSA-6801637	
+CDK2	phosphorylates	TERF2	PMID:18847512	S365
+TP53	upregulates-expression	PRDM1	http://pathwaycommons.org/pc12/TemplateReaction_3bca63a6f65503658418ab60ca80b441 http://pathwaycommons.org/pc12/TemplateReactionRegulation_76634995f9e2f2041040ffeb8af69ce8 http://identifiers.org/reactome/R-HSA-6804186 http://identifiers.org/reactome/R-HSA-6804193	
+THRAP3	upregulates-expression	MYC	PMID:12747840 PMID:12808131	
+MYC	upregulates-expression	E2F1	PMID:8208548	
+E2F2	upregulates-expression	MYC	http://pathwaycommons.org/pc12/TemplateReaction_75785429caca80bb70a00349f94a8ce1 http://pathwaycommons.org/pc12/TemplateReactionRegulation_ae1c436b468f65b0e76ef9e57d7fd74d	
+E2F3	upregulates-expression	MYC	http://pathwaycommons.org/pc12/TemplateReaction_75785429caca80bb70a00349f94a8ce1 http://pathwaycommons.org/pc12/TemplateReactionRegulation_ae1c436b468f65b0e76ef9e57d7fd74d	
+MAX	downregulates-expression	SFXN3	http://pathwaycommons.org/pc12/TemplateReaction_bb8666f277ce68aaaa670b262b906449 http://pathwaycommons.org/pc12/TemplateReactionRegulation_d13ca5239b13b700ef3970bcf01b7052	
+FOXA1	upregulates-expression	NF1	PMID:8495744	
+HTATIP2	downregulates-expression	MMP2	PMID:19349353	
+SNRPB	upregulates-expression	MYC	PMID:12747840	
+ESR1	upregulates-expression	FOXP1	PMID:21901488	
+ZEB2	upregulates-expression	ITGA5	PMID:22227038	
+WNT4	upregulates-expression	FOXO1	PMID:17609436	
+PLK1	upregulates-expression	E2F1	PMID:18439978	
+SRSF1	upregulates-expression	MYC	PMID:12747840	
+MYC	upregulates-expression	SRSF1	PMID:22545246	
+FAM20C	phosphorylates	FGA	PMID:18088087 http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569 PMID:26091039	S524;S45;S56;S364;S560;S609
+CCNB1	upregulates-expression	MYC	PMID:12747840 PMID:11983916	
+MYC	upregulates-expression	CCNB1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_61e290ad1f82a170450ce4c204c88170 http://pathwaycommons.org/pc12/TemplateReaction_f2f39f4685140e6a89b80f65d1346ca8	
+TRRAP	downregulates-expression	MITF	PMID:15581068	
+MAX	upregulates-expression	ODC1	PMID:8262968 http://pathwaycommons.org/pc12/TemplateReactionRegulation_0fe534e7a97b76dcad26f2ed19fe8883 http://pathwaycommons.org/pc12/TemplateReaction_07d6c60a6f1800ad0bde6a6946497a39	
+DHFR	upregulates-expression	E2F1	PMID: 10336493 PMID:8441401 PMID: 10597240 PMID: 8816912	
+TRRAP	upregulates-expression	PTMA	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a1e591de73a313847bf1236f9cd4456a http://pathwaycommons.org/pc12/TemplateReaction_a78e169b29f9694517a2941d15e54b35	
+RUNX2	upregulates-expression	MMP13	PMID:15564063 http://identifiers.org/reactome/R-HSA-8940021 http://identifiers.org/reactome/R-HSA-8940007	
+FYN	phosphorylates	ARHGAP35	PMID:11536198	Y1105;Y1087
+RNF14	upregulates-expression	CCND1	PMID:17510080	
+EZH2	downregulates-expression	TWIST1	PMID:23836662	
+COL10A1	upregulates-expression	RUNX2	PMID:19116917	
+MITF	upregulates-expression	SERPINF1	PMID:22115973	
+KLF5	upregulates-expression	CCNB1	PMID:21951574	
+CDK1	phosphorylates	ZYX		T270;S259;S267;S344;S202;T179;T274;S308
+ESR1	upregulates-expression	KRT19	PMID:11026574	
+LIMA1	downregulates-expression	LEF1	PMID:15979100	
+RBL2	downregulates-expression	PCNA	http://identifiers.org/reactome/R-HSA-8964518 http://identifiers.org/reactome/R-HSA-8961665	
+CEBPZ	downregulates-expression	COL11A1	PMID:12805369	
+DCN	upregulates-expression	FOXO1	PMID:16690806	
+PRKCD	phosphorylates	TAGLN	PMID:11053353 PMID:18212344 PMID:20166139	S181
+ACTL6A	upregulates-expression	NCL	http://pathwaycommons.org/pc12/TemplateReactionRegulation_654b2ddff0aebb3b389ca61035e48ac6 http://pathwaycommons.org/pc12/TemplateReaction_1df6ec5560006327aa50d58ceadaae90	
+POLR2J	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+FAM20C	phosphorylates	VCAN	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569	S2116
+PRKCD	phosphorylates	PGR		S400
+HDAC2	downregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReactionRegulation_c23ed2b8d0d93ff12a02c84e1c8f3012 http://pathwaycommons.org/pc12/TemplateReactionRegulation_93785c5b828b8a2355b70a2a33652aac http://pathwaycommons.org/pc12/TemplateReaction_aed7df3a0f0ea5c86b911cf215455a4d http://pathwaycommons.org/pc12/TemplateReaction_b1d7e5dda27032720d6fefaceacaac0e http://pathwaycommons.org/pc12/TemplateReaction_0df6797ba197f54541891a9aec52ccae http://pathwaycommons.org/pc12/TemplateReactionRegulation_fbf37f213439f7302fea69be7e20fdda	
+POLR2D	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+HDAC1	downregulates-expression	CDKN1A	PMID:18210215 PMID:15130752 PMID:12665570 PMID:19182791	
+POLR2C	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2B	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+PLPP1	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0 http://pathwaycommons.org/pc12/BiochemicalReaction_ffdb16a7f9779c4fa41623cef3749503 http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d http://pathwaycommons.org/pc12/Catalysis_bb2241b069788393e877d59380c2db0a http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0	S664;T507
+CCNA2	upregulates-expression	E2F1	PMID: 14681231 PMID:10594784	
+CCNA2	upregulates-expression	MYC	PMID:14519204	
+HCFC1	upregulates-expression	E2F1	PMID:19763085 PMID:17612494	
+MYC	upregulates-expression	XPO1	PMID:22284678	
+TGIF2	downregulates-expression	SERPINE1	http://identifiers.org/reactome/R-HSA-2106586 http://identifiers.org/reactome/R-HSA-2186613	
+MDC1	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+MYC	downregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReaction_23ff629f5d223ac6b2b7848753c0ab57 http://identifiers.org/reactome/R-HSA-8865256 PMID:19150257 http://identifiers.org/reactome/R-HSA-8865279 PMID:21042278 PMID:22371483 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5da4e10508a00a8c9df550d1eee1d489 PMID:23804320 PMID:16923815 http://pathwaycommons.org/pc12/TemplateReactionRegulation_85fd2c7c2f5ed6be1a881c431148cbfd http://pathwaycommons.org/pc12/TemplateReaction_9e3eb6b9e15af15ee59ec6554c308d8d PMID:12553001	
+E2F4	downregulates-expression	PCNA	http://identifiers.org/reactome/R-HSA-8964518 http://identifiers.org/reactome/R-HSA-8961665	
+E2F5	downregulates-expression	PCNA	http://identifiers.org/reactome/R-HSA-8964518 http://identifiers.org/reactome/R-HSA-8961665	
+CCT3	upregulates-expression	MYC	PMID:11983916	
+FOSL2	upregulates-expression	CCND1	http://pathwaycommons.org/pc12/TemplateReaction_ad1cce9f5c4f9ee0ca65a2f9eb79f923 http://pathwaycommons.org/pc12/TemplateReactionRegulation_6c4d80c369e123e9f10c95c223a216f5	
+PYCR1	upregulates-expression	AR	PMID:17553165	
+RUVBL2	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_70103806de0d906629a773a5c7e73ca2 http://pathwaycommons.org/pc12/TemplateReaction_db5f0abfa1a03b8816ff7bfd24c93889	
+CDK2	phosphorylates	NRF1		S102;S136
+RUVBL1	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_70103806de0d906629a773a5c7e73ca2 http://pathwaycommons.org/pc12/TemplateReaction_db5f0abfa1a03b8816ff7bfd24c93889	
+TP53	downregulates-expression	CCNB1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_e093cd46aae1925e02c54075b7ee750f http://pathwaycommons.org/pc12/TemplateReaction_3994abd7fffdfde20aca9b26c67211d5 PMID:11892838	
+TP53	downregulates-expression	CCNB2	PMID:12889596	
+CDK2	phosphorylates	ORC2	PMID:22334659 PMID:11931757	T226;T116
+STAT3	upregulates-expression	HGF	http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615 PMID:12168776	
+TP53	downregulates-expression	XPO1	PMID:22284678	
+CDK2	phosphorylates	MCM4	PMID:12714602 PMID:18669648 PMID:19651622 PMID:20068231 PMID:18847512 PMID:16517729 PMID:16964243 PMID:16519687 PMID:17924679	S3;S32;S54;T7;T53;T110;T19
+CDK1	phosphorylates	MCM4	PMID:12714602 PMID:18669648 PMID:20068231 PMID:16964243 PMID:16519687 PMID:17924679	S88;S32;T7;T110;T19
+GATA3	upregulates-expression	TFF3	http://identifiers.org/reactome/R-HSA-9018516 http://identifiers.org/reactome/R-HSA-9018497	
+NELFCD	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+PCNA	upregulates-expression	MYC	PMID:11085504 PMID:1280813111085504	
+TFDP1	upregulates-expression	DHFR	http://pathwaycommons.org/pc12/TemplateReaction_764931ee76efd5a0eec1f71572715522 http://identifiers.org/reactome/R-HSA-8961875 http://identifiers.org/reactome/R-HSA-8961874 PMID:14618416 http://pathwaycommons.org/pc12/TemplateReactionRegulation_a40d4db5652845693da4ef653d6e6de8	
+HDAC1	upregulates-expression	BIRC3	PMID:17000776	
+FANCI	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+TP53	upregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReaction_aed7df3a0f0ea5c86b911cf215455a4d http://identifiers.org/reactome/R-HSA-4647613 PMID:20673369 http://pathwaycommons.org/pc12/TemplateReaction_b1d7e5dda27032720d6fefaceacaac0e http://pathwaycommons.org/pc12/TemplateReactionRegulation_56ef1ea2d800aac16078cb34c86141dd PMID:19501055 PMID:15897882 PMID:7753560 PMID:22732402 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e4954827840fc5e7961108c94554ca10 PMID:18645021 PMID:9916993 PMID:19713748 PMID:15851483 PMID:10522058 PMID:12889596 http://pathwaycommons.org/pc12/TemplateReaction_0df6797ba197f54541891a9aec52ccae PMID:15882981 PMID:10327058 http://pathwaycommons.org/pc12/TemplateReaction_a4078a107897efab90f3529553a9ac11 PMID:12665570 PMID:10566557 PMID:10499591 http://identifiers.org/reactome/R-HSA-4647606 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4d6690e2e82c50c58cc34ef57b78142b PMID:21557991 PMID:14522900 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5c6f167819715aa7b67143cf4d9953df PMID:21245169 PMID:17280505 PMID:21084835 PMID:10597242 PMID:12902982 PMID:22532570 PMID:18172861 PMID:11444825 PMID:11892838 PMID:10101800	
+SREBF1	upregulates-expression	FASN	http://identifiers.org/reactome/R-HSA-1655857 http://identifiers.org/reactome/R-HSA-1655843	
+CDK1	downregulates-expression	SMAD7	PMID:15023526	
+E2F2	downregulates-expression	PLAU	http://pathwaycommons.org/pc12/TemplateReactionRegulation_7b613c4b23a8634ffb2addee5b111d8f http://pathwaycommons.org/pc12/TemplateReaction_057e8673eefeff1a48d80ce26ba6d029	
+NRP1	phosphorylates	DPYSL3	http://pathwaycommons.org/pc12/Catalysis_434985714d36b9e7c3ad2ca95c077cac http://identifiers.org/reactome/R-HSA-399944	S522
+MAX	upregulates-expression	RIOX2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_52cb3433303aed6b8462072f0eb50dcf http://pathwaycommons.org/pc12/TemplateReaction_c0d2c993bc9f2354a7d7bae652994a7d	
+E2F3	downregulates-expression	PLAU	http://pathwaycommons.org/pc12/TemplateReactionRegulation_7b613c4b23a8634ffb2addee5b111d8f http://pathwaycommons.org/pc12/TemplateReaction_057e8673eefeff1a48d80ce26ba6d029	
+STAT3	upregulates-expression	CCL11	PMID:19265112	
+TK1	upregulates-expression	E2F1		
+TFDP1	upregulates-expression	EZH2	http://identifiers.org/reactome/R-HSA-3240783 http://identifiers.org/reactome/R-HSA-3240786	
+TP53	phosphorylates	PPP1R13L	PMID:30105797 PMID:23623661	S113;S84
+TPM1	downregulates-expression	MYC	PMID:11085504 PMID:14519204	
+RUNX2	upregulates-expression	SMAD6	http://identifiers.org/reactome/R-HSA-8878023 http://identifiers.org/reactome/R-HSA-8878021	
+TAF12	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReaction_f7be0eac3aa4061714b2b1422804c335 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4dc29f0df6489ad14995f19e39a91949	
+STAT3	upregulates-expression	FOXO1	http://identifiers.org/reactome/R-HSA-6790036 http://identifiers.org/reactome/R-HSA-6797258	
+TFDP1	upregulates-expression	CDC45	http://identifiers.org/reactome/R-HSA-8961915 http://identifiers.org/reactome/R-HSA-8961914	
+AATF	upregulates-expression	MYC	PMID:20549547	
+FN1	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073 http://pathwaycommons.org/pc12/Catalysis_c6966c5b87f101bba7e44e9d0ab660d5 http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_1a7c67e65e4c1ed7b43da9f1191ecbec	Y397;Y576;Y861;Y577;Y925;Y407
+EZH2	downregulates-expression	CDKN1A	PMID:21629038	
+RUVBL2	upregulates-expression	NCL	http://pathwaycommons.org/pc12/TemplateReactionRegulation_654b2ddff0aebb3b389ca61035e48ac6 http://pathwaycommons.org/pc12/TemplateReaction_1df6ec5560006327aa50d58ceadaae90	
+RUVBL1	upregulates-expression	NCL	http://pathwaycommons.org/pc12/TemplateReactionRegulation_654b2ddff0aebb3b389ca61035e48ac6 http://pathwaycommons.org/pc12/TemplateReaction_1df6ec5560006327aa50d58ceadaae90	
+SUPT16H	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+RBL2	downregulates-expression	CDK1	http://identifiers.org/reactome/R-HSA-8964594 http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://identifiers.org/reactome/R-HSA-8961934 http://pathwaycommons.org/pc12/TemplateReactionRegulation_c139b1965ab1e755a85eedd79dcb07d3	
+RBL1	downregulates-expression	CDK1	http://identifiers.org/reactome/R-HSA-8964594 http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://identifiers.org/reactome/R-HSA-8961934 http://pathwaycommons.org/pc12/TemplateReactionRegulation_c139b1965ab1e755a85eedd79dcb07d3	
+MYC	upregulates-expression	PTMA	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a1e591de73a313847bf1236f9cd4456a http://pathwaycommons.org/pc12/TemplateReaction_a78e169b29f9694517a2941d15e54b35	
+NELFE	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+NELFB	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+PARP1	downregulates-expression	FOXO1	PMID:19281796	
+NELFA	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+REL	downregulates-expression	EPHB2	PMID:19621336	
+MITF	downregulates-expression	BCL2A1	PMID:23447565	
+CCNA2	phosphorylates	ATRIP	http://pathwaycommons.org/pc12/Catalysis_cc6d6f6d309050dd3defd1b08dd5c70d http://pathwaycommons.org/pc12/BiochemicalReaction_b601a91728ceffca78a436db62fc2c1f	S224
+TP53	downregulates-expression	TYMS	PMID:21351099	
+AURKB	phosphorylates	MKI67	PMID:22267324	S538;S374
+RBL2	downregulates-expression	RAD51	PMID:21701264	
+EDNRA	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0 http://pathwaycommons.org/pc12/Catalysis_b40e92f63e24d2b4f5450bb3c8e2ac55 http://pathwaycommons.org/pc12/BiochemicalReaction_08c3d85777426d0bc4495127377f9293 http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0	S664;T507
+GATA3	downregulates-expression	IL12RB2	PMID:21632975	
+STAG2	upregulates-expression	MYC	http://identifiers.org/reactome/R-HSA-9011975 http://identifiers.org/reactome/R-HSA-9011977	
+STAG1	upregulates-expression	MYC	http://identifiers.org/reactome/R-HSA-9011975 http://identifiers.org/reactome/R-HSA-9011977	
+MAX	downregulates-expression	WNT5A	http://pathwaycommons.org/pc12/TemplateReaction_1e1d07dd0eaf0eb97037b152f04cb8fa http://pathwaycommons.org/pc12/TemplateReactionRegulation_6e4d640d716bc4ca1620a5dd5c6186cc	
+LAMP1	downregulates-expression	MYC	PMID:11085504	
+FOXA1	upregulates-expression	APOB	PMID:8441395 http://pathwaycommons.org/pc12/TemplateReaction_8f3dc6eac6452cd2e9e7cad2d7722719 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5a54b0d63e37107726b1b5eafefc490e	
+TP53	upregulates-expression	RGCC	http://identifiers.org/reactome/R-HSA-6803917 http://pathwaycommons.org/pc12/TemplateReaction_93c4f9b34886edbbb0a41bdb4f32c96c http://pathwaycommons.org/pc12/TemplateReactionRegulation_fa2c38e0bfa4c525f4038d5656f34973 http://identifiers.org/reactome/R-HSA-6803923	
+FOXO1	upregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReactionRegulation_c4a4e6ee7e7ea7151dc180d5d77c5a2b http://pathwaycommons.org/pc12/TemplateReaction_8c04a2704b20b4d74b6c75c310411123	
+FABP4	phosphorylates	LIPE	PMID:19018281 PMID:17785468	S855;S951;S950
+STAT5A	upregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReactionRegulation_86b95c5ef1832ae92c57bd21509b28f0 http://pathwaycommons.org/pc12/TemplateReaction_0b91a0da94a56edff894d68c9a76adec	
+MAX	upregulates-expression	EIF4A1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_05d8e29b262105f507d088e783f21eb6 http://pathwaycommons.org/pc12/TemplateReaction_15087d0a5b1659b1ea6a91b3bf20e688	
+RUNX1	upregulates-expression	NCAM1	PMID:16892559	
+MYC	downregulates-expression	LGALS1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_ff0137ccd585704e249b6096dc2fdf09 http://pathwaycommons.org/pc12/TemplateReaction_bc2690978ed953b7db18dfcec01c3195	
+MITF	upregulates-expression	TYRP1	PMID:10080955 PMID:8995290 PMID:22371403	
+TP53	upregulates-expression	SNAI2	http://pathwaycommons.org/pc12/TemplateReaction_c8db0bdc4b5c298b9046f667244abfa4 http://pathwaycommons.org/pc12/TemplateReactionRegulation_af3f60b25c36f4efe01d7ab2c73c236c	
+NOTCH1	upregulates-expression	CCND1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_e7818612a136188bc13b602a5280e51f http://pathwaycommons.org/pc12/TemplateReaction_681691f5c29bcf49460775cc702b87c9	
+TFDP1	upregulates-expression	RANBP1	http://pathwaycommons.org/pc12/TemplateReaction_69de1608b4631943a6fa8b4f82d03256 http://pathwaycommons.org/pc12/TemplateReactionRegulation_88ca752c14620bec35a00d65908f5b79	
+EP400	downregulates-expression	CDKN1A	http://identifiers.org/reactome/R-HSA-4647613 http://identifiers.org/reactome/R-HSA-4647597	
+WNT5A	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_486739b208dc68ed3eb989565b3b0468 http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd http://pathwaycommons.org/pc12/SmallMolecule_21d1714b69eec47d13f1ee5f51c33ad7 http://pathwaycommons.org/pc12/Transport_1b4eff3cd25e687b26efb91fd122a9ea http://pathwaycommons.org/pc12/Catalysis_1c489dc08a1cb5f67c3e2ef59643a0c9	Y397;Y576;Y861;Y577;Y925;Y407
+HDAC2	downregulates-expression	TGFBR2	PMID:19088080	
+E2F2	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9	
+CDK1	upregulates-expression	E2F1	PMID:11799067	
+ESR1	upregulates-expression	AR	PMID:22391641	
+E2F3	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9	
+AR	upregulates-expression	NAT1	PMID:17210686	
+MYC	downregulates-expression	SFXN3	http://pathwaycommons.org/pc12/TemplateReaction_bb8666f277ce68aaaa670b262b906449 http://pathwaycommons.org/pc12/TemplateReactionRegulation_d13ca5239b13b700ef3970bcf01b7052	
+EDNRA	upregulates-expression	COL1A2	http://pathwaycommons.org/pc12/TemplateReaction_5a8da917434146fe366bd1a792044e61 http://pathwaycommons.org/pc12/TemplateReactionRegulation_9b7582c541dc11342ebcf7a1b896a8d1	
+EZH2	downregulates-expression	SNAI2	PMID:23836662	
+TP53	upregulates-expression	HIC1	http://pathwaycommons.org/pc12/TemplateReaction_3db76f96a1df60f20b73589082dbbd4c http://pathwaycommons.org/pc12/TemplateReactionRegulation_6449a7344ea52cb4c7745ac064faf2e4	
+TWIST1	upregulates-expression	AKR1C2	PMID:19051271	
+FLNA	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_486739b208dc68ed3eb989565b3b0468 http://pathwaycommons.org/pc12/Transport_46896e6de1043160ede274c493cdf769 http://pathwaycommons.org/pc12/Catalysis_32f2b87ecb094c1770a9b7310c470a45 http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd http://pathwaycommons.org/pc12/SmallMolecule_21d1714b69eec47d13f1ee5f51c33ad7	Y397;Y576;Y861;Y577;Y925;Y407
+AURKB	phosphorylates	CDCA2	PMID:23746640	S977;S893;S981
+MYC	upregulates-expression	CDCA7	http://pathwaycommons.org/pc12/TemplateReactionRegulation_56f05383c5f44962459288cfd317e529 http://pathwaycommons.org/pc12/TemplateReaction_7d212bd74f8cf8d6a1f7c4d940956c21	
+TRAP1	upregulates-expression	MYC	PMID:11983916	
+EZH2	upregulates-expression	PCNA	PMID:21629038	
+TP53	upregulates-expression	SERPINE1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_aec2005cc63a089522d0464e52589be0 http://pathwaycommons.org/pc12/TemplateReaction_a93a82e8c3e3a2e5c46d95357618235a	
+VHL	upregulates-expression	SPARC	PMID:15824735	
+POLR2D	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+MYC	upregulates-expression	DKC1	http://pathwaycommons.org/pc12/TemplateReaction_e30e1e500e018eedfb89e5964c806b8e http://pathwaycommons.org/pc12/TemplateReactionRegulation_5d4573ce0ceaaa380edb135ac882cd58	
+HCFC1	upregulates-expression	TFB2M	http://identifiers.org/reactome/R-HSA-1605549 http://identifiers.org/reactome/R-HSA-1592252	
+PPIF	upregulates-expression	MYC	PMID:11983916	
+MSR1	upregulates-expression	STAT2	PMID:16689942	
+RUNX1	upregulates-expression	MYL9	http://identifiers.org/reactome/R-HSA-8938201 http://identifiers.org/reactome/R-HSA-8938204	
+ESR1	upregulates-expression	KDM4B	http://identifiers.org/reactome/R-HSA-9011965 http://identifiers.org/reactome/R-HSA-9011966	
+POLR2B	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2C	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+PGR	upregulates-expression	E2F1	PMID:20123965	
+SREBF1	upregulates-expression	AR	PMID:16541421	
+PLXNA1	phosphorylates	DPYSL3	http://pathwaycommons.org/pc12/Catalysis_434985714d36b9e7c3ad2ca95c077cac http://identifiers.org/reactome/R-HSA-399944	S522
+PAK2	phosphorylates	MYLK	http://pathwaycommons.org/pc12/Catalysis_0ed89e1b699792b7d45eddc4ee3a1945 PMID:18088087 http://identifiers.org/reactome/R-HSA-5668984 PMID:10748018 PMID:2160950	S1208;S1759;S1760
+CDK1	phosphorylates	PPP1R13L		S113;S84
+PRKCD	phosphorylates	KRT8	PMID:15972820	S74;S456;S34;S330
+POLR2J	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+AR	upregulates-expression	KISS1R	PMID:18331266	
+PLXNA3	phosphorylates	DPYSL3	http://pathwaycommons.org/pc12/Catalysis_434985714d36b9e7c3ad2ca95c077cac http://identifiers.org/reactome/R-HSA-399944	S522
+SIN3A	dephosphorylates	RUNX1	PMID:32549768	T207
+NOTCH1	upregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReaction_da545ca932c5ac134442fe6900669152 http://pathwaycommons.org/pc12/TemplateReactionRegulation_520eab41d572b613fd957efff5be0dbc	
+STAT3	upregulates-expression	SALL4	http://identifiers.org/reactome/R-HSA-5638451 PMID:19151334 http://identifiers.org/reactome/R-HSA-480520	
+TP53	upregulates-expression	COL18A1	http://pathwaycommons.org/pc12/TemplateReaction_39cabfba73777f9daa15e68e3665dd92 http://pathwaycommons.org/pc12/TemplateReactionRegulation_32e3832f1deecfc425591c32b46fe6e0	
+RBL2	downregulates-expression	E2F1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_d0d023d607f0f5454880c85939e6ac9b http://identifiers.org/reactome/R-HSA-8964514 http://identifiers.org/reactome/R-HSA-8964513 http://pathwaycommons.org/pc12/TemplateReaction_aa718efb2bd14259982fa982adc56144 http://identifiers.org/reactome/R-HSA-8964548	
+NCOR1	downregulates-expression	NR1D1	http://identifiers.org/reactome/R-HSA-1480006 http://identifiers.org/reactome/R-HSA-549475	
+RBL1	downregulates-expression	E2F1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_d0d023d607f0f5454880c85939e6ac9b http://identifiers.org/reactome/R-HSA-8964513 http://pathwaycommons.org/pc12/TemplateReaction_aa718efb2bd14259982fa982adc56144 http://identifiers.org/reactome/R-HSA-8964548	
+HDAC1	dephosphorylates	RUNX1	PMID:21059642 PMID:32549768 PMID:16046550 PMID:17015473 PMID:18003885 PMID:22531928	T207;S424;S303;S48
+STAT3	upregulates-expression	TWIST1	PMID:23623921 http://identifiers.org/reactome/R-HSA-6790036 http://identifiers.org/reactome/R-HSA-6797258	
+NOTCH1	upregulates-expression	HEYL	http://identifiers.org/reactome/R-HSA-2220973 http://identifiers.org/reactome/R-HSA-2220981 http://identifiers.org/reactome/R-HSA-1980081 http://identifiers.org/reactome/R-HSA-1980065	
+NOC2L	downregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReactionRegulation_1f81296d6c1d4b07e0d36c4f9a1a3e66 http://pathwaycommons.org/pc12/TemplateReaction_4d8be7a07b8ca11ab97076b42caaef83	
+NOTCH3	upregulates-expression	HEYL	http://identifiers.org/reactome/R-HSA-9013488 http://identifiers.org/reactome/R-HSA-9017433	
+ESR1	upregulates-expression	CDKN1A	PMID:15378598 PMID:11517191 PMID:16628468	
+RBL2	downregulates-expression	DHFR	http://pathwaycommons.org/pc12/TemplateReaction_7afc7f1f67f0e4ffc16ab42673bd3e52 http://pathwaycommons.org/pc12/TemplateReactionRegulation_ac56539f95bc3fa93e44d890f7cf5770	
+RBL1	downregulates-expression	DHFR	http://pathwaycommons.org/pc12/TemplateReaction_7afc7f1f67f0e4ffc16ab42673bd3e52 http://pathwaycommons.org/pc12/TemplateReactionRegulation_ac56539f95bc3fa93e44d890f7cf5770	
+MYBL2	upregulates-expression	MYC	PMID:1594249	
+FAM20C	phosphorylates	KNG1	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:19824718	S332
+TRRAP	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_70103806de0d906629a773a5c7e73ca2 http://pathwaycommons.org/pc12/TemplateReaction_f7be0eac3aa4061714b2b1422804c335 http://pathwaycommons.org/pc12/TemplateReaction_db5f0abfa1a03b8816ff7bfd24c93889 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4dc29f0df6489ad14995f19e39a91949	
+ESR1	upregulates-expression	RARA	PMID:9626663	
+MAX	upregulates-expression	HSP90AA1	http://pathwaycommons.org/pc12/TemplateReaction_3542fff3f8b342dbcc88632db0da9049 http://pathwaycommons.org/pc12/TemplateReactionRegulation_8ceb8b318f9adbd08a146fd43708a9b6	
+SREBF1	upregulates-expression	ACLY	PMID:10777536	
+E2F4	downregulates-expression	TTK	PMID:17981789	
+DNMT1	upregulates-expression	MSH2	PMID:16473673	
+SMAD4	upregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReaction_002800b2aa3cdf75d502394ec5929231 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e527bf1cb5794ccc731704aa0a276169 http://pathwaycommons.org/pc12/TemplateReactionRegulation_c4a4e6ee7e7ea7151dc180d5d77c5a2b http://pathwaycommons.org/pc12/TemplateReaction_8c04a2704b20b4d74b6c75c310411123 PMID:10878024 http://identifiers.org/reactome/R-HSA-8878185 http://identifiers.org/reactome/R-HSA-8878186	
+CDK1	phosphorylates	MAP7	PMID:18234856	S209
+CDK2	phosphorylates	SETDB1	PMID:18847512	S1066
+RUNX2	upregulates-expression	TWIST1	PMID:22641097	
+MAX	upregulates-expression	PTMA	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a1e591de73a313847bf1236f9cd4456a http://pathwaycommons.org/pc12/TemplateReaction_a78e169b29f9694517a2941d15e54b35	
+E2F5	downregulates-expression	E2F1	http://identifiers.org/reactome/R-HSA-8964514 http://identifiers.org/reactome/R-HSA-8964513 http://identifiers.org/reactome/R-HSA-8964548	
+WT1	upregulates-expression	NDRG2	PMID:17688410	
+HDAC2	downregulates-expression	TWIST1	PMID:23836662	
+VWF	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073	Y397;Y576;Y861;Y577;Y925;Y407
+MYC	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_70103806de0d906629a773a5c7e73ca2 http://pathwaycommons.org/pc12/TemplateReaction_f7be0eac3aa4061714b2b1422804c335 http://pathwaycommons.org/pc12/TemplateReaction_db5f0abfa1a03b8816ff7bfd24c93889 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4dc29f0df6489ad14995f19e39a91949	
+HSPD1	upregulates-expression	MYC	PMID:11085504 PMID:14519204 PMID:11983916	
+TFDP1	downregulates-expression	PLAU	http://pathwaycommons.org/pc12/TemplateReactionRegulation_7b613c4b23a8634ffb2addee5b111d8f http://pathwaycommons.org/pc12/TemplateReaction_057e8673eefeff1a48d80ce26ba6d029	
+RFX5	downregulates-expression	COL1A2	PMID:16464847 PMID:23079621	
+CAMK2G	phosphorylates	MYLK	PMID:18088087 PMID:10748018 PMID:2160950	S1760
+CCNB1	downregulates-expression	FOXO1	PMID:17609436	
+FAM20C	phosphorylates	ALB	PMID:18318008 http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569 PMID:26091039	T107;S89;S29;S82
+ESR1	upregulates-expression	ZEB1	PMID:22391641	
+REL	upregulates-expression	BCL2A1	PMID:11880364	
+RPL13	upregulates-expression	MYC	PMID:11085504	
+RUNX2	upregulates-expression	ITGBL1	http://identifiers.org/reactome/R-HSA-8939829 http://identifiers.org/reactome/R-HSA-9009255	
+SMAD4	upregulates-expression	RUNX1T1	PMID:21540640	
+FOXA1	upregulates-expression	COL18A1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_439a1baa5642316dfe3954ed0b5af709 http://pathwaycommons.org/pc12/TemplateReaction_1aa4377e1bd13f53db9e1ca1a6709ebe	
+NOTCH2	upregulates-expression	ACTA2	http://identifiers.org/reactome/R-HSA-9604664 http://pathwaycommons.org/pc12/Control_881743f59f5b5059282f7b8b346e4bf2	
+NOTCH1	upregulates-expression	ACTA2	http://identifiers.org/reactome/R-HSA-9604664 http://pathwaycommons.org/pc12/Control_881743f59f5b5059282f7b8b346e4bf2	
+CDK11B	upregulates-expression	MYC	PMID:11983916	
+HSPE1	upregulates-expression	MYC	PMID:14519204 PMID:11983916	
+GNA11	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0 http://pathwaycommons.org/pc12/Catalysis_b40e92f63e24d2b4f5450bb3c8e2ac55 http://pathwaycommons.org/pc12/BiochemicalReaction_08c3d85777426d0bc4495127377f9293 http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0 http://pathwaycommons.org/pc12/Catalysis_cbc9db30abb03e00301499828ca9485e http://pathwaycommons.org/pc12/BiochemicalReaction_43fd4813e4dfe4f5e65e6a370d63610d	S664;T507
+TPSB2	upregulates-expression	MITF	PMID:15451032 PMID:1999537 PMID:19067971	
+MYC	downregulates-expression	COL1A2	http://pathwaycommons.org/pc12/TemplateReaction_24f9200fd752f1c9ff49b24db274e540 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b0280dd6a0cd1458b1045cc24c7b5e0a	
+CBX3	upregulates-expression	MYC	PMID:12747840	
+RAP1B	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://identifiers.org/reactome/R-HSA-354073	Y397;Y576;Y861;Y577;Y925;Y407
+HSPA9	upregulates-expression	MYC	PMID:11983916	
+TAF9	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReaction_f7be0eac3aa4061714b2b1422804c335 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4dc29f0df6489ad14995f19e39a91949	
+FAM20C	phosphorylates	TNC	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569	S72
+NCOA6	upregulates-expression	ACADM	http://identifiers.org/reactome/R-HSA-1989794 http://identifiers.org/reactome/R-HSA-1989745	
+E2F4	downregulates-expression	PCLAF	PMID:23593430	
+CSNK1A1	phosphorylates	YBX1		S176
+PARP1	upregulates-expression	E2F1	PMID:14627987	
+CDK1	downregulates-expression	FOXO1	PMID:17609436	
+FOSL2	upregulates-expression	COL1A2	http://pathwaycommons.org/pc12/TemplateReaction_4d2867f7df175e5f2b50883d30adbae9 http://pathwaycommons.org/pc12/TemplateReactionRegulation_dd41580a57fa03d1478bf16b78a1d441 http://pathwaycommons.org/pc12/TemplateReaction_7bfcf3a601dc1ae70090c371afeb26c4 http://pathwaycommons.org/pc12/TemplateReactionRegulation_888ae7234f5e623a5b21a2a49dde47a7	
+FOXA1	upregulates-expression	TFF3	http://identifiers.org/reactome/R-HSA-9018516 http://identifiers.org/reactome/R-HSA-9018497	
+TP53	upregulates-expression	FLT1	PMID:16432214	
+CDK2	phosphorylates	ILRUN		S215
+NOTCH1	upregulates-expression	GATA3	http://pathwaycommons.org/pc12/TemplateReaction_04db74633fe8f180707256bd425a5dd6 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b036700e986da1ccd3facd3f70e4a570	
+TOP1	upregulates-expression	E2F1	PMID:7734951	
+STAT5B	upregulates-expression	IGF1	PMID:22419735	
+TLE4	upregulates-expression	FOXO1	PMID:12351634	
+DNMT1	downregulates-expression	CDKN1A	PMID:19275888	
+E2F3	upregulates-expression	MCM3	http://pathwaycommons.org/pc12/TemplateReaction_0df2a1c9ce0519f3649d23b795e41324 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5f9b1a75f73f8fb732bb070939277796	
+MCM5	upregulates-expression	E2F1	PMID:11799067	
+FANCD2	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+E2F2	upregulates-expression	MCM3	http://pathwaycommons.org/pc12/TemplateReaction_0df2a1c9ce0519f3649d23b795e41324 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5f9b1a75f73f8fb732bb070939277796	
+MCM7	upregulates-expression	E2F1	PMID:14990995	
+MITF	upregulates-expression	CTSK	PMID:21602817	
+MCM6	upregulates-expression	E2F1	PMID:10327050	
+STAT5B	upregulates-expression	ID1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_c0533b47a039662723f025b9513f911e http://pathwaycommons.org/pc12/TemplateReaction_d145c2c3576056d7b6dadcbd764c014e	
+STAT5A	upregulates-expression	ID1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_c0533b47a039662723f025b9513f911e http://pathwaycommons.org/pc12/TemplateReaction_d145c2c3576056d7b6dadcbd764c014e	
+AR	upregulates-expression	ETV1	PMID:19789348	
+STAT3	upregulates-expression	ZEB1	http://identifiers.org/reactome/R-HSA-6790036 http://identifiers.org/reactome/R-HSA-6797258	
+RUNX2	upregulates-expression	ITGA5	http://identifiers.org/reactome/R-HSA-8939661 http://identifiers.org/reactome/R-HSA-8939667	
+MCM8	upregulates-expression	E2F1	PMID:16325355	
+SUPT16H	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+FOSL2	upregulates-expression	GJA1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_e46295aa941b1c77ca34677c5f516e02 http://pathwaycommons.org/pc12/TemplateReaction_2c91d0fa863339396eab099180056dd4 http://pathwaycommons.org/pc12/TemplateReactionRegulation_25e60bfd8c659d0215572867286e89f8 http://pathwaycommons.org/pc12/TemplateReaction_95281b4f130ad6fcba24e4325ba96e68	
+USF1	upregulates-expression	SERBP1	PMID:18234320	
+HDAC1	downregulates-expression	RHOB	PMID:13679859	
+ESR1	upregulates-expression	FOXA1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a5143400dd0ee707ad32e2a26a443693 http://pathwaycommons.org/pc12/TemplateReaction_6c810ff598bfa36d78a7a7b44c0f6563	
+NELFE	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+MYC	upregulates-expression	EBNA1BP2	PMID:22169551	
+MAX	downregulates-expression	PDGFRB	http://pathwaycommons.org/pc12/TemplateReactionRegulation_29ccce5bf45c0692e45e787e95339baa http://pathwaycommons.org/pc12/TemplateReaction_a0f4d7197fbfa49c5b54bcc1179993b3	
+NELFA	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+NELFB	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+DDX18	upregulates-expression	MYC	PMID:12747840 PMID:14519204	
+REL	upregulates-expression	BIRC3	PMID:11880364	
+ESR1	upregulates-expression	SERPINE1	PMID:15217907	
+ESR1	upregulates-expression	CCND1	http://identifiers.org/reactome/R-HSA-9009382 http://pathwaycommons.org/pc12/TemplateReaction_a1e5061e6ca9a2b33bbe4fd5ee89a6ca http://pathwaycommons.org/pc12/TemplateReactionRegulation_f17436d8067160fd8da5b4137f486327 PMID:12554765 PMID:17681750 http://pathwaycommons.org/pc12/TemplateReaction_147a2979deb4ae6b1beccb4d095e59c3 http://identifiers.org/reactome/R-HSA-9009378 PMID:15178330 http://pathwaycommons.org/pc12/TemplateReactionRegulation_3b5ca4e312c7d44a53ab79f6602e9459 http://identifiers.org/reactome/R-HSA-9011946	
+SMAD4	upregulates-expression	SNAI1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_17194393757f031ec8d06afdefd54545 http://pathwaycommons.org/pc12/TemplateReaction_0c2b6bc784b5b7c1e775e1b78e76e933	
+MAX	upregulates-expression	DKC1	http://pathwaycommons.org/pc12/TemplateReaction_e30e1e500e018eedfb89e5964c806b8e http://pathwaycommons.org/pc12/TemplateReactionRegulation_5d4573ce0ceaaa380edb135ac882cd58	
+MYCN	downregulates-expression	NTRK1	PMID:21123453	
+TP53	upregulates-expression	THBS1	PMID:10029407 PMID:10101800	
+GATA3	upregulates-expression	TEK	PMID:19674970	
+RUNX2	upregulates-expression	VEGFC	PMID:22641097	
+CDK1	phosphorylates	LMNA	PMID:20068231 PMID:23870088 PMID:7925482 http://pathwaycommons.org/pc12/Catalysis_b08f80e2a6bd561b250c8e7fd50862df PMID:16565220 PMID:19664994 PMID:19664995 http://identifiers.org/reactome/R-HSA-5244669 PMID:17287340 PMID:17924679 PMID:18077418 PMID:18815303 PMID:18491316 PMID:19165338 PMID:20166139 PMID:18767875 PMID:18669648 PMID:18691976 PMID:18212344 PMID:18452278 PMID:18234856 PMID:20058876 PMID:18707149 PMID:2344612 PMID:19651622 PMID:19415658 PMID:19007248 PMID:19691289 PMID:22367880 PMID:19413330 PMID:16964243	S390;S22;T19;S392
+STAT3	upregulates-expression	CDKN1A	http://identifiers.org/reactome/R-HSA-6790041 http://identifiers.org/reactome/R-HSA-6797261 PMID:10023678 PMID:15286705	
+MCM5	downregulates-expression	FOXO1	PMID:17609436	
+HSF1	downregulates-expression	BAG3	PMID:19006120	
+VHL	upregulates-expression	AR	PMID:23961993	
+TFDP1	upregulates-expression	RRM1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_bb1cbcbc14d3a1144253455eed06ce7b PMID:14618416 http://pathwaycommons.org/pc12/TemplateReaction_b0be845255ee1e81d1f92faa99bae4b9	
+STAT3	upregulates-expression	MMP2	PMID:19284568 http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615 PMID:17533737 PMID:20069389	
+POLE3	upregulates-expression	MYC	PMID:16403426	
+SMAD4	downregulates-expression	MYC	http://identifiers.org/reactome/R-HSA-1484103 http://identifiers.org/reactome/R-HSA-1484099	
+FGA	upregulates-expression	STAT3	PMID:16524883	
+MAX	downregulates-expression	LGALS1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_ff0137ccd585704e249b6096dc2fdf09 http://pathwaycommons.org/pc12/TemplateReaction_bc2690978ed953b7db18dfcec01c3195	
+MYC	upregulates-expression	TAF4B	http://pathwaycommons.org/pc12/TemplateReaction_59a501e18cfc651c64d07ee4d1d3dee7 http://pathwaycommons.org/pc12/TemplateReactionRegulation_80ec605c54d9b8eaef7663a15b8eee9b	
+WT1	downregulates-expression	TBXA2R	PMID:19067769	
+NUPR1	upregulates-expression	CDKN1A	PMID:18690848	
+TLN1	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_ee48e9ef82697d03368373fec85560c1 http://identifiers.org/reactome/R-HSA-354124 http://pathwaycommons.org/pc12/Catalysis_e7725c205be16de8bc279015cb4eea05 http://pathwaycommons.org/pc12/Catalysis_1b8c030488662c55662ed2dcde45d1cf http://identifiers.org/reactome/R-HSA-354073 http://pathwaycommons.org/pc12/BiochemicalReaction_187082ceaec275f675a07aa0eeed4408	Y397;Y576;Y861;Y577;Y925;Y407
+PRKD1	phosphorylates	SSH1	PMID:21525957 PMID:19567672 PMID:19329994	S978;S402;S937
+FASN	upregulates-expression	AR	PMID:15048993	
+GNAZ	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/Catalysis_42cef19ed00ff7758d30a161993d1bf2 http://pathwaycommons.org/pc12/SmallMolecule_943e3f32f4ca93ae832ebab910f6f6c0 http://identifiers.org/reactome/R-HSA-198314 http://identifiers.org/reactome/R-HSA-111879 http://identifiers.org/reactome/R-HSA-1489502	S645;S664;T507
+ESR1	upregulates-expression	PGR	http://pathwaycommons.org/pc12/TemplateReactionRegulation_06bbc03c6a44e18d309446008d47b9be http://identifiers.org/reactome/R-HSA-1254392 PMID:12554765 http://pathwaycommons.org/pc12/TemplateReaction_bd7b70029481fffc2750c914408eba4e http://pathwaycommons.org/pc12/TemplateReactionRegulation_4e0dee1777238c7a36fb6b7e50bf0377 PMID:10894148 http://pathwaycommons.org/pc12/TemplateReaction_95806e2194c3568a9eb43f4acfd9c8db http://identifiers.org/reactome/R-HSA-1254402	
+SKP2	upregulates-expression	E2F1	PMID:17471231	
+ZFP36L1	downregulates-expression	MYC	PMID:12747840	
+AGO3	downregulates-expression	MYC	http://identifiers.org/reactome/R-HSA-5687113 http://identifiers.org/reactome/R-HSA-5687136	
+NNMT	upregulates-expression	STAT3	PMID:17922140	
+RBL2	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+RBL1	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+THBS1	downregulates-expression	YY1	PMID:15365249	
+AR	upregulates-expression	LEF1	PMID:16474850	
+RBL2	downregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://pathwaycommons.org/pc12/TemplateReactionRegulation_7cf95bd93c3de7b3fc2e7a180cb770e4 http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+RBL1	downregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://pathwaycommons.org/pc12/TemplateReactionRegulation_7cf95bd93c3de7b3fc2e7a180cb770e4	
+ABCB1	upregulates-expression	FOXO1	PMID:18301748	
+FYN	phosphorylates	PTK2	http://pathwaycommons.org/pc12/BiochemicalReaction_d75dde48888e32c4131efe74e27d71b2 http://pathwaycommons.org/pc12/Catalysis_29ef0f8b2f8a47f043cbadb03c1eed55 PMID:16293639 http://pathwaycommons.org/pc12/Catalysis_0f40d2a98750a7889577fa31c2fa0a48 http://pathwaycommons.org/pc12/ComplexAssembly_bc062f1cc8787056cf2232521a8c49ae	Y397;Y576
+TP53	upregulates-expression	ARID3A	http://identifiers.org/reactome/R-HSA-6791363 http://pathwaycommons.org/pc12/TemplateReaction_45b357418e4e68935dbea642cc19c999 http://pathwaycommons.org/pc12/TemplateReactionRegulation_cf79f14772d5b693a81604b617a6e469 http://identifiers.org/reactome/R-HSA-6791389	
+YBX1	downregulates-expression	MMP13	PMID:17822788	
+URI1	downregulates-expression	AR	PMID:21730289	
+LIN9	upregulates-expression	CCNB1	http://identifiers.org/reactome/R-HSA-4088312 http://identifiers.org/reactome/R-HSA-4088298	
+NCOR1	downregulates-expression	SNAI2	PMID:18588516	
+LIN9	upregulates-expression	CCNB2	http://identifiers.org/reactome/R-HSA-4088299 http://identifiers.org/reactome/R-HSA-4088296	
+MTHFD1	upregulates-expression	MYC	PMID:12747840 PMID:12808131	
+MYC	downregulates-expression	WNT5A	http://pathwaycommons.org/pc12/TemplateReaction_1e1d07dd0eaf0eb97037b152f04cb8fa http://pathwaycommons.org/pc12/TemplateReactionRegulation_6e4d640d716bc4ca1620a5dd5c6186cc	
+SMC3	upregulates-expression	MYC	http://identifiers.org/reactome/R-HSA-9011975 http://identifiers.org/reactome/R-HSA-9011977	
+EPRS	upregulates-expression	MYC	PMID:11983916	
+RPL3	upregulates-expression	MYC	PMID:12747840 PMID:14519204 PMID:11983916	
+PRKCD	phosphorylates	PRKD1	PMID:21726532 PMID:15024053 PMID:18337243 http://pathwaycommons.org/pc12/BiochemicalReaction_c2c31839b509e5b522ab2d830d170cfd PMID:34010649 PMID:16891660 PMID:15226414 PMID:21285358 http://pathwaycommons.org/pc12/Catalysis_b0ad8734438b714c57af7cb0251ce9a5 PMID:17804414 PMID:11948398 PMID:15755722 PMID:18692497 PMID:19029298	S205;S910;Y95;S742;S412;S420;S738
+DPY30	upregulates-expression	MYC	PMID:12747840	
+SMAD4	upregulates-expression	ITGB5	http://pathwaycommons.org/pc12/TemplateReactionRegulation_59b455cd43cc1e3ef9cd2f8557a8d05a http://pathwaycommons.org/pc12/TemplateReaction_7ab9e8d82e734e2dfabf30d6606a1680	
+RPL6	upregulates-expression	MYC	PMID:11085504 PMID:14519204	
+CDK2	phosphorylates	LRWD1	PMID:18847512	S245;S243
+POLD1	upregulates-expression	E2F1		
+EZH2	downregulates-expression	PIP5K1C	PMID:21216957	
+EZH2	downregulates-expression	DACT3	PMID:22144423	
+USF1	upregulates-expression	FMR1	PMID:11058604	
+NCOR2	upregulates-expression	AR	PMID:21720703	
+GATA3	upregulates-expression	ZEB1	PMID:20731704	
+GFRA1	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_781acb7456680d07220d6c81442db67d http://pathwaycommons.org/pc12/BiochemicalReaction_ea7ce72bad4fc6f1b4e519b15d357004	Y576;Y861;Y925
+TFDP1	downregulates-expression	SERPINE1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_9c6792937e7cb334fc48b48992ffc75f http://pathwaycommons.org/pc12/TemplateReaction_9f10cd791e6e46567f1dbac6255feeca	
+RUNX1	downregulates-expression	MAD2L1	PMID:20190817	
+NUP155	upregulates-expression	MYC	PMID:12747840	
+STAT3	upregulates-expression	CCND1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_5dada232f568fdb3e87c1e79c3762926 PMID:16651438 PMID:19880237 PMID:19926637 PMID:21435102 PMID:22218594 http://pathwaycommons.org/pc12/TemplateReaction_ec79a67f80135581c8cc49e0ee733223 http://identifiers.org/reactome/R-HSA-6790036 http://identifiers.org/reactome/R-HSA-6797258	
+CCND1	upregulates-expression	STAT3	PMID:18988190	
+FN1	downregulates-expression	MYC	PMID:14519204	
+POLE3	upregulates-expression	E2F1	PMID:16403426	
+STAT3	upregulates-expression	F2R	PMID:23504318	
+ESRRA	downregulates-expression	SNAI1	PMID:15955695	
+ESRRA	downregulates-expression	SNAI2	PMID:15955695	
+DNMT1	upregulates-expression	E2F1	PMID: 17575144 PMID:15867357	
+FOXO1	upregulates-expression	ABCA6	http://pathwaycommons.org/pc12/Control_1d7c7d5a92a6419a51e5311660d8825b http://identifiers.org/reactome/R-HSA-9625092	
+CNGB3	phosphorylates	PTK2	http://pathwaycommons.org/pc12/Catalysis_486739b208dc68ed3eb989565b3b0468 http://pathwaycommons.org/pc12/Transport_bc4388403c07b09f855bd993613f25be http://pathwaycommons.org/pc12/Catalysis_6e5a62feb9774b08f07be822bf429ec4 http://pathwaycommons.org/pc12/BiochemicalReaction_b7867e200adde230b74a5065489098cd http://pathwaycommons.org/pc12/SmallMolecule_21d1714b69eec47d13f1ee5f51c33ad7	Y397;Y576;Y861;Y577;Y925;Y407
+PSMG1	upregulates-expression	MYC	PMID:12747840	
+PTK2	phosphorylates	WASL	http://pathwaycommons.org/pc12/Catalysis_593ebd25ba12ea2c581e2aa10c58b441 http://pathwaycommons.org/pc12/BiochemicalReaction_ef83f56ba0aa55b09a6c494d8e5740c1 http://identifiers.org/reactome/R-HSA-2197698 PMID:14676198 http://pathwaycommons.org/pc12/Catalysis_9a2bbdafe29d9e8d86b12963e4c3d203	Y256
+PCNA	upregulates-expression	E2F1	PMID: 1261188 PMID:12782299	
+E2F3	upregulates-expression	TYMS	http://pathwaycommons.org/pc12/TemplateReactionRegulation_de4a41d796c81d5b2d9e108d52366bd5 http://pathwaycommons.org/pc12/TemplateReaction_9b0e05a17457973a99876ccdd6e9eaf0	
+CDK2	phosphorylates	THRAP3	PMID:18847512	T874
+TBK1	phosphorylates	PPP1R13L		T308;S134;S332;T341;S152
+E2F4	downregulates-expression	RAD51	PMID:20133863 PMID:21701264	
+MYC	upregulates-expression	ODC1	PMID:8262968 http://pathwaycommons.org/pc12/TemplateReactionRegulation_0fe534e7a97b76dcad26f2ed19fe8883 PMID:21874531 http://pathwaycommons.org/pc12/TemplateReaction_07d6c60a6f1800ad0bde6a6946497a39	
+SSRP1	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+STAT3	upregulates-expression	PRDM1	PMID:1702555	
+MYCN	upregulates-expression	HDAC2	PMID:20697349	
+MYCN	downregulates-expression	DKK3	PMID:21796614 PMID:18059033	
+MYCN	upregulates-expression	MCM4	PMID:17826980	
+MYCN	upregulates-expression	MCM3	PMID:17826980	
+TP53	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+MYCN	upregulates-expression	MCM6	PMID:17826980	
+FANCD2	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+RAD21	upregulates-expression	MYC	http://identifiers.org/reactome/R-HSA-9011975 http://identifiers.org/reactome/R-HSA-9011977	
+LDHB	upregulates-expression	MYC	PMID:11983916	
+MYBL2	upregulates-expression	CCNB2	http://identifiers.org/reactome/R-HSA-4088299 http://identifiers.org/reactome/R-HSA-4088296	
+MYCN	upregulates-expression	MCM7	PMID:17826980	
+MYBL2	upregulates-expression	CCNB1	http://identifiers.org/reactome/R-HSA-4088312 http://identifiers.org/reactome/R-HSA-4088298	
+HDAC1	downregulates-expression	MMP28	PMID:20144149	
+PDGFRB	phosphorylates	PRKCD	http://pathwaycommons.org/pc12/TransportWithBiochemicalReaction_dd60e973a6b85bf874b2f80005003cd0 http://pathwaycommons.org/pc12/SmallMolecule_c4bc28d10fa9bbdf311182463f74550d PMID:18387943 http://pathwaycommons.org/pc12/Catalysis_f8403b348260e98eacb65332437cbab0 http://pathwaycommons.org/pc12/BiochemicalReaction_fb5778556b7543195fa35d428a27a175 http://pathwaycommons.org/pc12/Catalysis_dec025293ecb1bfbf700987bdec9988a	Y334;Y313;S664;T507
+GNL3	upregulates-expression	MYC	PMID:12747840	
+TP53	upregulates-expression	BDKRB2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_94d25f13d2c00c5a2ee39add3db8b5d0 http://pathwaycommons.org/pc12/TemplateReaction_002493f80a960da1d2a05e1f0190a554 PMID:15632413	
+MAX	upregulates-expression	NDUFAF2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_6965ae7227401e9cc70948586cbaceb6 http://pathwaycommons.org/pc12/TemplateReaction_6a999b0d92a4761985198bc40d2a1cec	
+ELK1	upregulates-expression	EZH2	PMID:22222375	
+GABPA	upregulates-expression	TFAM	http://identifiers.org/reactome/R-HSA-1592246 http://identifiers.org/reactome/R-HSA-1592263	
+MAX	upregulates-expression	TAF4B	http://pathwaycommons.org/pc12/TemplateReaction_59a501e18cfc651c64d07ee4d1d3dee7 http://pathwaycommons.org/pc12/TemplateReactionRegulation_80ec605c54d9b8eaef7663a15b8eee9b	
+STAT5A	upregulates-expression	SOCS2	http://identifiers.org/reactome/R-HSA-8983073 http://identifiers.org/reactome/R-HSA-8983011	
+STAT5B	upregulates-expression	SOCS2	http://identifiers.org/reactome/R-HSA-8983073 http://identifiers.org/reactome/R-HSA-8983011	
+E2F4	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+E2F5	downregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+HMGA1	upregulates-expression	CDC25A	PMID:22249617	
+E2F4	downregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://pathwaycommons.org/pc12/TemplateReactionRegulation_7cf95bd93c3de7b3fc2e7a180cb770e4 http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+TFDP1	upregulates-expression	EED	http://identifiers.org/reactome/R-HSA-3240782 http://identifiers.org/reactome/R-HSA-3240785	
+TP53	upregulates-expression	PDGFRB	PMID:18697203	
+MYC	upregulates-expression	HSP90AA1	http://pathwaycommons.org/pc12/TemplateReaction_3542fff3f8b342dbcc88632db0da9049 http://pathwaycommons.org/pc12/TemplateReactionRegulation_8ceb8b318f9adbd08a146fd43708a9b6	
+PRKG1	phosphorylates	LIPE	PMID:2537200	S853
+MYBL2	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_c164abeb9b0b6e0de919860263c517f9 http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5	
+SMC1A	upregulates-expression	MYC	http://identifiers.org/reactome/R-HSA-9011975 http://identifiers.org/reactome/R-HSA-9011977	
+UNG	upregulates-expression	MYC	PMID:9490791	
+E2F4	downregulates-expression	CDK1	http://identifiers.org/reactome/R-HSA-8964594 http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://identifiers.org/reactome/R-HSA-8961934 http://pathwaycommons.org/pc12/TemplateReactionRegulation_c139b1965ab1e755a85eedd79dcb07d3	
+NELFCD	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+WT1	downregulates-expression	IGF1	PMID:9076342	
+FAM20C	phosphorylates	FSTL3	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:26091039	S255
+WT1	downregulates-expression	IGF2	PMID:1323141 PMID:7535092 PMID:8634146	
+E2F5	downregulates-expression	CDK1	http://identifiers.org/reactome/R-HSA-8964594 http://identifiers.org/reactome/R-HSA-8961934	
+MYCN	downregulates-expression	NGFR	PMID:21123453	
+ATG4B	upregulates-expression	E2F1	PMID:19657746	
+AIMP2	upregulates-expression	MYC	PMID:11085504	
+ESR1	upregulates-expression	CXCL12	http://identifiers.org/reactome/R-HSA-8954199 http://identifiers.org/reactome/R-HSA-8954198	
+FAM20C	phosphorylates	SERPINC1	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569 PMID:26091039	T63;S68
+FAM20C	phosphorylates	SPP1	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:21406692 PMID:15869464 PMID:26091039	S219;S239;S258;S215;S234;S311;S62;S280;S63;T190;S26;S243;S27;S263;S228;T237;S303;S267;S224;S308;S191;S291;S254;S310;S275;S195;S270
+RUNX1	upregulates-expression	CD34	PMID:21873977	
+GABPA	upregulates-expression	TFB2M	http://identifiers.org/reactome/R-HSA-1605549 http://identifiers.org/reactome/R-HSA-1592252	
+SMAD4	upregulates-expression	SERPINE1	PMID:9765209 http://identifiers.org/reactome/R-HSA-2106588 http://pathwaycommons.org/pc12/TemplateReactionRegulation_d2e1060d58be60467878a4f190ff0862 http://identifiers.org/reactome/R-HSA-2106586 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5a3b018c331571a01f03152c34c11282 http://pathwaycommons.org/pc12/TemplateReaction_93feeba1547dfa8f29c5bf5961cd76ab http://pathwaycommons.org/pc12/TemplateReaction_e7634de49878135dd970c992f537a91f	
+CDK2	phosphorylates	MTA2	PMID:18847512	T439;T438;S435;S440
+CDK2	phosphorylates	MTA1	PMID:18847512	S522
+HGF	phosphorylates	PTK2	http://identifiers.org/reactome/R-HSA-8874082 http://identifiers.org/reactome/R-HSA-8874080 http://pathwaycommons.org/pc12/Catalysis_1a5077326250c614dde79a379db612f9 http://identifiers.org/reactome/R-HSA-8874078 http://pathwaycommons.org/pc12/Catalysis_16473b6612166cfc8b2534add042de40 http://pathwaycommons.org/pc12/Catalysis_715cfc14543ea59ef945572929f7415d	Y397;Y576;Y577;Y194
+GULP1	phosphorylates	LRP1	PMID:15272003 PMID:11158305	S4517;T4460;S4520;S4523
+ESR1	upregulates-expression	KDR	PMID:16574784	
+MYC	upregulates-expression	CHEK1	PMID:23269272	
+FOXA1	upregulates-expression	CCND1	http://identifiers.org/reactome/R-HSA-9009382 http://pathwaycommons.org/pc12/TemplateReaction_147a2979deb4ae6b1beccb4d095e59c3 http://pathwaycommons.org/pc12/TemplateReactionRegulation_ba0d49965f6fe0f1f3f006d6bb809e77 http://identifiers.org/reactome/R-HSA-9009378	
+MYC	upregulates-expression	CHEK2	PMID:23269272	
+SMAD4	upregulates-expression	SMAD7	http://pathwaycommons.org/pc12/TemplateReaction_82c6a633b91c0ed7ad4f941f3401a471 http://pathwaycommons.org/pc12/TemplateReactionRegulation_fca4055a12f26198a757288f19a87374 http://pathwaycommons.org/pc12/TemplateReaction_3fc5ccee10328f6b8f65adeb0f5ca995 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b4553ff639d9e379a0dc6caf110d5b8b http://identifiers.org/reactome/R-HSA-2106584 http://identifiers.org/reactome/R-HSA-2106591	
+NOTCH3	upregulates-expression	PLXND1	http://identifiers.org/reactome/R-HSA-9021454 http://identifiers.org/reactome/R-HSA-9021450	
+HMGN2	upregulates-expression	MYC	PMID:11085504	
+MAX	upregulates-expression	CCNB1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_61e290ad1f82a170450ce4c204c88170 http://pathwaycommons.org/pc12/TemplateReaction_f2f39f4685140e6a89b80f65d1346ca8	
+SMAD4	upregulates-expression	SMAD6	http://identifiers.org/reactome/R-HSA-8878023 http://identifiers.org/reactome/R-HSA-8878021	
+ACTL6A	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_70103806de0d906629a773a5c7e73ca2 http://pathwaycommons.org/pc12/TemplateReaction_db5f0abfa1a03b8816ff7bfd24c93889	
+FAM20C	phosphorylates	GOLM1	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:26091039	S309
+RARA	upregulates-expression	CDKN1A	PMID:10356361	
+SMAD4	downregulates-expression	EBAG9	http://pathwaycommons.org/pc12/TemplateReactionRegulation_27f653f9df5a4e2218e79c49ef100631 http://pathwaycommons.org/pc12/TemplateReaction_ecd9f59973c3663439ae5a8beec3814b	
+NOTCH1	upregulates-expression	PLXND1	http://identifiers.org/reactome/R-HSA-9021454 http://identifiers.org/reactome/R-HSA-9021450	
+TRRAP	upregulates-expression	MYC	http://pathwaycommons.org/pc12/TemplateReactionRegulation_6c0c7e7431e734e703434e805189677f http://pathwaycommons.org/pc12/TemplateReaction_d43e80dda65f78dc2f535ce6343bdd6c	
+MYC	upregulates-expression	YY1	PMID:17434929	
+TP53	upregulates-expression	VDR	http://pathwaycommons.org/pc12/TemplateReactionRegulation_faea020cb51d0d033d6ea8e47e6476d8 http://pathwaycommons.org/pc12/TemplateReaction_ddee59e009664c4882d66d8c203e22d5	
+ESR1	upregulates-expression	CXXC5	http://identifiers.org/reactome/R-HSA-9018340 http://identifiers.org/reactome/R-HSA-9018334	
+STAT3	upregulates-expression	S1PR1	PMID:21102457 http://identifiers.org/reactome/R-HSA-6797259 http://identifiers.org/reactome/R-HSA-6790022	
+ESRRA	upregulates-expression	ATP5F1B	http://identifiers.org/reactome/R-HSA-1605573 http://identifiers.org/reactome/R-HSA-1592247	
+DNMT1	downregulates-expression	TIMP3	PMID:22982189	
+ELK1	downregulates-expression	ACTA2	http://pathwaycommons.org/pc12/TemplateReaction_e8cfd29df435db87f5975040a06216c2 http://pathwaycommons.org/pc12/TemplateReactionRegulation_34702b6a39c79b70b9fd1d39ea27dfa1	
+MAX	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_70103806de0d906629a773a5c7e73ca2 http://pathwaycommons.org/pc12/TemplateReaction_f7be0eac3aa4061714b2b1422804c335 http://pathwaycommons.org/pc12/TemplateReaction_db5f0abfa1a03b8816ff7bfd24c93889 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4dc29f0df6489ad14995f19e39a91949	
+TP53	downregulates-expression	MCM7	PMID:15899946	
+CFB	upregulates-expression	STAT2	PMID:16689942	
+THBS1	downregulates-expression	MYC	PMID:14519204	
+HSF1	downregulates-expression	CDKN1A	PMID:20622894	
+SMAD4	upregulates-expression	ENG	http://pathwaycommons.org/pc12/TemplateReactionRegulation_91121f627a074ac46aee5a6fd47497d3 http://pathwaycommons.org/pc12/TemplateReaction_b498288a9fb46fd0d901f38ee92589e7	
+GATA3	upregulates-expression	ERG	PMID:21536859	
+MYC	downregulates-expression	PDGFRB	http://pathwaycommons.org/pc12/TemplateReactionRegulation_29ccce5bf45c0692e45e787e95339baa http://pathwaycommons.org/pc12/TemplateReaction_a0f4d7197fbfa49c5b54bcc1179993b3	
+TFDP1	upregulates-expression	PCNA	http://identifiers.org/reactome/R-HSA-8961663 http://identifiers.org/reactome/R-HSA-8961665 PMID:14618416	
+MSH2	upregulates-expression	MYC	PMID:12808131 PMID:11983916	
+ZNF385A	upregulates-expression	CDKN1A	http://pathwaycommons.org/pc12/TemplateReaction_aed7df3a0f0ea5c86b911cf215455a4d http://pathwaycommons.org/pc12/TemplateReaction_b1d7e5dda27032720d6fefaceacaac0e http://pathwaycommons.org/pc12/TemplateReactionRegulation_8b4909c6cefd5f755068af2c69b949d7 http://pathwaycommons.org/pc12/TemplateReaction_0df6797ba197f54541891a9aec52ccae http://pathwaycommons.org/pc12/TemplateReactionRegulation_8becf82923b5c3424ceef682c5272a46 http://pathwaycommons.org/pc12/TemplateReactionRegulation_9ce23fe0e3051e184929d7aa9f27f9ef	
+TFDP1	upregulates-expression	TYMS	http://pathwaycommons.org/pc12/TemplateReactionRegulation_de4a41d796c81d5b2d9e108d52366bd5 http://pathwaycommons.org/pc12/TemplateReaction_9b0e05a17457973a99876ccdd6e9eaf0 http://identifiers.org/reactome/R-HSA-8962050 PMID:14618416 http://identifiers.org/reactome/R-HSA-8962049	
+TFAP4	upregulates-expression	SALL2	PMID:21228219	
+FAM20C	phosphorylates	AHSG	PMID:18088087 http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569 PMID:26091039	S328;T319;S138;S325;S135;S330
+FANCD2	upregulates-expression	E2F1	PMID:18438432	
+MYCN	upregulates-expression	E2F1	PMID:12438307	
+STAT3	upregulates-expression	TGFB1	http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615 PMID:16474852	
+NCL	upregulates-expression	MYC	PMID:14519204 PMID:11983916	
+RUVBL1	upregulates-expression	PTMA	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a1e591de73a313847bf1236f9cd4456a http://pathwaycommons.org/pc12/TemplateReaction_a78e169b29f9694517a2941d15e54b35	
+RPL27	upregulates-expression	MYC	PMID:12747840 PMID:11085504	
+TP53	downregulates-expression	CDK1	PMID:12889596	
+EWSR1	downregulates-expression	TGFBR2	PMID:10508522	
+RUVBL2	upregulates-expression	PTMA	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a1e591de73a313847bf1236f9cd4456a http://pathwaycommons.org/pc12/TemplateReaction_a78e169b29f9694517a2941d15e54b35	
+RPL32	upregulates-expression	MYC	PMID:11085504 PMID:11983916	
+TP53	upregulates-expression	HGF	http://pathwaycommons.org/pc12/TemplateReactionRegulation_38751f72f3c03ab6e9a0271f763cde6e http://pathwaycommons.org/pc12/TemplateReaction_18aca0082ec1e251964e6d2fcb4cf959	
+PARP1	downregulates-expression	SERPINF1	PMID:18312852	
+MYC	upregulates-expression	CDC25C	PMID:22446629	
+TP53	downregulates-expression	CHEK2	PMID:10531348	
+TP53	downregulates-expression	CHEK1	PMID:15016801	
+FYN	phosphorylates	CAV1	PMID:15466865 PMID:12921535	Y42;Y14
+VHL	upregulates-expression	DAB2	PMID:15824735	
+RBL1	downregulates-expression	MYC	http://pathwaycommons.org/pc12/TemplateReactionRegulation_dac9a507d45bb965bb1fb74998c20008 http://pathwaycommons.org/pc12/TemplateReaction_3084b4c4366927362263858f89bdc449 http://identifiers.org/reactome/R-HSA-1484103 http://identifiers.org/reactome/R-HSA-1484099	
+PRKCD	upregulates-expression	AR	PMID:17553165	
+MYC	upregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_4bef8f5f253b190f65ca4f9a1084c75d http://identifiers.org/reactome/R-HSA-188376 http://identifiers.org/reactome/R-HSA-188345 http://pathwaycommons.org/pc12/TemplateReactionRegulation_42feed9fb3f5381c4c75c568a02a8a32	
+AURKB	phosphorylates	RIF1	PMID:22267324	S2205
+PARD6G
+ZNF175
+PHF8
+LUM
+GAS1
+COX7A2
+UPF3B
+RNF144A
+DLK1
+AGTR1
+HIP1
+CDK5R2
+TAF1
+E2F8
+GDF6
+TPST1
+AHCY
+SAMD4B
+EPRS1
+SRGAP2
+UROD
+SUMO2
+TRAF4
+GNG12
+PROC
+CDKL5
+ADSL
+CRTC2
+COX5A
+HAND2
+CSRP2
+SEPT8
+EXOSC2
+ARFGAP1
+XYLT1
+MACROD1
+TWIST2
+PAWR
+NGLY1
+GALNT5
+WIZ
+TIAF1
+FGF1
+PDIA6
+NDUFA10
+GALNT10
+CCDC86
+EYA4
+PTGIR
+CHPF
+ZNF365
+FMO1
+LUC7L2
+COX6C
+SERPINA5
+CDK12
+CHTOP
+UTP15
+DDB1
+DYNLT1
+DSTN
+DLG5
+ECH1
+DLAT
+F12
+SLC10A1
+GSN
+SUCLG2
+HIRA
+ENTPD3
+OXT
+ITSN1
+TNKS1BP1
+ILF2
+AK6
+FSCN1
+ACYP1
+KAT7
+ALDOB
+DYNC1LI2
+MGAT5
+IRAK3
+MAST3
+PSMB4
+TAF1A
+ADH1C
+RAB11FIP5
+NOL7
+RET
+RBM39
+MYOF
+TTLL11
+LOXL1
+EIF4G1
+AK5
+SERPINA3
+INSRR
+GOSR1
+PLIN3
+GNG5
+ADAMTS5
+S100A10
+INTS14
+GCNT1
+ROBO3
+APOA1
+SRSF2
+CDC42EP1
+WNT9B
+DNAJA3
+TPR
+APOA4
+ING3
+RIPK2
+AQP1
+BLVRA
+PAK1
+MGAT4A
+ZMYND8
+GAS6
+HAUS7
+DVL3
+CHST14
+WDR5
+RECK
+RHOJ
+SPDEF
+NLN
+PTPRT
+FECH
+ELOVL1
+RPL7A
+MAP4
+RGS16
+DDT
+RPL35A
+ARHGAP1
+STMN2
+PDE3A
+DBF4
+RCL1
+CWC22
+DAP3
+MATR3
+EIF2S2
+TXN
+KARS1
+DSE
+SLC9A1
+SRGAP3
+GAP43
+ACO1
+PSMA4
+GUCY1A2
+ATP10D
+MARK3
+ECM1
+PTPN13
+NOL11
+INTS13
+FLAD1
+PLCG1
+GOSR2
+INMT
+ATP1A1
+DCLK1
+CTGF
+CSDC2
+VCL
+USP36
+FFAR4
+UTP4
+SNRNP70
+FAM126A
+ANG
+ADH1B
+NDUFA5
+DDX11
+KDM2A
+DARS
+SH2D3C
+GLE1
+NDUFAB1
+PCDHGB1
+LRBA
+HSPB8
+HPR
+PCDH7
+MPHOSPH10
+MYH11
+FBXL7
+FCAR
+GAMT
+SP3
+GNG11
+EPHA6
+PRPS2
+MORC2
+STXBP3
+ARPC2
+RPL36
+ST6GAL2
+CSRP1
+WDHD1
+LRRC4C
+KHSRP
+FEN1
+ACAD8
+NUP133
+BCKDHB
+NAE1
+FANCG
+SKI
+EPB41
+AP3B1
+PHLDB2
+CLTA
+NR2C2
+FKBP14
+RPL10
+ICE1
+MRPS18B
+GALNT8
+GNAI3
+VAMP8
+STIL
+SPRR2A
+PRKRA
+EPHA3
+QSOX2
+SERPINA10
+HYI
+NT5E
+SFMBT1
+UTP14A
+AFF1
+SYK
+ATP2A3
+CRMP1
+SNX17
+TRMT1
+ELK3
+MLH1
+UCK2
+CKS2
+IL16
+VRK1
+SH3GL3
+HMBS
+POLDIP3
+RPL14
+RPL29
+RPL10A
+CDO1
+COX7A2L
+UQCR10
+CACNA1G
+APIP
+TRIM29
+PROSER2
+CXCL14
+CGN
+LAS1L
+CYP7B1
+NIT2
+POLD2
+CCNE1
+ARHGAP23
+SLC46A1
+WARS
+MYO1E
+PPIG
+SRGAP1
+IGFBP5
+CUL2
+PPA2
+CAMK2A
+CNGA3
+EGR3
+SUPV3L1
+CYP1B1
+ACTN4
+GALNT3
+ELMO2
+GTF2B
+SAP30BP
+PCCB
+PRIM2
+ATP5F1A
+STXBP1
+MAP4K4
+LRP6
+TYW3
+MED30
+SSB
+PPEF1
+RPL37
+RAD18
+PREX1
+HLX
+KCNN2
+DACT1
+LAMA4
+ALG6
+TAGLN2
+ADCY2
+HTD2
+PRDM6
+MED14
+BCAR1
+WNT2
+SACM1L
+ITGA3
+PARS2
+MAP3K21
+ARMC10
+RPS15
+CGGBP1
+NOVA2
+NUP50
+RGS10
+MED8
+MYH13
+IGFBP6
+SMARCD2
+SLIT2
+RPS12
+BAZ2A
+DDHD2
+KIF22
+QSOX1
+CEMIP
+NASP
+MSL3
+PSMA7
+FOXL1
+HNMT
+COX20
+CALD1
+ARSE
+ECT2
+CNOT9
+HAS1
+KIF4A
+OXCT1
+PMPCA
+AMOTL1
+LPCAT2
+ITIH3
+LRP8
+DPF2
+GPT2
+SRCIN1
+CAAP1
+EPS8
+CCR9
+TUBB6
+RPS6KC1
+CORO1C
+VIM
+ANXA2
+PLS3
+PGF
+CCR10
+MGMT
+MMP14
+PDGFC
+NUDT5
+GPD1
+BRD1
+PRPF4
+MME
+PCDHB12
+FBLN2
+CEP170
+MYO1C
+THPO
+MYCBP
+B3GNT9
+PSME1
+ACTN2
+AEBP1
+ATP5PD
+ACTG2
+SDS
+GMPPA
+COQ7
+COPB1
+NAA10
+PDE8B
+CDC20
+MTTP
+CACNB3
+VCAM1
+PDIA2
+CPSF3
+PARD3
+B3GALT6
+THNSL1
+EIF6
+SEM1
+DLL4
+HOXA4
+F10
+BMX
+SDHC
+MEF2A
+TFE3
+NDC1
+GAPVD1
+PCDHGA3
+TOM1
+STARD10
+SMARCAD1
+ALYREF
+PBX2
+RAP1A
+ZNF143
+MAPK13
+UQCRC2
+YWHAE
+PTEN
+ABHD4
+RAB11FIP3
+TOMM70
+EEF1G
+TAF1B
+PPP1R8
+PHF12
+HOXC9
+SYTL2
+COP1
+PPA1
+PECAM1
+PDK1
+MOCS2
+ZFYVE16
+F2
+SCLY
+THRSP
+EGLN1
+GK
+SEPHS1
+SLC12A2
+AKAP13
+DNAJB6
+TAF6
+AGR2
+ACO2
+TMLHE
+SH3PXD2B
+LIMS1
+GRIK2
+APOC2
+CREB3L1
+TRDC
+PDE7B
+CAPZB
+CTTN
+RPS27A
+ASNA1
+CILP
+ATP7B
+NUP107
+TNFAIP6
+GPX7
+LOXL2
+PRPH
+CCL26
+SLC4A1AP
+EXO1
+FOXN1
+ANKRD17
+SORBS2
+PPP1R3C
+DPH2
+IRF4
+NKAIN2
+CSPG4
+NEDD4
+MDH1
+PARVA
+MEOX2
+TRIM28
+WARS2
+CDH23
+KAT8
+ZNF652
+SRRM1
+APH1A
+PANX1
+ATP5MC1
+GCDH
+RFWD3
+RPL26
+P4HA2
+CD55
+COL2A1
+ITGA6
+BCL11A
+DNMT3B
+POLE2
+SRCAP
+ARHGEF2
+BDH1
+PTPRD
+S1PR3
+POLR1C
+MED21
+NUF2
+LRP5
+CLIP1
+GGCX
+PCDHGB6
+ZNF609
+ACPP
+SEC13
+HMGB1
+ENTPD7
+HNRNPH1
+HELLS
+NACA
+USP20
+WNT11
+SPTBN1
+PCDHGB2
+PLN
+USP24
+CASK
+CYP4F22
+APOE
+VCP
+PPIA
+IPO5
+P2RY2
+ENPEP
+UQCR11
+C1QTNF5
+PLPPR2
+ITGB3BP
+TNS1
+WFS1
+HUWE1
+PSMB10
+ATF7IP
+MCPH1
+PDHA2
+COL5A2
+PKP2
+TAL1
+HNRNPF
+GJA8
+MFAP1
+SUDS3
+COQ3
+HEATR1
+SAMHD1
+MFAP5
+NUP93
+PA2G4
+CHCHD1
+OLR1
+PKN2
+EEF1B2
+CDH12
+CLDN4
+HAX1
+DOCK9
+MAP2K7
+NUP153
+NKX3-2
+APOBR
+GBF1
+UNC5B
+GSC
+PVALB
+TMPO
+MIB1
+MTAP
+EFEMP1
+ASPH
+ABCC8
+IL20RA
+YIF1A
+MFN1
+RPL31
+ZHX1
+ACVR1C
+DYNC1I1
+SLC1A3
+GPSM2
+PCDHGA5
+RPLP2
+SDHB
+SALL1
+COQ5
+INTS8
+PCSK1
+ACSL5
+ABI1
+PARP2
+NUP35
+CYC1
+ADI1
+ROR2
+CBFA2T3
+HTR7
+CAP1
+CFH
+ARHGEF28
+NXF1
+NKAIN4
+GDNF
+DAPK3
+GALNT7
+CACNA1H
+CDH1
+HIST1H1B
+RBM14
+LATS1
+SFRP5
+KDELR3
+AGTPBP1
+ITGA2
+ACOX3
+SPSB1
+SETD7
+BMS1
+DSN1
+CRAT
+KLHL3
+ERBB4
+MDH2
+TAP1
+SEPT2
+DDR2
+ACTR1A
+HOXA5
+CELSR1
+B3GNT8
+CDC42BPA
+RPS15A
+FEZ1
+MISP
+GRM6
+COX6B1
+MTMR12
+GADD45GIP1
+NDUFB6
+SGO2
+PPIL6
+CLSPN
+CLYBL
+PCDHB4
+YWHAQ
+PPM1F
+CCL22
+ACYP2
+WIPF1
+NOS3
+POGLUT1
+PRIM1
+MSX2
+REEP4
+C1R
+VEGFD
+TAB1
+MUC1
+FKBP10
+SCN2A
+EBF3
+PCDHGA6
+KARS
+SCARF1
+ZW10
+LECT2
+CREG1
+CD36
+MYT1
+IL27RA
+CCN1
+PLA2G15
+NOX4
+COL24A1
+DHRS11
+EPB41L3
+NDUFS5
+COX7A1
+USP34
+APOA2
+CSF1R
+CPT1C
+SYNJ2
+ASH2L
+C2orf88
+CHKB
+PXN
+S100A9
+GPAM
+NME4
+ATIC
+PEBP4
+RGS6
+SMARCC2
+GRIK5
+PDLIM7
+SLC24A2
+COPA
+AMDHD2
+MOXD1
+STC2
+ETNK2
+SIGMAR1
+SERPINH1
+MED22
+EEF1A1
+GCKR
+FAF1
+RPL13A
+DIO2
+EBF1
+RCOR1
+MYH9
+PRMT5
+KLRC2
+DTYMK
+GALNT11
+SRPX
+CYP4A11
+TIAM2
+PCDHGA12
+SRSF10
+PSMA2
+DUSP2
+GNG2
+RPS14
+FMO5
+ARFRP1
+GSTT2B
+NDUFS3
+TCF4
+INPP4B
+GRP
+HP
+ADHFE1
+APOC3
+CCN2
+NKIRAS2
+DENND1A
+NIFK
+OPA1
+CLK3
+P3H1
+PSME2
+ACVRL1
+CALU
+ITGA1
+CSTF2
+SH2B3
+GSTM2
+GJA5
+SCNN1A
+MAN1A1
+SCARB2
+TMEM158
+CEP70
+SDHD
+STK10
+DDX47
+PLA2G4C
+MAP9
+PABPC1
+DCHS1
+TRMT5
+AP2A1
+DPYSL2
+STOML2
+TAB3
+ADAM22
+PTPRM
+IDH3B
+CYP26A1
+SUOX
+SPIC
+MAP3K2
+TSC22D1
+PSIP1
+MTMR6
+ACSM5
+PI4KA
+KIF18A
+UBE2T
+TRMT2A
+MYL1
+RNLS
+MCM2
+MORF4L1
+AGK
+SF3B1
+LAMC1
+PLRG1
+WSB1
+FBLIM1
+BHLHE40
+ZC3H11A
+ABCC3
+JARID2
+SCO1
+ACACB
+HFE
+KCNA1
+ALDH1A3
+PDZK1
+AHRR
+ARHGAP31
+B3GALT1
+SEH1L
+NRBF2
+SMARCC1
+NDUFS2
+POLB
+PSMC2
+C8A
+POSTN
+PPIH
+GDF15
+DBN1
+HTRA2
+CDH13
+CDA
+NOP58
+ST3GAL2
+PAX8
+SNX27
+UBR5
+VWA1
+ARHGAP24
+EXOSC3
+BUD23
+SERPIND1
+VKORC1L1
+NDUFA1
+NUB1
+DLC1
+DPYS
+NUMA1
+SLC6A5
+PEAK1
+GART
+PSMA1
+RGS17
+INF2
+RPS25
+ARID2
+FKBP9
+NOG
+ATG5
+BST1
+PTGDR
+SOX9
+MELK
+HAO1
+SON
+CYB5R3
+COX16
+ALKBH5
+PIK3R6
+TRIM33
+ADCY1
+BAG6
+COQ8A
+MSC
+VPS33A
+CAPN2
+ADSS
+GOT1
+CAVIN1
+POLR1D
+CTR9
+AGBL1
+RALBP1
+SUPT6H
+FANCE
+WNT7A
+SOX7
+HOXC6
+RAMAC
+MAF1
+TIPIN
+ALG12
+TCF12
+MED24
+HNRNPC
+AXL
+SUV39H2
+GOLGA2
+RNF152
+PRMT7
+CHPF2
+SEC31A
+DPYSL4
+ARHGAP26
+SYNPO
+HGD
+LBR
+INTS3
+LRRK1
+MSX1
+ITGB3
+MTHFD2L
+ZBTB7A
+NCK1
+SNRPD1
+SCT
+PWP2
+DOCK6
+DNPH1
+PRG4
+TBX2
+NEK7
+DCTN1
+SRPK1
+RANBP2
+DMD
+MAD1L1
+AHSA1
+AS3MT
+RAD50
+PUS1
+TNFAIP1
+DHPS
+GUCY1A1
+KNSTRN
+SIX3
+NUDT10
+BMP4
+SLC4A7
+FARSB
+POLE4
+NUSAP1
+DHODH
+FGF7
+CCDC80
+MAGOHB
+CPSF6
+ESPN
+NDUFB3
+SPAG9
+RNF138
+DAXX
+PCDHGC4
+CD99
+SEPT7
+SMAD9
+KIAA1217
+ELOVL5
+ACIN1
+APOL1
+PLSCR3
+AGPAT5
+GMPR2
+FZD1
+B4GALT7
+ZBTB14
+TDP2
+ACD
+COL6A3
+SHC4
+TMEM91
+PSMA5
+KMO
+TK2
+GNA14
+DNM1L
+OCLN
+CCT5
+TCOF1
+PKP3
+HSD17B4
+FUS
+GPC1
+DHCR7
+EXOSC6
+PCDHGC5
+IL11
+MYO5A
+AHCTF1
+PCDHGB7
+SH3BGRL3
+NDN
+L3HYPDH
+FOXF1
+AMD1
+NHS
+DCTD
+SEPTIN8
+GALNT1
+DIMT1
+SENP3
+NTRK2
+RNF20
+ILK
+CIAPIN1
+DOK6
+MAP1LC3A
+PAPPA
+ALAD
+NOTCH4
+MSN
+RPL5
+DCUN1D3
+ACOX1
+EIF2B5
+NOB1
+FLT4
+PRRC2A
+MYO3B
+DRG1
+PCDHGC3
+MCAM
+STK24
+VPS39
+CNOT2
+GPBP1
+BMP8A
+TRMT112
+GPIHBP1
+TARS2
+FGF16
+ERH
+MBD2
+RANBP3
+PRKCQ
+SYNCRIP
+SBF1
+PTGES
+BAG1
+AKAP8
+UBA1
+SAP130
+EPAS1
+HOXC10
+ORMDL1
+KIF11
+CKM
+CAST
+ALG11
+ACTN1
+GAB1
+RPL37A
+ARID4B
+WDR3
+TICAM2
+DGAT2
+HPRT1
+ACVR1
+KIF2C
+INCENP
+ADRB3
+MYH7
+SEPT11
+DLG2
+CASKIN1
+PTPN2
+UBA3
+TPD52
+SNX18
+PDHA1
+RPL7
+CKAP4
+RIPOR1
+KCND2
+ABCA12
+F11R
+SPATA18
+SUMO1
+EEF1D
+GPKOW
+EEA1
+ABCB4
+BRMS1L
+ATP5F1C
+APBB1
+FNBP1
+LAMB2
+SNX1
+CHST11
+ARHGEF6
+PFKFB1
+EDIL3
+PCBP1
+RAB4A
+SRSF3
+FHOD1
+POLG
+LBP
+LXN
+HDGF
+NDUFB5
+INTS12
+CYB5A
+PRPF19
+MYH10
+MUC19
+DLL1
+FLII
+HLA-E
+HCCS
+RBBP7
+GPX3
+SNRPA1
+CLTB
+SBF2
+IMP4
+PAPOLA
+HAT1
+CRABP1
+AOC3
+APCS
+MOB3A
+GSTK1
+KDM3A
+TRMT12
+DGKQ
+COQ6
+IRS4
+C4BPA
+PLPP4
+CIC
+ABCB5
+EXOC8
+RNF40
+ALDH1A2
+NFATC4
+STAM2
+NABP2
+RPA1
+CUL3
+ETF1
+GNAT2
+A1BG
+CBY1
+STMN1
+EXT1
+C3
+ATP1A2
+GUCY1B1
+HP1BP3
+RUBCNL
+LIMK1
+CP
+PRMT3
+HOXA7
+SNAPC4
+ATP5MC3
+EIF2S3
+MRVI1
+NFKBIE
+ELOVL2
+CWC27
+TRA2B
+HADHB
+GC
+INPP5J
+MAPT
+ADH1A
+MAP1A
+FNTA
+APOH
+RSF1
+LONP1
+BRPF1
+TRHDE
+CRYBG1
+ACTB
+RAPGEF2
+SUB1
+SLC35C1
+CEP170B
+SMARCA5
+ITIH2
+RTCB
+PHF20L1
+COL6A2
+SLC34A3
+TOP2B
+ADGRL3
+ECHDC1
+CNN2
+NFIC
+NDUFB9
+WNK2
+LMNB1
+RTN4
+NOP2
+CCT7
+MSTN
+PEPD
+ADCY4
+MYO18A
+PHGDH
+FMO3
+WDR36
+SEC24D
+DDX39B
+WDR77
+AFAP1L2
+RDH14
+PLOD1
+AP1S1
+LASP1
+AREG
+CENPL
+PRR5
+RPS18
+FKBP1B
+NMI
+DLD
+GTSE1
+AMPD2
+COL4A3
+DGKI
+TXLNG
+PDE1B
+DUSP8
+INTS1
+ZNRD1
+PI4K2B
+DRD4
+BPTF
+CDCA8
+TJP2
+HHAT
+CDC5L
+PRLR
+PNPLA8
+DPH5
+BRCC3
+SLC2A10
+C5
+HACL1
+IDH3A
+ENTPD1
+SRSF6
+MAP3K1
+PUS7
+NEK6
+PDCD11
+HIBCH
+FGF18
+CARS2
+MASTL
+PCDHGA7
+TRPC1
+CROT
+IGFBP4
+CDCA5
+MYL7
+WDR75
+RRP9
+EIF4A3
+SNAPIN
+PKD2
+PTPMT1
+PLAUR
+PRKG2
+ENPP1
+CYR61
+UQCRFS1
+ATP6V1G2
+LSM4
+ASB16
+FCGR2C
+PCDHGA10
+UPF2
+RMI2
+CRIP1
+ACTR3
+UAP1L1
+SERPINA1
+MBD3
+USP28
+NDUFB2
+INHBA
+LHX6
+RAVER1
+BRD2
+PDHB
+CSE1L
+PCDHGA8
+SNED1
+UAP1
+RCC2
+F13A1
+NAT10
+P4HA1
+ATAD2
+PKP1
+RAP1GAP
+TBX5
+LMX1B
+COLGALT2
+FIP1L1
+AMPH
+MAP4K5
+RABEP1
+MAP1LC3C
+NDC80
+PPP1R12C
+EHMT2
+ATP5MG
+PTPN3
+ZNF638
+PCDH10
+AASS
+APTX
+HAAO
+HMGCR
+GALNT13
+NUP85
+RGS4
+KLK4
+MUC6
+HYOU1
+SUFU
+GALNT17
+TLL1
+RBM42
+EEF1A2
+ATP5PB
+PAK4
+RPS17
+ALOX15B
+PLTP
+DYNC1LI1
+MMP10
+RPRD2
+SELENOP
+U2AF2
+JUP
+CHST15
+AQP4
+MEAF6
+PLCL1
+RASGRF2
+RASGRP4
+PPP4R2
+PCGF2
+IRS1
+POLA2
+SRRT
+SH3GL1
+TPRKB
+HSPH1
+PXK
+HPSE
+CAV2
+ASAP3
+PLK4
+S100A8
+MED19
+ECE1
+AIFM2
+CACNA1C
+PPOX
+SATB2
+ITGB1BP1
+ZBP1
+FSTL1
+HTR2B
+TOPORS
+NCBP2
+SRRM2
+PRSS23
+PLA2R1
+OGG1
+NREP
+PGLYRP2
+RPL35
+SMS
+CLTRN
+MVP
+MCAT
+COX10
+PUS3
+ARPC1B
+CLEC6A
+UTP6
+PDHX
+THY1
+FZD2
+PCF11
+CEACAM6
+EIF4ENIF1
+ING5
+RCVRN
+TGFBI
+DARS2
+UMPS
+ADIPOQ
+LAMB1
+GNA12
+CDC42EP2
+DDAH1
+SGIP1
+FKBP7
+YEATS4
+ACSM1
+CHSY1
+PTGIS
+PRDX1
+SRP9
+GGT5
+RPL8
+FAM207A
+SLC7A1
+AP2M1
+IGF2R
+DDX21
+MAT2B
+ACSL1
+CBX4
+RRP7A
+DDX1
+PPP1R12A
+TPM2
+CHTF18
+HEXIM1
+TAF2
+SFRP4
+SF3A1
+UNC5C
+SP100
+SCAF11
+PYGO1
+ABCB7
+SH3BP4
+ADRA2A
+MED15
+RBM7
+SLC3A2
+RPS6
+TCERG1
+PDE1A
+CDK7
+HADH
+FKBPL
+NCKAP5L
+ISL1
+BGN
+NUCB1
+ACAN
+KCNIP2
+LATS2
+CDK15
+UTP25
+PCDHGB4
+SUN2
+SNRPA
+SETD1A
+HNRNPL
+SHOC2
+TUBB2A
+ADK
+UXT
+BCAM
+ST8SIA2
+SYT1
+MTMR14
+SLC7A8
+PMEPA1
+PNO1
+PPP1R12B
+ATAT1
+SPARCL1
+QTRT2
+PIGA
+DCPS
+GKAP1
+GALNT6
+FAM83G
+INTS10
+TGFB3
+ATP1B3
+FHL1
+SSTR3
+FAM131B
+MAPRE3
+PRC1
+NUP205
+COX4I2
+PLPBP
+PLCD3
+NUFIP2
+GRAMD4
+PRODH
+NDUFA4L2
+HABP4
+CLNS1A
+COBLL1
+HEPH
+TGOLN2
+RHOC
+PIGG
+LPP
+CCDC82
+PHLDB1
+SLC25A17
+HDLBP
+DMAP1
+NIPBL
+NUP88
+IL1RL1
+KDM1B
+HNRNPK
+PRDX4
+BRD4
+MARK4
+NDST1
+ST3GAL3
+CACNA2D1
+CTPS1
+AZIN2
+RSL1D1
+VDAC2
+NDUFV2
+ATP8A2
+HGSNAT
+GALNT15
+NR1D2
+SFPQ
+SDC3
+CEP57
+SELENOH
+NKX2-2
+GNS
+CHRNA1
+MALT1
+XRCC5
+GDF10
+PSPH
+NOLC1
+ARHGAP21
+TSR1
+EXOSC9
+TCF20
+HTR3D
+PROS1
+TLR7
+TBC1D20
+PPP3CC
+PLG
+MATN3
+RPIA
+UBA52
+CYBRD1
+NIBAN2
+TICRR
+DGKB
+IGFBP3
+UGDH
+CHRNA3
+NPM1
+NUAK1
+TNIK
+TTR
+HOXA2
+TCF19
+ANGPT4
+LIG3
+DNASE2
+GNPDA2
+RAB11FIP1
+GTF2I
+SERP1
+INPP5B
+TUBB3
+CNBP
+CD93
+SYMPK
+MYL12A
+PPM1J
+XPA
+PPP1R1B
+FH
+ATP10A
+SLBP
+EIF4H
+NPAT
+MSH6
+FTO
+CPT2
+KLF2
+PLPPR4
+BHMT2
+PBK
+MBD1
+ATXN7L3
+ADCY7
+DR1
+EXTL1
+NSDHL
+PRPF3
+LMNB2
+TBL3
+PLA2G2A
+PTH1R
+MYH1
+IMMT
+EXOSC1
+LPAR1
+SSTR2
+IQGAP2
+HSPB6
+USP10
+IMPAD1
+GBE1
+CYLD
+MAGOH
+ART5
+PRRC2C
+MAN1C1
+CD46
+NUDT21
+NSUN2
+ADD1
+MPLKIP
+SPHK2
+HPGDS
+ADPRHL2
+PDCD5
+THBS2
+ARAP1
+NKAIN1
+COL5A1
+MST1
+MXRA8
+ID3
+ELAVL1
+RAD1
+ANP32B
+TAP2
+PRKCSH
+BLM
+UPF1
+ANP32E
+MAF
+BRD8
+ZADH2
+USP1
+TBC1D31
+B4GALT4
+NOL3
+SEC23A
+ANKRD28
+MAGI2
+F2RL3
+CLEC1B
+CEP76
+PDE4A
+SRSF5
+PLCD4
+C1orf198
+RBMXL1
+NEK1
+DMPK
+TF
+SOX11
+MANEA
+NKD2
+RPA3
+RIMS1
+DUSP12
+ILKAP
+RAG1
+MCCC1
+SAFB2
+TIMP2
+GATA2
+IYD
+NUP43
+COL17A1
+IARS
+CYP46A1
+HSD17B10
+XPC
+ENY2
+PICALM
+GHR
+PDGFRA
+H3-3A
+NAGLU
+HMGB2
+RPS8
+ALDH1L2
+NOC4L
+UHRF2
+FOXF2
+EXOSC7
+SOX18
+GYG2
+TRMT61B
+PDE4D
+RPL39L
+SASH1
+TRIM24
+UTP18
+NOL6
+UQCRC1
+RPL27A
+CHCHD3
+TPSD1
+PXDN
+LAMA5
+TNS2
+LIPT1
+RPE
+RRAD
+ZNFX1
+SMTN
+MGLL
+UTRN
+VPS41
+GSTM3
+IL1R1
+FGF10
+GINS2
+GIP
+SCN8A
+SPRED2
+SPTAN1
+DNM1
+TRIO
+NUDT4
+COQ9
+SPC24
+EXT2
+IFNB1
+FTMT
+SVIL
+PAPSS2
+NFIX
+ACP1
+TXNDC12
+AAAS
+GMPS
+SULF2
+RAN
+MEMO1
+MRTO4
+NTRK3
+RPL4
+GRN
+RBM10
+CTSG
+CDC37
+PPP1R7
+DHTKD1
+SLC25A11
+ZC3HAV1
+RPS10
+ATP5MF
+BMP1
+SAMD4A
+RPS7
+MTM1
+COX4I1
+CPEB1
+C1S
+PNP
+SLC4A1
+PIP4K2B
+HAUS6
+SNX8
+HECTD1
+ATXN1
+EGR2
+PDPN
+CDK2AP1
+COL4A6
+ANK3
+NEK5
+PAICS
+CTBP2
+CRYL1
+CST5
+P4HA3
+EIF2A
+RAI14
+PDGFRL
+RNASEL
+ST8SIA5
+POLD3
+LYN
+GABRB2
+RPS29
+ARHGEF17
+MYL2
+ATP8B2
+ADCY6
+CHN2
+HDAC7
+SDC1
+DTNB
+DACH1
+CDH11
+KCNJ9
+UTP11
+LSP1
+SYNPO2
+SARM1
+C4BPB
+PPIE
+PPP2R5C
+CDH6
+MPDU1
+TDP1
+AFDN
+AHNAK2
+SMPD1
+CXADR
+SEMA3C
+SNRPD3
+CTCF
+TRIP13
+RFC5
+TTBK2
+RBBP5
+SORBS3
+BAZ1B
+PSMD4
+ALDH1B1
+PCDHGA1
+PLEKHG2
+COX5B
+MED29
+PSAT1
+CSGALNACT2
+HSPA2
+HAUS8
+STIP1
+SECISBP2L
+TUBG2
+DCP1A
+CLEC2B
+RPL36A
+DIAPH1
+UBR1
+ARHGEF7
+DPH1
+MIOS
+NT5C3A
+NSF
+SUGP1
+LCAT
+DDX20
+CMAS
+PTPN21
+CHGB
+GIT2
+MINPP1
+IRAK4
+MARS2
+CHAC2
+OXSM
+MYH2
+TERF2IP
+TNRC6C
+MARCKS
+P4HB
+PSMD6
+IGFBP7
+TBX3
+MMP11
+ASPM
+ARHGEF15
+PRKAG2
+PDGFB
+FBL
+DBT
+SULT2B1
+DPYD
+ABL1
+TGM2
+XRCC6
+ERCC6L
+DYRK1B
+PALLD
+ASNS
+ITGB1
+DEK
+CTIF
+SLC6A6
+GSTA1
+RBMX
+ATP8B3
+SORBS1
+EIF4G3
+APLNR
+PTPN6
+AK2
+SLC12A4
+NPEPPS
+AGT
+HOXA11
+ATP5ME
+RFC4
+ACP6
+SNRPC
+GFPT2
+CKAP5
+KRT18
+CHD4
+ATP11C
+ENO2
+MYLPF
+CCAR1
+UBAP2L
+WDR48
+GRIA4
+LIG1
+MEPCE
+RANGAP1
+RFC3
+CENPF
+MYO15A
+PYGL
+KCNA5
+PDE10A
+ZWINT
+MSRB3
+ACSS3
+RBM17
+ARL6IP5
+CNN1
+PHF6
+ADIRF
+BCHE
+ARSB
+TUFM
+SUZ12
+ASF1A
+ZDHHC13
+BMPR1B
+CENPK
+OTUB1
+BTD
+RAPGEF4
+SOX10
+CDCA7L
+SMC4
+PLAT
+COL11A2
+SYN3
+SELENOK
+HNRNPU
+NAMPT
+SUCLG1
+PGM1
+USP16
+ARSA
+ACSM3
+KL
+LUZP1
+TRPC3
+RGS11
+SNX9
+USP13
+DDX5
+TNFSF4
+ASH1L
+ITGAV
+SPRY4
+PON1
+PDSS1
+CES1
+SELL
+EPB41L1
+FCER1A
+RGS5
+MAN2A2
+SNU13
+ASS1
+DDHD1
+NRK
+FERMT2
+EPCAM
+CLDN11
+SLITRK1
+IARS2
+RIPK1
+DUSP3
+MB
+F2RL2
+PTPRB
+ECI1
+CFI
+SMC2
+GRHL1
+FUT11
+KMT2D
+HTRA1
+MTR
+TIFA
+FNIP2
+COX8A
+CTNND1
+DOCK1
+NXN
+RPS13
+CH25H
+ZC3H8
+CROCC
+SETD9
+MDFI
+MSL1
+DAZAP1
+TRPC6
+SCG2
+LOX
+TAT
+MPRIP
+DDX42
+KLHDC3
+ADH4
+RFT1
+RREB1
+ZRANB2
+KIF20B
+TSPAN7
+MED6
+DCTN2
+KDM4A
+NUP62
+WAC
+ABCC9
+BANP
+MAP3K12
+WASHC2A
+MYCT1
+GRPR
+NDUFA6
+EDN3
+TAF5
+GBA
+RETSAT
+ALMS1
+ABCC2
+KPNA2
+NRG1
+MYBBP1A
+AP2S1
+SLC37A4
+PSMB2
+ULK1
+HTR4
+OCRL
+COL6A1
+QTRT1
+MAN2B2
+VIP
+SLC35A2
+LILRB4
+UNC119
+FRS2
+CHSY3
+PTPRE
+NUP98
+PLD3
+FOXM1
+KDM1A
+ANXA6
+PPIC
+FARSA
+NUP214
+RBM8A
+CDK14
+SAMSN1
+SAFB
+MAFB
+GEM
+SENP2
+CACNA1D
+LFNG
+NDUFA9
+ATP5F1D
+XRCC1
+HMMR
+NAXE
+CDC73
+RPSA
+PLIN1
+GATAD2B
+GPX8
+GCSH
+PDLIM5
+POLR1E
+INTS9
+SH3GLB1
+SCRIB
+GNPAT
+GLI3
+EPN1
+PPP3CA
+SEMA4A
+NAPEPLD
+PLA2G5
+PDE2A
+SPSB4
+PENK
+QRSL1
+AP2B1
+FAT3
+LRCH1
+UTP14C
+HTR1B
+CHAF1B
+INPP5F
+DOCK4
+ADAM12
+LRPPRC
+YARS2
+TP53BP1
+NTPCR
+TRMT6
+CDC42BPB
+IMPA2
+RPS21
+RYR2
+GAS2L1
+MBIP
+MS4A2
+TNFRSF10A
+WDR43
+MAN1A2
+PNPT1
+HAS2
+CRYZ
+SET
+BCKDHA
+CRTC3
+UEVLD
+PCDHGA2
+TLL2
+MC1R
+ACKR3
+PPP2R2C
+TRMT61A
+ZC3H18
+SLX4
+NTF3
+PPP3R1
+FANCL
+ASPA
+THOC5
+FCF1
+NDUFS1
+CENPH
+CKS1B
+MGAT1
+NID1
+PHACTR1
+TRIOBP
+RPL21
+RPS27
+FAT1
+MEGF10
+B3GLCT
+PLEC
+AHNAK
+TPSAB1
+RAE1
+APOD
+SHC2
+DCAF13
+GRK6
+MTMR9
+ITGA11
+ATP5IF1
+NHEJ1
+PADI4
+SRSF11
+MRGBP
+DAO
+CIDEC
+KDM3B
+MARK2
+ABCC11
+PLOD2
+TACC3
+TUT4
+TTC3
+CDC42EP5
+BRD7
+MFF
+AIMP1
+PPP1R14C
+ATP6V0A1
+MEF2D
+EMG1
+WTAP
+DLST
+PPP2R5B
+FLNC
+AIFM1
+PRDM16
+CRADD
+SH3RF1
+UQCRH
+CABP1
+RPL30
+FLT3LG
+TAOK1
+NSD2
+PPP1R9B
+UBQLN4
+UIMC1
+F7
+RPS28
+MRM3
+PLCG2
+COL7A1
+RRAS
+MMS22L
+TPST2
+FDX1
+HASPIN
+NKD1
+VMP1
+BCLAF1
+RPL15
+ARHGEF25
+CELF1
+GLYAT
+RBBP8
+GSTM5
+CDH5
+CNDP1
+LMO7
+CENPN
+ADARB1
+AURKAIP1
+SF1
+FST
+RPL39
+AKAP1
+PDS5B
+RBM25
+GBA2
+CERS6
+NUDC
+DLG4
+FDPS
+PITX2
+SF3B2
+BIRC5
+AKT3
+PTPN4
+CNOT10
+CNN3
+AFAP1
+ASF1B
+SMPD2
+KANSL1
+TTLL4
+GATAD2A
+MAPK10
+PCDH12

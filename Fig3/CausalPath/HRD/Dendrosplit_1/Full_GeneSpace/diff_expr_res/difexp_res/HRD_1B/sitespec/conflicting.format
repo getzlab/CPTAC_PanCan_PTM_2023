@@ -1,0 +1,8 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	PRKCD	color	219 226 255
+node	PRKCD	tooltip	PRKCD-G, -2.4782520043591183
+node	SYK	color	222 228 255
+node	SYK	tooltip	SYK-G, -2.2806373274727885
+node	KLF5	rppasite	KLF5-P-S153|p|255 225 218|50 50 50|2.5744404603354294
+node	PTK2	rppasite	PTK2-P-Y576-2|p|255 225 218|0 180 20|2.5744404603354294

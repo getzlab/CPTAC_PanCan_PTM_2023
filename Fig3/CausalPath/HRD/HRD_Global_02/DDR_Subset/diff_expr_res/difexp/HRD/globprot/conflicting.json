@@ -1,0 +1,51 @@
+{
+  "nodes" : [ {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(210,218,255)",
+        "siteText" : "p",
+        "siteInfo" : "POLR2A-P-S1917",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "POLR2A",
+      "text" : "POLR2A"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,197,183)"
+    },
+    "data" : {
+      "tooltipText" : "FANCI-G, 5.010058457528318",
+      "sites" : [ ],
+      "id" : "FANCI",
+      "text" : "FANCI"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,212,202)"
+    },
+    "data" : {
+      "tooltipText" : "MDC1-G, 3.7193897601991988",
+      "sites" : [ ],
+      "id" : "MDC1",
+      "text" : "MDC1"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "POLR2A",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6797711", "http://identifiers.org/reactome/R-HSA-6797712" ],
+      "target" : "MDC1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "POLR2A",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-6797711", "http://identifiers.org/reactome/R-HSA-6797712" ],
+      "target" : "FANCI"
+    }
+  } ]
+}

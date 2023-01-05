@@ -1,0 +1,4 @@
+
+MTOR	upregulates-expression	BCL2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_58deeaf854f90a0a7f8eb4be1c757c6b http://pathwaycommons.org/pc12/TemplateReaction_20e3819905547482cb65231d9fa1773d	
+RXRB	upregulates-expression	TNF	http://pathwaycommons.org/pc12/TemplateReaction_c72e26e64088ac18a5abc28f0cef1b0b http://pathwaycommons.org/pc12/TemplateReactionRegulation_6993fd4bf36606427aa26ab17764270f	
+STAT1	upregulates-expression	TNF	http://pathwaycommons.org/pc12/TemplateReaction_39f019894af513e334ca694b2dfe7a9f http://pathwaycommons.org/pc12/TemplateReactionRegulation_aa80990890ff9c962f53f39a9dcb4736	

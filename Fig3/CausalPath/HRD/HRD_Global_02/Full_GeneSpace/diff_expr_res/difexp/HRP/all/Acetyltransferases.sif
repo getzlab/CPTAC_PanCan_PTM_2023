@@ -1,0 +1,12 @@
+
+RELA	upregulates-expression	IFNB1	PMID:12077266 PMID:17496231 PMID:10074115	
+IRF1	upregulates-expression	IFNB1	PMID:8021262	
+NFKB1	upregulates-expression	IFNB1	PMID:12077266 PMID:17496231 PMID:10074115	
+ATF2	upregulates-expression	ESR1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_4d6b08506e77800e731327b5b3e671ef http://pathwaycommons.org/pc12/TemplateReaction_470bf2758ce76b248721e3bc9d6966e7 http://pathwaycommons.org/pc12/TemplateReaction_2151defd86aba2c97669c31edb1f8831 http://pathwaycommons.org/pc12/TemplateReactionRegulation_952044eaa9a0863b321b2fefc8078ef9	
+ATF2	upregulates-expression	DUSP5	http://pathwaycommons.org/pc12/TemplateReactionRegulation_4586c3d909498b98fa5a087fb4d4d5e1 http://pathwaycommons.org/pc12/TemplateReaction_81b3fa608eeeaaaa17bdcf40c3dfedf0	
+CDK1	phosphorylates	KAT7	PMID:18669648 PMID:18250300 PMID:16964243	T85;T88
+CDK2	phosphorylates	KAT7	PMID:23955388	T88
+ATF2	upregulates-expression	RB1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_86e4d07bf84243cadae7026958db4b26 http://pathwaycommons.org/pc12/TemplateReaction_3b52fad2764305aa88336609062a2f6d	
+ATF2	upregulates-expression	BCL2L1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_6b062d6268aa699be39c75aba5abc0ca http://pathwaycommons.org/pc12/TemplateReaction_93996494f53fe4e6e8c04775dcdc6d8d	
+ATF2	upregulates-expression	CCND1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_39d2e83aaaab1492f3b7ec45a9f5c83b http://identifiers.org/reactome/R-HSA-9009382 http://pathwaycommons.org/pc12/TemplateReaction_4b5e706d75a5ee64d51b9c48fc307187 http://pathwaycommons.org/pc12/TemplateReactionRegulation_9d9c56eb66452fb4f52827360f6fa43c http://identifiers.org/reactome/R-HSA-9009378 http://pathwaycommons.org/pc12/TemplateReaction_a7e33f773b10854cb8385a7c1a6450df PMID:10915780 PMID:10464245	
+ATF2	upregulates-expression	BCL2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_dfa3ffd709beaf18013e56381bfd0c15 http://pathwaycommons.org/pc12/TemplateReaction_6720d38ca4634c93c7f413422b5e7f1e	

@@ -1,0 +1,11 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	POLR2H	color	255 228 222
+node	POLR2H	tooltip	POLR2H-G, 2.2747100063866608
+node	FANCD2	color	255 203 191
+node	FANCD2	tooltip	FANCD2-G, 4.4846804510528795
+node	FANCI	color	255 179 161
+node	FANCI	tooltip	FANCI-G, 6.527562110771779
+node	ATM	color	155 174 255
+node	ATM	tooltip	ATM-G, -6.967974901565986
+node	E2F1	rppasite	E2F1-active-by-network-sig|!|255 243 241|0 180 20|1.0

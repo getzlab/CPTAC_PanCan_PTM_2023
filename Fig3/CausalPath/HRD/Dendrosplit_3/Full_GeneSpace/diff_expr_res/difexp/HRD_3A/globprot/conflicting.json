@@ -1,0 +1,329 @@
+{
+  "nodes" : [ {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "PPARG-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "PPARG",
+      "text" : "PPARG"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "MED1-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "MED1",
+      "text" : "MED1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(151,170,255)"
+    },
+    "data" : {
+      "tooltipText" : "PLIN1-G, -7.26778627145958",
+      "sites" : [ ],
+      "id" : "PLIN1",
+      "text" : "PLIN1"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "RELA-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "RELA",
+      "text" : "RELA"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(167,183,255)"
+    },
+    "data" : {
+      "tooltipText" : "VDR-G, -6.128727624240267",
+      "sites" : [ ],
+      "id" : "VDR",
+      "text" : "VDR"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(153,172,255)"
+    },
+    "data" : {
+      "tooltipText" : "FABP4-G, -7.090135298743058",
+      "sites" : [ ],
+      "id" : "FABP4",
+      "text" : "FABP4"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,218,210)"
+    },
+    "data" : {
+      "tooltipText" : "IGF1R-G, 3.1639193602804827",
+      "sites" : [ ],
+      "id" : "IGF1R",
+      "text" : "IGF1R"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "HELZ2-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "HELZ2",
+      "text" : "HELZ2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,219,211)"
+    },
+    "data" : {
+      "tooltipText" : "CPT2-G, 3.0878896670066918",
+      "sites" : [ ],
+      "id" : "CPT2",
+      "text" : "CPT2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(212,220,255)"
+    },
+    "data" : {
+      "tooltipText" : "APOB-G, -2.9737694413272373",
+      "sites" : [ ],
+      "id" : "APOB",
+      "text" : "APOB"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,227,221)"
+    },
+    "data" : {
+      "tooltipText" : "TFF3-G, 2.4009149895423945",
+      "sites" : [ ],
+      "id" : "TFF3",
+      "text" : "TFF3"
+    }
+  }, {
+    "data" : {
+      "sites" : [ {
+        "siteBackgroundColor" : "rgb(241,243,255)",
+        "siteText" : "i",
+        "siteInfo" : "NCOA2-inactive-by-network-sig",
+        "siteBorderColor" : "rgb(0,180,20)"
+      } ],
+      "id" : "NCOA2",
+      "text" : "NCOA2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(208,217,255)"
+    },
+    "data" : {
+      "tooltipText" : "A1BG-G, -3.254977720549292",
+      "sites" : [ ],
+      "id" : "A1BG",
+      "text" : "A1BG"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(142,163,255)"
+    },
+    "data" : {
+      "tooltipText" : "CD36-G, -7.866906453529631",
+      "sites" : [ ],
+      "id" : "CD36",
+      "text" : "CD36"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(214,222,255)"
+    },
+    "data" : {
+      "tooltipText" : "CD14-G, -2.857378404502525",
+      "sites" : [ ],
+      "id" : "CD14",
+      "text" : "CD14"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,225,218)"
+    },
+    "data" : {
+      "tooltipText" : "MED16-G, 2.594362019750628",
+      "sites" : [ ],
+      "id" : "MED16",
+      "text" : "MED16"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(194,205,255)"
+    },
+    "data" : {
+      "tooltipText" : "SKP2-G, -4.250188404264057",
+      "sites" : [ ],
+      "id" : "SKP2",
+      "text" : "SKP2"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(188,200,255)"
+    },
+    "data" : {
+      "tooltipText" : "A2M-G, -4.684976248625694",
+      "sites" : [ ],
+      "id" : "A2M",
+      "text" : "A2M"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,221,213)"
+    },
+    "data" : {
+      "tooltipText" : "WT1-G, 2.9137526875411752",
+      "sites" : [ ],
+      "id" : "WT1",
+      "text" : "WT1"
+    }
+  }, {
+    "css" : {
+      "backgroundColor" : "rgb(255,221,213)"
+    },
+    "data" : {
+      "tooltipText" : "BAD-G, 2.9454888012891427",
+      "sites" : [ ],
+      "id" : "BAD",
+      "text" : "BAD"
+    }
+  } ],
+  "edges" : [ {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED1",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1989793", "http://identifiers.org/reactome/R-HSA-1989773" ],
+      "target" : "CPT2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED16",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-390515", "http://identifiers.org/reactome/R-HSA-560510" ],
+      "target" : "FABP4"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "NCOA2",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1989793", "http://identifiers.org/reactome/R-HSA-1989773" ],
+      "target" : "CPT2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "WT1",
+      "pcLinks" : [ "PMID:23362234" ],
+      "target" : "VDR"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "RELA",
+      "pcLinks" : [ "PMID:20596645" ],
+      "target" : "BAD"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "WT1",
+      "pcLinks" : [ "PMID:9484784" ],
+      "target" : "CD14"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "PPARG",
+      "pcLinks" : [ "PMID:16542871" ],
+      "target" : "APOB"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "VDR",
+      "pcLinks" : [ "PMID:16883603" ],
+      "target" : "SKP2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "WT1",
+      "pcLinks" : [ "PMID:10499530", "PMID:12444079" ],
+      "target" : "IGF1R"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "RELA",
+      "pcLinks" : [ "PMID:12912861" ],
+      "target" : "TFF3"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "HELZ2",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-1989793", "http://identifiers.org/reactome/R-HSA-1989773" ],
+      "target" : "CPT2"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED16",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560493", "http://identifiers.org/reactome/R-HSA-560522" ],
+      "target" : "PLIN1"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "MED16",
+      "pcLinks" : [ "http://identifiers.org/reactome/R-HSA-560517", "http://identifiers.org/reactome/R-HSA-560540" ],
+      "target" : "CD36"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "downregulates-expression",
+      "source" : "A1BG",
+      "pcLinks" : [ "http://pathwaycommons.org/pc12/TemplateReactionRegulation_ee43d0fdd0ab270d93393ac7d91e9970", "http://pathwaycommons.org/pc12/TemplateReaction_801687ad008b64e13a9b86e348bd3a8f" ],
+      "target" : "A2M"
+    }
+  }, {
+    "data" : {
+      "tooltipText" : "",
+      "edgeType" : "upregulates-expression",
+      "source" : "PPARG",
+      "pcLinks" : [ "PMID:14960510" ],
+      "target" : "BAD"
+    }
+  } ]
+}

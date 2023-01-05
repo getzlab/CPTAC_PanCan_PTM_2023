@@ -1,0 +1,7 @@
+
+RBBP4	upregulates-expression	CCNB2	http://identifiers.org/reactome/R-HSA-4088299 http://identifiers.org/reactome/R-HSA-4088296	
+RBBP4	upregulates-expression	CCNB1	http://identifiers.org/reactome/R-HSA-4088312 http://identifiers.org/reactome/R-HSA-4088298	
+HDAC2	downregulates-expression	SNAI2	PMID:23836662	
+MYC	upregulates-expression	HDAC2	PMID:20697349	
+HDAC2	downregulates-expression	COL1A2	PMID:16464847	
+HDAC2	downregulates-expression	GCK	http://pathwaycommons.org/pc12/Control_c0e5f3f1c7823b403bf7bd35d93df438 http://identifiers.org/reactome/R-HSA-9625124	

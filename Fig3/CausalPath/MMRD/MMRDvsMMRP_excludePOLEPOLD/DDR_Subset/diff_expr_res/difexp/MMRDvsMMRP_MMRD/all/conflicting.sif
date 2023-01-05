@@ -1,0 +1,14 @@
+ATM	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+ATM	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK1	phosphorylates	LIG1	PMID:12851383 PMID:18234856	S76
+MRE11	phosphorylates	RBBP8	http://identifiers.org/reactome/R-HSA-5684140 http://identifiers.org/reactome/R-HSA-5684096 http://pathwaycommons.org/pc12/Catalysis_1d85feca312a1e58caaafcb440b15719 http://pathwaycommons.org/pc12/Catalysis_ee59f4f6775bfc9db5509be21ae69b86	T847;S327;T859
+CDK1	phosphorylates	RBBP8	PMID:19202191	T847;S327
+ATM	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2H	upregulates-expression	ATR	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK1	phosphorylates	KAT5	PMID:18669648 PMID:12468530 PMID:16103124 PMID:22539723 PMID:23186163	S86;S119;S123;S90
+RAD50	phosphorylates	RBBP8	http://identifiers.org/reactome/R-HSA-5684140 http://identifiers.org/reactome/R-HSA-5684096 http://pathwaycommons.org/pc12/Catalysis_1d85feca312a1e58caaafcb440b15719 http://pathwaycommons.org/pc12/Catalysis_ee59f4f6775bfc9db5509be21ae69b86	T847;S327;T859
+PARP1	downregulates-expression	BRCA2	PMID:18990703	
+FANCD2	upregulates-expression	ATR	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+ATM	upregulates-expression	BRCA1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+ATM	phosphorylates	RBBP8	http://identifiers.org/reactome/R-HSA-5684140 http://identifiers.org/reactome/R-HSA-5684096 http://pathwaycommons.org/pc12/Catalysis_1d85feca312a1e58caaafcb440b15719 PMID:10910365 http://pathwaycommons.org/pc12/Catalysis_ee59f4f6775bfc9db5509be21ae69b86 http://pathwaycommons.org/pc12/ComplexAssembly_0f80b5b2cfeef04bb7327908f226e216 http://pathwaycommons.org/pc12/Catalysis_61ca38b6d7ffc907e20efe7b38594ebc PMID:11689934	T847;S745;S327;S664;T859
+NBN	phosphorylates	RBBP8	http://identifiers.org/reactome/R-HSA-5684140 http://identifiers.org/reactome/R-HSA-5684096 http://pathwaycommons.org/pc12/Catalysis_1d85feca312a1e58caaafcb440b15719 http://pathwaycommons.org/pc12/Catalysis_ee59f4f6775bfc9db5509be21ae69b86	T847;S327;T859

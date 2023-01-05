@@ -15,7 +15,7 @@ __Contact__: Shankara Anand - sanand@broadinstitute.org, Yo Akiyama - yakiyama@b
 
 `funcs` - folder with python/R functions and scripts
 
-`Fig3`
+`Fig3` (visit directory for details)
 * `01_mutational_signatures_extraction.ipynb`: Extracting mutational signatures
 * `02_signature_thresholding_and_classification.ipynb`: Defining mutational signature thresholds for classifying DNA repair deficiencies
 * `03_recluster_ddr_deficient.ipynb`: Clustering DNA repair deficient cancers with homologous recombination deficiency (HRD) and mismatch repair deficiency (MMRD)

@@ -1,0 +1,7 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	POLR2A	rppasite	POLR2A-P-S1917|p|210 218 255|0 180 20|-3.1422403502754537
+node	FANCI	color	255 197 183
+node	FANCI	tooltip	FANCI-G, 5.010058457528318
+node	MDC1	color	255 212 202
+node	MDC1	tooltip	MDC1-G, 3.7193897601991988

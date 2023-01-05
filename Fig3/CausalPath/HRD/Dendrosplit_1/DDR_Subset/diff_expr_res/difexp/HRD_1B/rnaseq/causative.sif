@@ -1,0 +1,94 @@
+POLR2D	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2E	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+FANCD2	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2B	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+YY1	upregulates-expression	PCNA	PMID:16099430	
+POLR2C	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+FANCD2	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+MDC1	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2J	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2E	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+MDC1	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2J	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+FANCI	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CHEK1	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2D	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2C	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2B	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+PARP1
+XPC
+DDX11
+UNG
+CDC45
+CDA
+PCLAF
+PTEN
+TOP2B
+AURKB
+CDK1
+MLH1
+FEN1
+CDC25A
+BLM
+MCM3
+MSH6
+MSH2
+CDK2
+MCM2
+RAD51
+PLK2
+RFC3
+MCM7
+POLE2
+XRCC5
+TOP1
+TP53BP1
+APBB1
+CDK7
+RBBP8
+MCM8
+ACTL6A
+BRCA2
+XRCC6
+YWHAE
+CDC25B
+DHFR
+XRCC1
+KDM4B
+PIAS1
+POLD1
+OGG1
+KPNA2
+PLK4
+CDC25C
+SUMO2
+ATRX
+TTK
+BABAM2
+RRM1
+SUMO1
+POLR2G
+ABL1
+EXO1
+VCP
+DBF4
+SMARCA4
+TIMELESS
+CHEK2
+MCM4
+MGMT
+RRM2
+TYMS
+SMARCC1
+RFC2
+WRN
+DTL
+TERF2
+XPA
+MCM5
+RUVBL2
+RUVBL1
+POLB
+PLK1
+MCM6
+POLE3

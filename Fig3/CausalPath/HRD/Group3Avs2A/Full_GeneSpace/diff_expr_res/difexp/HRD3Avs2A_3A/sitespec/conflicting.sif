@@ -1,0 +1,31 @@
+TGFBR2	phosphorylates	SMC3		S1116;S1081;S1074
+MAPK12	phosphorylates	HSF1	PMID:19690332	S307;S326;S303
+PPM1F	dephosphorylates	CAMK2D	http://pathwaycommons.org/pc12/Catalysis_06ae5be76142f467e9a0baecafc46cbf http://identifiers.org/reactome/R-HSA-9619449	T287
+PPM1F	dephosphorylates	CAMK2G	http://pathwaycommons.org/pc12/Catalysis_06ae5be76142f467e9a0baecafc46cbf http://identifiers.org/reactome/R-HSA-9619449	T287
+CASP3	dephosphorylates	PAK2	http://identifiers.org/reactome/R-HSA-211651 http://pathwaycommons.org/pc12/Catalysis_5a25dd122acc70f5e8e68ef9889ddd26	S20;S192;S55;S19;S197
+PAK1	phosphorylates	PGAM1	PMID:12189148	S118;S23
+FAM20C	phosphorylates	CHGB	http://identifiers.org/reactome/R-HSA-8952289 http://pathwaycommons.org/pc12/Catalysis_0ac5747268ca6cac909e24f3d3e5f7b3 PMID:24275569 PMID:26091039	S225;S377;S367;S130;S380
+MAPK1	phosphorylates	SP1	PMID:19318349 http://pathwaycommons.org/pc12/Catalysis_614178fa31fc6ea94939625340696115 http://pathwaycommons.org/pc12/BiochemicalReaction_fd1c9f1180b47ddba485bbc58196a9b4 PMID:11904305 PMID:14593115	S59;T453;T278;T739
+MAPK3	phosphorylates	SP1	PMID:19318349 http://pathwaycommons.org/pc12/Catalysis_614178fa31fc6ea94939625340696115 PMID:14744793 http://pathwaycommons.org/pc12/BiochemicalReaction_fd1c9f1180b47ddba485bbc58196a9b4 PMID:11904305 PMID:14593115	S59;T453;T278;T739
+PAK1	phosphorylates	VIM	PMID:15766329 PMID:16997882 PMID:16990256 PMID:11895474	S66;T426;S412;S56;S26;S25;S47;S39;S51;S73
+TRIM24	phosphorylates	MAPK3	http://pathwaycommons.org/pc12/Catalysis_5e557dc3ccfb3c0f524b4a09e548f7fd http://identifiers.org/reactome/R-HSA-6802935	Y204;T202
+S100A10	dephosphorylates	ANXA2	PMID:18412141 PMID:21115493 PMID:12962548 PMID:23757730 PMID:11106498	S12;S26
+AKAP12	phosphorylates	ATR	PMID:27683220 PMID:24950377	S435
+TRIM24	phosphorylates	MAPK1	http://pathwaycommons.org/pc12/Catalysis_5e557dc3ccfb3c0f524b4a09e548f7fd http://identifiers.org/reactome/R-HSA-6802935	T185;Y187
+PAK1	phosphorylates	PXN	PMID:16717130 PMID:23317503	S258;S272
+PAK1	phosphorylates	MYLK	http://pathwaycommons.org/pc12/Catalysis_0ed89e1b699792b7d45eddc4ee3a1945 PMID:15310280 http://identifiers.org/reactome/R-HSA-5668984 PMID:10092231	S1208;S1759;S850;S18;S1772;S837
+AGK	phosphorylates	MAPK1	http://pathwaycommons.org/pc12/Catalysis_5e557dc3ccfb3c0f524b4a09e548f7fd http://identifiers.org/reactome/R-HSA-6802935	T185;Y187
+SYK	phosphorylates	STAT5A	http://pathwaycommons.org/pc12/BiochemicalReaction_4b8b6d2c9ef27bcb9932fef2a559bceb PMID:10849428 http://pathwaycommons.org/pc12/Catalysis_5df6f10968b0a8eee9de257da37f0378	Y694
+AGK	phosphorylates	MAPK3	http://pathwaycommons.org/pc12/Catalysis_5e557dc3ccfb3c0f524b4a09e548f7fd http://identifiers.org/reactome/R-HSA-6802935	Y204;T202
+CDK6	phosphorylates	STUB1		S23;S19;S273
+PRKCD	phosphorylates	TAGLN	PMID:11053353 PMID:18212344 PMID:20166139	S181
+PRKG1	phosphorylates	GTF2I	PMID:19651622 PMID:20068231 PMID:12082086 PMID:16055503	S412;S764;S743;S784;S763;S371;S391;S392
+PAK1	phosphorylates	MAPK6	PMID:18669648 http://pathwaycommons.org/pc12/Catalysis_cb7dea274da3bb48b294477e1cb9df9c http://identifiers.org/reactome/R-HSA-5687086	S189
+PRKACB	phosphorylates	CBX3	PMID:16531993	S93
+BCL2L11	phosphorylates	MAPK3	http://pathwaycommons.org/pc12/Catalysis_5e557dc3ccfb3c0f524b4a09e548f7fd http://identifiers.org/reactome/R-HSA-6802935	Y204;T202
+PRKCD	phosphorylates	PRKD1	PMID:21726532 PMID:15024053 PMID:18337243 http://pathwaycommons.org/pc12/BiochemicalReaction_c2c31839b509e5b522ab2d830d170cfd PMID:34010649 PMID:16891660 PMID:15226414 PMID:21285358 http://pathwaycommons.org/pc12/Catalysis_b0ad8734438b714c57af7cb0251ce9a5 PMID:17804414 PMID:11948398 PMID:15755722 PMID:18692497 PMID:19029298	S205;S910;Y95;S742;S412;S420;S738
+PRKAA2	phosphorylates	LUZP1		S108;S703;S338;S745;S573;S233;S639
+BCL2L11	phosphorylates	MAPK1	http://pathwaycommons.org/pc12/Catalysis_5e557dc3ccfb3c0f524b4a09e548f7fd http://identifiers.org/reactome/R-HSA-6802935	T185;Y187
+MAPK1	phosphorylates	HSF1	http://pathwaycommons.org/pc12/Catalysis_de97e290aeea4d4d2e89194ae53c02a5 PMID:8940068 http://identifiers.org/reactome/R-HSA-3371531	S307;S326
+PAK1	phosphorylates	FLNA	http://pathwaycommons.org/pc12/Catalysis_2707dea1ed38ba7c988500077aefafd6 PMID:23340249 PMID:12198493 http://identifiers.org/reactome/R-HSA-5669250	T2478;T1089;S2370;S2292;S2152;S2045;T2328
+MAPK3	phosphorylates	HSF1	PMID:18669648 PMID:19651622 http://pathwaycommons.org/pc12/Catalysis_de97e290aeea4d4d2e89194ae53c02a5 PMID:20068231 PMID:18212344 PMID:19664994 PMID:20166139 PMID:8940068 PMID:19413330 http://identifiers.org/reactome/R-HSA-3371531 PMID:23186163	S307;S326

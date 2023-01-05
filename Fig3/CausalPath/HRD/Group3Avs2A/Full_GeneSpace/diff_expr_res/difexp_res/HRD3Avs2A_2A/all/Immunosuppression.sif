@@ -1,0 +1,69 @@
+
+RELA	upregulates-expression	CXCL12	PMID:17530707	
+RELA	upregulates-expression	VCAM1	PMID:11359843 PMID:19281832 PMID:10329958 PMID:10946302 PMID:16385502 PMID:22708120 PMID:19422386 PMID:16317091	
+FOSL2	upregulates-expression	LIF	http://pathwaycommons.org/pc12/TemplateReaction_39bdd1c1e3295d4d619eaead5b38d95f http://pathwaycommons.org/pc12/TemplateReactionRegulation_246897796051a16f18b3f917fb28cfd7	
+RELA	upregulates-expression	PLAUR	PMID:19020743	
+RELA	upregulates-expression	FOXP3	PMID:20462637	
+RELA	upregulates-expression	CCL11	PMID:16604092	
+MSC	upregulates-expression	FOXP3	PMID:19561533	
+RELA	upregulates-expression	MMP2	PMID:19303700 PMID:17498959 PMID:20352621	
+RELA	upregulates-expression	IRF4	PMID:17018379	
+RELA	upregulates-expression	CCL22	PMID:17018379	
+RELA	upregulates-expression	BMP2	PMID:16835229	
+FOSL2	upregulates-expression	CCR4	PMID:22493372	
+FAS	upregulates-expression	ETS1	PMID:11970950	
+RELA	upregulates-expression	PLAU	PMID:11689575 PMID:17407600 PMID:20352621	
+RELA	upregulates-expression	LPL	PMID:20200316	
+JUN	upregulates-expression	IL2RA	http://pathwaycommons.org/pc12/TemplateReaction_18e670927185cad24a7f821a83ba402d http://pathwaycommons.org/pc12/TemplateReaction_16cc3e65b8d5b95349f7afb95cb25d38 http://pathwaycommons.org/pc12/TemplateReaction_e43dde98fc894398505e11f01a699037 http://pathwaycommons.org/pc12/TemplateReactionRegulation_12387e0bc97690434b2701e8b4efef0d http://pathwaycommons.org/pc12/TemplateReactionRegulation_6a3bd2717a8a35b43cd6fbc615412c70 http://pathwaycommons.org/pc12/TemplateReactionRegulation_257150e3c0837bab63b1628d793588c4 http://pathwaycommons.org/pc12/TemplateReactionRegulation_dffd180c97822061bfca3a34e4deebca http://pathwaycommons.org/pc12/TemplateReaction_5a6833994451e99a99033ab74f2a1540	
+RELA	upregulates-expression	RGS4	PMID:18260825	
+RELA	upregulates-expression	SERPINE1	PMID:11757833 PMID:12675842	
+RELA	upregulates-expression	NOS3	PMID:17081374	
+RELA	upregulates-expression	PLIN1	PMID:17272828	
+JUN	upregulates-expression	LIF	http://pathwaycommons.org/pc12/TemplateReaction_39bdd1c1e3295d4d619eaead5b38d95f http://pathwaycommons.org/pc12/TemplateReactionRegulation_246897796051a16f18b3f917fb28cfd7	
+RELA	upregulates-expression	FN1	PMID:10867646 PMID:10649441	
+IL13	upregulates-expression	VCAM1	http://identifiers.org/reactome/R-HSA-6788346 http://identifiers.org/reactome/R-HSA-6789530	
+CREBBP	upregulates-expression	IL2RA	http://pathwaycommons.org/pc12/TemplateReaction_16cc3e65b8d5b95349f7afb95cb25d38 http://pathwaycommons.org/pc12/TemplateReactionRegulation_6a3bd2717a8a35b43cd6fbc615412c70	
+FOXP3	upregulates-expression	RSPO3	http://identifiers.org/reactome/R-HSA-8877885 http://identifiers.org/reactome/R-HSA-8877884	
+VEGFA	upregulates-expression	S1PR1	http://pathwaycommons.org/pc12/TemplateReaction_16a91e27fbeeb8c584e8af194c886352 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b16150116b137cfa04d1ca3570b3ade9	
+SMAD3	upregulates-expression	FOXP3	PMID:20937549	
+RELA	upregulates-expression	NOX4	PMID:20622120	
+STAT3	upregulates-expression	LIF	http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615	
+RELA	upregulates-expression	LIPE	PMID:17272828	
+RELA	upregulates-expression	TNC	PMID:9154819	
+RELA	downregulates-expression	YY1	PMID:16784892	
+RELA	upregulates-expression	BGN	PMID:15536164	
+NFKB1	upregulates-expression	VCAM1	PMID:11359843 PMID:19281832 PMID:10329958 PMID:10946302 PMID:16385502 PMID:22708120 PMID:16271621 PMID:19422386 PMID:16317091	
+JUN	upregulates-expression	VCAM1	PMID:16271621	
+RELA	upregulates-expression	MMP13	PMID:19022820 PMID:12734180	
+RELA	upregulates-expression	NFKBIB	http://pathwaycommons.org/pc12/TemplateReactionRegulation_1a81db44525250b372579148d31a73eb http://pathwaycommons.org/pc12/TemplateReaction_2195bd09b04620ede1eb79dbd8b6afe4	
+RELA	upregulates-expression	MMP14	PMID:19303700 PMID:21627988	
+JUN	upregulates-expression	TGFB1	http://pathwaycommons.org/pc12/TemplateReaction_a07c1a5994cad8d6aa2c2eddd35189cb http://pathwaycommons.org/pc12/TemplateReactionRegulation_bc4558eb857011f079ff142d46f50777	
+RELA	upregulates-expression	CDK6	PMID:18504428	
+MAX	downregulates-expression	LGALS1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_ff0137ccd585704e249b6096dc2fdf09 http://pathwaycommons.org/pc12/TemplateReaction_bc2690978ed953b7db18dfcec01c3195	
+RELA	upregulates-expression	VEGFD	PMID:18941249	
+WT1	downregulates-expression	TBXA2R	PMID:19067769	
+NFKB1	upregulates-expression	FOXP3	PMID:20462637	
+IL13	upregulates-expression	ITGAM	http://identifiers.org/reactome/R-HSA-6788346 http://identifiers.org/reactome/R-HSA-6789530	
+RELA	upregulates-expression	SNAI1	PMID:17665043 PMID:18477483	
+MSC	upregulates-expression	CTLA4	PMID:19561533	
+CBFB	upregulates-expression	FOXP3	http://identifiers.org/reactome/R-HSA-8865551 http://identifiers.org/reactome/R-HSA-8865546	
+STAT5B	upregulates-expression	IL2RA	http://pathwaycommons.org/pc12/TemplateReaction_c359a7f39efc1b7c515347a1cf76ef30 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b1553af7d864e23fec9dba8aa6565f62	
+STAT5A	upregulates-expression	IL2RA	http://pathwaycommons.org/pc12/TemplateReaction_c359a7f39efc1b7c515347a1cf76ef30 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b1553af7d864e23fec9dba8aa6565f62	
+RUNX1	upregulates-expression	FOXP3	http://identifiers.org/reactome/R-HSA-8865551 http://identifiers.org/reactome/R-HSA-8865546	
+RELA	upregulates-expression	EPAS1	PMID:20495570	
+RXRA	upregulates-expression	IL2RA	PMID:12149223	
+FOXP3	upregulates-expression	IL2RA	http://identifiers.org/reactome/R-HSA-8877394 http://pathwaycommons.org/pc12/TemplateReaction_5362ee5769a47ff7d49cb8a1512455d8 http://pathwaycommons.org/pc12/TemplateReactionRegulation_0d2683e7e03de71bfb01be61cb280643 PMID:21036387 http://identifiers.org/reactome/R-HSA-8877396	
+FOXP3	upregulates-expression	CTLA4	http://pathwaycommons.org/pc12/TemplateReactionRegulation_272dc3d253c16321057df762ab31bcbf http://pathwaycommons.org/pc12/TemplateReaction_d0b307d69c704d12fec0697095d75625 http://identifiers.org/reactome/R-HSA-8877421 http://identifiers.org/reactome/R-HSA-8877420	
+RELA	upregulates-expression	CCR7	PMID:19164127 PMID:11830455	
+RELA	upregulates-expression	CCR3	PMID:16604092	
+WT1	downregulates-expression	IGF1	PMID:9076342	
+FOXP3	upregulates-expression	CCR4	PMID:21036387	
+ELF1	upregulates-expression	IL2RA	http://pathwaycommons.org/pc12/TemplateReaction_c359a7f39efc1b7c515347a1cf76ef30 http://pathwaycommons.org/pc12/TemplateReactionRegulation_2b44cb65fbe3ee4539509fe80e3414d7	
+FAS	downregulates-expression	YY1	PMID:11418634	
+STAT3	upregulates-expression	S1PR1	PMID:21102457 http://identifiers.org/reactome/R-HSA-6797259 http://identifiers.org/reactome/R-HSA-6790022	
+STAT5A	upregulates-expression	FOXP3	http://pathwaycommons.org/pc12/TemplateReactionRegulation_dd0c8858187aca13cf2598735e01d83d http://pathwaycommons.org/pc12/TemplateReaction_9b92d8b329a47305bbf4ba3660d02901	
+STAT5B	upregulates-expression	FOXP3	http://pathwaycommons.org/pc12/TemplateReactionRegulation_dd0c8858187aca13cf2598735e01d83d http://pathwaycommons.org/pc12/TemplateReaction_9b92d8b329a47305bbf4ba3660d02901	
+RELA	upregulates-expression	SDC1	PMID:16132527	
+RELA	upregulates-expression	TWIST1	PMID:22253230	
+STAT3	upregulates-expression	TGFB1	http://identifiers.org/reactome/R-HSA-6797262 http://identifiers.org/reactome/R-HSA-6789615 PMID:16474852	
+MSC	upregulates-expression	IL2RA	PMID:19561533	

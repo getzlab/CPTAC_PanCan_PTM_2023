@@ -1,0 +1,8 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	KPNA2	color	255 165 145
+node	KPNA2	tooltip	KPNA2-G, 7.693001099098745
+node	TP53BP1	rppasite	TP53BP1-P-S1678|p|255 203 191|50 50 50|4.475876992474643
+node	MRE11	color	222 228 255
+node	MRE11	tooltip	MRE11-G, -2.2830980762068513
+node	WRN	rppasite	WRN-P-S1133|p|255 207 196|50 50 50|4.108168124932581

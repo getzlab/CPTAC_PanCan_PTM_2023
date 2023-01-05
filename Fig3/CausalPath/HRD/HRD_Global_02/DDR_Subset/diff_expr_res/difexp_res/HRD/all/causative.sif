@@ -1,0 +1,208 @@
+E2F1	upregulates-expression	CDC6	http://identifiers.org/reactome/R-HSA-8961619 http://identifiers.org/reactome/R-HSA-539112 http://identifiers.org/reactome/R-HSA-68679 http://identifiers.org/reactome/R-HSA-68637	
+E2F4	downregulates-expression	CDK1	http://identifiers.org/reactome/R-HSA-8964594 http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://identifiers.org/reactome/R-HSA-8961934 http://pathwaycommons.org/pc12/TemplateReactionRegulation_c139b1965ab1e755a85eedd79dcb07d3	
+FOXM1	upregulates-expression	AURKB	http://pathwaycommons.org/pc12/TemplateReaction_c0d505adb1aad54746b351df8921ab50 http://pathwaycommons.org/pc12/TemplateReactionRegulation_a68da07576162f4df28e6f67cc7852d3	
+E2F3	upregulates-expression	CDC6	http://identifiers.org/reactome/R-HSA-68679 http://pathwaycommons.org/pc12/TemplateReactionRegulation_d2c0b1f70f534db0e701aa4ff8c78d0f http://identifiers.org/reactome/R-HSA-68637 http://pathwaycommons.org/pc12/TemplateReaction_441aa733c3916bb513d570d4f801a375 http://pathwaycommons.org/pc12/TemplateReactionRegulation_734672379ccb0939f783c7998a9104e8 http://pathwaycommons.org/pc12/TemplateReaction_40cc82aeb356ab53b378339c2a850798	
+E2F3	upregulates-expression	ORC1	http://pathwaycommons.org/pc12/TemplateReactionRegulation_9357cc6c1ae1c441915ff3af179f4d61 http://pathwaycommons.org/pc12/TemplateReaction_8b3780b764a117ee53a6b7169555c818	
+E2F1	upregulates-expression	ORC1	http://identifiers.org/reactome/R-HSA-8961682 http://identifiers.org/reactome/R-HSA-8961678 http://pathwaycommons.org/pc12/TemplateReactionRegulation_9357cc6c1ae1c441915ff3af179f4d61 http://pathwaycommons.org/pc12/TemplateReaction_8b3780b764a117ee53a6b7169555c818	
+MDC1	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+E2F1	upregulates-expression	CDT1	http://identifiers.org/reactome/R-HSA-8961952 http://identifiers.org/reactome/R-HSA-8961950	
+E2F4	downregulates-expression	TTK	PMID:17981789	
+E2F4	downregulates-expression	CDC6	http://identifiers.org/reactome/R-HSA-8961619 http://identifiers.org/reactome/R-HSA-8964507	
+FOXM1	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_234ed6aec0f159d394f70ab2e8c6df8a http://pathwaycommons.org/pc12/TemplateReactionRegulation_e8f07c4376ee63785a5204cca9be44a7	
+ATR	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+E2F3	upregulates-expression	AURKA	PMID:18776222	
+ATR	phosphorylates	NBN	http://pathwaycommons.org/pc12/BiochemicalReaction_83225045231ca08850d1bcc00fc9ba2a PMID:17526493 http://pathwaycommons.org/pc12/Catalysis_e61274bb38c9f3464ad2ed569272575e PMID:18644472 PMID:18077418	S615;S343
+ATR	phosphorylates	EXO1	PMID:18048416	S714
+FOXM1	upregulates-expression	CDC6	PMID:24583551	
+E2F1	upregulates-expression	AURKA	PMID:20300951	
+CDK1	phosphorylates	TTK		S281
+E2F1	upregulates-expression	RAD51	http://identifiers.org/reactome/R-HSA-9007582 http://identifiers.org/reactome/R-HSA-9007583	
+E2F1	upregulates-expression	CHEK2	PMID:15024084	
+E2F4	downregulates-expression	PLK1	PMID:17981789	
+CDK1	phosphorylates	USP1	PMID:23116119	S313
+E2F1	upregulates-expression	TYMS	http://identifiers.org/reactome/R-HSA-8962050 PMID:14618416 http://identifiers.org/reactome/R-HSA-8962049 PMID:9748140	
+E2F3	upregulates-expression	TYMS	http://pathwaycommons.org/pc12/TemplateReactionRegulation_de4a41d796c81d5b2d9e108d52366bd5 http://pathwaycommons.org/pc12/TemplateReaction_9b0e05a17457973a99876ccdd6e9eaf0	
+E2F1	upregulates-expression	TOP2A	PMID:11313881	
+E2F4	downregulates-expression	RAD51	PMID:20133863 PMID:21701264	
+E2F1	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 PMID:14618416 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9 http://identifiers.org/reactome/R-HSA-8961934 http://identifiers.org/reactome/R-HSA-8961933	
+E2F3	upregulates-expression	CDK1	http://pathwaycommons.org/pc12/TemplateReaction_e4e16b371f9c5eeaaaa4dcbcc541caf5 http://pathwaycommons.org/pc12/TemplateReactionRegulation_e50b08c0ec548d102572400fcfc0b7c9	
+FANCI	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+E2F1	upregulates-expression	FANCA	PMID:18438432	
+MYCN	upregulates-expression	MCM2	PMID:17826980	
+MYCN	upregulates-expression	MCM4	PMID:17826980	
+MYCN	upregulates-expression	MCM3	PMID:17826980	
+MYCN	upregulates-expression	MCM6	PMID:17826980	
+MYCN	upregulates-expression	MCM5	PMID:17826980	
+MYCN	upregulates-expression	MCM10	PMID:17826980	
+FOXM1	upregulates-expression	BRCA2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_e879d56570e076f0e7549269af33e905 http://pathwaycommons.org/pc12/TemplateReaction_667f00695da53af8641f910df9939bd7	
+MYCN	upregulates-expression	MCM7	PMID:17826980	
+ATR	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK1	phosphorylates	RECQL5		S727
+MDC1	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+E2F4	downregulates-expression	TOP2A	http://identifiers.org/reactome/R-HSA-8964532 http://identifiers.org/reactome/R-HSA-8964531	
+CDK1	phosphorylates	TP53BP1	PMID:25607646	S1678;T1609
+E2F4	downregulates-expression	PCLAF	PMID:23593430	
+AURKB	phosphorylates	RPA1		S384
+E2F4	downregulates-expression	TOPBP1	PMID:15195143	
+FOXM1	upregulates-expression	CDC25A	http://identifiers.org/reactome/R-HSA-4088166 http://identifiers.org/reactome/R-HSA-4088152	
+E2F1	upregulates-expression	PLK1	PMID:24076372	
+ATR	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+E2F1	upregulates-expression	RRM2	http://identifiers.org/reactome/R-HSA-8961982 http://identifiers.org/reactome/R-HSA-8961985 PMID:19416980	
+E2F3	upregulates-expression	RRM2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_951bdc96ab9bafa9fd4d221ae0bf5050 http://pathwaycommons.org/pc12/TemplateReaction_68e3cc67a8ea12fb21b5f6baba741bd1	
+E2F1	upregulates-expression	CDC45	http://identifiers.org/reactome/R-HSA-8961915 http://identifiers.org/reactome/R-HSA-8961914	
+E2F3	upregulates-expression	MCM3	http://pathwaycommons.org/pc12/TemplateReaction_0df2a1c9ce0519f3649d23b795e41324 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5f9b1a75f73f8fb732bb070939277796	
+FANCI	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK1	phosphorylates	TOP2A	PMID:18669648 PMID:20068230 PMID:12569090 PMID:18691976 PMID:20068231 PMID:16565220 PMID:18452278 PMID:19664994 PMID:19664995 PMID:18234856 PMID:17466629 PMID:20058876 PMID:17287340 PMID:17924679 PMID:19651622 PMID:19415658 PMID:19007248 PMID:19691289 PMID:18767875 PMID:19413330 PMID:16964243 PMID:7635160	S1393;S1361;S1354;S1213;S1247
+E2F4	downregulates-expression	CDC25C	http://identifiers.org/reactome/R-HSA-6798285 http://identifiers.org/reactome/R-HSA-6798268	
+FOXM1	upregulates-expression	PLK1	http://identifiers.org/reactome/R-HSA-4088305 http://pathwaycommons.org/pc12/TemplateReaction_b5c4fa5dbfd6cb109038b31672069653 http://identifiers.org/reactome/R-HSA-4088302 http://pathwaycommons.org/pc12/TemplateReactionRegulation_b13e898b04856a1255a954d838b07b6f	
+E2F4	downregulates-expression	CCNA2	http://identifiers.org/reactome/R-HSA-8964588 http://identifiers.org/reactome/R-HSA-8964590	
+E2F4	downregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://pathwaycommons.org/pc12/TemplateReactionRegulation_7cf95bd93c3de7b3fc2e7a180cb770e4 http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8964503	
+E2F1	upregulates-expression	MCM3	http://pathwaycommons.org/pc12/TemplateReaction_0df2a1c9ce0519f3649d23b795e41324 http://pathwaycommons.org/pc12/TemplateReactionRegulation_5f9b1a75f73f8fb732bb070939277796	
+MDC1	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+E2F4	downregulates-expression	MCM10	PMID:15195143	
+CCNA2	phosphorylates	ATRIP	http://pathwaycommons.org/pc12/Catalysis_cc6d6f6d309050dd3defd1b08dd5c70d http://pathwaycommons.org/pc12/BiochemicalReaction_b601a91728ceffca78a436db62fc2c1f	S224
+E2F1	upregulates-expression	CDC25A	http://pathwaycommons.org/pc12/TemplateReactionRegulation_78e0684a55932c58c36e7a26e3ab6689 http://pathwaycommons.org/pc12/TemplateReaction_6b0db83be00740f0ece67298b1bd5f3f http://identifiers.org/reactome/R-HSA-188345 http://identifiers.org/reactome/R-HSA-8961967	
+E2F1	upregulates-expression	DBF4	PMID:18503552	
+CDK1	phosphorylates	SAMHD1	PMID:18234856 PMID:23601106 PMID:23602554	T592
+E2F1	upregulates-expression	CCNA2	http://pathwaycommons.org/pc12/TemplateReactionRegulation_a38b25b32db682037de4e9274559bbe9 http://pathwaycommons.org/pc12/TemplateReaction_ac327b766f27c4ffe8cf4512f0b17872	
+XPC
+RECQL4
+XPA
+TERF2
+USP10
+NPLOC4
+PLK2
+XRCC6
+TOP2B
+INO80E
+UFD1
+GINS4
+RFC1
+POLR2L
+TK2
+CLSPN
+UBA7
+PCNA
+MMS22L
+SMARCA5
+PARP4
+HMGN1
+POLA1
+POLD3
+ALKBH1
+SMARCC1
+NEIL1
+RFC2
+KDM4B
+GINS2
+MTOR
+IDH1
+RFC3
+H2AZ1
+ORC2
+POLR2F
+PLK4
+PARP1
+DDB2
+RMI2
+CDC5L
+H2BC11
+POLE4
+BRIP1
+XRCC1
+POLQ
+TERT
+RIF1
+RAD50
+NSD2
+RNF8
+MSH6
+RUVBL1
+WEE1
+WRN
+PRIM2
+POLK
+PARP3
+PKMYT1
+XRCC2
+DCLRE1A
+ERCC1
+UBE2A
+GTF2H4
+DCLRE1B
+RMI1
+ORC6
+POLH
+CDC7
+MSH2
+TDP1
+MCM8
+POLL
+ERCC6L
+DNA2
+CHTF18
+POLE3
+POLD2
+DTL
+NFRKB
+LIG3
+YWHAE
+PMS2
+RFWD3
+POLR2B
+BARD1
+BAZ1B
+FANCE
+BLM
+UBE2T
+EME2
+BOD1L1
+SMUG1
+EME1
+GMNN
+LIG1
+POLM
+CCNH
+TERF2IP
+TRIP13
+PIAS1
+TDP2
+WDHD1
+KPNA2
+GPS1
+EYA4
+KAT5
+RAD18
+H2AX
+CDK7
+FANCB
+MNAT1
+CUL4B
+POLR2C
+PRKDC
+UBE2B
+MRE11
+DUT
+BRCC3
+POLD1
+RAD54L
+PARG
+FEN1
+TICRR
+CIB1
+APBB1
+BABAM1
+FAAP100
+ATAD5
+LRWD1
+RFC4
+ATRX
+RAD17
+MGMT
+VCP
+RFC5
+NUDT16
+POLR2A
+SETMAR
+JMJD6
+COPS5

@@ -1,0 +1,4 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	CHEK1	rppasite	CHEK1-P-S280|p|255 226 219|180 0 20|2.514729094288241
+node	FANCI	rppasite	FANCI-R|r|255 218 210|50 50 50|3.1610078039812324

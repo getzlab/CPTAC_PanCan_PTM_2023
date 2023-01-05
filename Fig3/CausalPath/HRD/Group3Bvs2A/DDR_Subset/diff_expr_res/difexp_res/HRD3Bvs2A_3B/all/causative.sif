@@ -1,0 +1,102 @@
+CDK2	phosphorylates	TP53BP1	PMID:18847512	T1609;T1612
+CDK1	phosphorylates	TP53BP1	PMID:25607646	S1678;T1609
+POLR2G	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+PLK1	phosphorylates	TP53BP1	PMID:25607646	S1618
+POLR2J	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CHEK1	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CDK2	phosphorylates	WRN		S1133
+MDC1	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+POLR2B	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
+CHTF18
+DBF4
+NSD2
+PRPF19
+MCM7
+CLSPN
+CHEK2
+FTO
+NEIL1
+ABL1
+MSH2
+RUVBL1
+DDX11
+CDC25A
+DHFR
+LIG3
+RAD51C
+RAD18
+WDR48
+DTYMK
+POLE3
+KDM4B
+RFWD3
+PCLAF
+WDHD1
+TRIP13
+GINS4
+FEN1
+LIG1
+RIF1
+RAD1
+POLD3
+SAMHD1
+POLK
+POLD2
+MLH1
+KPNA2
+TTK
+LRWD1
+MCM6
+TERF2IP
+PRIM2
+RFC2
+ORC6
+FANCL
+EXO1
+ORC2
+DDB1
+PARP1
+TIPIN
+MCM4
+PTEN
+XRCC6
+CDC45
+USP10
+SUMO1
+SMARCC1
+UBE2T
+SMUG1
+GINS2
+TK2
+BLM
+EYA4
+CUL5
+RFC3
+AURKB
+CCNA2
+FANCE
+MCM5
+MCM2
+NUDT5
+RFC4
+SUMO2
+MCM3
+RPS27A
+BAZ1B
+RBX1
+PRIM1
+APTX
+H2AZ1
+USP1
+ACTL6A
+MMS22L
+RRM2
+MCM8
+RUVBL2
+POLD1
+TYMS
+PCNA
+MSH6
+SLX4
+XRCC1
+PLK4

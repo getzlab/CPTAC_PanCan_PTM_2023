@@ -1,0 +1,18 @@
+
+HDAC9	downregulates-expression	TP53	PMID:15964798	
+HDAC1	upregulates-expression	CLDN7	PMID:19277896	
+HDAC1	upregulates-expression	ICAM1	PMID:12490396	
+HDAC1	upregulates-expression	PTGS2	PMID:17395887	
+HDAC9	downregulates-expression	CITED2	PMID:18054336	
+HDAC1	downregulates-expression	RHOB	PMID:13679859	
+HDAC1	downregulates-expression	RARB	PMID:14731134	
+HDAC1	upregulates-expression	BCL2A1	PMID:17000776	
+HDAC1	downregulates-expression	GCK	http://pathwaycommons.org/pc12/Control_c0e5f3f1c7823b403bf7bd35d93df438 http://identifiers.org/reactome/R-HSA-9625124	
+E2F6	downregulates-expression	RBBP4	http://pathwaycommons.org/pc12/TemplateReactionRegulation_2344616b5f79f5a4e5b5bdba259567c3 http://identifiers.org/reactome/R-HSA-9007638 http://identifiers.org/reactome/R-HSA-9007640 http://pathwaycommons.org/pc12/TemplateReaction_fa44580e7fa0383c68bef15ce7a36d67	
+HDAC1	downregulates-expression	RELN	PMID:19029285	
+HDAC1	upregulates-expression	BIRC3	PMID:17000776	
+HDAC9	upregulates-expression	CDKN2A	PMID:19122829	
+HDAC9	downregulates-expression	HSPA5	PMID:19417144	
+HDAC1	downregulates-expression	EIF2AK1	PMID:19133234	
+HDAC1	downregulates-expression	OPRM1	http://identifiers.org/reactome/R-HSA-9017921 http://pathwaycommons.org/pc12/Control_3eafce35da07639d4d91fa89d3fb1e06	
+HDAC1	downregulates-expression	ABCB1	PMID:20037778 PMID:19435809	

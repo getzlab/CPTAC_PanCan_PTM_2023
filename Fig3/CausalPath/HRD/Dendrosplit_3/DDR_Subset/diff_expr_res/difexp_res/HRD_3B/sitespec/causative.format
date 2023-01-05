@@ -1,0 +1,6 @@
+node	all-nodes	color	255 255 255
+node	all-nodes	bordercolor	50 50 50
+node	CDK6	color	255 227 221
+node	CDK6	tooltip	CDK6-G, 2.3630249091369455
+node	SOD1	color	221 227 255
+node	SOD1	tooltip	SOD1-G, -2.3630249091369455
