@@ -1,0 +1,577 @@
+case_id	cohort	age	sex	race	ethnicity	inferred_ancestry_based_on_genomic_data	hrd_biry	mmrd_biry	mutatiol_sigture	pole	pole_msi	cp_g_t_short_indels	apobec	cp_g_t	mmrd	unknown_sbs8_0_64	tobacco_smoking	uv_exposure	hrd	nhr1_unknown_sbs40_0_94
+CPT000814	BRCA	41	Female	Black or African American	Unknown	African	0	0		0	0	0	50.96583	26.120914	0	0	0	0	12.289303	0
+CPT001846	BRCA	84	Female	White	Unknown	European	1	0	HRD	0	0	0	18.950666	28.45581	0	0	0	0	51.32484	0
+X01BR001	BRCA	55	Female	Black or African American	Not Hispanic or Latino	African	0	0		0	0	0	1.12E-43	32.19542	0	0	0	0	41.28788	0
+X01BR008	BRCA	48	Female	Black or African American	Not Hispanic or Latino		0	0		0	0	0	65.02066	15.36289	0	0	0	0	10.787576	0
+X01BR009	BRCA	64	Female	Black or African American	Not Hispanic or Latino		1	0	HRD	0	0	0	21.734335	5.2640233	0	0	0	0	93.431755	0
+X01BR010	BRCA	65	Female	Black or African American	Not Hispanic or Latino		0	0		0	0	0	6.823524	11.50686	0	0	0	0	35.515076	0
+X01BR015	BRCA	35	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	26.454723	18.104742	0	0	0	0	19.728642	0
+X01BR017	BRCA	45	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	47.44303	13.905699	0	0	0	0	70.39411	0
+X01BR018	BRCA	66	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	133.32916	2.36E-41	0	0	0	0	194.51357	0
+X01BR020	BRCA	45	Female	Black or African American	Not Hispanic or Latino		0	0		0	0	0	1.3809267	33.665226	0	0	0	0	31.52991	0
+X01BR023	BRCA	52	Female	White	Not Hispanic or Latino		0	0		0	0	0	4.5160694	14.710293	0	0	0	0	3.2058704	0
+X01BR025	BRCA	62	Female	Black or African American	Not Hispanic or Latino	African	0	0		0	0	0	0	2.318406	0	0	0	0	22.224915	0
+X01BR026	BRCA	48	Female	White	Not Hispanic or Latino		0	0		0	0	0	19.11436	22.597904	0	0	0	0	14.812707	0
+X01BR027	BRCA	80	Female	Black or African American	Not Hispanic or Latino	African	1	0	HRD	0	0	0	32.04801	28.030598	0	0	0	0	90.49939	0
+X01BR030	BRCA	84	Female	Black or African American	Not Hispanic or Latino	African	0	0		0	0	0	3.35E-43	31.495323	0	0	0	0	25.29342	0
+X01BR031	BRCA	61	Female	Black or African American	Not Hispanic or Latino	African	1	0	HRD	0	0	0	2.2476351	26.645205	0	0	0	0	67.17786	0
+X01BR032	BRCA	46	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	1.2267814	21.672071	0	0	0	0	23.121733	0
+X01BR033	BRCA	40	Female	Black or African American	Not Hispanic or Latino	African	1	0	HRD	0	0	0	5.513487	20.743984	0	0	0	0	58.988632	0
+X01BR040	BRCA	40	Female	Black or African American	Not Hispanic or Latino	African	0	0		0	0	0	11.90838	21.120409	0	0	0	0	11.83644	0
+X01BR042	BRCA	58	Female	Black or African American	Unknown	African	1	0	HRD	0	0	0	31.52414	143.40645	0	0	0	0	126.25548	0
+X03BR002	BRCA	60	Female	White	Not Hispanic or Latino	Ad_Mixed_American	0	0		0	0	0	0.75945383	0	0	0	0	0	3.1570983	0
+X03BR004	BRCA	88	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	7.2226195	17.48015	0	0	0	0	29.101387	0
+X03BR005	BRCA	61	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	0	0	0	0	0	1.9645432	0
+X03BR006	BRCA	42	Female	White	Not Hispanic or Latino		0	0		0	0	0	24.24062	24.079823	0	0	0	0	19.898571	0
+X03BR010	BRCA	78	Female	White	Not Hispanic or Latino	European				0	0	0	9.558288	21.34163	0	0	0	0	14.985082	0
+X03BR011	BRCA	71	Female	White	Not Hispanic or Latino					0	0	0	2.01E-42	37.042835	0	0	0	0	29.536385	0
+X03BR013	BRCA	52	Female	Unknown	Unknown	Ad_Mixed_American	0	0		0	0	0	10.933188	32.44564	0	0	0	0	9.294859	0
+X05BR001	BRCA	70	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	0	2.1108184	0	0	0	0	50.919582	0
+X05BR003	BRCA	37	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	1.0741338	7.4397416	0	0	0	0	27.769217	0
+X05BR004	BRCA	46	Female	White	Not Hispanic or Latino		0	0		0	0	0	15.320575	23.713745	0	0	0	0	6.7417946	0
+X05BR005	BRCA	50	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	2.8108172	14.841985	0	0	0	0	12.664986	0
+X05BR009	BRCA	64	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	9.513829	30.775928	0	0	0	0	19.292961	0
+X05BR016	BRCA	78	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	2.23E-43	29.151257	0	0	0	0	23.72202	0
+X05BR026	BRCA	71	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	4.2524476	29.107279	0	0	0	0	5.691822	0
+X05BR029	BRCA	61	Female	White	Not Hispanic or Latino	European	0	1	MMRD	0	0	0	57.324917	65.51482	308.86728	9.61655	0	0	0	0
+X05BR038	BRCA	52	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	310.07208	9.27361	0	0	0	0	6.508381	0
+X05BR042	BRCA	40	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	3.9063206	20.504927	0	0	0	0	104.08272	0
+X05BR043	BRCA	50	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	16.958061	13.372269	0	0	0	0	143.1742	0
+X05BR044	BRCA	62	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	3.34529	12.03929	0	0	0	0	35.568375	0
+X05BR045	BRCA	60	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	7.238889	28.268858	0	0	0	0	38.861153	0
+X06BR003	BRCA	75	Female	Unknown	Hispanic or Latino	Ad_Mixed_American	0	0		0	0	0	4.227195	38.36307	0	0	0	0	26.858334	0
+X06BR005	BRCA	58	Female	Unknown	Hispanic or Latino	Ad_Mixed_American	0	0		0	0	0	1.12E-43	6.7211976	0	0	0	0	25.654709	0
+X06BR006	BRCA	51	Female	Unknown	Hispanic or Latino	Ad_Mixed_American	0	0		0	0	0	15.397432	8.804138	0	0	0	0	20.677637	0
+X06BR014	BRCA	51	Female	Unknown	Hispanic or Latino	African	0	0		0	0	0	2.7975252	7.026187	0	0	0	0	8.752449	0
+X09BR001	BRCA	61	Female	Black or African American	Not Hispanic or Latino		0	0		0	0	0	4.8664756	49.321453	0	0	0	0	6.3459945	0
+X09BR004	BRCA	75	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	24.665724	37.60778	0	0	0	0	19.611687	0
+X09BR005	BRCA	38	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	6.6307945	21.162338	0	0	0	0	51.538464	0
+X09BR007	BRCA	77	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	9.396456	32.436947	0	0	0	0	28.546589	0
+X11BR003	BRCA	53	Female	Asian	Not Hispanic or Latino	East_Asian	0	1	MMRD	0	0	0	4.50E-44	210.11588	595.27405	6.40E-44	0	0	0	0
+X11BR004	BRCA	54	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	1.5301402	30.724192	0	0	0	0	4.868206	0
+X11BR006	BRCA	54	Female	Asian	Not Hispanic or Latino	East_Asian	1	0	HRD	0	0	0	45.287563	2.1516361	0	0	0	0	73.60253	0
+X11BR009	BRCA	44	Female	Asian	Not Hispanic or Latino	East_Asian	1	0	HRD	0	0	0	24.436838	8.057296	0	0	0	0	89.83971	0
+X11BR010	BRCA	35	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	35.81042	22.7542	0	0	0	0	22.240673	0
+X11BR011	BRCA	71	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	2.0024967	12.963809	0	0	0	0	17.340279	0
+X11BR012	BRCA	77	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	3.8546278	70.06564	0	0	0	0	28.74749	0
+X11BR013	BRCA	70	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	22.047003	42.151833	0	0	0	0	16.720898	0
+X11BR014	BRCA	39	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	4.651829	1.35E-43	0	0	0	0	127.87806	0
+X11BR015	BRCA	60	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	1.7783768	21.827423	0	0	0	0	5.7061644	0
+X11BR016	BRCA	30	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	5.6941557	17.144592	0	0	0	0	47.691204	0
+X11BR017	BRCA	74	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	10.727382	44.600292	0	0	0	0	3.1724088	0
+X11BR018	BRCA	54	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	59.21635	20.235006	0	0	0	0	1.56E-43	0
+X11BR019	BRCA	61	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	5.3352575	18.76835	0	0	0	0	56.245556	0
+X11BR020	BRCA	37	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	98.64444	6.5585475	0	0	0	0	39.4893	0
+X11BR022	BRCA	48	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	1.12E-43	18.590012	0	0	0	0	9.787844	0
+X11BR023	BRCA	58	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	34.079163	18.912962	0	0	0	0	44.562687	0
+X11BR024	BRCA	80	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	9.829646	35.114567	0	0	0	0	38.182594	0
+X11BR025	BRCA	77	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	6.373554	27.967237	0	0	0	0	30.221426	0
+X11BR027	BRCA	76	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	92.08231	79.86636	0	0	0	0	61.81266	0
+X11BR028	BRCA	55	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	74.72031	42.730972	0	0	0	0	32.337044	0
+X11BR030	BRCA	50	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	130.82954	2.6413314	0	0	0	0	24.464773	0
+X11BR031	BRCA	50	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	326.73642	21.364597	0	0	0	0	4.81E-42	0
+X11BR032	BRCA	49	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	2.1069398	5.085972	0	0	0	0	15.335008	0
+X11BR036	BRCA	51	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	4.4034176	48.38898	0	0	0	0	34.275932	0
+X11BR038	BRCA	47	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	26.746391	7.4675426	0	0	0	0	9.503461	0
+X11BR040	BRCA	67	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	3.3553743	6.315995	0	0	0	0	13.811069	0
+X11BR042	BRCA	71	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	3.718398	22.680037	0	0	0	0	10.73473	0
+X11BR043	BRCA	36	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	3.35E-43	22.034674	0	0	0	0	87.851715	0
+X11BR044	BRCA	48	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0.48093987	35.669968	0	0	0	0	28.463816	0
+X11BR047	BRCA	59	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	5.0586514	12.74432	0	0	0	0	17.401262	0
+X11BR049	BRCA	45	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	0	13.307677	0	0	0	0	15.100873	0
+X11BR050	BRCA	54	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	4.5963993	15.373098	0	0	0	0	6.3866453	0
+X11BR051	BRCA	65	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	17.583399	19.996479	0	0	0	0	14.074116	0
+X11BR053	BRCA	61	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	6.742191	75.44753	0	0	0	0	20.399113	0
+X11BR054	BRCA	84	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	1.0833462	9.183716	0	0	0	0	31.899374	0
+X11BR055	BRCA	56	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	12.20378	19.428219	0	0	0	0	64.316315	0
+X11BR056	BRCA	52	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	12.423883	21.517385	0	0	0	0	21.718134	0
+X11BR058	BRCA	65	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	22.692905	26.613045	0	0	0	0	40.53386	0
+X11BR059	BRCA	45	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	25.61049	5.757542	0	0	0	0	41.8462	0
+X11BR060	BRCA	52	Female	Asian	Not Hispanic or Latino	East_Asian	0	0		0	0	0	61.156403	30.69058	0	0	0	0	34.660637	0
+X11BR072	BRCA	70	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	6.890078	14.89553	0	0	0	0	21.23407	0
+X11BR073	BRCA	64	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	11.942541	18.506598	0	0	0	0	59.615208	0
+X11BR074	BRCA	66	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	1.1257361	9.933624	0	0	0	0	17.350216	0
+X11BR075	BRCA	79	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	32.355633	21.255945	0	0	0	0	101.91208	0
+X11BR080	BRCA	68	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	2.7145054	17.333273	0	0	0	0	20.079838	0
+X13BR009	BRCA	75	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	20.955053	54.735756	0	0	0	0	25.801533	0
+X14BR005	BRCA	78	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	2.8324506	8.1947365	0	0	0	0	15.399781	0
+X14BR008	BRCA	66	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	1.12E-43	12.327285	0	0	0	0	6.2642465	0
+X14BR014	BRCA	59	Female	White	Unknown	European	0	0		0	0	0	6.1125455	21.050903	0	0	0	0	0.116949424	0
+X15BR003	BRCA	74	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	710.425	1.7736487	0	0	0	0	2.64E-42	0
+X16BR012	BRCA	47	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	191.71786	0.35232893	0	0	0	0	29.70376	0
+X18BR002	BRCA	64	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	74.13123	16.841475	0	0	0	0	101.21345	0
+X18BR003	BRCA	65	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	1399.2352	4.02E-28	0	0	0	0	4.65E-43	0
+X18BR004	BRCA	76	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	1.3820038	7.739831	0	0	0	0	24.20762	0
+X18BR006	BRCA	62	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	31.36518	20.798174	0	0	0	0	75.87571	0
+X18BR007	BRCA	64	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	20.33236	26.42658	0	0	0	0	81.4295	0
+X18BR009	BRCA	63	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	22.255177	7.370619	0	0	0	0	15.148557	0
+X18BR010	BRCA	41	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	6.0021663	15.618845	0	0	0	0	6.675045	0
+X18BR016	BRCA	73	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	11.50364	22.335564	0	0	0	0	9.061102	0
+X18BR017	BRCA	72	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	16.649279	80.83339	0	0	0	0	4.32E-22	0
+X18BR019	BRCA	68	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	2.6650214	17.495495	0	0	0	0	18.002428	0
+X20BR001	BRCA	82	Female	Black or African American	Not Hispanic or Latino	African	0	0		0	0	0	2.1662736	6.5012026	0	0	0	0	26.620771	0
+X20BR002	BRCA	95	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	5.8738976	50.20757	0	0	0	0	72.20743	0
+X20BR005	BRCA	47	Female	Black or African American	Not Hispanic or Latino	African	1	0	HRD	0	0	0	28.153292	2.69E-43	0	0	0	0	135.42145	0
+X20BR006	BRCA	65	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	10.616588	32.015648	0	0	0	0	65.05637	0
+X20BR007	BRCA	55	Female	Black or African American	Not Hispanic or Latino	African	1	0	HRD	0	0	0	8.849852	7.506882	0	0	0	0	86.59212	0
+X20BR008	BRCA	71	Female	Black or African American	Not Hispanic or Latino	African	0	0		0	0	0	6.264902	57.07659	0	0	0	0	43.291058	0
+X21BR001	BRCA	86	Female	White	Hispanic or Latino		0	0		0	0	0	192.76173	91.21552	0	0	0	0	15.83322	0
+X21BR002	BRCA	86	Female	White	Hispanic or Latino		0	0		0	0	0	3.0589554	15.224585	0	0	0	0	19.886097	0
+X21BR010	BRCA	71	Female	White	Hispanic or Latino	Ad_Mixed_American	0	0		0	0	0	3.24E-42	8.779347	0	0	0	0	18.673244	0
+X22BR005	BRCA	46	Female	White	Not Hispanic or Latino	European	1	0	HRD	0	0	0	7.7837243	27.27497	0	0	0	0	80.562416	0
+X22BR006	BRCA	55	Female	Black or African American	Not Hispanic or Latino	African	0	0		0	0	0	5.014602	9.574505	0	0	0	0	9.829285	0
+C3N.03183	GBM	53	Male	Unknown	Unknown	East_Asian				0	0	0	0	26.777502	0	0	0	0	0	15.598146
+C3N.01505	GBM	74	Male	White	Not Hispanic or Latino	European				0	0	0	0	53.906246	0	0	0	0	0	35.781906
+C3N.03188	GBM	54	Male	Unknown	Unknown	East_Asian				0	0	0	0	34.45581	0	0	0	0	0	23.69535
+C3L.02984	GBM	34	Male	Asian	Not Hispanic or Latino	East_Asian				0	0	0	0	5.361438	0	0	0	0	0	6.4715605
+C3L.02542	GBM	58	Female	White	Hispanic or Latino	Ad_Mixed_American				0	0	0	0	60.3979	0	0	0	0	0	116.17809
+C3L.01142	GBM	42	Female	Unknown	Unknown	European	0	0		0	0	0	0	45.055683	0	0	0	0	0	17.009605
+C3L.01834	GBM	68	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	10.998259	0	0	0	0	0	14.642026
+C3N.02256	GBM	65	Male	Unknown	Unknown	European	0	0		0	0	0	0	31.530167	0	0	0	0	0	41.445236
+C3N.01814	GBM	48	Female	Unknown	Unknown	East_Asian				0	0	0	0	37.35135	0	0	0	0	0	58.31925
+C3N.02770	GBM	70	Male	Unknown	Unknown	East_Asian				0	0	0	0	38.512466	0	0	0	0	0	33.451393
+C3N.01364	GBM	34	Female	Unknown	Unknown	European				0	0	0	0	8.734686	0	0	0	0	0	18.888582
+C3L.00365	GBM	59	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	55.065308	0	0	0	0	0	36.5941
+C3L.03266	GBM	61	Female	White	Hispanic or Latino	Ad_Mixed_American				0	0	0	0	48.721203	0	0	0	0	0	28.145737
+C3N.01798	GBM	44	Male	Unknown	Unknown	East_Asian				0	0	0	0	31.858936	0	0	0	0	0	33.214424
+C3L.01146	GBM	59	Male	Unknown	Unknown	European	0	0		0	0	0	0	78.12301	0	0	0	0	0	21.358288
+C3L.03748	GBM	64	Female	White	Not Hispanic or Latino	European				0	0	0	0	53.051003	0	0	0	0	0	37.6277
+C3N.02783	GBM	24	Female	Unknown	Unknown	East_Asian				0	0	0	0	4.0877604	0	0	0	0	0	12.687677
+C3L.02708	GBM	43	Male	White	Not Hispanic or Latino	European				0	0	0	0	30.87816	0	0	0	0	0	34.198566
+C3N.02782	GBM	47	Female	Unknown	Unknown	East_Asian				0	0	0	0	48.142292	0	0	0	0	0	31.689472
+C3N.02186	GBM	53	Male	Unknown	Unknown	East_Asian				0	0	0	0	29.029448	0	0	0	0	0	48.892616
+C3N.01367	GBM	74	Male	Unknown	Unknown	European				0	0	0	0	27.459679	0	0	0	0	0	27.752611
+C3L.01048	GBM	60	Male	Unknown	Unknown	European				0	0	0	0	68.53707	0	0	0	0	0	51.717003
+C3L.01149	GBM	48	Male	Unknown	Unknown	European				0	0	0	0	34.222366	0	0	0	0	0	41.706657
+C3L.03260	GBM	75	Female	White	Not Hispanic or Latino	European				0	0	0	0	37.217583	0	0	0	0	0	19.936491
+C3N.01192	GBM	60	Female	Unknown	Unknown	European				0	0	0	0	51.146767	0	0	0	0	0	44.476543
+C3L.03407	GBM	57	Female	Unknown	Hispanic or Latino	Ad_Mixed_American				0	0	0	0	26.413103	0	0	0	0	0	39.666546
+C3L.03387	GBM	70	Male	Unknown	Unknown	European				0	0	0	0	62.00074	0	0	0	0	0	32.59775
+C3L.02970	GBM	58	Male	White	Not Hispanic or Latino	European				0	0	0	0	51.1125	0	0	0	0	0	52.411842
+C3L.01043	GBM	59	Male	Unknown	Unknown	European				0	0	0	0	30.392584	0	0	0	0	0	17.896357
+C3L.01156	GBM	57	Male	Unknown	Unknown	European	0	0		0	0	0	0	56.788826	0	0	0	0	0	27.951382
+C3N.02183	GBM	63	Female	Unknown	Unknown	East_Asian				0	0	0	0	23.949718	0	0	0	0	0	33.24984
+C3L.03681	GBM	62	Female	White	Not Hispanic or Latino	European				0	0	0	0	20.54163	0	0	0	0	0	29.756304
+C3L.01154	GBM	51	Female	Unknown	Unknown	European				0	0	0	0	40.42152	0	0	0	0	0	16.721575
+C3L.03728	GBM	80	Female	White	Not Hispanic or Latino	European				0	0	0	0	56.13199	0	0	0	0	0	27.622854
+C3N.01818	GBM	60	Male	Unknown	Unknown	East_Asian				0	0	0	0	25.225603	0	0	0	0	0	54.68471
+C3L.00674	GBM	45	Male	White	Not Hispanic or Latino	European				0	0	0	0	41.039185	0	0	0	0	0	19.064638
+C3N.03186	GBM	54	Female	Unknown	Unknown	East_Asian				0	0	0	0	43.653744	0	0	0	0	0	34.218185
+C3N.02181	GBM	53	Female	Unknown	Unknown	East_Asian				0	0	0	0	34.57723	0	0	0	0	0	41.35058
+C3N.02784	GBM	37	Male	Unknown	Unknown	East_Asian				0	0	0	2.3851376	307.06528	6.8934994	0.3427432	0	0	0	0
+C3N.01517	GBM	49	Male	Unknown	Unknown	East_Asian				0	0	0	0	27.913942	0	0	0	0	0	24.333952
+C3L.02707	GBM	58	Male	White	Not Hispanic or Latino	European	0	0		0	0	0	0	30.43435	0	0	0	0	0	21.804901
+C3L.02955	GBM	76	Female	White	Not Hispanic or Latino	European				0	0	0	0	19.462933	0	0	0	0	0	19.974941
+C3N.03182	GBM	47	Male	Unknown	Unknown	East_Asian				0	0	0	3.11E-43	181.7783	32.150707	7.2694116	0	0	0	0
+C3L.03392	GBM	50	Female	Unknown	Unknown	European				0	0	0	0	25.124388	0	0	0	0	0	12.318852
+C3L.03405	GBM	59	Male	Unknown	Unknown	European				0	0	0	0	37.617786	0	0	0	0	0	40.274837
+C3L.02465	GBM	50	Male	Unknown	Hispanic or Latino	Ad_Mixed_American				0	0	0	0	23.737873	0	0	0	0	0	32.474792
+C3N.03473	GBM	30	Female	Unknown	Unknown	East_Asian				0	0	0	0	18.810076	0	0	0	0	0	28.530952
+C3L.01049	GBM	46	Male	Unknown	Unknown	European	0	0		0	0	0	0	35.13904	0	0	0	0	0	26.960236
+C3N.02185	GBM	61	Female	Unknown	Unknown	East_Asian				0	0	0	0	19.40058	0	0	0	0	0	40.777405
+C3N.01851	GBM	47	Male	Unknown	Unknown	European				0	0	0	0	21.277935	0	0	0	0	0	26.05463
+C3N.01816	GBM	53	Female	Unknown	Unknown	East_Asian				0	0	0	0	4.836852	0	0	0	0	0	15.886479
+C3N.01369	GBM	57	Female	Unknown	Unknown	European				0	0	0	0	38.28341	0	0	0	0	0	33.68124
+C3L.02642	GBM	77	Male	Unknown	Unknown	European	0	0		0	0	0	0	39.676765	0	0	0	0	0	24.382189
+C3L.03390	GBM	44	Female	Unknown	Unknown	European				0	0	0	0	15.535724	0	0	0	0	0	34.77937
+C3N.03088	GBM	31	Female	Unknown	Unknown	East_Asian				0	0	0	0	6.9191875	0	0	0	0	0	13.797004
+C3L.01155	GBM	66	Male	Unknown	Unknown	European				0	0	0	0	51.834488	0	0	0	0	0	36.873158
+C3N.03070	GBM	65	Female	Unknown	Unknown	East_Asian				0	0	0	0	33.238583	0	0	0	0	0	67.38418
+C3L.01045	GBM	73	Female	Unknown	Unknown	European				0	0	0	0	48.06987	0	0	0	0	0	34.724987
+C3L.00677	GBM	69	Female	White	Not Hispanic or Latino	European				0	0	0	9.00E-44	1888.525	3.70E-41	0	0	0	0	0
+C3N.02255	GBM	88	Male	Unknown	Unknown	European				0	0	0	0	47.40157	0	0	0	0	0	22.55659
+C3L.01061	GBM	66	Male	Unknown	Unknown	European	0	0		0	0	0	0	49.80423	0	0	0	0	0	24.096157
+C3L.02041	GBM	51	Female	White	Not Hispanic or Latino	European				0	0	0	0	40.76197	0	0	0	0	0	34.15703
+C3L.01046	GBM	50	Male	Unknown	Unknown	European				0	0	0	0	42.129547	0	0	0	0	0	19.945763
+C3N.01518	GBM	72	Female	Unknown	Unknown	East_Asian				0	0	0	0	38.937695	0	0	0	0	0	41.91324
+C3N.00662	GBM	77	Female	Unknown	Unknown	European				0	0	0	0	57.238197	0	0	0	0	0	23.550005
+C3L.03400	GBM	38	Female	Unknown	Unknown	European				0	0	0	0	9.05806	0	0	0	0	0	33.378323
+C3N.01815	GBM	71	Female	Unknown	Unknown	East_Asian				0	0	0	0	24.596663	0	0	0	0	0	31.613062
+C3N.01856	GBM	66	Male	Unknown	Unknown	European	0	0		0	0	0	0	52.992783	0	0	0	0	0	34.723278
+C3L.02704	GBM	54	Male	White	Not Hispanic or Latino	European				0	0	0	0	22.055637	0	0	0	0	0	16.385738
+C3L.01887	GBM	48	Male	White	Not Hispanic or Latino	European	0	0		0	0	0	0	35.846687	0	0	0	0	0	25.262552
+C3N.01857	GBM	69	Female	Unknown	Unknown	European				0	0	0	0	62.573666	0	0	0	0	0	17.208637
+C3N.01196	GBM	67	Male	Unknown	Unknown	European				0	0	0	0	42.623936	0	0	0	0	0	22.41253
+C3N.01366	GBM	63	Male	Unknown	Unknown	European				0	0	0	0	52.63826	0	0	0	0	0	33.103786
+C3N.00661	GBM	49	Male	Unknown	Unknown	European				0	0	0	0	36.457726	0	0	0	0	0	28.599876
+C3L.03744	GBM	75	Male	White	Not Hispanic or Latino	European				0	0	0	0	24.018122	0	0	0	0	0	31.20597
+C3L.03968	GBM	60	Female	Unknown	Unknown	European	0	0		0	0	0	0	26.899366	0	0	0	0	0	84.60887
+C3L.02504	GBM	71	Male	White	Not Hispanic or Latino	European				0	0	0	0	29.770306	0	0	0	0	0	59.012974
+C3N.02788	GBM	64	Male	Unknown	Unknown	East_Asian				0	0	0	0	48.10184	0	0	0	0	0	45.556675
+C3L.04084	GBM	63	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	51.627434	0	0	0	0	0	19.303854
+C3L.01157	GBM	66	Female	Unknown	Unknown	European				0	0	0	0	30.416658	0	0	0	0	0	31.698809
+C3L.02705	GBM	60	Male	White	Not Hispanic or Latino	European	0	0		0	0	0	0	37.51874	0	0	0	0	0	30.498074
+C3N.01334	GBM	64	Female	Unknown	Unknown	European	0	0		0	0	0	0	64.55281	0	0	0	0	0	17.197939
+C3N.03180	GBM	53	Male	Unknown	Unknown	East_Asian				0	0	0	0	24.624294	0	0	0	0	0	20.721575
+C3N.01852	GBM	59	Male	Unknown	Unknown	European				0	0	0	0	39.983112	0	0	0	0	0	31.975706
+C3L.03727	GBM	71	Female	White	Not Hispanic or Latino	European				0	0	0	0	60.50377	0	0	0	0	0	45.951225
+C3N.01368	GBM	65	Male	Unknown	Unknown	European				0	0	0	0	34.06356	0	0	0	0	0	33.965096
+C3N.00665	GBM	65	Female	Unknown	Unknown	European				0	0	0	0	58.3375	0	0	0	0	0	21.459332
+C3N.03184	GBM	35	Male	Unknown	Unknown	East_Asian				0	0	0	0	35.402153	0	0	0	0	0	9.906773
+C3L.02900	GBM	52	Male	White	Not Hispanic or Latino	European				0	0	0	0	15.031495	0	0	0	0	0	60.96329
+C3N.00663	GBM	39	Male	Unknown	Unknown	European				0	0	0	0	14.044197	0	0	0	0	0	22.449408
+C3L.01327	GBM	74	Male	White	Not Hispanic or Latino	European	0	0		0	0	0	0	57.346436	0	0	0	0	0	56.03269
+C3N.02786	GBM	39	Female	Unknown	Unknown	East_Asian				0	0	0	0	12.044965	0	0	0	0	0	25.443104
+C3L.01040	GBM	77	Male	Unknown	Unknown	European	0	0		0	0	0	0	50.767265	0	0	0	0	0	60.65918
+C3N.02188	GBM	59	Male	Unknown	Unknown	East_Asian				0	0	0	0	49.44107	0	0	0	0	0	18.534876
+C3N.01515	GBM	73	Female	White	Not Hispanic or Latino	European				0	0	0	0	45.44239	0	0	0	0	0	56.126163
+C3L.00104	GBM	58	Male	White	Not Hispanic or Latino	European				0	0	0	0	62.4725	0	0	0	0	0	31.13675
+C3N.02769	GBM	53	Male	Unknown	Unknown	East_Asian				0	0	0	0	30.782738	0	0	0	0	0	22.442934
+C3N.02785	GBM	69	Male	Unknown	Unknown	East_Asian				0	0	0	0	38.13835	0	0	0	0	0	29.876339
+C3N.02190	GBM	53	Male	Unknown	Unknown	East_Asian				0	0	0	0	23.034359	0	0	0	0	0	25.279802
+C3L.00081	LSCC	61	Female	White	Not Hispanic or Latino	European				0	0	0	23.630293	108.45293	0	0	210.91948	36.400265	0	0
+C3L.00415	LSCC	64	Female	White	Not Hispanic or Latino	European				0	0	0	11.528024	66.74584	0	0	107.11733	7.697944	0	0
+C3L.00445	LSCC	74	Male	Unknown	Unknown	European				0	0	0	24.950567	98.040306	0	0	94.7364	40.16607	0	0
+C3L.00568	LSCC	74	Female	White	Hispanic or Latino	Ad_Mixed_American				0	0	0	60.65597	98.14691	0	0	174.00175	2.40E-42	0	0
+C3L.00603	LSCC	72	Male	White	Not Hispanic or Latino	European				0	0	0	14.086413	39.25757	0	0	186.98474	1.04E-43	0	0
+C3L.00904	LSCC	71	Male	White	Not Hispanic or Latino	European				0	0	0	21.55964	111.819695	0	0	270.56287	3.20E-20	0	0
+C3L.00923	LSCC	71	Female	White	Not Hispanic or Latino	European				0	0	0	16.602333	62.34634	0	0	146.60393	6.351706	0	0
+C3L.00927	LSCC	74	Male	White	Not Hispanic or Latino	European				0	0	0	13.270921	106.43702	0	0	157.10478	0.88727117	0	0
+C3L.00965	LSCC	63	Male	Unknown	Unknown	European				0	0	0	20.458096	151.75546	0	0	244.43639	5.21E-43	0	0
+C3L.00993	LSCC	75	Male	Unknown	Unknown	European				0	0	0	48.28033	190.72299	0	0	123.27012	1.04E-42	0	0
+C3L.01000	LSCC	59	Male	Unknown	Unknown	European				0	0	0	18.257948	99.32047	0	0	407.8434	8.594562	0	0
+C3L.01285	LSCC	54	Male	White	Not Hispanic or Latino	European				0	0	0	20.071815	109.79834	0	0	208.4402	9.37E-43	0	0
+C3L.01455	LSCC	88	Male	White	Not Hispanic or Latino	European				0	0	0	56.62114	98.108406	0	0	70.681206	1.04E-43	0	0
+C3L.01606	LSCC	66	Male	White	Not Hispanic or Latino	European				0	0	0	93.533615	106.13673	0	0	196.27449	1.67E-31	0	0
+C3L.01663	LSCC	73	Female	White	Not Hispanic or Latino	European				0	0	0	94.27458	105.07444	0	0	272.0045	6.857156	0	0
+C3L.01838	LSCC	70	Male	White	Not Hispanic or Latino	European				0	0	0	1.2703313	60.669914	0	0	78.95392	3.12E-43	0	0
+C3L.01884	LSCC	74	Male	White	Not Hispanic or Latino	European				0	0	0	25.039522	146.73604	0	0	249.81174	3.12E-43	0	0
+C3L.02127	LSCC	66	Male	Unknown	Unknown	European				0	0	0	10.7462635	162.3342	0	0	71.01833	4.291396	0	0
+C3L.02130	LSCC	70	Male	Unknown	Unknown	European				0	0	0	17.408669	117.821175	0	0	285.65155	1.36E-42	0	0
+C3L.02163	LSCC	57	Male	Unknown	Unknown	European				0	0	0	12.249743	102.50001	0	0	177.60992	1.2807287	0	0
+C3L.02164	LSCC	58	Male	Unknown	Unknown	European				0	0	0	0	0	0	0	2.9848313	0	0	0
+C3L.02168	LSCC	66	Male	Unknown	Unknown	European	0	0		0	0	0	51.790096	65.124565	0	0	355.63165	15.118535	0	0
+C3L.02170	LSCC	73	Male	Unknown	Unknown	European	0	0		0	0	0	3.810137	14.504404	0	0	80.507744	2.4083874	0	0
+C3L.02349	LSCC	81	Female	White	Not Hispanic or Latino	European				0	0	0	67.37846	101.0775	0	0	360.23508	4.16E-43	0	0
+C3L.02358	LSCC	75	Female	White	Not Hispanic or Latino	European				0	0	0	13.167313	107.09591	0	0	163.5268	0.8727658	0	0
+C3L.02546	LSCC	74	Male	White	Not Hispanic or Latino	European				0	0	0	43.153564	94.83884	0	0	160.26888	5.21E-43	0	0
+C3L.02552	LSCC	68	Male	White	Not Hispanic or Latino	European				0	0	0	3.723163	17.318895	0	0	65.3575	1.67E-31	0	0
+C3L.02619	LSCC	70	Male	Unknown	Unknown	European				0	0	0	53.248463	162.25237	0	0	126.97318	2.10E-31	0	0
+C3L.02625	LSCC	66	Male	Unknown	Unknown	European	0	0		0	0	0	130.00864	108.267235	0	0	226.76122	1.25E-42	0	0
+C3L.02627	LSCC	64	Female	Unknown	Unknown	European				0	0	0	21.499939	29.504988	0	0	605.77167	2.2702343	0	0
+C3L.02629	LSCC	57	Male	Unknown	Unknown	European				0	0	0	42.944126	13.566876	0	0	32.198055	5.8229456	0	0
+C3L.02646	LSCC	74	Male	Unknown	Unknown	European	0	0		0	0	0	48.68332	66.15671	0	0	263.55548	7.188317	0	0
+C3L.02648	LSCC	72	Male	Unknown	Unknown	European	0	0		0	0	0	17.129255	56.382927	0	0	291.03522	2.37E-30	0	0
+C3L.02649	LSCC	62	Male	Unknown	Unknown	European				0	0	0	167.4208	98.7418	0	0	129.05698	9.20772	0	0
+C3L.02650	LSCC	53	Male	Unknown	Unknown	European				0	0	0	4.513079	17.35366	0	0	249.5804	2.87E-29	0	0
+C3L.02660	LSCC	72	Male	Unknown	Unknown	European	0	0		0	0	0	10.70431	95.23239	0	0	275.08173	17.423498	0	0
+C3L.02665	LSCC	51	Male	Unknown	Unknown	European	0	0		0	0	0	91.551674	50.013115	0	0	556.21875	5.82E-37	0	0
+C3L.02669	LSCC	73	Male	Unknown	Unknown	European				0	0	0	51.181385	119.87489	0	0	520.93134	2.09E-43	0	0
+C3L.02891	LSCC	66	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	25.371893	57.700603	0	0	46.29901	2.1324058	0	0
+C3L.02951	LSCC	61	Male	White	Not Hispanic or Latino	European				0	0	0	15.767994	65.06184	0	0	423.97208	8.34E-43	0	0
+C3L.02963	LSCC	71	Male	White	Not Hispanic or Latino	European				0	0	0	37.570843	52.383728	0	0	88.65956	4.376827	0	0
+C3L.02964	LSCC	58	Male	White	Not Hispanic or Latino	European				0	0	0	10.033457	61.2946	0	0	186.51823	1.2556292	0	0
+C3L.02968	LSCC	64	Male	White	Not Hispanic or Latino	European				0	0	0	18.518106	38.80521	0	0	234.67958	6.55E-19	0	0
+C3L.02969	LSCC	76	Male	White	Not Hispanic or Latino	European				0	0	0	13.791262	88.76499	0	0	225.26788	4.532704	0	0
+C3L.03272	LSCC	67	Male	White	Not Hispanic or Latino	European				0	0	0	14.400374	123.02777	0	0	202.0931	2.6526089	0	0
+C3L.03678	LSCC	49	Male	White	Not Hispanic or Latino	European				0	0	0	84.42938	53.09249	0	0	394.193	1.88E-42	0	0
+C3L.03961	LSCC	48	Female	Unknown	Unknown	European	0	0		0	0	0	9.95E-43	18.993498	0	0	143.06682	2.09E-43	0	0
+C3L.03962	LSCC	65	Male	Unknown	Unknown	European				0	0	0	74.22324	143.32063	0	0	125.729095	2.09E-43	0	0
+C3L.03963	LSCC	73	Male	Unknown	Unknown	European				0	0	0	13.1616535	119.18321	0	0	124.88253	8.129954	0	0
+C3L.03965	LSCC	54	Male	Unknown	Unknown	European				0	0	0	49.189026	197.9504	0	0	298.9489	12.558866	0	0
+C3L.04013	LSCC	61	Male	Unknown	Unknown	European	0	0		0	0	0	27.005896	85.15875	0	0	91.87528	7.29E-43	0	0
+C3L.04014	LSCC	57	Male	Unknown	Unknown	European				0	0	0	36.499664	139.61264	0	0	195.60117	5.21E-43	0	0
+C3L.04071	LSCC	69	Male	White	Not Hispanic or Latino	European				0	0	0	21.704613	71.56295	0	0	72.13089	2.19E-42	0	0
+C3L.04391	LSCC	70	Male	White	Not Hispanic or Latino	European				0	0	0	19.465633	109.09501	0	0	113.18454	7.6812377	0	0
+C3N.00211	LSCC	40	Male	Unknown	Unknown	European				0	0	0	5.2401195	48.11648	0	0	6.59E-43	1.15E-33	0	0
+C3N.00221	LSCC	78	Male	Unknown	Not Hispanic or Latino	African				0	0	0	1.1018288	118.424034	0	0	258.903	9.431156	0	0
+C3N.00247	LSCC	77	Female	White	Not Hispanic or Latino	European				0	0	0	15.996573	29.355066	0	0	1.65E-42	1.04E-43	0	0
+C3N.00497	LSCC	64	Female	Unknown	Unknown	European				0	0	0	40.408768	148.17256	0	0	200.35373	2.4562628	0	0
+C3N.00555	LSCC	59	Male	Unknown	Unknown	East_Asian				0	0	0	6.07825	97.70139	0	0	214.91296	2.09E-43	0	0
+C3N.01017	LSCC	56	Male	Unknown	Unknown	East_Asian	0	0		0	0	0	7.1601043	124.76592	0	0	164.35933	6.034681	0	0
+C3N.01020	LSCC	65	Male	Unknown	Unknown	East_Asian	0	0		0	0	0	8.28E-43	115.76466	0	0	116.348045	5.17E-37	0	0
+C3N.01025	LSCC	52	Male	Unknown	Unknown	East_Asian				0	0	0	6.6503015	148.0534	0	0	166.65898	1.77E-42	0	0
+C3N.01028	LSCC	72	Male	Unknown	Unknown	East_Asian	0	0		0	0	0	98.37063	141.89146	0	0	587.1992	4.16E-43	0	0
+C3N.01194	LSCC	69	Male	Unknown	Unknown	European				0	0	0	3.4198341	123.8903	0	0	258.91873	3.12E-43	0	0
+C3N.01411	LSCC	64	Male	Unknown	Unknown	East_Asian	0	0		0	0	0	29.337057	180.97575	0	0	294.57776	3.20E-22	0	0
+C3N.01846	LSCC	70	Male	Unknown	Unknown	European				0	0	0	23.243486	88.54514	0	0	66.79244	1.5455608	0	0
+C3N.01892	LSCC	77	Male	Unknown	Unknown	European				0	0	0	177.41574	97.71094	0	0	98.184166	10.04295	0	0
+C3N.01893	LSCC	70	Male	Unknown	Unknown	European				0	0	0	241.67775	83.51225	0	0	339.3202	6.25E-43	0	0
+C3N.02252	LSCC	68	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	6.26E-31	66.62854	0	0	166.77798	9.37E-38	0	0
+C3N.02283	LSCC	67	Male	Unknown	Unknown	European				0	0	0	388.15472	40.492973	0	0	421.00125	6.25E-43	0	0
+C3N.02284	LSCC	69	Male	Unknown	Unknown	European				0	0	0	39.866734	165.57538	0	0	471.51126	7.29E-43	0	0
+C3N.02285	LSCC	72	Female	Unknown	Unknown	European				0	0	0	106.05962	57.40901	0	0	250.36136	1.0805044	0	0
+C3N.02288	LSCC	58	Female	Unknown	Unknown	European				0	0	0	19.015814	68.02629	0	0	181.17467	0.6862427	0	0
+C3N.02289	LSCC	73	Male	Unknown	Unknown	European				0	0	0	17.059013	100.868904	0	0	188.24712	6.0904827	0	0
+C3N.02300	LSCC	69	Female	Unknown	Unknown	European				0	0	0	180.04324	78.2677	414.05167	117.7586	0	0	0	0
+C3N.02339	LSCC	78	Male	Unknown	Unknown	European				0	0	0	8.16913	50.829163	0	0	38.456932	6.2988462	0	0
+C3N.02374	LSCC	67	Male	Unknown	Unknown	East_Asian				0	0	0	49.628418	110.78605	0	0	141.29152	6.9906373	0	0
+C3N.02375	LSCC	59	Male	Unknown	Unknown	East_Asian				0	0	0	6.865231	128.08183	0	0	136.92862	5.575696	0	0
+C3N.02425	LSCC	61	Male	Unknown	Unknown	East_Asian				0	0	0	11.97768	100.32049	0	0	164.50333	8.81E-31	0	0
+C3N.02426	LSCC	69	Female	Unknown	Unknown	East_Asian				0	0	0	7.7221513	50.873173	0	0	1.32E-42	2.5519016	0	0
+C3N.02434	LSCC	74	Male	White	Not Hispanic or Latino	European				0	0	0	16.058292	79.2702	0	0	145.72258	4.16E-43	0	0
+C3N.02435	LSCC	64	Female	White	Not Hispanic or Latino	European				0	0	0	49.756813	95.13955	0	0	195.05275	1.04E-42	0	0
+C3N.02494	LSCC	66	Female	Black or African American	Not Hispanic or Latino	African				0	0	0	15.38916	77.99439	0	0	202.86154	19.55543	0	0
+C3N.02523	LSCC	61	Male	White	Not Hispanic or Latino	European	0	0		0	0	0	24.96119	83.51118	0	0	247.83427	1.12E-29	0	0
+C3N.02575	LSCC	69	Male	Unknown	Unknown	East_Asian				0	0	0	12.273494	119.384605	0	0	236.55792	2.09E-43	0	0
+C3N.02675	LSCC	69	Male	Unknown	Unknown	European				0	0	0	54.959606	133.88297	0	0	109.78265	9.728147	0	0
+C3N.03051	LSCC	65	Male	Unknown	Unknown	East_Asian				0	0	0	44.045418	145.93318	0	0	227.20184	8.710881	0	0
+C3N.03072	LSCC	62	Male	Unknown	Unknown	East_Asian				0	0	0	48.941418	151.81633	0	0	91.10146	1.98E-42	0	0
+C3N.03076	LSCC	68	Male	Unknown	Unknown	East_Asian				0	0	0	22.967278	104.267944	0	0	78.73829	1.57E-10	0	0
+C3N.03092	LSCC	61	Male	Unknown	Unknown	European	0	0		0	0	0	27.655941	64.57548	0	0	57.726017	8.066065	0	0
+C3N.03093	LSCC	70	Female	Unknown	Unknown	European	0	0		0	0	0	3.7899644	33.60251	0	0	18.47662	0.55694604	0	0
+C3N.03204	LSCC	62	Male	Unknown	Unknown	East_Asian				0	0	0	138.16202	77.78444	0	0	187.4686	2.28E-41	0	0
+C3N.03424	LSCC	74	Male	Unknown	Unknown	European				0	0	0	35.342197	118.80479	0	0	100.60965	3.5178983	0	0
+C3N.03425	LSCC	64	Female	Unknown	Unknown	European				0	0	0	437.6189	37.49791	0	0	81.30333	3.44E-42	0	0
+C3N.03441	LSCC	67	Male	Unknown	Unknown	European				0	0	0	15.444851	189.34515	0	0	119.17588	5.44E-09	0	0
+C3N.03486	LSCC	65	Male	Unknown	Unknown	European				0	0	0	95.57747	160.54065	0	0	311.5907	5.21E-43	0	0
+C3N.03662	LSCC	64	Male	Unknown	Unknown	European				0	0	0	37.044815	85.92673	0	0	164.49013	1.56E-42	0	0
+C3N.03848	LSCC	56	Female	Unknown	Unknown	East_Asian				0	0	0	6.668118	3.883908	0	0	2.2597313	5.21E-43	0	0
+C3N.03851	LSCC	44	Male	Unknown	Unknown	East_Asian				0	0	0	6.2769237	115.37331	0	0	526.25836	1.88E-28	0	0
+C3N.03875	LSCC	68	Male	Unknown	Unknown	East_Asian				0	0	0	55.47621	65.376335	0	0	576.3776	1.25E-42	0	0
+C3N.03877	LSCC	53	Male	Unknown	Unknown	East_Asian				0	0	0	21.254232	49.94819	0	0	83.38982	2.09E-43	0	0
+C3N.03880	LSCC	76	Male	Unknown	Unknown	East_Asian				0	0	0	7.9464965	91.68928	0	0	176.28304	2.09E-43	0	0
+C3N.03882	LSCC	68	Male	Unknown	Unknown	East_Asian				0	0	0	49.218964	129.95172	0	0	121.771935	2.09E-43	0	0
+C3N.03886	LSCC	60	Male	Unknown	Unknown	European				0	0	0	16.651897	148.97466	0	0	148.6176	1.15E-42	0	0
+C3N.04124	LSCC	62	Male	Unknown	Unknown	East_Asian				0	0	0	31.899355	97.66183	0	0	186.75874	9.32E-06	0	0
+C3N.04127	LSCC	63	Male	Unknown	Unknown	East_Asian				0	0	0	7.5066013	44.36129	0	0	34.311085	2.09E-43	0	0
+C3N.04155	LSCC	76	Male	Unknown	Unknown	European				0	0	0	87.387405	122.61717	0	0	179.8718	5.7973003	0	0
+C3N.04162	LSCC	46	Male	Unknown	Unknown	European				0	0	0	55.74296	137.30196	0	0	133.62473	1.19E-23	0	0
+X11LU013	LUAD	59	Male	Unknown	Unknown	East_Asian	0	0		0	0	0	0.021831043	85.465485	0	0	11.497024	1.04E-43	0	0
+X11LU016	LUAD	62	Male	Unknown	Unknown	East_Asian	0	0		0	0	0	4.3158507	38.118507	0	0	693.52814	3.12E-43	0	0
+X11LU022	LUAD	53	Male	Unknown	Unknown	East_Asian				0	0	0	2.43048	13.72259	0	0	1241.3362	7.39E-18	0	0
+X11LU035	LUAD	59	Male	Unknown	Unknown	East_Asian				0	0	0	10.532161	47.3285	0	0	61.08854	3.21E-30	0	0
+C3L.00001	LUAD	61	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	15.011412	54.268936	0	0	12.400184	4.139751	0	0
+C3L.00009	LUAD	76	Male	White	Not Hispanic or Latino	European				0	0	0	21.063534	98.692444	0	0	273.329	1.46E-42	0	0
+C3L.00080	LUAD	58	Male	White	Not Hispanic or Latino	European				0	0	0	14.735139	142.49266	0	0	789.27985	3.41883	0	0
+C3L.00093	LUAD	66	Female	White	Not Hispanic or Latino	European				0	0	0	130.61525	30.736097	0	0	8.649941	2.09E-43	0	0
+C3L.00094	LUAD	69	Male	White	Not Hispanic or Latino	European				0	0	0	1.16E-42	33.904037	0	0	258.11322	7.892779	0	0
+C3L.00095	LUAD	62	Male	White	Not Hispanic or Latino	European				0	0	0	64.60375	1.99E-42	0	0	957.1743	10.534632	0	0
+C3L.00140	LUAD	70	Male	White	Not Hispanic or Latino	European	0	0		0	0	0	5.9010735	20.933147	0	0	33.642513	1.77E-42	0	0
+C3L.00144	LUAD	58	Male	White	Not Hispanic or Latino	European				0	0	0	19.233301	8.87E-43	0	0	2051.9536	2.09E-43	0	0
+C3L.00263	LUAD	79	Male	White	Not Hispanic or Latino	European				0	0	0	0	3.3513162	0	0	2.35163	1.1875952	0	0
+C3L.00279	LUAD	72	Female	White	Unknown	European				0	0	0	9.95E-43	9.76E-19	0	0	842.67267	14.321555	0	0
+C3L.00368	LUAD	67	Female	White	Not Hispanic or Latino	European				0	0	0	3.3298368	24.167034	0	0	114.98044	0.57238	0	0
+C3L.00412	LUAD	64	Male	American Indian or Alaska Native	Not Hispanic or Latino	European				0	0	0	1.5208293	28.175781	0	0	128.30551	3.48E-18	0	0
+C3L.00422	LUAD	35	Female	Unknown	Hispanic or Latino	Ad_Mixed_American	0	0		0	0	0	1.4128801	12.183147	0	0	2.9183154	1.2433889	0	0
+C3L.00510	LUAD	80	Female	Unknown	Unknown	Ad_Mixed_American	0	0		0	0	0	18.281967	41.149387	0	0	4.71859	3.12E-43	0	0
+C3L.00604	LUAD	61	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	5.3953743	46.353466	0	0	10.57068	5.21E-43	0	0
+C3L.00893	LUAD	71	Male	Unknown	Hispanic or Latino	Ad_Mixed_American				0	0	0	8.28E-43	28.491335	0	0	77.849915	9.466004	0	0
+C3L.00913	LUAD	66	Male	White	Not Hispanic or Latino	European				0	0	0	46.967373	38.37572	0	0	224.33122	9.345226	0	0
+C3L.00973	LUAD	76	Male	Unknown	Unknown	European				0	0	0	2.4181683	27.962753	0	0	6.226067	1.56E-42	0	0
+C3L.01330	LUAD	68	Female	White	Not Hispanic or Latino	European				0	0	0	2.9866104	55.352352	0	0	2.3663816	6.285733	0	0
+C3L.01632	LUAD	60	Female	White	Not Hispanic or Latino	European				0	0	0	21.817812	17.780186	0	0	202.73659	1.25E-42	0	0
+C3L.01682	LUAD	78	Female	White	Not Hispanic or Latino	European				0	0	0	5.257863	35.42109	0	0	96.32987	7.31E-30	0	0
+C3L.01683	LUAD	77	Male	White	Not Hispanic or Latino	European				0	0	0	0.7021875	0	0	0	20.18122	3.12E-43	0	0
+C3L.01862	LUAD	81	Male	White	Not Hispanic or Latino	European				0	0	0	4.852486	46.856773	0	0	139.95795	1.15E-42	0	0
+C3L.01889	LUAD	71	Female	White	Not Hispanic or Latino	European				0	0	0	8.743007	48.627827	0	0	193.0351	5.6105366	0	0
+C3L.01924	LUAD	68	Female	White	Not Hispanic or Latino	European				0	0	0	20.149672	86.039764	0	0	699.8878	9.37E-43	0	0
+C3L.02219	LUAD	77	Male	White	Not Hispanic or Latino	European				0	0	0	15.73219	74.53713	0	0	49.297176	0.0324625	0	0
+C3L.02345	LUAD	61	Female	White	Not Hispanic or Latino	European				0	0	0	0.46738362	56.537872	0	0	289.5062	4.164602	0	0
+C3L.02348	LUAD	58	Female	White	Not Hispanic or Latino	European				0	0	0	7.3607693	24.343328	0	0	44.90714	3.5610268	0	0
+C3L.02350	LUAD	69	Male	White	Not Hispanic or Latino	European				0	0	0	4.97E-43	47.123093	0	0	9.938289	2.247062	0	0
+C3L.02365	LUAD	62	Female	White	Not Hispanic or Latino	European				0	0	0	31.952702	94.31673	0	0	344.2864	3.12E-43	0	0
+C3L.02508	LUAD	65	Male	White	Hispanic or Latino	Ad_Mixed_American				0	0	0	0.52970475	6.3938236	0	0	3.809086	0.15788646	0	0
+C3L.02549	LUAD	69	Male	White	Not Hispanic or Latino	European				0	0	0	9.95E-43	30.22411	0	0	2.4252083	1.04E-43	0	0
+C3N.00167	LUAD	64	Male	Unknown	Unknown	East_Asian				0	0	0	11.826311	29.55073	0	0	8.381644	1.5530673	0	0
+C3N.00169	LUAD	57	Male	Unknown	Unknown	East_Asian				0	0	0	46.09158	41.39228	0	0	159.82344	3.3277693	0	0
+C3N.00175	LUAD	72	Male	Unknown	Unknown	East_Asian				0	0	0	107.042274	76.53333	0	0	1441.1045	9.06E-30	0	0
+C3N.00180	LUAD	56	Male	Unknown	Unknown	East_Asian				0	0	0	1.4967242	31.143555	0	0	122.35932	4.16E-43	0	0
+C3N.00199	LUAD	65	Male	White	Not Hispanic or Latino	European				0	0	0	1.16E-42	56.57074	0	0	266.0393	16.567741	0	0
+C3N.00203	LUAD	72	Male	Unknown	Unknown	European				0	0	0	23.649462	57.957752	0	0	497.54498	8.755537	0	0
+C3N.00217	LUAD	59	Female	Unknown	Unknown	European				0	0	0	7.70711	47.70832	0	0	771.9493	13.34991	0	0
+C3N.00223	LUAD	69	Female	Asian	Not Hispanic or Latino	East_Asian				0	0	0	2.848902	32.224712	0	0	7.470729	1.25E-42	0	0
+C3N.00293	LUAD	73	Male	Unknown	Unknown	European				0	0	0	122.86326	73.67144	0	0	210.11699	1.67E-42	0	0
+C3N.00294	LUAD	57	Male	Unknown	Unknown	European				0	0	0	1429.8594	1.33E-42	0	0	138.68817	8.727574	0	0
+C3N.00433	LUAD	57	Male	Unknown	Unknown	European				0	0	0	59.433937	17.45688	0	0	145.61009	2.26154	0	0
+C3N.00546	LUAD	58	Male	Unknown	Unknown	East_Asian				0	0	0	13.11359	88.88455	0	0	85.95853	1.2844735	0	0
+C3N.00547	LUAD	60	Male	Unknown	Unknown	East_Asian				0	0	0	5.815212	69.997856	0	0	778.3316	5.21E-43	0	0
+C3N.00549	LUAD	58	Male	Unknown	Unknown	East_Asian				0	0	0	3.32E-43	26.691317	0	0	498.47656	2.09E-43	0	0
+C3N.00550	LUAD	52	Female	Unknown	Unknown	East_Asian	0	0		0	0	0	0.9637508	43.028976	0	0	13.438015	2.09E-43	0	0
+C3N.00551	LUAD	54	Male	Unknown	Unknown	East_Asian				0	0	0	0.8780114	81.96375	0	0	694.69257	1.77E-42	0	0
+C3N.00552	LUAD	49	Female	Unknown	Unknown	East_Asian				0	0	0	4.0252037	49.67432	0	0	5.329206	3.148577	0	0
+C3N.00556	LUAD	69	Male	Unknown	Unknown	East_Asian				39.89308	49.38476	24.736645	571.0305	0	0	0	0	0	0	0
+C3N.00559	LUAD	55	Female	Unknown	Unknown	East_Asian				0	0	0	4.4017634	64.86241	0	0	2.7230618	0.17593242	0	0
+C3N.00560	LUAD	55	Male	Unknown	Unknown	East_Asian				0	0	0	2.98E-42	6.64E-43	0	0	1604.8438	2.09E-43	0	0
+C3N.00572	LUAD	48	Female	Unknown	Unknown	East_Asian				0	0	0	1.2727169	31.906956	0	0	3.1487765	0.25979063	0	0
+C3N.00574	LUAD	40	Male	Unknown	Unknown	East_Asian				0	0	0	8.620178	65.47454	0	0	4.91E-37	8.34E-43	0	0
+C3N.00578	LUAD	48	Male	Unknown	Unknown	East_Asian				0	0	0	0	25.023937	0	0	10.920318	4.493142	0	0
+C3N.00579	LUAD	67	Male	Unknown	Unknown	East_Asian				0	0	0	25.882582	63.13774	0	0	14.680915	4.16E-43	0	0
+C3N.00580	LUAD	56	Male	Unknown	Unknown	East_Asian				0	0	0	8.28E-43	72.06645	0	0	1156.2509	6.25E-43	0	0
+C3N.00704	LUAD	68	Female	White	Not Hispanic or Latino	European				0	0	0	19.450527	29.880434	0	0	708.346	2.58E-23	0	0
+C3N.00737	LUAD	71	Male	White	Not Hispanic or Latino	European	0	0		0	0	0	111.36755	52.32892	0	0	91.02916	2.15E-31	0	0
+C3N.00738	LUAD	70	Female	Black or African American	Not Hispanic or Latino	African				0	0	0	10.141027	43.542263	0	0	197.62224	8.34E-43	0	0
+C3N.00959	LUAD	66	Male	White	Not Hispanic or Latino	European				0	0	0	1.65E-43	40.753643	0	0	3.7709537	4.16E-43	0	0
+C3N.01016	LUAD	56	Male	Unknown	Unknown	East_Asian				0	0	0	1.2843868	41.83741	0	0	425.75885	5.1990466	0	0
+C3N.01021	LUAD	44	Female	Unknown	Unknown	East_Asian				0	0	0	0.58264977	31.42463	0	0	9.276136	8.858522	0	0
+C3N.01023	LUAD	58	Male	Unknown	Unknown	East_Asian				0	0	0	2.739304	52.62891	0	0	187.03735	1.04E-43	0	0
+C3N.01024	LUAD	66	Female	Unknown	Unknown	East_Asian				0	0	0	5.5895987	86.88643	0	0	5.41205	7.29E-32	0	0
+C3N.01030	LUAD	56	Male	Unknown	Unknown	East_Asian				0	0	0	101.88315	3.32E-42	0	0	871.65076	1.42E-29	0	0
+C3N.01071	LUAD	48	Male	Unknown	Unknown	East_Asian				0	0	0	23.38467	124.1917	0	0	313.13315	8.416297	0	0
+C3N.01072	LUAD	62	Male	Unknown	Unknown	East_Asian				0	0	0	6.6964784	85.95338	0	0	3.2376134	2.00E-32	0	0
+C3N.01074	LUAD	56	Male	Unknown	Unknown	East_Asian				0	0	0	2.65E-42	17.448473	0	0	570.5303	0.8819063	0	0
+C3N.01405	LUAD	59	Male	Unknown	Unknown	East_Asian				0	0	0	61.588104	41.733604	0	0	455.12317	2.4216578	0	0
+C3N.01410	LUAD	64	Male	Unknown	Unknown	East_Asian				0	0	0	2.49E-42	43.347973	0	0	284.71976	3.61E-05	0	0
+C3N.01413	LUAD	62	Female	Unknown	Unknown	East_Asian				0	0	0	0	51.680378	0	0	10.686763	2.09E-43	0	0
+C3N.01414	LUAD	59	Male	Unknown	Unknown	East_Asian				0	0	0	6.63E-43	68.04045	0	0	631.9862	1.04E-43	0	0
+C3N.01415	LUAD	72	Male	Unknown	Unknown	East_Asian				0	0	0	30.880087	78.80928	0	0	576.92554	2.8117821	0	0
+C3N.01416	LUAD	67	Female	Unknown	Unknown	East_Asian				0	0	0	43.584137	59.05728	0	0	7.7867312	3.49E-38	0	0
+C3N.01488	LUAD	54	Male	Unknown	Unknown	East_Asian				0	0	0	3.32E-43	74.91434	0	0	636.6916	4.1119246	0	0
+C3N.01489	LUAD	65	Male	Unknown	Unknown	East_Asian				0	0	0	29.387573	2.10E-25	0	0	884.3444	11.600142	0	0
+C3N.01799	LUAD	81	Male	White	Not Hispanic or Latino	European				0	0	0	29.340502	27.981314	0	0	4.6079087	2.043923	0	0
+C3N.01823	LUAD	63	Male	Unknown	Unknown	European				0	0	0	34.528248	68.70516	0	0	534.59045	7.55E-36	0	0
+C3N.01842	LUAD	69	Male	Unknown	Unknown	European				0	0	0	19.381748	31.423891	0	0	487.00027	0.9329079	0	0
+C3N.02000	LUAD	46	Female	Unknown	Unknown	East_Asian				0	0	0	0.3799848	28.608702	0	0	7.6445923	1.50E-29	0	0
+C3N.02002	LUAD	76	Male	Unknown	Unknown	East_Asian				0	0	0	7.247349	54.169426	0	0	7.9442754	2.7103856	0	0
+C3N.02003	LUAD	56	Male	Unknown	Unknown	East_Asian				0	0	0	153.73737	241.64009	0	0	2.830222	1.04E-43	0	0
+C3N.02067	LUAD	37	Female	Unknown	Unknown	East_Asian				0	0	0	0.9011316	40.626045	0	0	4.73E-30	1.04E-43	0	0
+C3N.02087	LUAD	61	Female	Unknown	Unknown	East_Asian				0	0	0	19.021963	35.591843	0	0	1.1912279	1.3424523	0	0
+C3N.02089	LUAD	76	Male	Unknown	Unknown	East_Asian				0	0	0	4.97E-43	112.770996	0	0	1205.8384	9.37E-43	0	0
+C3N.02145	LUAD	68	Female	Unknown	Unknown	East_Asian				0	0	0	3.251586	35.497765	0	0	12.847724	0.8331603	0	0
+C3N.02149	LUAD	64	Male	Unknown	Unknown	East_Asian				0	0	0	23.568727	40.124554	0	0	642.49384	7.260679	0	0
+C3N.02155	LUAD	45	Male	Unknown	Unknown	East_Asian				0	0	0	82.17684	78.07158	0	0	42.0215	2.61E-29	0	0
+C3N.02158	LUAD	54	Female	Unknown	Unknown	East_Asian				0	0	0	2.64E-17	41.82512	0	0	15.4103	0.20755535	0	0
+C3N.02379	LUAD	57	Female	Unknown	Unknown	East_Asian				0	0	0	6.995627	67.06246	0	0	6.020708	1.04E-43	0	0
+C3N.02380	LUAD	56	Male	Unknown	Unknown	East_Asian				0	0	0	5.664251	45.081543	0	0	13.567358	1.19E-29	0	0
+C3N.02421	LUAD	58	Male	Unknown	Unknown	East_Asian				0	0	0	4.4347954	44.17079	0	0	2.2330635	5.2991858	0	0
+C3N.02422	LUAD	56	Female	Unknown	Unknown	East_Asian				0	0	0	1.65E-43	65.09235	0	0	8.137596	1.39E-29	0	0
+C3N.02423	LUAD	70	Male	Unknown	Unknown	East_Asian				0	0	0	309.03958	34.578354	0	0	252.05814	14.7347145	0	0
+C3N.02424	LUAD	64	Male	Unknown	Unknown	East_Asian				0	0	0	0.82232803	36.17539	0	0	45.3504	8.34E-43	0	0
+C3N.02433	LUAD	68	Female	Unknown	Unknown	East_Asian				0	0	0	13.502593	49.690945	0	0	6.238266	1.6280746	0	0
+C3N.02529	LUAD	79	Female	Unknown	Unknown	East_Asian				0	0	0	53.6191	68.29471	0	0	25.122252	5.21E-43	0	0
+C3N.02572	LUAD	49	Male	Unknown	Unknown	East_Asian				0	0	0	2.8823273	42.63023	0	0	5.240365	9.219864	0	0
+C3N.02582	LUAD	77	Male	Unknown	Unknown	East_Asian				0	0	0	19.27787	106.84545	0	0	19.19766	6.25E-43	0	0
+C3N.02586	LUAD	73	Male	Unknown	Unknown	East_Asian				0	0	0	3.75E-09	32.20586	0	0	108.95917	0.8764641	0	0
+C3N.02587	LUAD	59	Female	Unknown	Unknown	East_Asian				0	0	0	0.40153742	29.630346	0	0	0.625203	1.04E-43	0	0
+C3N.02588	LUAD	69	Male	Unknown	Unknown	East_Asian				0	0	0	10.340164	45.303165	0	0	14.536419	3.8386364	0	0
+C3N.02729	LUAD	45	Male	Unknown	Unknown	East_Asian				0	0	0	1.65E-43	26.718845	0	0	3.814397	9.660282	0	0
+C3L.00006.T	UCEC	64	Female	White	Not Hispanic or Latino	European				0	0	0	4.50E-44	1227.2712	500.22803	3.20E-44	0	0	0	0
+C3L.00008.T	UCEC	58	Female	White	Not Hispanic or Latino	European				0	0	0	4.5783877	154.99063	302.21896	2.690257	0	0	0	0
+C3L.00032.T	UCEC	50	Female	White	Not Hispanic or Latino	European				0	0	0	0	37.65735	0	0	0	0	0	20.482841
+C3L.00090.T	UCEC	75	Female	White	Not Hispanic or Latino	European				0	0	0	0	48.9584	0	0	0	0	0	31.858187
+C3L.00098.T	UCEC	63	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	45.35745	0	0	0	0	0	53.24855
+C3L.00136.T	UCEC	50	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	35.869137	0	0	0	0	0	20.30195
+C3L.00137.T	UCEC	60	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	21.541027	0	0	0	0	0	31.716331
+C3L.00139.T	UCEC	83	Female	White	Not Hispanic or Latino	European				0	0	0	0	39.247646	0	0	0	0	0	68.26781
+C3L.00143.T	UCEC	69	Female	White	Not Hispanic or Latino	European				0	0	0	9.00E-44	135.45978	493.03876	37.362946	0	0	0	0
+C3L.00145.T	UCEC	59	Female	White	Not Hispanic or Latino	European				0	0	0	0	24.990934	0	0	0	0	0	31.217432
+C3L.00156.T	UCEC	56	Female	White	Not Hispanic or Latino	European				2063.3464	4.84E-41	2.7712173	3.5507386	0	0	0	0	0	0	0
+C3L.00161.T	UCEC	46	Female	White	Hispanic or Latino	Ad_Mixed_American				0	0	0	9.00E-44	413.9642	598.1358	3.6854737	0	0	0	0
+C3L.00358.T	UCEC	90	Female	White	Not Hispanic or Latino	European				0	0	0	0	41.779655	0	0	0	0	0	94.36794
+C3L.00361.T	UCEC	64	Female	White	Not Hispanic or Latino	European				0	0	0	1.78E-43	176.7834	476.1383	55.669964	0	0	0	0
+C3L.00362.T	UCEC	38	Female	White	Not Hispanic or Latino	European				0	0	0	0	20.611681	0	0	0	0	0	18.822252
+C3L.00413.T	UCEC	60	Female	White	Not Hispanic or Latino	European				0	0	0	0	53.97618	0	0	0	0	0	23.860369
+C3L.00449.T	UCEC	59	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	47.959984	0	0	0	0	0	35.822865
+C3L.00563.T	UCEC	62	Female	Asian	Not Hispanic or Latino	South_Asian				0	0	0	0	37.028698	0	0	0	0	0	35.92786
+C3L.00586.T	UCEC	50	Female	White	Not Hispanic or Latino	European	0	0		12325.058	6544.7686	1.57E-42	2.14E-43	0	0	0	0	0	0	0
+C3L.00601.T	UCEC	57	Female	White	Not Hispanic or Latino	European	0	0		4780.868	739.20734	5.03E-43	3.60E-44	0	0	0	0	0	0	0
+C3L.00605.T	UCEC	73	Female	White	Not Hispanic or Latino	European				0	0	0	0	65.225624	0	0	0	0	0	30.34943
+C3L.00767.T	UCEC	56	Female	White	Not Hispanic or Latino	European				0	0	0	0	41.014275	0	0	0	0	0	29.953396
+C3L.00769.T	UCEC	56	Female	White	Unknown	European				0	0	0	0	36.085953	0	0	0	0	0	17.121546
+C3L.00770.T	UCEC	73	Female	White	Not Hispanic or Latino	European				1319.0063	1.80E-42	3.14E-43	5.2666535	0	0	0	0	0	0	0
+C3L.00771.T	UCEC	86	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	78.578125	0	0	0	0	0	32.752987
+C3L.00780.T	UCEC	69	Female	White	Hispanic or Latino	European				0	0	0	0	54.52001	0	0	0	0	0	39.116497
+C3L.00781.T	UCEC	48	Female	White	Hispanic or Latino	Ad_Mixed_American				0	0	0	0.2807376	402.22678	899.8273	6.40E-44	0	0	0	0
+C3L.00905.T	UCEC	64	Female	White	Not Hispanic or Latino	European				0	0	0	0	24.304064	0	0	0	0	0	51.658955
+C3L.00918.T	UCEC	68	Female	White	Not Hispanic or Latino	European				0	0	0	2.286056	132.9338	234.5566	10.948725	0	0	0	0
+C3L.00921.T	UCEC	66	Female	White	Not Hispanic or Latino	European				0	0	0	0	43.614548	0	0	0	0	0	20.430908
+C3L.00932.T	UCEC	67	Female	White	Not Hispanic or Latino	European				0	0	0	1.78E-43	44.39536	146.31258	2.943274	0	0	0	0
+C3L.00942.T	UCEC	64	Female	White	Unknown	European				0	0	0	1.15E-11	47.256233	95.36647	7.7457395	0	0	0	0
+C3L.00946.T	UCEC	64	Female	White	Unknown	European				0	0	0	4.50E-44	272.48428	607.50836	29.771315	0	0	0	0
+C3L.00947.T	UCEC	71	Female	White	Unknown	European				0	0	0	0	30.117636	0	0	0	0	0	31.998861
+C3L.00949.T	UCEC	64	Female	White	Unknown	European				0	0	0	0	46.99006	0	0	0	0	0	27.907581
+C3L.00961.T	UCEC	59	Female	White	Unknown	European				0	0	0	0	44.434765	0	0	0	0	0	24.545952
+C3L.00963.T	UCEC	59	Female	White	Unknown	European				0	0	0	0	25.251226	0	0	0	0	0	28.981026
+C3L.01246.T	UCEC	62	Female	White	Unknown	European				0	0	0	0	27.546309	0	0	0	0	0	63.219814
+C3L.01248.T	UCEC	42	Female	White	Unknown	European				0	0	0	0	3.4611216	0	0	0	0	0	12.32885
+C3L.01249.T	UCEC	65	Female	White	Unknown	European				0	0	0	0	31.09336	0	0	0	0	0	22.13125
+C3L.01252.T	UCEC	76	Female	White	Unknown	European				0	0	0	1.000978	303.6334	223.41011	35.63971	0	0	0	0
+C3L.01256.T	UCEC	75	Female	White	Unknown	European				0	0	0	0	32.59982	0	0	0	0	0	27.532934
+C3L.01257.T	UCEC	71	Female	White	Unknown	European				0	0	0	6.771182	191.17992	315.45032	6.40E-44	0	0	0	0
+C3L.01275.T	UCEC	65	Female	Unknown	Unknown	European				0	0	0	11.355873	317.81052	714.6532	9.70E-44	0	0	0	0
+C3L.01282.T	UCEC	64	Female	White	Not Hispanic or Latino	European	0	1	MMRD	0	0	0	9.00E-44	225.03284	775.3048	24.8164	0	0	0	0
+C3L.01304.T	UCEC	68	Female	White	Not Hispanic or Latino	European				0	0	0	0	28.880339	0	0	0	0	0	24.35186
+C3L.01307.T	UCEC	74	Female	White	Not Hispanic or Latino	European				0	0	0	0	14.28144	0	0	0	0	0	33.075108
+C3L.01311.T	UCEC	55	Female	White	Not Hispanic or Latino	European	0	0		3698.5251	1.08E-42	3.14E-43	3.60E-44	0	0	0	0	0	0	0
+C3L.01312.T	UCEC	56	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	30.015306	0	0	0	0	0	28.151077
+C3L.01744.T	UCEC	62	Female	White	Unknown	European				0	0	0	4.50E-44	749.42334	839.12537	16.596344	0	0	0	0
+C3L.01925.T	UCEC	65	Female	White	Not Hispanic or Latino	European				0	0	0	0	16.714243	0	0	0	0	0	32.6092
+C3N.00151.T	UCEC	60	Female	Unknown	Unknown	European	0	0		13156.771	0.09685221	6.28E-43	1.80E-43	0	0	0	0	0	0	0
+C3N.00200.T	UCEC	72	Female	Black or African American	Not Hispanic or Latino	African				0	0	0	0	23.706764	0	0	0	0	0	30.530779
+C3N.00321.T	UCEC	64	Female	Unknown	Unknown	European				0	0	0	4.438349	411.07397	714.3681	5.764008	0	0	0	0
+C3N.00322.T	UCEC	70	Female	Unknown	Unknown	European				0	0	0	0	64.40024	0	0	0	0	0	37.103333
+C3N.00323.T	UCEC	78	Female	Unknown	Unknown	European				0	0	0	0	47.69984	0	0	0	0	0	35.0963
+C3N.00324.T	UCEC	66	Female	Unknown	Unknown	European				0	0	0	0	48.27435	0	0	0	0	0	44.395966
+C3N.00326.T	UCEC	45	Female	Unknown	Unknown	European	0	0		0	0	0	0	12.331378	0	0	0	0	0	13.304334
+C3N.00328.T	UCEC	62	Female	Unknown	Unknown	European				7682.904	6.26E-36	3.14E-43	9.728998	0	0	0	0	0	0	0
+C3N.00333.T	UCEC	65	Female	Unknown	Unknown	European				0	0	0	0	25.575415	0	0	0	0	0	39.51948
+C3N.00334.T	UCEC	68	Female	Unknown	Unknown	European				0	0	0	5.6637897	122.48381	251.49574	6.40E-44	0	0	0	0
+C3N.00335.T	UCEC	57	Female	Unknown	Unknown	European				0	0	0	2.6125605	201.0303	1096.3987	6.40E-44	0	0	0	0
+C3N.00337.T	UCEC	67	Female	Unknown	Unknown	European				0	0	0	0	49.038	0	0	0	0	0	31.77832
+C3N.00339.T	UCEC	45	Female	Unknown	Unknown	European				0	0	0	0	22.53248	0	0	0	0	0	28.746239
+C3N.00340.T	UCEC	60	Female	Unknown	Unknown	European				0	0	0	0	16.150099	0	0	0	0	0	40.08858
+C3N.00377.T	UCEC	64	Female	Unknown	Unknown	European				0	0	0	12.670183	208.95717	303.6173	5.2605762	0	0	0	0
+C3N.00379.T	UCEC	41	Female	Unknown	Unknown	European				0	0	0	0	23.387062	0	0	0	0	0	26.901127
+C3N.00383.T	UCEC	61	Female	Unknown	Unknown	European				0	0	0	0	38.359734	0	0	0	0	0	28.666576
+C3N.00386.T	UCEC	44	Female	Unknown	Unknown	European	0	0		0	0	0	0	16.755718	0	0	0	0	0	16.765745
+C3N.00388.T	UCEC	59	Female	Unknown	Unknown	European				0	0	0	4.50E-44	170.64949	309.5025	6.40E-44	0	0	0	0
+C3N.00389.T	UCEC	62	Female	Unknown	Unknown	European				0	0	0	1.9910339	226.91373	464.50616	3.20E-44	0	0	0	0
+C3N.00729.T	UCEC	86	Female	White	Not Hispanic or Latino	European				0	0	0	0	47.858013	0	0	0	0	0	38.888035
+C3N.00734.T	UCEC	53	Female	White	Not Hispanic or Latino	European	0	0		0	0	0	0	22.516447	0	0	0	0	0	13.948117
+C3N.00743.T	UCEC	53	Female	Black or African American	Not Hispanic or Latino	African				0	0	0	1.78E-43	134.17813	206.40091	10.214621	0	0	0	0
+C3N.00836.T	UCEC	75	Female	Unknown	Unknown	European				0	0	0	0	17.829313	0	0	0	0	0	61.11874
+C3N.00847.T	UCEC	65	Female	Unknown	Unknown	European				0	0	0	0	61.066048	0	0	0	0	0	21.684275
+C3N.00848.T	UCEC	66	Female	Unknown	Unknown	European				0	0	0	0	48.75826	0	0	0	0	0	43.910393
+C3N.00850.T	UCEC	65	Female	Unknown	Unknown	European				0	0	0	2.6065965	132.35332	332.5578	42.329533	0	0	0	0
+C3N.00858.T	UCEC	65	Female	Unknown	Unknown	European				0	0	0	0	76.748566	0	0	0	0	0	34.588818
+C3N.00866.T	UCEC	77	Female	White	Not Hispanic or Latino	European				0	0	0	0	65.8269	0	0	0	0	0	35.671776
+C3N.00880.T	UCEC	61	Female	Unknown	Unknown	European				0	0	0	2.7945669	344.44904	461.17255	16.070564	0	0	0	0
+C3N.01003.T	UCEC	73	Female	Unknown	Unknown	European				0	0	0	0	24.861359	0	0	0	0	0	34.310307
+C3N.01211.T	UCEC	59	Female	Unknown	Unknown	European				0	0	0	5.45104	137.64444	232.81487	2.5086954	0	0	0	0
+C3N.01212.T	UCEC	63	Female	Unknown	Unknown	European				0	0	0	3.0199604	227.62279	440.10046	6.40E-44	0	0	0	0
+C3N.01217.T	UCEC	58	Female	Unknown	Unknown	European				0	0	0	0	28.240767	0	0	0	0	0	12.154633
+C3N.01219.T	UCEC	58	Female	Unknown	Unknown	European				0	0	0	2.0628376	265.77722	433.66348	3.3337913	0	0	0	0
+C3N.01267.T	UCEC	57	Female	Unknown	Unknown	European				0	0	0	0	16.566875	0	0	0	0	0	20.905691
+C3N.01346.T	UCEC	63	Female	Unknown	Unknown	European				0	0	0	0	14.3806715	0	0	0	0	0	43.8393
+C3N.01349.T	UCEC	77	Female	Unknown	Unknown	European				0	0	0	0	44.399002	0	0	0	0	0	96.67772
+C3N.01510.T	UCEC	53	Female	White	Not Hispanic or Latino	European				0	0	0	0	549.2066	0	0	0	0	0	0
+C3N.01520.T	UCEC	69	Female	Unknown	Unknown	European				0	0	0	4.50E-44	2.01E-18	4690.7065	3.20E-44	0	0	0	0
+C3N.01521.T	UCEC	75	Female	Unknown	Unknown	European				0	0	0	0	30.364618	0	0	0	0	0	21.874874
+C3N.01537.T	UCEC	74	Female	Unknown	Unknown	European				0	0	0	0	25.380949	0	0	0	0	0	19.962328
+C3N.01802.T	UCEC	85	Female	Black or African American	Not Hispanic or Latino	African				0	0	0	0	46.18248	0	0	0	0	0	34.643623
+C3N.01825.T	UCEC	70	Female	Unknown	Unknown	European				0	0	0	0	24.547129	0	0	0	0	0	24.749458
+MB099_GR4	MB	8	Male	Unknown	Unknown	Unknown											0			
+MB266_SHH	MB	1.2	Male	Unknown	Unknown	Unknown											0			
+MB104_SHH	MB	35	Male	Unknown	Unknown	Unknown											0			
+MB248_GR3	MB	10	Female	Unknown	Unknown	Unknown											0			
+X1M6_WNT	MB	8	Male	Unknown	Unknown	Unknown											0			
+MB106_GR3	MB	3	Male	Unknown	Unknown	Unknown											0			
+MB270_GR4	MB	5	Male	Unknown	Unknown	Unknown											0			
+MB018_GR3	MB	13	Female	Unknown	Unknown	Unknown											0			
+MB206_SHH	MB	5	Female	Unknown	Unknown	Unknown											0			
+MB269_GR4	MB	9	Female	Unknown	Unknown	Unknown											0			
+MB088_SHH	MB	2	Male	Unknown	Unknown	Unknown											0			
+MB281_GR4	MB	12	Female	Unknown	Unknown	Unknown											0			
+MB284_SHH	MB	29	Male	Unknown	Unknown	Unknown											0			
+MB174_GR4	MB	16	Male	Unknown	Unknown	Unknown											0			
+MB277_GR3	MB	4	Female	Unknown	Unknown	Unknown											0			
+MB164_GR3	MB	3.4	Male	Unknown	Unknown	Unknown											0			
+X5M15_WNT	MB	27	Male	Unknown	Unknown	Unknown											0			
+MB287_SHH	MB	2	Female	Unknown	Unknown	Unknown											0			
+MB265_GR4	MB	9	Male	Unknown	Unknown	Unknown											0			
+MB170_GR3	MB	16	Male	Unknown	Unknown	Unknown											0			
+MB244_SHH	MB	3	Male	Unknown	Unknown	Unknown											0			
+MB260_GR3	MB	5	Male	Unknown	Unknown	Unknown											0			
+MB274_SHH	MB	2	Male	Unknown	Unknown	Unknown											0			
+MB264_GR4	MB	5	Female	Unknown	Unknown	Unknown											0			
+MB268_SHH	MB	3	Female	Unknown	Unknown	Unknown											0			
+MB095_GR3	MB	3	Male	Unknown	Unknown	Unknown											0			
+MB227_GR4	MB	4	Male	Unknown	Unknown	Unknown											0			
+Burdenko..1360_WNT	MB			Unknown	Unknown	Unknown											0			
+MB226_GR3	MB	5	Male	Unknown	Unknown	Unknown											0			
+MB118_GR4	MB	11	Male	Unknown	Unknown	Unknown											0			
+MB166_GR3	MB	7	Male	Unknown	Unknown	Unknown											0			
+MB239_SHH	MB	28	Male	Unknown	Unknown	Unknown											0			
+MB102_SHH	MB	23	Female	Unknown	Unknown	Unknown											0			
+MB271_GR3	MB	3	Male	Unknown	Unknown	Unknown											0			
+MB177_GR4	MB	6	Female	Unknown	Unknown	Unknown											0			
+MB037_SHH	MB	1	Female	Unknown	Unknown	Unknown											0			
+MB278_GR3	MB	8	Female	Unknown	Unknown	Unknown											0			
+MB282_GR4	MB	9	Male	Unknown	Unknown	Unknown											0			
+MB275_SHH	MB	3	Male	Unknown	Unknown	Unknown											0			
+MB247_GR3	MB	4	Female	Unknown	Unknown	Unknown											0			
+MB091_GR4	MB	15	Male	Unknown	Unknown	Unknown											0			
+MB234_SHH	MB	27	Female	Unknown	Unknown	Unknown											0			
+MB199_GR4	MB	9	Male	Unknown	Unknown	Unknown											0			
+MB136_SHH	MB	26	Male	Unknown	Unknown	Unknown											0			
+MB288_GR4	MB	6	Male	Unknown	Unknown	Unknown											0			

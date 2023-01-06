@@ -1,0 +1,1111 @@
+	1	3	17	22	39	54	56	5	11	29	40	24	36	13	38	19	2	6	9	10	14	18	28	20	31	25	43	23	37	33	4	7	15	21	32	8	16	26	34	12	max_id	max_norm	cohort
+C3L.00080	True	True	False				False																																		11	0.17015922	LUAD
+C3N.00217	True	True	False				False																																		11	0.21475807	LUAD
+C3N.01180	True	True	False				False																																		32	0.1787759	CCRCC
+C3L.00006.T	True	True	False				False																																		8	0.14931029	UCEC
+C3L.00026	True	True	False				False																																		32	0.16143957	CCRCC
+C3L.03678	True	True	False				False																																		20	0.21233566	LSCC
+C3N.02284	True	True	False				False																																		12	0.15104061	LSCC
+C26OV009	True	True	False				False																																		20	0.16589113	OV
+C3L.00993	True	True	False				False																																		20	0.20112412	LSCC
+C3L.00008.T	True	True	False				False																																		20	0.18130942	UCEC
+C3L.00601.T	True	True	False				False																																		20	0.23200276	UCEC
+C3N.01211.T	True	True	False				False																																		28	0.16031563	UCEC
+C3N.03876	True	True	False				False																																		20	0.21155964	HNSCC
+C3L.01040	True	True	False				True																																		20	0.2501328	GBM
+C3N.00743.T	True	True	False				True																																		20	0.21008843	UCEC
+C09CO005	True	True	False				True																																		28	0.20790407	COAD
+C3L.01155	True	True	False				True																																		28	0.22595514	GBM
+C3L.01327	True	True	False				True																																		20	0.30241573	GBM
+C3L.03405	True	True	False				True																																		20	0.29174203	GBM
+C3N.01852	True	True	False				True																																		20	0.27630407	GBM
+MB277_GR3	True	True	False				True																																		28	0.17354967	MEDUL
+C3N.03473	True	True	False				True																																		20	0.26840276	GBM
+MB099_GR4	True	True	False				True																																		20	0.23294409	MEDUL
+C3L.01048	True	True	False				True																																		20	0.32257912	GBM
+C3L.01154	True	True	False				True																																		20	0.26359454	GBM
+C3L.02708	True	True	False				True																																		20	0.3170573	GBM
+MB164_GR3	True	True	False				True																																		20	0.21719597	MEDUL
+MB271_GR3	True	True	False				True																																		20	0.2665275	MEDUL
+C3L.00137.T	True	True	False				True																																		20	0.2977239	UCEC
+C3L.04084	True	True	False				True																																		20	0.41900712	GBM
+C3N.00662	True	True	False				True																																		20	0.32939732	GBM
+C3L.01149	True	True	False				True																																		20	0.32668206	GBM
+C3L.02542	True	True	False				True																																		20	0.40698496	GBM
+C3L.03390	True	True	False				True																																		20	0.44255581	GBM
+C3L.01061	True	True	False				True																																		20	0.43963194	GBM
+C3N.03184	True	True	False				True																																		20	0.43624625	GBM
+C3L.02707	True	True	False				True																																		20	0.33208126	GBM
+C3N.03070	True	True	False				True																																		20	0.35681692	GBM
+C3N.02185	True	True	False				True																																		20	0.16838172	GBM
+C3L.00104	True	True	False				True																																		32	0.11453053	GBM
+C3L.02504	True	True	False				True																																		20	0.13903765	GBM
+C3L.00365	True	True	False				True																																		25	0.16739734	GBM
+MB247_GR3	True	True	False				True																																		25	0.16884564	MEDUL
+MB248_GR3	True	True	False				True																																		25	0.20115629	MEDUL
+C3N.01196	True	True	False				True																																		20	0.28987685	GBM
+MB106_GR3	True	True	False				True																																		20	0.26619777	MEDUL
+C3N.01517	True	True	False				True																																		20	0.31221643	GBM
+C3N.02782	True	True	False				True																																		20	0.28830028	GBM
+C26OV008	True	True	True	False																																					13	0.1507538	OV
+C20OV005	True	True	True	False																																					13	0.24994758	OV
+C04OV011	True	True	True	False																																					13	0.22883087	OV
+C04OV017	True	True	True	False																																					13	0.2598642	OV
+X11BR013	True	True	True	False																																					13	0.38108397	BRCA
+X01BR023	True	True	True	False																																					13	0.36300588	BRCA
+X11BR015	True	True	True	False																																					13	0.36371076	BRCA
+C18OV001	True	True	True	False																																					20	0.25907826	OV
+X09BR001	True	True	True	False																																					13	0.32047358	BRCA
+X11BR025	True	True	True	False																																					13	0.27032202	BRCA
+X01BR025	True	True	True	False																																					13	0.23200808	BRCA
+X14BR005	True	True	True	False																																					13	0.3410001	BRCA
+C02OV008	True	True	True	False																																					13	0.22712755	OV
+C02OV022	True	True	True	False																																					13	0.21256888	OV
+C17OV002	True	True	True	False																																					23	0.21725033	OV
+X11BR009	True	True	True	False																																					13	0.27288157	BRCA
+X11BR019	True	True	True	False																																					13	0.3390733	BRCA
+C02OV023	True	True	True	False																																					13	0.2401531	OV
+X11BR053	True	True	True	False																																					13	0.27315018	BRCA
+X01BR032	True	True	True	False																																					13	0.32642847	BRCA
+X11BR012	True	True	True	False																																					13	0.32166633	BRCA
+C01OV030	True	True	True	False																																					13	0.259904	OV
+X06BR014	True	True	True	False																																					13	0.37129945	BRCA
+X11BR027	True	True	True	False																																					13	0.35778195	BRCA
+X05BR016	True	True	True	False																																					13	0.3690377	BRCA
+X13BR009	True	True	True	False																																					13	0.28491393	BRCA
+X03BR010	True	True	True	False																																					13	0.439563	BRCA
+X06BR005	True	True	True	False																																					13	0.33315787	BRCA
+C09CO011	True	True	True	True	True																																				8	0.2758607	COAD
+C05CO029	True	True	True	True	True																																				8	0.27717516	COAD
+C20CO007	True	True	True	True	True																																				8	0.23922111	COAD
+C09CO006	True	True	True	True	True																																				8	0.21443568	COAD
+C22CO004	True	True	True	True	True																																				8	0.31937212	COAD
+C01CO008	True	True	True	True	True																																				8	0.32906908	COAD
+C01CO013	True	True	True	True	True																																				8	0.2975629	COAD
+C05CO028	True	True	True	True	True																																				8	0.37030166	COAD
+C05CO054	True	True	True	True	True																																				8	0.41032386	COAD
+C17OV025	True	True	True	True	True																																				8	0.19058454	OV
+C17OV033	True	True	True	True	True																																				8	0.24399062	OV
+C01CO022	True	True	True	True	True																																				12	0.15038067	COAD
+C3L.00605.T	True	True	True	True	True																																				8	0.27787012	UCEC
+C09CO018	True	True	True	True	True																																				8	0.21807756	COAD
+C14CO003	True	True	True	True	True																																				8	0.26879984	COAD
+C09CO013	True	True	True	True	True																																				28	0.17435637	COAD
+C05CO026	True	True	True	True	True																																				28	0.18527333	COAD
+C05CO050	True	True	True	True	True																																				28	0.19282566	COAD
+C01CO014	True	True	True	True	True																																				8	0.26872402	COAD
+C05CO053	True	True	True	True	True																																				8	0.2469412	COAD
+C15CO002	True	True	True	True	True																																				8	0.26485926	COAD
+C01CO005	True	True	True	True	True																																				8	0.24799995	COAD
+C05CO039	True	True	True	True	True																																				8	0.24987337	COAD
+C09CO022	True	True	True	True	True																																				8	0.26999488	COAD
+C05CO035	True	True	True	True	False	True																																			13	0.12940745	COAD
+C21CO007	True	True	True	True	False	True																																			20	0.124295995	COAD
+C11CO020	True	True	True	True	False	True																																			13	0.13877045	COAD
+C15CO001	True	True	True	True	False	True																																			13	0.1324431	COAD
+C04OV054	True	True	True	True	False	True																																			8	0.19416277	OV
+C02OV044	True	True	True	True	False	True																																			8	0.21097319	OV
+C04OV050	True	True	True	True	False	True																																			8	0.22385702	OV
+C02OV041	True	True	True	True	False	True																																			8	0.1911879	OV
+C02OV046	True	True	True	True	False	True																																			8	0.19840547	OV
+C20CO004	True	True	True	True	False	True																																			8	0.19930966	COAD
+C17OV017	True	True	True	True	False	True																																			13	0.21763417	OV
+C17OV029	True	True	True	True	False	True																																			8	0.18855695	OV
+C02OV036	True	True	True	True	False	True																																			8	0.19751488	OV
+C04OV024	True	True	True	True	False	True																																			8	0.18597507	OV
+C17OV028	True	True	True	True	False	True																																			8	0.2147811	OV
+C01OV017	True	True	True	True	False	True																																			13	0.08798008	OV
+C02OV015	True	True	True	True	False	True																																			13	0.15108964	OV
+C01OV039	True	True	True	True	False	True																																			8	0.14124759	OV
+C02OV029	True	True	True	True	False	True																																			13	0.14143115	OV
+C3L.01744.T	True	True	True	True	False	False																																			8	0.21071658	UCEC
+C3N.02693	True	True	True	True	False	False																																			8	0.1814188	HNSCC
+C3N.00858.T	True	True	True	True	False	False																																			8	0.15096733	UCEC
+C3L.01311.T	True	True	True	True	False	False																																			8	0.16257384	UCEC
+C3L.00586.T	True	True	True	True	False	False																																			8	0.19479828	UCEC
+C3L.01257.T	True	True	True	True	False	False																																			8	0.20997798	UCEC
+C3N.00880.T	True	True	True	True	False	False																																			8	0.2321794	UCEC
+C3N.01943	True	True	True	True	False	False																																			8	0.3376494	HNSCC
+C3L.00090.T	True	True	True	True	False	False																																			8	0.2278411	UCEC
+C3N.00832	True	True	True	True	False	False																																			8	0.23854749	CCRCC
+C3L.00563.T	True	True	True	True	False	False																																			16	0.1634017	UCEC
+C3L.00767.T	True	True	True	True	False	False																																			8	0.227112	UCEC
+C3L.00361.T	True	True	True	True	False	False																																			8	0.12212245	UCEC
+C3N.00866.T	True	True	True	True	False	False																																			8	0.19111189	UCEC
+X11BR043	True	True	True	True	False	False																																			7	0.24235053	BRCA
+C04OV004	True	True	True	True	False	False																																			7	0.13764894	OV
+X11BR044	True	True	True	True	False	False																																			13	0.1669736	BRCA
+X21BR001	True	True	True	True	False	False																																			7	0.20513256	BRCA
+C05CO045	True	True	True	True	False	False																																			7	0.13616996	COAD
+C04OV057	True	True	True	True	False	False																																			12	0.12503205	OV
+C02OV006	True	True	True	True	False	False																																			33	0.11177632	OV
+C04OV044	True	True	True	True	False	False																																			7	0.121987276	OV
+C3N.00317	True	True	True	True	False	False																																			8	0.16854317	CCRCC
+C3N.03875	True	True	True	True	False	False																																			8	0.18458447	LSCC
+C3N.01337	True	True	True	True	False	False																																			12	0.2442834	HNSCC
+C3N.01757	True	True	True	True	False	False																																			23	0.15836124	HNSCC
+C3N.03433	True	True	True	True	False	False																																			12	0.15612124	HNSCC
+C3N.03849	True	True	True	True	False	False																																			12	0.26174217	HNSCC
+C26OV013	True	True	True	True	False	False																																			13	0.12920702	OV
+C3L.00362.T	True	True	True	True	False	False																																			8	0.13781421	UCEC
+C3N.00326.T	True	True	True	True	False	False																																			23	0.20485687	UCEC
+C3N.00850.T	True	True	True	True	False	False																																			8	0.16024442	UCEC
+C3N.03190.T	True	True	True	True	False	False																																			8	0.15109152	PDAC
+C3L.00369	True	True	True	True	False	False																																			20	0.16812834	CCRCC
+C3L.00791	True	True	True	True	False	False																																			8	0.22386472	CCRCC
+C3N.03012	True	False						False						True	True																										29	0.4017199	HNSCC
+C3N.03072	True	False						False						True	True																										29	0.39033312	LSCC
+C3L.01237	True	False						False						True	True																										29	0.24662614	HNSCC
+C3L.02168	True	False						False						True	True																										29	0.3200331	LSCC
+C3N.03662	True	False						False						True	True																										29	0.35040554	LSCC
+C3L.00081	True	False						False						True	True																										29	0.30336207	LSCC
+C3N.03456	True	False						False						True	True																										29	0.23807368	HNSCC
+C3N.03009	True	False						False						True	True																										29	0.36313713	HNSCC
+C3N.03490	True	False						False						True	True																										29	0.30715585	HNSCC
+C3L.00965	True	False						False						True	True																										20	0.20769054	LSCC
+C3L.01285	True	False						False						True	True																										29	0.28658625	LSCC
+C3L.00997	True	False						False						True	True																										29	0.1780407	HNSCC
+C3N.01411	True	False						False						True	True																										29	0.2799727	LSCC
+C3L.03965	True	False						False						True	True																										29	0.23947977	LSCC
+C3L.00445	True	False						False						True	True																										29	0.2817757	LSCC
+C3L.03962	True	False						False						True	True																										29	0.22083752	LSCC
+C3L.00987	True	False						False						True	True																										29	0.374226	HNSCC
+C3L.03378	True	False						False						True	True																										29	0.3396742	HNSCC
+C3N.02434	True	False						False						True	True																										29	0.35476235	LSCC
+C3L.02163	True	False						False						True	True																										29	0.47573945	LSCC
+C3N.00498	True	False						False						True	True																										29	0.4108067	HNSCC
+C3N.01017	True	False						False						True	True																										29	0.39136133	LSCC
+C3N.00221	True	False						False						True	True																										29	0.4324327	LSCC
+C3N.04155	True	False						False						True	True																										29	0.42800492	LSCC
+C3N.02575	True	False						False						True	True																										29	0.38992715	LSCC
+C3N.03877	True	False						False						True	True																										29	0.35482746	LSCC
+C3N.04278	True	False						False						True	False																										29	0.31197977	HNSCC
+C3N.01859	True	False						False						True	False																										29	0.21668127	HNSCC
+C3N.03880	True	False						False						True	False																										7	0.2302956	LSCC
+C3N.03027	True	False						False						True	False																										7	0.13827057	HNSCC
+C3L.03272	True	False						False						True	False																										29	0.205266	LSCC
+C3N.02494	True	False						False						True	False																										7	0.22111657	LSCC
+C3N.01846	True	False						False						True	False																										24	0.15720566	LSCC
+C3N.01892	True	False						False						True	False																										24	0.17358555	LSCC
+C3N.04124	True	False						False						True	False																										29	0.19522354	LSCC
+C3L.04014	True	False						False						True	False																										29	0.18833765	LSCC
+C3L.02349	True	False						False						True	False																										29	0.26342687	LSCC
+C3N.02252	True	False						False						True	False																										29	0.304926	LSCC
+C3N.01339	True	False						False						True	False																										29	0.262203	HNSCC
+C3N.02375	True	False						False						True	False																										29	0.30349222	LSCC
+C3N.03882	True	False						False						True	False																										29	0.21762791	LSCC
+C3N.03782	True	False						False						True	False																										29	0.21257225	HNSCC
+C3N.04152	True	False						False						True	False																										29	0.25385585	HNSCC
+C3N.01025	True	False						False						True	False																										29	0.3241049	LSCC
+C3N.04162	True	False						False						True	False																										29	0.30401757	LSCC
+C3L.02127	True	False						False						True	False																										29	0.2989979	LSCC
+C3N.02374	True	False						False						True	False																										12	0.30209056	LSCC
+C3N.02425	True	False						False						True	False																										12	0.27664268	LSCC
+C3L.00413.T	True	False						False						True	False																										12	0.18933012	UCEC
+C3N.03664	True	False						False						True	False																										12	0.22946674	HNSCC
+C3N.02288	True	False						False						True	False																										29	0.26562795	LSCC
+C3L.02365	True	False						False						True	False																										12	0.20720841	LUAD
+C3L.02646	True	False						False						True	False																										29	0.24686271	LSCC
+C3N.03204	True	False						False						True	False																										29	0.24996479	LSCC
+X11BR036	True	False						False						False		False																									1	0.21227881	BRCA
+X20BR006	True	False						False						False		False																									1	0.33496946	BRCA
+X11BR080	True	False						False						False		False																									1	0.36613515	BRCA
+X11BR016	True	False						False						False		False																									1	0.46938846	BRCA
+X11BR023	True	False						False						False		False																									1	0.45452663	BRCA
+X11BR024	True	False						False						False		False																									1	0.41006353	BRCA
+X20BR005	True	False						False						False		False																									1	0.37302458	BRCA
+X20BR007	True	False						False						False		False																									1	0.37988797	BRCA
+X01BR009	True	False						False						False		False																									1	0.45223084	BRCA
+X01BR031	True	False						False						False		False																									1	0.44496685	BRCA
+X01BR017	True	False						False						False		False																									1	0.24139322	BRCA
+X01BR001	True	False						False						False		False																									1	0.35823768	BRCA
+X01BR018	True	False						False						False		False																									1	0.37717864	BRCA
+CPT001846	True	False						False						False		False																									1	0.25038514	BRCA
+X20BR002	True	False						False						False		False																									1	0.3111072	BRCA
+X01BR040	True	False						False						False		False																									1	0.38041183	BRCA
+X01BR043	True	False						False						False		False																									1	0.32644013	BRCA
+X01BR027	True	False						False						False		False																									1	0.5179314	BRCA
+X01BR042	True	False						False						False		False																									1	0.46841606	BRCA
+CPT000814	True	False						False						False		False																									1	0.42996264	BRCA
+X05BR042	True	False						False						False		False																									1	0.45818248	BRCA
+X05BR029	True	False						False						False		False																									1	0.3927285	BRCA
+X05BR045	True	False						False						False		False																									1	0.3839172	BRCA
+X05BR043	True	False						False						False		False																									1	0.46496707	BRCA
+X01BR020	True	False						False						False		False																									1	0.4634845	BRCA
+X03BR006	True	False						False						False		False																									1	0.47892743	BRCA
+C3L.04013	True	False						False						False		True																									27	0.37563935	LSCC
+C3N.03011	True	False						False						False		True																									27	0.38761014	HNSCC
+C3N.03851	True	False						False						False		True																									27	0.30781144	LSCC
+C3L.01000	True	False						False						False		True																									27	0.32713002	LSCC
+C3N.04276	True	False						False						False		True																									27	0.3550321	HNSCC
+C3L.00603	True	False						False						False		True																									27	0.38524404	LSCC
+C3N.02283	True	False						False						False		True																									27	0.33836266	LSCC
+C3N.03886	True	False						False						False		True																									27	0.44010693	LSCC
+C3N.00204	True	False						False						False		True																									27	0.33046132	HNSCC
+C3N.03785	True	False						False						False		True																									27	0.28110543	HNSCC
+C3L.02617	True	False						False						False		True																									27	0.3190018	HNSCC
+C3N.01755	True	False						False						False		True																									27	0.38641474	HNSCC
+C3N.02713	True	False						False						False		True																									27	0.28865835	HNSCC
+C3L.02649	True	False						False						False		True																									27	0.3133978	LSCC
+C3N.01756	True	False						False						False		True																									27	0.3446275	HNSCC
+C3N.04273	True	False						False						False		True																									27	0.2860327	HNSCC
+C3N.01023	True	False						False						False		True																									11	0.33649966	LUAD
+C3N.02149	True	False						False						False		True																									11	0.3208333	LUAD
+C3N.01414	True	False						False						False		True																									11	0.28844678	LUAD
+C3N.01410	True	False						False						False		True																									11	0.43213165	LUAD
+C3N.00547	True	False						False						False		True																									11	0.37507996	LUAD
+C3N.01016	True	False						False						False		True																									11	0.35534516	LUAD
+C3N.02089	True	False						False						False		True																									11	0.30646288	LUAD
+C3N.02155	True	False						False						False		True																									11	0.22600062	LUAD
+C3N.00180	True	False						False						False		True																									11	0.36669973	LUAD
+C3N.00549	True	False						False						False		True																									11	0.3203361	LUAD
+C3N.01074	True	False						False						False		True																									11	0.3821188	LUAD
+C3L.00094	True	False						False						False		True																									11	0.3782392	LUAD
+C3N.00560	True	False						False						False		True																									11	0.36436173	LUAD
+C3L.01862	True	False						False						False		True																									11	0.3596747	LUAD
+C3N.00737	True	False						False						False		True																									11	0.31648618	LUAD
+C3N.01071	True	False						False						False		True																									11	0.3054912	LUAD
+C3N.01823	True	False						False						False		True																									11	0.3250943	LUAD
+C3N.02944.T	True	False						True	True	True																															3	0.25122958	PDAC
+C3N.03093	True	False						True	True	True																															7	0.18977503	LSCC
+C3L.02964	True	False						True	True	True																															3	0.17310692	LSCC
+C3L.02651	True	False						True	True	True																															7	0.19356579	HNSCC
+C3N.03487	True	False						True	True	True																															7	0.16604666	HNSCC
+C3N.00957.T	True	False						True	True	True																															7	0.21614832	PDAC
+C3N.01714.T	True	False						True	True	True																															7	0.14809027	PDAC
+C3N.03783	True	False						True	True	True																															7	0.16706046	HNSCC
+C3N.00340.T	True	False						True	True	True																															3	0.17877895	UCEC
+C3N.00836.T	True	False						True	True	True																															7	0.32963282	UCEC
+X01BR030	True	False						True	True	True																															7	0.276009	BRCA
+C3N.00303.T	True	False						True	True	True																															7	0.33635888	PDAC
+C3N.00328.T	True	False						True	True	True																															7	0.36437017	UCEC
+C3L.00095	True	False						True	True	True																															7	0.23443457	LUAD
+C01OV026	True	False						True	True	True																															7	0.21133901	OV
+C04OV027	True	False						True	True	True																															7	0.20889269	OV
+C3N.01946	True	False						True	True	True																															7	0.3386472	HNSCC
+C3L.03961	True	False						True	True	True																															7	0.29884607	LSCC
+C3N.00247	True	False						True	True	True																															7	0.3929905	LSCC
+C17OV040	True	False						True	True	True																															7	0.26170728	OV
+C3L.04473.T	True	False						True	True	True																															7	0.2494473	PDAC
+C3N.03428.T	True	False						True	True	True																															7	0.40108716	PDAC
+C3N.00497	True	False						True	True	True																															7	0.38225046	LSCC
+C3N.03612	True	False						True	True	True																															7	0.36054847	HNSCC
+C3N.01948	True	False						True	True	True																															7	0.26711765	HNSCC
+C3N.02730	True	False						True	True	True																															7	0.31330544	HNSCC
+C3N.01648	True	False						True	True	True																															7	0.4290648	CCRCC
+C3L.01683	True	False						True	True	True																															7	0.43452546	LUAD
+C3N.00433	True	False						True	True	True																															7	0.43820682	LUAD
+C3L.00140	True	False						True	True	False	True																														23	0.2163055	LUAD
+C3L.00032.T	True	False						True	True	False	True																														23	0.28129697	UCEC
+C3L.00415	True	False						True	True	False	True																														23	0.2117131	LSCC
+C3L.00918.T	True	False						True	True	False	True																														23	0.26584557	UCEC
+C3L.00156.T	True	False						True	True	False	True																														23	0.21401954	UCEC
+C3L.02627	True	False						True	True	False	True																														23	0.19300802	LSCC
+C3N.03051	True	False						True	True	False	True																														23	0.16991465	LSCC
+X06BR003	True	False						True	True	False	True																														26	0.19146073	BRCA
+X11BR017	True	False						True	True	False	True																														26	0.19714792	BRCA
+C04OV063	True	False						True	True	False	True																														26	0.12640966	OV
+C04OV051	True	False						True	True	False	True																														12	0.13480769	OV
+X11BR020	True	False						True	True	False	True																														7	0.14911294	BRCA
+C02OV032	True	False						True	True	False	True																														23	0.116549596	OV
+C17OV001	True	False						True	True	False	True																														16	0.12706193	OV
+C04OV036	True	False						True	True	False	True																														7	0.11718174	OV
+C04OV048	True	False						True	True	False	True																														8	0.20600958	OV
+C17OV030	True	False						True	True	False	True																														7	0.16373171	OV
+C3L.04354	True	False						True	True	False	False																														3	0.28634614	HNSCC
+C3N.03841	True	False						True	True	False	False																														3	0.25548026	HNSCC
+C3N.01020	True	False						True	True	False	False																														27	0.17998625	LSCC
+C3L.03963	True	False						True	True	False	False																														7	0.26283824	LSCC
+C3N.03486	True	False						True	True	False	False																														27	0.22220834	LSCC
+C04OV053	True	False						True	True	False	False																														1	0.13530304	OV
+C3L.00358.T	True	False						True	True	False	False																														1	0.20844853	UCEC
+C3L.00144	True	False						True	True	False	False																														7	0.17239544	LUAD
+C3N.01858	True	False						True	True	False	False																														27	0.19179827	HNSCC
+C3L.03388.T	True	False						True	True	False	False																														3	0.1616412	PDAC
+X09BR004	True	False						True	True	False	False																														1	0.16436514	BRCA
+X05BR001	True	False						True	True	False	False																														7	0.2870333	BRCA
+C17OV010	True	False						True	True	False	False																														7	0.32727358	OV
+X01BR008	True	False						True	True	False	False																														1	0.3874917	BRCA
+X11BR003	True	False						True	True	False	False																														7	0.26165095	BRCA
+C3N.01028	True	False						True	True	False	False																														7	0.19177257	LSCC
+C3N.01219.T	True	False						True	True	False	False																														7	0.23878698	UCEC
+C3L.02969	True	False						True	True	False	False																														7	0.38621733	LSCC
+C3N.01537.T	True	False						True	True	False	False																														7	0.339573	UCEC
+X11BR011	True	False						True	True	False	False																														7	0.25336385	BRCA
+X11BR030	True	False						True	True	False	False																														7	0.36411127	BRCA
+X11BR073	True	False						True	True	False	False																														7	0.29956198	BRCA
+X18BR003	True	False						True	True	False	False																														7	0.26488686	BRCA
+C3L.00908	True	False						True	True	False	False																														7	0.18166415	CCRCC
+C3N.01178	True	False						True	True	False	False																														7	0.2836416	CCRCC
+C3L.04071	True	False						True	True	False	False																														7	0.24304287	LSCC
+C3L.02891	True	False						True	True	False	False																														7	0.20037428	LSCC
+C3L.00143.T	True	False						True	True	False	False																														7	0.24520469	UCEC
+C3N.01194	True	False						True	True	False	False																														7	0.26429045	LSCC
+C3L.00607	True	False						True	True	False	False																														8	0.22146755	CCRCC
+C3L.00004	True	False						True	True	False	False																														8	0.16665316	CCRCC
+C3L.00416	True	False						True	True	False	False																														7	0.21981767	CCRCC
+C3N.02333	True	False						True	True	False	False																														7	0.20851833	HNSCC
+C3N.04275	True	False						True	True	False	False																														23	0.18797216	HNSCC
+C3L.02625	True	False						True	True	False	False																														7	0.2576206	LSCC
+C3N.00389.T	True	False						True	True	False	False																														7	0.17455888	UCEC
+C3L.01275.T	True	False						True	False			False																													30	0.14397901	UCEC
+MB281_GR4	True	False						True	False			False																													28	0.18504003	MEDUL
+C3N.01620	True	False						True	False			False																													12	0.19742712	HNSCC
+C3N.03042	True	False						True	False			False																													12	0.20185877	HNSCC
+C3N.00574	True	False						True	False			False																													11	0.2174155	LUAD
+C3N.00577	True	False						True	False			False																													11	0.16371988	CCRCC
+C3N.00169	True	False						True	False			False																													6	0.21244155	LUAD
+C3N.00435	True	False						True	False			False																													6	0.14731975	CCRCC
+C11CO054	True	False						True	False			False																													3	0.19568975	COAD
+C3N.00822	True	False						True	False			False																													3	0.21210015	HNSCC
+C3N.00734.T	True	False						True	False			False																													23	0.24250433	UCEC
+C3L.00770.T	True	False						True	False			False																													3	0.17771873	UCEC
+C3L.02619	True	False						True	False			False																													30	0.20494254	LSCC
+C3L.00963.T	True	False						True	False			False																													3	0.20645635	UCEC
+C3N.01338	True	False						True	False			False																													3	0.35856146	HNSCC
+C3N.03754.T	True	False						True	False			False																													3	0.32091472	PDAC
+C3N.02279	True	False						True	False			False																													3	0.37792695	HNSCC
+C3N.03884.T	True	False						True	False			False																													3	0.33060548	PDAC
+C3N.02275	True	False						True	False			False																													3	0.26671493	HNSCC
+C3N.03426.T	True	False						True	False			False																													3	0.27690765	PDAC
+C3N.03619	True	False						True	False			False																													3	0.3032371	HNSCC
+C3N.02925	True	False						True	False			False																													3	0.41906685	HNSCC
+C3N.00729.T	True	False						True	False			False																													3	0.32999825	UCEC
+C3N.01645	True	False						True	False			False																													3	0.40599304	HNSCC
+C3L.00977	True	False						True	False			False																													12	0.21919298	HNSCC
+C3L.04844	True	False						True	False			False																													3	0.22820346	HNSCC
+C3N.01212.T	True	False						True	False			False																													12	0.22073801	UCEC
+C3N.00151.T	True	False						True	False			False																													12	0.15485612	UCEC
+C3N.02700	True	False						True	False			False																													12	0.21386796	HNSCC
+C3N.03015	True	False						True	False			False																													3	0.21777366	HNSCC
+C3L.01124.T	True	False						True	False			False																													3	0.18198831	PDAC
+C3L.03628.T	True	False						True	False			False																													3	0.19831878	PDAC
+C3L.00819.T	True	False						True	False			False																													3	0.22419156	PDAC
+C3L.00946.T	True	False						True	False			False																													3	0.26181155	UCEC
+C3N.03039.T	True	False						True	False			False																													3	0.21034086	PDAC
+C3L.04027.T	True	False						True	False			False																													3	0.26509207	PDAC
+C3N.03061.T	True	False						True	False			False																													3	0.21005373	PDAC
+C3L.01884	True	False						True	False			True	False																												6	0.18235104	LSCC
+C3N.04279	True	False						True	False			True	False																												12	0.23142159	HNSCC
+C3L.00905.T	True	False						True	False			True	False																												6	0.1693035	UCEC
+C3N.00555	True	False						True	False			True	False																												6	0.22870588	LSCC
+C3L.01286	True	False						True	False			True	False																												6	0.16146654	CCRCC
+C3N.00552	True	False						True	False			True	False																												6	0.19416797	LUAD
+C3N.01520.T	True	False						True	False			True	False																												8	0.29690605	UCEC
+C3N.01521.T	True	False						True	False			True	False																												6	0.15285544	UCEC
+C3L.00161.T	True	False						True	False			True	False																												12	0.24103262	UCEC
+C3N.01024	True	False						True	False			True	False																												12	0.19983777	LUAD
+C3L.00947.T	True	False						True	False			True	False																												8	0.16491346	UCEC
+C3N.01510.T	True	False						True	False			True	False																												8	0.15298136	UCEC
+C3L.00927	True	False						True	False			True	False																												12	0.3380264	LSCC
+C3N.00580	True	False						True	False			True	False																												12	0.30630183	LUAD
+C3L.01138	True	False						True	False			True	False																												12	0.2428799	HNSCC
+C3L.04849	True	False						True	False			True	False																												12	0.3145582	HNSCC
+C3N.02695	True	False						True	False			True	False																												12	0.28814802	HNSCC
+C3N.04280	True	False						True	False			True	False																												12	0.28402445	HNSCC
+C3N.00294	True	False						True	False			True	False																												12	0.4103549	LUAD
+C3L.02613.T	True	False						True	False			True	False																												12	0.40216985	PDAC
+C3L.03639.T	True	False						True	False			True	False																												12	0.39593256	PDAC
+C3L.04072.T	True	False						True	False			True	False																												12	0.32238403	PDAC
+C3N.03425	True	False						True	False			True	False																												12	0.2905223	LSCC
+C3N.03045	True	False						True	False			True	False																												12	0.33729196	HNSCC
+C3N.03458	True	False						True	False			True	False																												12	0.34050372	HNSCC
+C3L.01287	True	False						True	False			True	True																												12	0.17595403	CCRCC
+C3N.01200	True	False						True	False			True	True																												25	0.14289953	CCRCC
+C3N.01646	True	False						True	False			True	True																												11	0.1714289	CCRCC
+C3L.00096	True	False						True	False			True	True																												12	0.14753766	CCRCC
+C3L.01313	True	False						True	False			True	True																												25	0.17071468	CCRCC
+C3L.00561	True	False						True	False			True	True																												25	0.1849105	CCRCC
+C3N.03182	True	False						True	False			True	True																												25	0.29051432	GBM
+C3N.01366	True	False						True	False			True	True																												25	0.186389	GBM
+C3L.00011	True	False						True	False			True	True																												12	0.21776102	CCRCC
+C3N.01415	True	False						True	False			True	True																												12	0.19789836	LUAD
+C3N.01405	True	False						True	False			True	True																												12	0.18753755	LUAD
+C11OV002	True	False						True	False			True	True																												7	0.19181974	OV
+C05CO041	True	False						True	False			True	True																												12	0.21649665	COAD
+C3L.03123.T	True	False						True	False			True	True																												7	0.22479656	PDAC
+C3N.02003	True	False						True	False			True	True																												12	0.27951142	LUAD
+C3N.01715.T	True	False						True	False			True	True																												7	0.24689022	PDAC
+C3N.02424	True	False						True	False			True	True																												12	0.3314724	LUAD
+C3L.00098.T	True	False						True	False			True	True																												12	0.17230405	UCEC
+C3N.00315	True	False						True	False			True	True																												7	0.2206777	CCRCC
+C3N.02529	True	False						True	False			True	True																												12	0.22445549	LUAD
+C3N.00154	True	False						True	False			True	True																												12	0.14065622	CCRCC
+C3N.00437	True	False						True	False			True	True																												12	0.19960077	CCRCC
+C3N.02379	True	False						True	False			True	True																												12	0.3739736	LUAD
+C3N.00299	True	False						True	False			True	True																												12	0.27345088	HNSCC
+C3N.03837	True	False						True	False			True	True																												12	0.32476786	HNSCC
+C04OV037	True	False						True	False			True	True																												1	0.15874927	OV
+C3L.02665	True	False						True	False			True	True																												12	0.23637226	LSCC
+C3N.01349.T	True	False						True	False			True	True																												1	0.19171043	UCEC
+C3N.02588	True	False						True	False			True	True																												27	0.1485086	LUAD
+C3L.02968	True	False						True	False			True	True																												31	0.13991585	LSCC
+C3N.01346.T	True	False						True	False			True	True																												1	0.21099156	UCEC
+C3N.02010.T	False																True	False												False											19	0.23079409	PDAC
+C3N.03888	False																True	False												False											8	0.2540014	HNSCC
+C3L.01031.T	False																True	False												False											19	0.33146182	PDAC
+C3L.03630.T	False																True	False												False											19	0.33306804	PDAC
+C3N.00511.T	False																True	False												False											19	0.3314637	PDAC
+C3N.03839.T	False																True	False												False											19	0.24813403	PDAC
+C3N.03665.T	False																True	False												False											19	0.25286874	PDAC
+C3N.04126.T	False																True	False												False											19	0.22640662	PDAC
+C3L.02118.T	False																True	False												False											19	0.24628782	PDAC
+C3L.02463.T	False																True	False												False											19	0.30499873	PDAC
+C3L.02897.T	False																True	False												False											19	0.25689024	PDAC
+C3N.00249.T	False																True	False												False											19	0.44413233	PDAC
+C3N.01167.T	False																True	False												False											19	0.33553383	PDAC
+C3L.04479.T	False																True	False												False											19	0.29610887	PDAC
+C3N.03439.T	False																True	False												False											19	0.418334	PDAC
+C3L.04791	False																True	False												False											19	0.17754523	HNSCC
+C3L.02610.T	False																True	False												False											19	0.31117505	PDAC
+C3N.03173.T	False																True	False												False											19	0.23323436	PDAC
+C3N.02589.T	False																True	False												False											19	0.299738	PDAC
+C3N.03006.T	False																True	False												False											19	0.27398401	PDAC
+C3L.00589.T	False																True	False												False											19	0.28734383	PDAC
+C3N.03086.T	False																True	False												False											19	0.3326167	PDAC
+C3N.03780.T	False																True	False												False											19	0.41888964	PDAC
+C3N.03853.T	False																True	False												True											19	0.26551846	PDAC
+C3N.00516.T	False																True	False												True											19	0.3589371	PDAC
+C3N.02579.T	False																True	False												True											19	0.29055378	PDAC
+C3L.03743.T	False																True	False												True											19	0.40212485	PDAC
+C3L.02809.T	False																True	False												True											19	0.42405576	PDAC
+C3N.03666.T	False																True	False												True											19	0.45257562	PDAC
+C3L.02109.T	False																True	False												True											19	0.43897462	PDAC
+C3L.04475.T	False																True	False												True											19	0.4380427	PDAC
+C3L.02899.T	False																True	False												True											19	0.36620295	PDAC
+C3N.04282.T	False																True	False												True											19	0.34331974	PDAC
+C3N.00518.T	False																True	False												True											19	0.35573745	PDAC
+C3N.01383.T	False																True	False												True											19	0.3417555	PDAC
+C3N.03000.T	False																True	False												True											24	0.35712478	PDAC
+C3N.01375.T	False																True	False												True											19	0.35158986	PDAC
+C3N.03007.T	False																True	False												True											19	0.37916094	PDAC
+C3L.00277.T	False																True	False												True											19	0.3335184	PDAC
+C3L.03635.T	False																True	False												True											19	0.37154508	PDAC
+C3N.02573.T	False																True	False												True											19	0.33149818	PDAC
+C3L.00599.T	False																True	False												True											19	0.25535876	PDAC
+C3L.00017.T	False																True	False												True											19	0.38252667	PDAC
+C3N.02585.T	False																True	False												True											19	0.34809536	PDAC
+C3N.00514.T	False																True	False												True											19	0.2759906	PDAC
+C3L.01453.T	False																True	False												True											19	0.342544	PDAC
+C3N.02592.T	False																True	False												True											19	0.31063423	PDAC
+C3N.02971.T	False																True	False												True											19	0.34787795	PDAC
+C3L.02116.T	False																True	False												True											19	0.2829958	PDAC
+C3L.01703.T	False																True	False												True											19	0.41516718	PDAC
+C3L.03356.T	False																True	False												True											19	0.47090915	PDAC
+C3L.04848.T	False																True	False												True											19	0.4112111	PDAC
+C3N.02675	False																True	True	False									True													7	0.24450295	LSCC
+C3N.03848	False																True	True	False									True													7	0.25900558	LSCC
+C3L.01455	False																True	True	False									True													23	0.3577979	LSCC
+C3N.02727	False																True	True	False									True													23	0.38584703	HNSCC
+C3N.03424	False																True	True	False									True													23	0.41253373	LSCC
+C3L.00923	False																True	True	False									True													23	0.29619983	LSCC
+C3L.02350	False																True	True	False									True													23	0.2580321	LUAD
+C3N.01851	False																True	True	False									True													23	0.198442	GBM
+C3N.01334	False																True	True	False									True													23	0.1787268	GBM
+C3N.01893	False																True	True	False									True													23	0.22330847	LSCC
+C3L.02629	False																True	True	False									True													23	0.22905004	LSCC
+C3N.04611	False																True	True	False									True													27	0.159985	HNSCC
+C3L.00973	False																True	True	False									True													23	0.2810692	LUAD
+C3N.04277	False																True	True	False									True													23	0.25416964	HNSCC
+C17OV013	False																True	True	False									True													23	0.28761983	OV
+C3L.00412	False																True	True	False									True													23	0.29053465	LUAD
+C3L.02130	False																True	True	False									True													23	0.24321117	LSCC
+C3L.01312.T	False																True	True	False									True													23	0.33858806	UCEC
+C3L.02650	False																True	True	False									True													23	0.3834978	LSCC
+C3L.00449.T	False																True	True	False									True													23	0.37057507	UCEC
+C3L.00780.T	False																True	True	False									True													23	0.36952096	UCEC
+C3L.00263	False																True	True	False									True													23	0.2945783	LUAD
+C3L.02170	False																True	True	False									True													23	0.30141664	LSCC
+C3N.04127	False																True	True	False									True													23	0.25772914	LSCC
+C3L.02648	False																True	True	False									True													23	0.4243696	LSCC
+C3L.02549	False																True	True	False									True													23	0.49907753	LUAD
+C3N.00959	False																True	True	False									True													23	0.41182068	LUAD
+C3L.01632	False																True	True	False									True													29	0.20884363	LUAD
+C3L.01890	False																True	True	False									True													6	0.15663104	LUAD
+C3L.01682	False																True	True	False									False	True												18	0.40689453	LUAD
+C3N.00293	False																True	True	False									False	True												18	0.4100331	LUAD
+C3L.00893	False																True	True	False									False	True												18	0.3524945	LUAD
+C3N.00223	False																True	True	False									False	True												18	0.40607417	LUAD
+C3N.02002	False																True	True	False									False	True												18	0.3990931	LUAD
+C3N.02380	False																True	True	False									False	True												18	0.43253705	LUAD
+C3L.00368	False																True	True	False									False	True												18	0.46792498	LUAD
+C3L.01330	False																True	True	False									False	True												18	0.5108428	LUAD
+C3N.02000	False																True	True	False									False	True												18	0.42177215	LUAD
+C3N.02433	False																True	True	False									False	True												18	0.42729655	LUAD
+C3N.00167	False																True	True	False									False	True												18	0.346439	LUAD
+C3N.02067	False																True	True	False									False	True												18	0.36544314	LUAD
+C3N.02582	False																True	True	False									False	True												18	0.30478564	LUAD
+C3L.00001	False																True	True	False									False	True												24	0.2880477	LUAD
+C3N.02421	False																True	True	False									False	True												18	0.37325132	LUAD
+C3N.01021	False																True	True	False									False	True												18	0.32327843	LUAD
+C3N.02729	False																True	True	False									False	True												18	0.2864078	LUAD
+C3N.00307	False																True	True	False									False	False												27	0.1874879	HNSCC
+C3N.01945	False																True	True	False									False	False												27	0.20379537	HNSCC
+C3L.00942.T	False																True	True	False									False	False												23	0.18007135	UCEC
+C3N.03211.T	False																True	True	False									False	False												22	0.17092142	PDAC
+C3N.00198.T	False																True	True	False									False	False												19	0.23433414	PDAC
+C3N.00519	False																True	True	False									False	False												23	0.17118679	HNSCC
+C3N.01217.T	False																True	True	False									False	False												14	0.1687987	UCEC
+C3N.01267.T	False																True	True	False									False	False												16	0.17288534	UCEC
+C3L.00932.T	False																True	True	False									False	False												14	0.2056256	UCEC
+C3L.00769.T	False																True	True	False									False	False												23	0.1993898	UCEC
+C3L.00961.T	False																True	True	False									False	False												23	0.21213931	UCEC
+C3L.01687.T	False																True	True	False									False	False												2	0.26046425	PDAC
+C3N.03028	False																True	True	False									False	False												10	0.26944068	HNSCC
+C3N.00704	False																True	True	False									False	False												31	0.17136753	LUAD
+C3N.02285	False																True	True	False									False	False												31	0.18581437	LSCC
+C3L.00422	False																True	True	False									False	False												23	0.18195674	LUAD
+C3N.03441	False																True	True	False									False	False												23	0.19576992	LSCC
+C3N.00572	False																True	True	False									False	False												23	0.2136409	LUAD
+C3N.02587	False																True	True	False									False	False												18	0.24554431	LUAD
+C3N.02422	False																True	True	False									False	False												23	0.21332373	LUAD
+C3L.01889	False																True	True	False									False	False												18	0.23289886	LUAD
+C3N.02586	False																True	True	False									False	False												18	0.28156716	LUAD
+C3L.02219	False																True	True	False									False	False												18	0.1307903	LUAD
+C3N.01413	False																True	True	False									False	False												18	0.19351135	LUAD
+C3L.00093	False																True	True	False									False	False												31	0.14501627	LUAD
+C3N.02572	False																True	True	False									False	False												18	0.2013219	LUAD
+C3L.00136.T	False																True	True	False									False	False												16	0.24106215	UCEC
+C3L.01304.T	False																True	True	False									False	False												16	0.22433294	UCEC
+C3L.00145.T	False																True	True	False									False	False												17	0.14620359	UCEC
+C3L.00606	False																True	True	False									False	False												16	0.17973791	CCRCC
+C3N.00175	False																True	True	False									False	False												18	0.1655994	LUAD
+C3N.00199	False																True	True	False									False	False												18	0.23222929	LUAD
+C3L.01282.T	False																True	True	False									False	False												18	0.19424732	UCEC
+C3N.00337.T	False																True	True	False									False	False												18	0.15521237	UCEC
+C3L.02348	False																True	True	False									False	False												18	0.30501607	LUAD
+C3N.01799	False																True	True	False									False	False												18	0.22283012	LUAD
+C3L.01924	False																True	True	False									False	False												18	0.27604538	LUAD
+C3N.03092	False																True	True	False									False	False												18	0.24205488	LSCC
+C01OV023	False																True	True	True	False							True														30	0.12675753	OV
+C16CO006	False																True	True	True	False							True														24	0.13243447	COAD
+C11CO047	False																True	True	True	False							True														24	0.233393	COAD
+C22CO006	False																True	True	True	False							True														7	0.22723003	COAD
+C11CO070	False																True	True	True	False							True														24	0.27986485	COAD
+X18BR002	False																True	True	True	False							True														24	0.2874262	BRCA
+C04OV045	False																True	True	True	False							True														24	0.24273705	OV
+C11CO021	False																True	True	True	False							True														24	0.24014282	COAD
+C04OV012	False																True	True	True	False							True														24	0.24594118	OV
+C17OV014	False																True	True	True	False							True														24	0.1898294	OV
+C01OV007	False																True	True	True	False							True														24	0.26309353	OV
+C04OV005	False																True	True	True	False							True														24	0.22416656	OV
+C04OV018	False																True	True	True	False							True														22	0.19202097	OV
+C11CO045	False																True	True	True	False							True														24	0.14190324	COAD
+C01OV018	False																True	True	True	False							True														22	0.13683991	OV
+C04OV021	False																True	True	True	False							True														22	0.13983193	OV
+C04OV028	False																True	True	True	False							True														24	0.2926001	OV
+C04OV055	False																True	True	True	False							True														24	0.21569535	OV
+C17OV018	False																True	True	True	False							True														24	0.18419705	OV
+C01OV041	False																True	True	True	False							True														24	0.22236012	OV
+C14OV011	False																True	True	True	False							True														24	0.26764807	OV
+C3L.02951	False																True	True	True	False							False														24	0.23824556	LSCC
+C3N.01340	False																True	True	True	False							False														24	0.2899825	HNSCC
+C3N.01758	False																True	True	True	False							False														24	0.20446447	HNSCC
+C3L.00999	False																True	True	True	False							False														24	0.18701851	HNSCC
+C3L.02546	False																True	True	True	False							False														24	0.25415662	LSCC
+C3N.02426	False																True	True	True	False							False														24	0.3633465	LSCC
+C3N.04119.T	False																True	True	True	False							False														24	0.32069048	PDAC
+C3L.00103	False																True	True	True	False							False														31	0.13102305	CCRCC
+C3L.00009	False																True	True	True	False							False														24	0.17839703	LUAD
+C3L.01663	False																True	True	True	False							False														24	0.19872822	LSCC
+C3L.00279	False																True	True	True	False							False														24	0.27250093	LUAD
+C04OV049	False																True	True	True	False							False														24	0.2611207	OV
+C3L.00995	False																True	True	True	False							False														24	0.37952113	HNSCC
+C3N.02289	False																True	True	True	False							False														24	0.3694024	LSCC
+C3N.03781	False																True	True	True	False							False														24	0.38329682	HNSCC
+X05BR005	False																True	True	True	False							False														24	0.30730078	BRCA
+X11BR055	False																True	True	True	False							False														24	0.35754833	BRCA
+X01BR033	False																True	True	True	False							False														24	0.2233414	BRCA
+X03BR013	False																True	True	True	False							False														22	0.18887061	BRCA
+C3N.02339	False																True	True	True	False							False														24	0.2674668	LSCC
+C3L.01838	False																True	True	True	False							False														24	0.36521694	LSCC
+C3L.02552	False																True	True	True	False							False														24	0.30092126	LSCC
+X11BR014	False																True	True	True	False							False														24	0.3299485	BRCA
+C3L.02345	False																True	True	True	False							False														11	0.36668175	LUAD
+C3N.00149	False																True	True	True	False							False														24	0.23217161	CCRCC
+C3N.03008	False																True	True	True	False							False														24	0.26405463	HNSCC
+C3L.04391	False																True	True	True	False							False														24	0.37959072	LSCC
+C3N.00211	False																True	True	True	False							False														24	0.29355946	LSCC
+C3L.00625.T	False																True	True	True	False							False														28	0.19815688	PDAC
+C3N.03069.T	False																True	True	True	False							False														24	0.36591485	PDAC
+C3L.00568	False																True	True	True	True	False			True	False																6	0.18979482	LSCC
+C3L.02669	False																True	True	True	True	False			True	False																24	0.25543374	LSCC
+C3N.02435	False																True	True	True	True	False			True	False																24	0.19437999	LSCC
+X11LU013	False																True	True	True	True	False			True	False																24	0.15508842	LUAD
+C3N.00200.T	False																True	True	True	True	False			True	False																28	0.12384334	UCEC
+MB278_GR3	False																True	True	True	True	False			True	False																28	0.16966917	MEDUL
+C3L.03395.T	False																True	True	True	True	False			True	False																28	0.16891275	PDAC
+C3L.02963	False																True	True	True	True	False			True	False																7	0.18723467	LSCC
+C3N.01072	False																True	True	True	True	False			True	False																24	0.21751203	LUAD
+X11BR056	False																True	True	True	True	False			True	False																24	0.1422385	BRCA
+C3N.00556	False																True	True	True	True	False			True	False																12	0.22814244	LUAD
+C3N.02423	False																True	True	True	True	False			True	False																12	0.2227961	LUAD
+C05CO015	False																True	True	True	True	False			True	False																7	0.19872548	COAD
+C11CO018	False																True	True	True	True	False			True	False																7	0.13495773	COAD
+C3L.00904	False																True	True	True	True	False			True	False																12	0.18555535	LSCC
+X11LU016	False																True	True	True	True	False			True	False																6	0.21865106	LUAD
+C3N.00546	False																True	True	True	True	False			True	False																6	0.2075968	LUAD
+C3N.01488	False																True	True	True	True	False			True	False																6	0.18634368	LUAD
+C3N.01489	False																True	True	True	True	False			True	False																28	0.18740372	LUAD
+C3N.00551	False																True	True	True	True	False			True	False																12	0.25317895	LUAD
+C3N.01030	False																True	True	True	True	False			True	False																12	0.26822641	LUAD
+C3N.00203	False																True	True	True	True	False			True	False																12	0.25613785	LUAD
+C3N.02087	False																True	True	True	True	False			True	False																12	0.28218412	LUAD
+C3N.00871	False																True	True	True	True	False			True	True																24	0.16441326	HNSCC
+C3N.03488	False																True	True	True	True	False			True	True																24	0.26954797	HNSCC
+C3N.00857	False																True	True	True	True	False			True	True																24	0.20698498	HNSCC
+C3N.02523	False																True	True	True	True	False			True	True																29	0.20703179	LSCC
+C3N.01752	False																True	True	True	True	False			True	True																12	0.21796794	HNSCC
+C3N.01754	False																True	True	True	True	False			True	True																12	0.23008576	HNSCC
+C3L.02358	False																True	True	True	True	False			True	True																20	0.1736843	LSCC
+C3N.02300	False																True	True	True	True	False			True	True																31	0.14636955	LSCC
+C17OV039	False																True	True	True	True	False			True	True																24	0.1959805	OV
+X11BR028	False																True	True	True	True	False			True	True																16	0.15187305	BRCA
+C04OV013	False																True	True	True	True	False			True	True																24	0.20191355	OV
+C11CO019	False																True	True	True	True	False			True	True																24	0.2850985	COAD
+X18BR006	False																True	True	True	True	False			True	True																24	0.21077926	BRCA
+C04OV023	False																True	True	True	True	False			True	True																24	0.1670099	OV
+C04OV033	False																True	True	True	True	False			True	True																24	0.2387819	OV
+C11CO077	False																True	True	True	True	False			True	True																24	0.20218271	COAD
+C04OV031	False																True	True	True	True	False			True	True																24	0.13097653	OV
+C04OV039	False																True	True	True	True	False			True	True																24	0.14682004	OV
+C05CO006	False																True	True	True	True	False			True	True																4	0.16057561	COAD
+X22BR005	False																True	True	True	True	False			True	True																13	0.12960681	BRCA
+C04OV001	False																True	True	True	True	False			True	True																12	0.1560029	OV
+C04OV058	False																True	True	True	True	False			True	True																1	0.108085215	OV
+C01OV047	False																True	True	True	True	False			True	True																24	0.12945062	OV
+C02OV005	False																True	True	True	True	False			True	True																24	0.12647627	OV
+C11CO022	False																True	True	True	True	False			True	True																33	0.19939157	COAD
+C11CO053	False																True	True	True	True	False			True	True																20	0.1686883	COAD
+X09BR005	False																True	True	True	True	False			True	True																13	0.17318594	BRCA
+X16BR012	False																True	True	True	True	False			True	True																20	0.18421036	BRCA
+C04OV040	False																True	True	True	True	False			True	True																24	0.13257739	OV
+C05CO002	False																True	True	True	True	False			True	True																4	0.13061154	COAD
+C3N.00578	False																True	True	True	True	False			False		False															6	0.26253247	LUAD
+C3L.00921.T	False																True	True	True	True	False			False		False															6	0.18654522	UCEC
+C3N.02145	False																True	True	True	True	False			False		False															6	0.23445351	LUAD
+C3L.03681	False																True	True	True	True	False			False		False															6	0.20344347	GBM
+C3N.00852	False																True	True	True	True	False			False		False															8	0.22453801	CCRCC
+C3L.01606	False																True	True	True	True	False			False		False															6	0.2548919	LSCC
+C3N.00579	False																True	True	True	True	False			False		False															6	0.25136563	LUAD
+C3N.00559	False																True	True	True	True	False			False		False															6	0.347729	LUAD
+C3N.02158	False																True	True	True	True	False			False		False															6	0.218325	LUAD
+C3L.00583	False																True	True	True	True	False			False		False															17	0.24939065	CCRCC
+C3L.00949.T	False																True	True	True	True	False			False		False															23	0.16862212	UCEC
+C3L.01603	False																True	True	True	True	False			False		False															17	0.19968572	CCRCC
+C3N.00246	False																True	True	True	True	False			False		False															17	0.22495298	CCRCC
+C3L.01352	False																True	True	True	True	False			False		False															17	0.24156108	CCRCC
+C3L.01607	False																True	True	True	True	False			False		False															17	0.16348715	CCRCC
+C3L.00604	False																True	True	True	True	False			False		False															6	0.14144345	LUAD
+C3N.01368	False																True	True	True	True	False			False		False															20	0.1602444	GBM
+C3N.01522	False																True	True	True	True	False			False		False															6	0.21594945	CCRCC
+C3L.00448	False																True	True	True	True	False			False		False															6	0.22149162	CCRCC
+C3N.01416	False																True	True	True	True	False			False		False															6	0.17227848	LUAD
+C3L.01836	False																True	True	True	True	False			False		False															6	0.18297979	CCRCC
+C3N.00573	False																True	True	True	True	False			False		False															6	0.29685798	CCRCC
+C3N.00733	False																True	True	True	True	False			False		False															6	0.21569702	CCRCC
+C3L.00610	False																True	True	True	True	False			False		True															17	0.24505258	CCRCC
+C3L.01553	False																True	True	True	True	False			False		True															17	0.3529687	CCRCC
+C3L.00790	False																True	True	True	True	False			False		True															26	0.26960707	CCRCC
+C3L.00800	False																True	True	True	True	False			False		True															28	0.27572292	CCRCC
+C3L.00812	False																True	True	True	True	False			False		True															17	0.22615066	CCRCC
+MB088_SHH	False																True	True	True	True	False			False		True															9	0.1796316	MEDUL
+C3L.00010	False																True	True	True	True	False			False		True															17	0.35922205	CCRCC
+C3L.00813	False																True	True	True	True	False			False		True															17	0.3719236	CCRCC
+C3L.00799	False																True	True	True	True	False			False		True															17	0.40017444	CCRCC
+C3L.00817	False																True	True	True	True	False			False		True															17	0.38019636	CCRCC
+C3L.01288	False																True	True	True	True	False			False		True															17	0.45784837	CCRCC
+C11CO052	False																True	True	True	True	False			False		True															7	0.24342482	COAD
+C3L.01283	False																True	True	True	True	False			False		True															17	0.38100216	CCRCC
+C3L.01882	False																True	True	True	True	False			False		True															17	0.2265688	CCRCC
+C3L.01246.T	False																True	True	True	True	False			False		True															14	0.24505742	UCEC
+C3L.01925.T	False																True	True	True	True	False			False		True															14	0.18306294	UCEC
+C3L.00139.T	False																True	True	True	True	False			False		True															20	0.20604904	UCEC
+C3N.03076	False																True	True	True	True	False			False		True															27	0.19734982	LSCC
+C3L.03968	False																True	True	True	True	False			False		True															20	0.17503746	GBM
+C3N.01842	False																True	True	True	True	False			False		True															11	0.17058793	LUAD
+C3N.00312	False																True	True	True	True	False			False		True															21	0.17504789	CCRCC
+C3N.00314	False																True	True	True	True	False			False		True															26	0.20954327	CCRCC
+C3N.00310	False																True	True	True	True	False			False		True															26	0.18543091	CCRCC
+C3N.00313	False																True	True	True	True	False			False		True															26	0.15747337	CCRCC
+C3L.00097	False																True	True	True	True	False			False		True															20	0.16553526	CCRCC
+C3N.01179	False																True	True	True	True	False			False		True															31	0.16265503	CCRCC
+C3N.01361	False																True	True	True	True	False			False		True															17	0.18562257	CCRCC
+C3L.01557	False																True	True	True	True	False			False		True															17	0.21485789	CCRCC
+C3N.01808	False																True	True	True	True	False			False		True															14	0.22492293	CCRCC
+MB177_GR4	False																True	True	True	True	False			False		True															14	0.11160686	MEDUL
+MB199_GR4	False																True	True	True	True	False			False		True															17	0.16388524	MEDUL
+MB288_GR4	False																True	True	True	True	False			False		True															17	0.16273703	MEDUL
+C3L.00088	False																True	True	True	True	False			False		True															17	0.24871452	CCRCC
+C3N.00834	False																True	True	True	True	False			False		True															8	0.22059351	CCRCC
+C3N.00335.T	False																True	True	True	True	True	False																			21	0.37085152	UCEC
+C3N.00339.T	False																True	True	True	True	True	False																			21	0.2919583	UCEC
+C3N.00321.T	False																True	True	True	True	True	False																			21	0.4509342	UCEC
+C3N.00322.T	False																True	True	True	True	True	False																			21	0.38081867	UCEC
+C3L.04495.T	False																True	True	True	True	True	False																			21	0.48440906	PDAC
+C3N.00709.T	False																True	True	True	True	True	False																			21	0.424792	PDAC
+C3N.00306	False																True	True	True	True	True	False																			21	0.3522963	HNSCC
+C3N.01012.T	False																True	True	True	True	True	False																			21	0.35769084	PDAC
+C3N.00324.T	False																True	True	True	True	True	False																			21	0.34742936	UCEC
+C3N.00333.T	False																True	True	True	True	True	False																			21	0.4073099	UCEC
+C3N.00334.T	False																True	True	True	True	True	False																			21	0.47253025	UCEC
+C3N.00302.T	False																True	True	True	True	True	False																			19	0.22387111	PDAC
+C3L.00598.T	False																True	True	True	True	True	False																			21	0.308913	PDAC
+C3L.01037.T	False																True	True	True	True	True	False																			21	0.3196842	PDAC
+C3L.02604.T	False																True	True	True	True	True	False																			21	0.26338112	PDAC
+C3N.00388.T	False																True	True	True	True	True	False																			21	0.207261	UCEC
+X11LU022	False																True	True	True	True	True	False																			21	0.23053837	LUAD
+C3N.00297	False																True	True	True	True	True	False																			12	0.26379725	HNSCC
+X11LU035	False																True	True	True	True	True	False																			12	0.27678233	LUAD
+C3N.00379.T	False																True	True	True	True	True	False																			21	0.29764938	UCEC
+C3N.00829	False																True	True	True	True	True	False																			21	0.2242509	HNSCC
+C3N.00323.T	False																True	True	True	True	True	False																			21	0.25113377	UCEC
+C3N.00386.T	False																True	True	True	True	True	False																			21	0.22682421	UCEC
+C3N.00828	False																True	True	True	True	True	False																			21	0.28810576	HNSCC
+C3N.00847.T	False																True	True	True	True	True	False																			21	0.23954505	UCEC
+C3N.00295	False																True	True	True	True	True	False																			21	0.2248655	HNSCC
+C3N.00848.T	False																True	True	True	True	True	False																			21	0.23944175	UCEC
+X11BR031	False																True	True	True	True	True	True	False																		6	0.11795142	BRCA
+X22BR006	False																True	True	True	True	True	True	False																		13	0.23797648	BRCA
+X18BR017	False																True	True	True	True	True	True	False																		13	0.1630799	BRCA
+X21BR002	False																True	True	True	True	True	True	False																		13	0.23118323	BRCA
+X11BR051	False																True	True	True	True	True	True	False																		13	0.32665196	BRCA
+X11BR047	False																True	True	True	True	True	True	False																		24	0.26656288	BRCA
+X18BR016	False																True	True	True	True	True	True	False																		13	0.28520343	BRCA
+C13OV003	False																True	True	True	True	True	True	False																		13	0.16199917	OV
+X21BR010	False																True	True	True	True	True	True	False																		13	0.29545447	BRCA
+X09BR007	False																True	True	True	True	True	True	False																		13	0.21093869	BRCA
+X11BR022	False																True	True	True	True	True	True	False																		13	0.2072382	BRCA
+X05BR038	False																True	True	True	True	True	True	False																		24	0.19544005	BRCA
+X11BR074	False																True	True	True	True	True	True	False																		21	0.22207482	BRCA
+X18BR010	False																True	True	True	True	True	True	False																		24	0.26773039	BRCA
+X01BR015	False																True	True	True	True	True	True	False																		24	0.2004596	BRCA
+X18BR007	False																True	True	True	True	True	True	False																		26	0.21042982	BRCA
+X05BR004	False																True	True	True	True	True	True	False																		13	0.2845084	BRCA
+X11BR040	False																True	True	True	True	True	True	False																		13	0.26863033	BRCA
+X03BR002	False																True	True	True	True	True	True	False																		13	0.3305555	BRCA
+X03BR004	False																True	True	True	True	True	True	False																		13	0.28313765	BRCA
+C3L.00510	False																True	True	True	True	True	True	False																		21	0.27560365	LUAD
+C3N.00383.T	False																True	True	True	True	True	True	False																		32	0.21837746	UCEC
+C3N.00494	False																True	True	True	True	True	True	False																		21	0.25283432	CCRCC
+C3L.01307.T	False																True	True	True	True	True	True	True																		16	0.18475726	UCEC
+X11BR010	False																True	True	True	True	True	True	True																		16	0.26174197	BRCA
+X11BR060	False																True	True	True	True	True	True	True																		16	0.2514707	BRCA
+X11BR058	False																True	True	True	True	True	True	True																		16	0.286792	BRCA
+X20BR008	False																True	True	True	True	True	True	True																		16	0.26260927	BRCA
+X11BR059	False																True	True	True	True	True	True	True																		16	0.2716823	BRCA
+X01BR010	False																True	True	True	True	True	True	True																		16	0.3991362	BRCA
+X05BR044	False																True	True	True	True	True	True	True																		16	0.3751711	BRCA
+X11BR042	False																True	True	True	True	True	True	True																		16	0.42200077	BRCA
+C05CO034	False																True	True	True	True	True	True	True																		19	0.12260104	COAD
+C16CO002	False																True	True	True	True	True	True	True																		13	0.21868317	COAD
+C01CO019	False																True	True	True	True	True	True	True																		26	0.15494013	COAD
+C06CO001	False																True	True	True	True	True	True	True																		26	0.25907403	COAD
+C11CO042	False																True	True	True	True	True	True	True																		4	0.22931221	COAD
+C11CO079	False																True	True	True	True	True	True	True																		4	0.213687	COAD
+C11CO072	False																True	True	True	True	True	True	True																		4	0.20720547	COAD
+C05CO047	False																True	True	True	True	True	True	True																		13	0.1960145	COAD
+C16CO011	False																True	True	True	True	True	True	True																		4	0.19308734	COAD
+C11CO058	False																True	True	True	True	True	True	True																		4	0.265572	COAD
+C14CO005	False																True	True	True	True	True	True	True																		4	0.29109696	COAD
+C05CO037	False																True	True	True	True	True	True	True																		4	0.3472326	COAD
+C27CO004	False																True	True	True	True	True	True	True																		4	0.461327	COAD
+C01CO015	False																True	True	True	True	True	True	True																		4	0.24877082	COAD
+C05CO032	False																True	True	True	True	True	True	True																		4	0.3295931	COAD
+C09CO015	False																True	True	True	True	True	True	True																		4	0.27243128	COAD
+C05CO048	False																True	True	True	True	True	True	True																		4	0.31211302	COAD
+C09CO014	False																True	True	True	True	True	True	True																		4	0.30172968	COAD
+C05CO020	False																True	True	True	True	True	True	True																		4	0.35534978	COAD
+C09CO008	False																True	True	True	True	True	True	True																		4	0.43357193	COAD
+C01CO006	False																True	True	True	True	True	True	True																		4	0.3600509	COAD
+C05CO049	False																True	True	True	True	True	True	True																		4	0.4035401	COAD
+C3L.00622.T	False																False														False									True	3	0.5255833	PDAC
+C3N.01165.T	False																False														False									True	3	0.5670767	PDAC
+C3N.01168.T	False																False														False									True	3	0.45153746	PDAC
+C3L.01036.T	False																False														False									True	3	0.32263094	PDAC
+C3N.02940.T	False																False														False									True	2	0.29789898	PDAC
+C3N.03878	False																False														False									True	3	0.34918526	HNSCC
+C3N.03889	False																False														False									True	3	0.36928844	HNSCC
+C3L.00928.T	False																False														False									True	3	0.48287544	PDAC
+C3L.02606.T	False																False														False									True	3	0.46945912	PDAC
+C3L.00102.T	False																False														False									True	3	0.4312963	PDAC
+C3L.01249.T	False																False														False									True	3	0.37146744	UCEC
+C3L.02621	False																False														False									True	3	0.4226947	HNSCC
+C3N.03457	False																False														False									True	3	0.3365939	HNSCC
+C3L.00401.T	False																False														False									True	3	0.5047864	PDAC
+C3L.00640.T	False																False														False									True	3	0.57510185	PDAC
+C3L.01328.T	False																False														False									True	3	0.52305454	PDAC
+C3N.01716.T	False																False														False									True	3	0.5726441	PDAC
+C3L.02701.T	False																False														False									True	3	0.53772193	PDAC
+C3L.01598.T	False																False														False									True	3	0.56077117	PDAC
+C3N.00436.T	False																False														False									True	3	0.6672111	PDAC
+C3L.01689.T	False																False														False									True	3	0.49003515	PDAC
+C3L.04853.T	False																False														False									True	3	0.5605826	PDAC
+X18BR019	False																False														False									False	2	0.33520615	BRCA
+X20BR001	False																False														False									False	2	0.35298076	BRCA
+X11BR054	False																False														False									False	2	0.32967693	BRCA
+X18BR004	False																False														False									False	2	0.3385023	BRCA
+X11BR049	False																False														False									False	2	0.34298807	BRCA
+X11BR075	False																False														False									False	2	0.3531244	BRCA
+C3N.02768.T	False																False														False									False	2	0.40051177	PDAC
+C3N.04284.T	False																False														False									False	2	0.4021966	PDAC
+C3N.01166.T	False																False														False									False	2	0.51494175	PDAC
+C3L.01053.T	False																False														False									False	2	0.5620951	PDAC
+C3L.01052.T	False																False														False									False	2	0.6701505	PDAC
+C3L.01662.T	False																False														False									False	2	0.6311605	PDAC
+C3N.00513.T	False																False														False									False	2	0.6793066	PDAC
+C3N.01998.T	False																False														False									False	2	0.6510017	PDAC
+C3L.04080.T	False																False														False									False	2	0.6844024	PDAC
+C3L.01971.T	False																False														False									False	2	0.6558001	PDAC
+C3N.03440.T	False																False														False									False	2	0.70437545	PDAC
+C3L.01637.T	False																False														False									False	2	0.5985943	PDAC
+C3N.01382.T	False																False														False									False	2	0.65101904	PDAC
+C3L.02115.T	False																False														False									False	2	0.56223357	PDAC
+C3N.01997.T	False																False														False									False	2	0.67761755	PDAC
+C3N.00517.T	False																False														False									False	2	0.67312187	PDAC
+C3L.01051.T	False																False														False									False	2	0.7064688	PDAC
+C3N.01381.T	False																False														False									False	2	0.68602043	PDAC
+C3N.01011.T	False																False														False									False	2	0.34895787	PDAC
+C3L.02890.T	False																False														False									False	2	0.5233569	PDAC
+C3L.00881.T	False																False														False									False	2	0.60454845	PDAC
+C3N.00512.T	False																False														False									False	2	0.49983856	PDAC
+C3N.03840.T	False																False														False									False	2	0.53972095	PDAC
+C3L.03632.T	False																False														False									False	2	0.55871814	PDAC
+C3L.01054.T	False																False														False									False	2	0.5338342	PDAC
+C3L.02112.T	False																False														False									False	2	0.573621	PDAC
+C3L.03266	False																False														True	True	False								15	0.16455951	GBM
+C3N.01649	False																False														True	True	False								15	0.24429272	CCRCC
+C17OV027	False																False														True	True	False								15	0.16313845	OV
+C3L.00781.T	False																False														True	True	False								15	0.19556318	UCEC
+C3L.00796	False																False														True	True	False								8	0.25193527	CCRCC
+C3L.00814	False																False														True	True	False								8	0.29622552	CCRCC
+C3L.00677	False																False														True	True	False								32	0.20039555	GBM
+C3N.00550	False																False														True	True	False								15	0.17106347	LUAD
+C3L.00447	False																False														True	True	False								15	0.21084507	CCRCC
+C3N.00831	False																False														True	True	False								17	0.19223084	CCRCC
+C3L.01560	False																False														True	True	False								15	0.3822222	CCRCC
+C3L.00183	False																False														True	True	False								15	0.37900212	CCRCC
+C3L.01885	False																False														True	True	False								15	0.33711293	CCRCC
+C3L.00917	False																False														True	True	False								15	0.32863364	CCRCC
+C3L.00792	False																False														True	True	False								15	0.2919059	CCRCC
+C3N.01176	False																False														True	True	False								15	0.3320955	CCRCC
+C17OV036	False																False														True	True	False								15	0.19029313	OV
+C3N.01802.T	False																False														True	True	False								7	0.24920602	UCEC
+C3N.00380	False																False														True	True	False								15	0.18004905	CCRCC
+C3L.00766	False																False														True	True	False								15	0.2940602	CCRCC
+C3N.00495	False																False														True	True	False								15	0.29602358	CCRCC
+C3N.01214	False																False														True	True	False								15	0.2722381	CCRCC
+X01BR026	False																False														True	True	False								1	0.31300244	BRCA
+C3N.00177	False																False														True	True	False								15	0.27425283	CCRCC
+C3L.03744	False																False														True	True	False								15	0.29742616	GBM
+C3L.00907	False																False														True	True	False								15	0.3219771	CCRCC
+C3L.02465	False																False														True	True	False								15	0.2744416	GBM
+C3N.00377.T	False																False														True	True	False								15	0.24802765	UCEC
+C3N.00168	False																False														True	True	False								15	0.3189031	CCRCC
+C3N.00663	False																False														True	True	False								15	0.30178362	GBM
+C3L.00674	False																False														True	True	False								15	0.37944153	GBM
+C3L.02705	False																False														True	True	False								15	0.3486161	GBM
+C3L.01861	False																False														True	True	False								15	0.43823135	CCRCC
+C3L.00910	False																False														True	True	False								15	0.37013483	CCRCC
+C3N.01524	False																False														True	True	False								15	0.32615036	CCRCC
+C3N.01388.T	False																False														True	True	False								15	0.31839228	PDAC
+C3N.02785	False																False														True	True	False								15	0.37757778	GBM
+MB274_SHH	False																False														True	True	True	False							25	0.31172508	MEDUL
+MB284_SHH	False																False														True	True	True	False							21	0.19478856	MEDUL
+C3L.01045	False																False														True	True	True	False							20	0.22451457	GBM
+MB226_GR3	False																False														True	True	True	False							20	0.18421073	MEDUL
+C3L.03727	False																False														True	True	True	False							25	0.18693781	GBM
+MB095_GR3	False																False														True	True	True	False							25	0.22801341	MEDUL
+MB104_SHH	False																False														True	True	True	False							25	0.2973022	MEDUL
+MB234_SHH	False																False														True	True	True	False							25	0.25724193	MEDUL
+MB239_SHH	False																False														True	True	True	False							25	0.4222032	MEDUL
+MB244_SHH	False																False														True	True	True	False							25	0.48495114	MEDUL
+MB102_SHH	False																False														True	True	True	False							25	0.39470425	MEDUL
+MB268_SHH	False																False														True	True	True	False							25	0.44596723	MEDUL
+C3L.01049	False																False														True	True	True	False							25	0.38861677	GBM
+C3N.01364	False																False														True	True	True	False							25	0.29369625	GBM
+MB260_GR3	False																False														True	True	True	False							25	0.31670612	MEDUL
+C3L.03400	False																False														True	True	True	False							25	0.37236926	GBM
+MB170_GR3	False																False														True	True	True	False							25	0.3696911	MEDUL
+C3L.01142	False																False														True	True	True	False							25	0.30320626	GBM
+C3N.02183	False																False														True	True	True	False							7	0.29788846	GBM
+C3L.02704	False																False														True	True	True	False							25	0.15888216	GBM
+C3L.03748	False																False														True	True	True	False							25	0.30469173	GBM
+C3N.02188	False																False														True	True	True	False							25	0.26539454	GBM
+C3N.03183	False																False														True	True	True	False							25	0.24670167	GBM
+MB275_SHH	False																False														True	True	True	False							25	0.26496753	MEDUL
+C3N.01816	False																False														True	True	True	False							25	0.30732277	GBM
+C3N.02784	False																False														True	True	True	False							25	0.31414214	GBM
+C3N.01719.T	False																False														True	True	True	True	True						3	0.2758403	PDAC
+C3N.01502.T	False																False														True	True	True	True	True						3	0.29167998	PDAC
+C3L.00189.T	False																False														True	True	True	True	True						3	0.27447715	PDAC
+C3N.03013	False																False														True	True	True	True	True						3	0.25723532	HNSCC
+C11CO030	False																False														True	True	True	True	True						33	0.2675999	COAD
+C11CO048	False																False														True	True	True	True	True						33	0.29875734	COAD
+C11CO051	False																False														True	True	True	True	True						33	0.38569084	COAD
+C11CO036	False																False														True	True	True	True	True						33	0.2878549	COAD
+C11CO044	False																False														True	True	True	True	True						33	0.2359754	COAD
+X11BR006	False																False														True	True	True	True	True						22	0.21027969	BRCA
+C05CO033	False																False														True	True	True	True	True						22	0.20435251	COAD
+C15OV001	False																False														True	True	True	True	True						30	0.28761223	OV
+X11BR038	False																False														True	True	True	True	True						22	0.22192842	BRCA
+X18BR009	False																False														True	True	True	True	True						22	0.2176707	BRCA
+C04OV008	False																False														True	True	True	True	True						22	0.14842157	OV
+X11BR004	False																False														True	True	True	True	True						30	0.20196353	BRCA
+C3L.00913	False																False														True	True	True	True	False						30	0.28648937	LUAD
+C3L.01302	False																False														True	True	True	True	False						30	0.32042035	CCRCC
+C3N.01220	False																False														True	True	True	True	False						30	0.37820116	CCRCC
+C3N.01856	False																False														True	True	True	True	False						30	0.31392172	GBM
+C3N.01369	False																False														True	True	True	True	False						30	0.36558706	GBM
+C3N.02181	False																False														True	True	True	True	False						30	0.4305444	GBM
+C05CO003	False																False														True	True	True	True	False						30	0.34575456	COAD
+C05CO044	False																False														True	True	True	True	False						30	0.28706858	COAD
+C3N.03430.T	False																False														True	True	True	True	False						12	0.23499422	PDAC
+C3N.04283.T	False																False														True	True	True	True	False						30	0.27616817	PDAC
+C3N.00665	False																False														True	True	True	True	False						25	0.23689741	GBM
+C3L.01046	False																False														True	True	True	True	False						25	0.30042994	GBM
+C3L.01146	False																False														True	True	True	True	False						25	0.21764185	GBM
+C3N.00661	False																False														True	True	True	True	False						15	0.16384578	GBM
+C3N.01192	False																False														True	True	True	True	False						25	0.21816456	GBM
+C3N.01505	False																False														True	True	True	True	False						25	0.22813411	GBM
+C3L.01043	False																False														True	True	True	True	False						25	0.28132302	GBM
+C3N.02769	False																False														True	True	True	True	False						30	0.23892322	GBM
+C3N.01367	False																False														True	True	True	True	False						25	0.2637035	GBM
+C3L.03407	False																False														True	True	True	True	False						25	0.2562543	GBM
+C3N.01515	False																False														True	True	True	True	False						25	0.2805986	GBM
+C3L.03392	False																False														True	True	True	True	False						30	0.20171233	GBM
+C3N.02190	False																False														True	True	True	True	False						25	0.28011248	GBM
+C3N.02786	False																False														True	True	True	True	False						25	0.27649578	GBM
+C3L.00360	False																False														True	True	True	True	False						16	0.21710807	CCRCC
+C3N.01518	False																False														True	True	True	True	False						25	0.34537986	GBM
+C3N.01815	False																False														True	True	True	True	False						25	0.28988042	GBM
+C3L.02041	False																False														True	False				False					9	0.23935471	GBM
+C3L.02900	False																False														True	False				False					9	0.28911477	GBM
+C3N.01798	False																False														True	False				False					9	0.26677632	GBM
+MB265_GR4	False																False														True	False				False					9	0.21299547	MEDUL
+MB269_GR4	False																False														True	False				False					9	0.35202357	MEDUL
+MB227_GR4	False																False														True	False				False					9	0.3114337	MEDUL
+MB264_GR4	False																False														True	False				False					9	0.35904416	MEDUL
+C3L.01156	False																False														True	False				False					20	0.24830256	GBM
+C3N.01857	False																False														True	False				False					9	0.35336173	GBM
+C3L.02970	False																False														True	False				False					20	0.28238106	GBM
+C3N.02255	False																False														True	False				False					20	0.29809082	GBM
+C3L.01887	False																False														True	False				False					9	0.48400554	GBM
+C3L.03260	False																False														True	False				False					9	0.55289626	GBM
+C3N.02770	False																False														True	False				False					9	0.30070242	GBM
+C3N.01814	False																False														True	False				False					9	0.3821278	GBM
+C3N.02256	False																False														True	False				False					9	0.34419987	GBM
+MB174_GR4	False																False														True	False				False					9	0.4491447	MEDUL
+C3L.01157	False																False														True	False				False					9	0.51516	GBM
+C3L.03387	False																False														True	False				False					9	0.48659533	GBM
+C3N.02788	False																False														True	False				False					9	0.6126798	GBM
+C3N.02186	False																False														True	False				False					9	0.61809796	GBM
+C3N.03188	False																False														True	False				False					9	0.5710542	GBM
+C3N.01818	False																False														True	False				False					9	0.39244187	GBM
+C3L.02642	False																False														True	False				False					9	0.4504369	GBM
+C3L.02984	False																False														True	False				False					9	0.47644153	GBM
+C3L.01834	False																False														True	False				False					9	0.4618799	GBM
+C3N.03088	False																False														True	False				False					9	0.50841606	GBM
+MB270_GR4	False																False														True	False				False					9	0.34096357	MEDUL
+MB091_GR4	False																False														True	False				False					9	0.37269714	MEDUL
+MB118_GR4	False																False														True	False				False					9	0.4334657	MEDUL
+MB136_SHH	False																False														True	False				False					25	0.22311723	MEDUL
+C3L.03728	False																False														True	False				False					9	0.2685225	GBM
+MB206_SHH	False																False														True	False				False					9	0.33505562	MEDUL
+C3N.03186	False																False														True	False				False					9	0.17619985	GBM
+MB266_SHH	False																False														True	False				False					9	0.2946264	MEDUL
+MB287_SHH	False																False														True	False				False					9	0.25614595	MEDUL
+C3N.02783	False																False														True	False				False					22	0.2254154	GBM
+C3L.02955	False																False														True	False				False					9	0.27312937	GBM
+C3N.03180	False																False														True	False				False					9	0.2616433	GBM
+X11BR050	False																False														True	False				True	False		False		22	0.47890234	BRCA
+X11BR018	False																False														True	False				True	False		False		22	0.63146406	BRCA
+X03BR005	False																False														True	False				True	False		False		22	0.5938003	BRCA
+X14BR008	False																False														True	False				True	False		False		22	0.556521	BRCA
+X05BR009	False																False														True	False				True	False		False		22	0.5354999	BRCA
+X06BR006	False																False														True	False				True	False		False		22	0.4657245	BRCA
+C3N.01643	False																False														True	False				True	False		False		22	0.342837	HNSCC
+C3L.02508	False																False														True	False				True	False		False		22	0.28561357	LUAD
+C3N.00738	False																False														True	False				True	False		False		22	0.32058564	LUAD
+C3L.02164	False																False														True	False				True	False		False		22	0.3156148	LSCC
+C3N.02998.T	False																False														True	False				True	False		False		22	0.30484164	PDAC
+C3N.03670.T	False																False														True	False				True	False		False		22	0.28632915	PDAC
+C3N.00846	False																False														True	False				True	False		False		10	0.23133865	HNSCC
+C3L.03394.T	False																False														True	False				True	False		False		22	0.33920878	PDAC
+C3N.02295.T	False																False														True	False				True	False		False		22	0.26179042	PDAC
+X15BR003	False																False														True	False				True	False		False		22	0.24269244	BRCA
+X14BR014	False																False														True	False				True	False		False		22	0.3329677	BRCA
+X05BR003	False																False														True	False				True	False		False		22	0.2730375	BRCA
+X11BR072	False																False														True	False				True	False		False		22	0.34040847	BRCA
+C17OV015	False																False														True	False				True	False		False		22	0.34820694	OV
+X05BR026	False																False														True	False				True	False		False		22	0.3104373	BRCA
+X11BR032	False																False														True	False				True	False		False		22	0.25357804	BRCA
+C3L.00083	False																False														True	False				True	False		False		22	0.31220815	LUAD
+C3L.02660	False																False														True	False				True	False		False		22	0.3257753	LSCC
+C3L.00902	False																False														True	False				True	False		False		22	0.27851403	CCRCC
+C3L.01252.T	False																False														True	False				True	False		False		22	0.3182	UCEC
+C3N.01003.T	False																False														True	False				True	False		False		22	0.27030283	UCEC
+C3N.01380.T	False																False														True	False				True	False		False		22	0.292853	PDAC
+C17OV011	False																False														True	False				True	False		False		22	0.26879776	OV
+C26OV002	False																False														True	False				True	False		False		14	0.18106477	OV
+C20CO003	False																False														True	False				True	False		True		14	0.28549865	COAD
+C21CO006	False																False														True	False				True	False		True		4	0.2092286	COAD
+C3L.01248.T	False																False														True	False				True	False		True		14	0.3200186	UCEC
+C3L.01256.T	False																False														True	False				True	False		True		14	0.32160756	UCEC
+C3L.00765	False																False														True	False				True	False		True		14	0.33261365	CCRCC
+C3N.00150	False																False														True	False				True	False		True		14	0.3658869	CCRCC
+C3L.00771.T	False																False														True	False				True	False		True		14	0.35213527	UCEC
+C3N.01825.T	False																False														True	False				True	False		True		14	0.38882783	UCEC
+C3N.00305	False																False														True	False				True	False		True		14	0.34309506	CCRCC
+MB166_GR3	False																False														True	False				True	False		True		14	0.26355463	MEDUL
+C3N.00646	False																False														True	False				True	False		True		14	0.24329208	CCRCC
+C3N.01213	False																False														True	False				True	False		True		26	0.22385406	CCRCC
+C3L.00581	False																False														True	False				True	False		True		26	0.17189029	CCRCC
+C3N.00491	False																False														True	False				True	False		True		26	0.28641874	CCRCC
+C20CO001	False																False														True	False				True	False		True		26	0.35712087	COAD
+C26OV011	False																False														True	False				True	False		True		26	0.20901462	OV
+C06CO002	False																False														True	False				True	False		True		24	0.2237423	COAD
+C11CO043	False																False														True	False				True	False		True		26	0.18369508	COAD
+C11CO057	False																False														True	False				True	False		True		26	0.2519544	COAD
+C3N.00390	False																False														True	False				True	True	False			32	0.6415695	CCRCC
+C3L.01281	False																False														True	False				True	True	False			32	0.6613222	CCRCC
+C3N.00320	False																False														True	False				True	True	False			32	0.7294464	CCRCC
+C3L.00079	False																False														True	False				True	True	False			32	0.6602545	CCRCC
+C3N.00953	False																False														True	False				True	True	False			32	0.6292546	CCRCC
+C3N.00148	False																False														True	False				True	True	False			32	0.8509008	CCRCC
+C3L.00418	False																False														True	False				True	True	False			32	0.7344656	CCRCC
+C3N.00244	False																False														True	False				True	True	False			32	0.73691475	CCRCC
+C3N.01261	False																False														True	False				True	True	False			32	0.7559408	CCRCC
+C3N.00194	False																False														True	False				True	True	False			32	0.7386669	CCRCC
+C3N.01651	False																False														True	False				True	True	False			32	0.7262023	CCRCC
+C3N.00242	False																False														True	False				True	True	False			32	0.2916054	CCRCC
+C3N.00492	False																False														True	False				True	True	False			32	0.24094409	CCRCC
+C3L.00359	False																False														True	False				True	True	False			32	0.3812755	CCRCC
+C3N.01175	False																False														True	False				True	True	False			32	0.27336225	CCRCC
+C3N.03933	False																False														True	False				True	True	True			10	0.32563344	HNSCC
+C3N.03226	False																False														True	False				True	True	True			10	0.31942388	HNSCC
+C3N.03928	False																False														True	False				True	True	True			10	0.24465176	HNSCC
+C3L.00994	False																False														True	False				True	True	True			10	0.33847967	HNSCC
+C3N.01944	False																False														True	False				True	True	True			10	0.2405737	HNSCC
+C3N.02716	False																False														True	False				True	True	True			10	0.30533588	HNSCC
+C3L.04025	False																False														True	False				True	True	True			10	0.36753336	HNSCC
+C3N.02694	False																False														True	False				True	True	True			10	0.3281109	HNSCC
+C3N.01947	False																False														True	False				True	True	True			10	0.59886163	HNSCC
+C3N.03620	False																False														True	False				True	True	True			10	0.49775136	HNSCC
+C3N.00825	False																False														True	False				True	True	True			10	0.37451452	HNSCC
+C3N.02714	False																False														True	False				True	True	True			10	0.45426702	HNSCC
+C05CO011	False																False														True	False				True	True	True			33	0.2568079	COAD
+C09CO019	False																False														True	False				True	True	True			33	0.37096706	COAD
+C11CO027	False																False														True	False				True	True	True			33	0.35843092	COAD
+C11CO010	False																False														True	False				True	True	True			33	0.40313944	COAD
+C11CO039	False																False														True	False				True	True	True			33	0.35066313	COAD
+C11CO007	False																False														True	False				True	True	True			33	0.5590796	COAD
+C11CO031	False																False														True	False				True	True	True			33	0.5754432	COAD
+C11CO033	False																False														True	False				True	True	True			33	0.5179286	COAD
+C11CO061	False																False														True	False				True	True	True			33	0.5228271	COAD
+C11CO008	False																False														True	False				True	True	True			33	0.4782309	COAD
+C11CO062	False																False														True	False				True	True	True			33	0.4727282	COAD
+C16CO003	False																False														True	False				True	True	True			33	0.35246107	COAD
+C11CO037	False																False														True	False				True	True	True			33	0.5196171	COAD
+C11CO005	False																False														True	False				True	True	True			33	0.6657969	COAD
+C11CO032	False																False														True	False				True	True	True			33	0.5983257	COAD
