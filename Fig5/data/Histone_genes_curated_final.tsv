@@ -1,0 +1,201 @@
+hgnc_id	geneSymbol	name	gene_group	main_gene_group	gene_type	locus_type	status	location	location_sortable	alias_symbol
+HGNC:1102	BRD1	bromodomain containing 1	PHD finger proteins|PWWP domain containing|Bromodomain containing	Bromodomain containing	BRD	gene with protein product	Approved	22q13.33	22q13.33	BRL|BRPF2
+HGNC:1103	BRD2	bromodomain containing 2	Bromodomain and extra-terminal domain family|Bromodomain containing	Bromodomain containing	BRD	gene with protein product	Approved	6p21.32	06p21.32	KIAA9001|RING3|D6S113E|NAT|FSRG1
+HGNC:1104	BRD3	bromodomain containing 3	Bromodomain and extra-terminal domain family|Bromodomain containing	Bromodomain containing	BRD	gene with protein product	Approved	9q34.2	09q34.2	RING3L|ORFX|KIAA0043
+HGNC:13575	BRD4	bromodomain containing 4	Bromodomain and extra-terminal domain family|Bromodomain containing	Bromodomain containing	BRD	gene with protein product	Approved	19p13.12	19p13.12	HUNKI|MCAP|CAP|HUNK1
+HGNC:14310	BRD7	bromodomain containing 7	Bromodomain containing|PBAF complex	Bromodomain containing	BRD	gene with protein product	Approved	16q12.1	16q12.1	CELTIX1|BP75|SMARCI1
+HGNC:19874	BRD8	bromodomain containing 8	Bromodomain containing|Tip60/Nua4 histone acetyltransferase complex subunits	Bromodomain containing	BRD	gene with protein product	Approved	5q31.2	05q31.2	SMAP|p120
+HGNC:25818	BRD9	bromodomain containing 9	Bromodomain containing|BAF complex|GBAF complex	Bromodomain containing	BRD	gene with protein product	Approved	5p15.33	05p15.33	FLJ13441|SMARCI2
+HGNC:1840	CECR2	CECR2 histone acetyl-lysine reader	Bromodomain containing	Bromodomain containing	BRD	gene with protein product	Approved	22q11.1-q11.21	22q11.1-q11.21	KIAA1740
+HGNC:4916	HIRA	histone cell cycle regulator	WD repeat domain containing|HIRA histone chaperone complex subunits	Bromodomain containing	BRD	gene with protein product	Approved	22q11.21	22q11.21	DGCR1|TUP1
+HGNC:11098	SMARCA2	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2"	Bromodomain containing|BAF complex|GBAF complex	Bromodomain containing	BRD	gene with protein product	Approved	9p24.3	09p24.3	BAF190|hSNF2a|hBRM|Sth1p|SNF2LA|BRM|SNF2|SWI2
+HGNC:11100	SMARCA4	"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4"	Bromodomain containing|BAF complex|PBAF complex|GBAF complex	Bromodomain containing	BRD	gene with protein product	Approved	19p13.2	19p13.2	hSNF2b|BRG1|BAF190|SNF2|SWI2|SNF2-BETA|SNF2LB|FLJ39786
+HGNC:25105	SP140L	SP140 nuclear body protein like	PHD finger proteins|Bromodomain containing	Bromodomain containing	BRD	gene with protein product	Approved	2q37.1	02q37.1	
+HGNC:18056	TAF1L	TATA-box binding protein associated factor 1 like	Bromodomain containing	Bromodomain containing	BRD	gene with protein product	Approved	9p21.1	09p21.1	
+HGNC:4714	H1-0	H1.0 linker histone	H1 histones	H1	H1	gene with protein product	Approved	22q13.1	22q13.1	H1.0
+HGNC:4715	H1-1	"H1.1 linker histone, cluster member"	H1 histones	H1	H1	gene with protein product	Approved	6p22.2	06p22.2	H1.1|H1a
+HGNC:4722	H1-10	H1.10 linker histone	H1 histones	H1	H1	gene with protein product	Approved	3q21.3	03q21.3	MGC15959|MGC8350|H1X
+HGNC:19163	H1-12P	"H1.12 linker histone, cluster member, pseudogene"	H1 histones	H1	H1	pseudogene	Approved	6p22.2	06p22.2	dJ34B20.16|FLJ39701|H1F6P
+HGNC:4716	H1-2	"H1.2 linker histone, cluster member"	H1 histones	H1	H1	gene with protein product	Approved	6p22.2	06p22.2	H1.2|H1s-1|H1c
+HGNC:4717	H1-3	"H1.3 linker histone, cluster member"	H1 histones	H1	H1	gene with protein product	Approved	6p22.2	06p22.2	H1.3|H1d|H1s-2
+HGNC:4718	H1-4	"H1.4 linker histone, cluster member"	H1 histones	H1	H1	gene with protein product	Approved	6p22.2	06p22.2	H1.4|H1e|H1s-4
+HGNC:4719	H1-5	"H1.5 linker histone, cluster member"	H1 histones	H1	H1	gene with protein product	Approved	6p22.1	06p22.1	H1b|H1s-3
+HGNC:4720	H1-6	"H1.6 linker histone, cluster member"	H1 histones	H1	H1	gene with protein product	Approved	6p22.2	06p22.2	H1t
+HGNC:24893	H1-7	H1.7 linker histone	H1 histones	H1	H1	gene with protein product	Approved	12q13.11	12q13.11	HANP1|H1T2
+HGNC:18463	H1-8	H1.8 linker histone	H1 histones	H1	H1	gene with protein product	Approved	3q22.1	03q22.1	
+HGNC:30616	H1-9P	"H1.9 linker histone, pseudogene"	H1 histones	H1	H1	pseudogene	Approved	17q21.33	17q21.33	H1.9
+HGNC:22516	H2AB1	H2A.B variant histone 1	H2A histones	H2A variant	H2A	gene with protein product	Approved	Xq28	Xq28	H2A.B.2
+HGNC:18298	H2AB2	H2A.B variant histone 2	H2A histones	H2A variant	H2A	gene with protein product	Approved	Xq28	Xq28	H2A.B.1
+HGNC:14455	H2AB3	H2A.B variant histone 3	H2A histones	H2A variant	H2A	gene with protein product	Approved	Xq28	Xq28	H2A.B.1
+HGNC:18729	H2AC1	H2A clustered histone 1	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.2	06p22.2	bA317E16.2|H2AFR
+HGNC:4732	H2AC10P	"H2A clustered histone 10, pseudogene"	H2A histones	H2A	H2A	pseudogene	Approved	6p22.2	06p22.2	pH2A/k|dJ34B20.2
+HGNC:4737	H2AC11	H2A clustered histone 11	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.1	06p22.1	pH2A/f|H2A/p|H2A.1b
+HGNC:13671	H2AC12	H2A clustered histone 12	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.1	06p22.1	H2AFALii|dJ86C11.1|H2A/S
+HGNC:4725	H2AC13	H2A clustered histone 13	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.1	06p22.1	H2A/c
+HGNC:4727	H2AC14	H2A clustered histone 14	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.1	06p22.1	H2A/E
+HGNC:4726	H2AC15	H2A clustered histone 15	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.1	06p22.1	H2A/d
+HGNC:4730	H2AC16	H2A clustered histone 16	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.1	06p22.1	H2A/i|dJ193B12.9
+HGNC:4735	H2AC17	H2A clustered histone 17	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.1	06p22.1	H2A/n|H2A.1
+HGNC:4736	H2AC18	H2A clustered histone 18	H2A histones	H2A	H2A	gene with protein product	Approved	1q21.2	01q21.2	H2A.2|H2A/q
+HGNC:29668	H2AC19	H2A clustered histone 19	H2A histones	H2A	H2A	gene with protein product	Approved	1q21.2	01q21.2	H2A/r
+HGNC:4738	H2AC20	H2A clustered histone 20	H2A histones	H2A	H2A	gene with protein product	Approved	1q21.2	01q21.2	H2A/q
+HGNC:20508	H2AC21	H2A clustered histone 21	H2A histones	H2A	H2A	gene with protein product	Approved	1q21.2	01q21.2	
+HGNC:18720	H2AC2P	"H2A clustered histone 2, pseudogene"	H2A histones	H2A	H2A	pseudogene	Approved	6p22.2	06p22.2	bA317E16.5|H2AFSP
+HGNC:18804	H2AC3P	"H2A clustered histone 3, pseudogene"	H2A histones	H2A	H2A	pseudogene	Approved	6p22.2	06p22.2	dJ139G21.2|H2A/T
+HGNC:4734	H2AC4	H2A clustered histone 4	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.2	06p22.2	H2A/m
+HGNC:4728	H2AC5P	"H2A clustered histone 5, pseudogene"	H2A histones	H2A	H2A	pseudogene	Approved	6p22.2	06p22.2	pH2A/f
+HGNC:4733	H2AC6	H2A clustered histone 6	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.2	06p22.2	
+HGNC:4729	HIST1H2AD	H2A clustered histone 7	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.2	06p22.2	H2A/g|H2A.3
+HGNC:4724	H2AC8	H2A clustered histone 8	H2A histones	H2A	H2A	gene with protein product	Approved	6p22.2	06p22.2	H2A/a|H2A.1
+HGNC:18805	H2AC9P	"H2A clustered histone 9, pseudogene"	H2A histones	H2A	H2A	pseudogene	Approved	6p22.2	06p22.2	dJ34B20.8|H2AFUP
+HGNC:14456	H2AJ	H2A.J histone	H2A histones	H2A variant	H2A	gene with protein product	Approved	12p12.3	12p12.3	FLJ10903|MGC921
+HGNC:53961	H2AL1MP	"H2A.L variant histone 1M, pseudogene"	H2A histones	H2A variant	H2A	pseudogene	Approved	Xp21.1	Xp21.1	
+HGNC:53959	H2AL1Q	H2A.L variant histone 1Q	H2A histones	H2A variant	H2A	unknown	Approved	Xp21.1	Xp21.1	H2A.L.1
+HGNC:53960	H2AL3	H2A.L variant histone 3	H2A histones	H2A variant	H2A	gene with protein product	Approved	Xp11.4	Xp11.4	H2A.L.3
+HGNC:18417	H2AP	H2A.P histone	H2A histones	H2A variant	H2A	gene with protein product	Approved	Xp11.4	Xp11.4	HIP17
+HGNC:53962	H2AQ1P	"H2A.Q variant histone 1, pseudogene"	H2A histones	H2A variant	H2A	pseudogene	Approved	Xq26.3	Xq26.3	
+HGNC:20507	H2AW	H2A.W histone	H2A histones	H2A variant	H2A	gene with protein product	Approved	1q42.13	01q42.13	MGC3165
+HGNC:4739	H2AX	H2A.X variant histone	H2A histones	H2A variant	H2A	gene with protein product	Approved	11q23.3	11q23.3	
+HGNC:4741	H2AZ1	H2A.Z variant histone 1	H2A histones	H2A variant	H2A	gene with protein product	Approved	4q23	04q23	H2A.Z
+HGNC:20664	H2AZ2	H2A.Z variant histone 2	H2A histones	H2A variant	H2A	gene with protein product	Approved	7p13	07p13	MGC10170|MGC10831|MGC1947
+HGNC:4740	MACROH2A1	macroH2A.1 histone	Macro domain containing|H2A histones	H2A variant	H2A	gene with protein product	Approved	5q31.1	05q31.1	macroH2A1.2
+HGNC:14453	MACROH2A2	macroH2A.2 histone	Macro domain containing|H2A histones	H2A variant	H2A	gene with protein product	Approved	10q22.1	10q22.1	
+HGNC:18730	H2BC1	H2B clustered histone 1	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.2	06p22.2	bA317E16.3|STBP|TSH2B|H2BFU
+HGNC:4756	H2BC10	H2B clustered histone 10	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.2	06p22.2	H2B/k
+HGNC:4761	H2BC11	H2B clustered histone 11	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.1	06p22.1	H2B/r
+HGNC:13954	H2BC12	H2B clustered histone 12	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.1	06p22.1	H2BFAiii
+HGNC:4762	H2BC12L	H2B clustered histone 12 like	H2B histones	H2B	H2B	gene with protein product	Approved	21q22.3	21q22.3	
+HGNC:4748	H2BC13	H2B clustered histone 13	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.1	06p22.1	H2B/c|dJ97D16.4
+HGNC:4750	H2BC14	H2B clustered histone 14	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.1	06p22.1	H2B/e|dJ160A22.3
+HGNC:4749	H2BC15	H2B clustered histone 15	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.1	06p22.1	H2B/d
+HGNC:4754	H2BC16P	"H2B clustered histone 16, pseudogene"	H2B histones	H2B	H2B	pseudogene	Approved	6p22.1	06p22.1	pH2B/i
+HGNC:4758	H2BC17	H2B clustered histone 17	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.1	06p22.1	H2B/n|H2B.2
+HGNC:24700	H2BC18	H2B clustered histone 18	H2B histones	H2B	H2B	gene with protein product	Approved	1q21.2	01q21.2	
+HGNC:20517	H2BC19P	"H2B clustered histone 19, pseudogene"	H2B histones	H2B	H2B	pseudogene	Approved	1q21.2	01q21.2	H2B/s|H2B/o
+HGNC:20516	H2BC20P	"H2B clustered histone 20, pseudogene"	H2B histones	H2B	H2B	pseudogene	Approved	1q21.2	01q21.2	H2B/t|LETN
+HGNC:4760	H2BC21	H2B clustered histone 21	H2B histones	H2B	H2B	gene with protein product	Approved	1q21.2	01q21.2	H2B/q|H2B.1|H2BE|H2B-GL105
+HGNC:18719	H2BC2P	"H2B clustered histone 2, pseudogene"	H2B histones	H2B	H2B	pseudogene	Approved	6p22.2	06p22.2	bA317E16.4|H2BFVP
+HGNC:4751	H2BC3	H2B clustered histone 3	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.2	06p22.2	H2B/f
+HGNC:4757	H2BC4	H2B clustered histone 4	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.2	06p22.2	H2B/l|H2B.1
+HGNC:4747	H2BC5	H2B clustered histone 5	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.2	06p22.2	H2B/b
+HGNC:4753	H2BC6	H2B clustered histone 6	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.2	06p22.2	H2B/h|H2B.h
+HGNC:4752	H2BC7	H2B clustered histone 7	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.2	06p22.2	H2B/g
+HGNC:4746	H2BC8	H2B clustered histone 8	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.2	06p22.2	H2B/a|H2B.1A
+HGNC:4755	HIST1H2BH	H2B clustered histone 9	H2B histones	H2B	H2B	gene with protein product	Approved	6p22.2	06p22.2	H2B/j
+HGNC:53833	H2BK1	H2B.K variant histone 1	H2B histones	H2B variant	H2B	gene with protein product	Approved	7q36.1	07q36.1	
+HGNC:54442	H2BL1P	"H2B.L histone variant 1, pseudogene"	H2B histones	H2B variant	H2B	pseudogene	Approved	5q13.2	05q13.2	1700024P04Rik|SubH2Bv
+HGNC:56200	H2BN1	H2B.N variant histone 1	H2B histones	H2B variant	H2B	gene with protein product	Approved	17q11.2	17q11.2	
+HGNC:4762	H2BS1	H2B.S histone 1	H2B histones	H2B	H2B	gene with protein product	Approved	21q22.3	21q22.3	H2BFS|H2BS1
+HGNC:20514	H2BU1	H2B.U histone 1	H2B histones	H2B variant	H2B	gene with protein product	Approved	1q42.13	01q42.13	
+HGNC:20515	H2BU2P	"H2B.U histone 2, pseudogene"	H2B histones	H2B variant	H2B	pseudogene	Approved	1q42.13	01q42.13	
+HGNC:27252	H2BW1	H2B.W histone 1	H2B histones	H2B variant	H2B	gene with protein product	Approved	Xq22.2	Xq22.2	TH2B-175
+HGNC:27867	H2BW2	H2B.W histone 2	H2B histones	H2B variant	H2B	gene with protein product	Approved	Xq22.2	Xq22.2	
+HGNC:44390	H2BW3P	"H2B.W histone 3, pseudogene"	H2B histones	H2B variant	H2B	pseudogene	Approved	Xq22.2	Xq22.2	
+HGNC:25757	H2BW4P	"H2B.W histone 4, pseudogene"	H2B histones	H2B variant	H2B	pseudogene	Approved	Xq22.2	Xq22.2	
+HGNC:32060	H3-2	H3.2 histone (putative)	H3 histones	H2	H3	gene with protein product	Approved	1q21.1	01q21.1	HIST2H3PS2|H3-2
+HGNC:4764	H3-3A	H3.3 histone A	H3 histones	H3	H3	gene with protein product	Approved	1q42.12	01q42.12	H3.3A
+HGNC:4765	H3-3B	H3.3 histone B	H3 histones	H3	H3	gene with protein product	Approved	17q25.1	17q25.1	H3.3B
+HGNC:4778	H3-4	H3.4 histone	H3 histones	H3	H3	gene with protein product	Approved	1q42.13	01q42.13	H3t|H3/g|H3.4
+HGNC:33164	H3-5	H3.5 histone	H3 histones	H3	H3	gene with protein product	Approved	12p11.21	12p11.21	H3.5|H3.3C
+HGNC:32060	H3-7	H3.7 histone (putative)	H3 histones	H3	H3	gene with protein product	Approved	1q21.1	01q21.1	p06|H3.7
+HGNC:4766	H3C1	H3 clustered histone 1	H3 histones	H3	H3	gene with protein product	Approved	6p22.2	06p22.2	H3/A
+HGNC:4775	H3C10	H3 clustered histone 10	H3 histones	H3	H3	gene with protein product	Approved	6p22.1	06p22.1	H3/k|H3F1K
+HGNC:4771	H3C11	H3 clustered histone 11	H3 histones	H3	H3	gene with protein product	Approved	6p22.1	06p22.1	H3/f|H3.f
+HGNC:4774	H3C12	H3 clustered histone 12	H3 histones	H3	H3	gene with protein product	Approved	6p22.1	06p22.1	H3/j
+HGNC:25311	H3C13	H3 clustered histone 13	H3 histones	H3	H3	gene with protein product	Approved	1q21.2	01q21.2	
+HGNC:20503	H3C14	H3 clustered histone 14	H3 histones	H3	H3	gene with protein product	Approved	1q21.2	01q21.2	MGC9629|H3/m|H3|H3.2|H3/M
+HGNC:20505	H3C15	H3 clustered histone 15	H3 histones	H3	H3	gene with protein product	Approved	1q21.2	01q21.2	H3/n|H3/o
+HGNC:4776	H3C2	H3 clustered histone 2	H3 histones	H3	H3	gene with protein product	Approved	6p22.2	06p22.2	H3/l
+HGNC:4768	H3C3	H3 clustered histone 3	H3 histones	H3	H3	gene with protein product	Approved	6p22.2	06p22.2	H3/c|H3.1
+HGNC:4767	H3C4	H3 clustered histone 4	H3 histones	H3	H3	gene with protein product	Approved	6p22.2	06p22.2	H3/b
+HGNC:54427	H3C5P	"H3 clustered histone 5, pseudogene"	H3 histones	H3	H3	pseudogene	Approved	6p22.2	06p22.2	
+HGNC:4769	H3C6	H3 clustered histone 6	H3 histones	H3	H3	gene with protein product	Approved	6p22.2	06p22.2	H3/d|H3.1
+HGNC:4773	H3C7	H3 clustered histone 7	H3 histones	H3	H3	gene with protein product	Approved	6p22.2	06p22.2	H3/i
+HGNC:4772	H3C8	H3 clustered histone 8	H3 histones	H3	H3	gene with protein product	Approved	6p22.2	06p22.2	H3/h
+HGNC:18982	H3C9P	"H3 clustered histone 9, pseudogene"	H3 histones	H3	H3	pseudogene	Approved	6p22.2	06p22.2	dJ45P21.6|H3F3AP1|p36
+HGNC:43735	H3Y1	H3.Y histone 1	H3 histones	H3	H3	gene with protein product	Approved	5p15.1	05p15.1	H3.Y|H3.Y.1
+HGNC:43734	H3Y2	H3.Y histone 2	H3 histones	H3	H3	gene with protein product	Approved	5p15.1	05p15.1	H3.X|H3.Y.2
+HGNC:1851	CENPA	centromere protein A	H3 histones	H3	H3	gene with protein product	Approved	2p23.3	02p23.3	CENP-A|CenH3
+HGNC:20510	H4-16	H4 histone 16	H4 histones	H4	H4	gene with protein product	Approved	12p12.3	12p12.3	MGC24116
+HGNC:4781	H4C1	H4 clustered histone 1	H4 histones	H4	H4	gene with protein product	Approved	6p22.2	06p22.2	
+HGNC:4786	H4C10P	"H4 clustered histone 10, pseudogene"	H4 histones	H4	H4	pseudogene	Approved	6p22.1	06p22.1	pH4/f|dJ97D16.3
+HGNC:4785	H4C11	H4 clustered histone 11	H4 histones	H4	H4	gene with protein product	Approved	6p22.1	06p22.1	H4/e|H4F2iv
+HGNC:4784	H4C12	H4 clustered histone 12	H4 histones	H4	H4	gene with protein product	Approved	6p22.1	06p22.1	H4/d|H4F2iii|dJ160A22.1
+HGNC:4791	H4C13	H4 clustered histone 13	H4 histones	H4	H4	gene with protein product	Approved	6p22.1	06p22.1	H4.k|H4/k
+HGNC:4794	H4C14	H4 clustered histone 14	H4 histones	H4	H4	gene with protein product	Approved	1q21.2	01q21.2	
+HGNC:29607	H4C15	H4 clustered histone 15	H4 histones	H4	H4	gene with protein product	Approved	1q21.2	01q21.2	H4/o
+HGNC:4789	H4C2	H4 clustered histone 2	H4 histones	H4	H4	gene with protein product	Approved	6p22.2	06p22.2	H4/I
+HGNC:4787	H4C3	H4 clustered histone 3	H4 histones	H4	H4	gene with protein product	Approved	6p22.2	06p22.2	H4/g|dJ221C16.1
+HGNC:4782	H4C4	H4 clustered histone 4	H4 histones	H4	H4	gene with protein product	Approved	6p22.2	06p22.2	H4/b
+HGNC:4790	H4C5	H4 clustered histone 5	H4 histones	H4	H4	gene with protein product	Approved	6p22.2	06p22.2	H4/j
+HGNC:4783	H4C6	H4 clustered histone 6	H4 histones	H4	H4	gene with protein product	Approved	6p22.2	06p22.2	H4/c|H4
+HGNC:4792	H4C7	H4 clustered histone 7	H4 histones	H4	H4	gene with protein product	Approved	6p22.2	06p22.2	H4/l
+HGNC:4788	H4C8	H4 clustered histone 8	H4 histones	H4	H4	gene with protein product	Approved	6p22.2	06p22.2	H4/h
+HGNC:4793	H4C9	H4 clustered histone 9	H4 histones	H4	H4	gene with protein product	Approved	6p22.1	06p22.1	H4/m
+HGNC:2082	CLOCK	clock circadian regulator	Basic helix-loop-helix proteins|Lysine acetyltransferases	Acetyltransferase	HAT	gene with protein product	Approved	4q12	04q12	KIAA0334|KAT13D|bHLHe8
+HGNC:2348	CREBBP	CREB binding protein	Zinc fingers ZZ-type|Lysine acetyltransferases|Bromodomain containing	Acetyltransferase	HAT	gene with protein product	Approved	16p13.3	16p13.3	RTS|CBP|KAT3A
+HGNC:5959	ELP1	elongator acetyltransferase complex subunit 1	Elongator acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	9q31.3	09q31.3	IKAP|TOT1|IKI3
+HGNC:18248	ELP2	elongator acetyltransferase complex subunit 2	WD repeat domain containing|Elongator acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	18q12.2	18q12.2	FLJ10879|StIP
+HGNC:20696	ELP3	elongator acetyltransferase complex subunit 3	Lysine acetyltransferases|Elongator acetyltransferase complex |GCN5 related N-acetyltransferases|Radical S-adenosylmethionine domain containing	Acetyltransferase	HAT	gene with protein product	Approved	8p21.1	08p21.1	FLJ10422|KAT9
+HGNC:1171	ELP4	elongator acetyltransferase complex subunit 4	Elongator acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	11p13	11p13	PAXNEB
+HGNC:30617	ELP5	elongator acetyltransferase complex subunit 5	Elongator acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	17p13.1	17p13.1	DERP6
+HGNC:25976	ELP6	elongator acetyltransferase complex subunit 6	Elongator acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	3p21.31	03p21.31	FLJ20211
+HGNC:3373	EP300	E1A binding protein p300	Zinc fingers ZZ-type|Lysine acetyltransferases|Bromodomain containing	Acetyltransferase	HAT	gene with protein product	Approved	22q13.2	22q13.2	p300|KAT3B
+HGNC:11958	EP400	E1A binding protein p400	Myb/SANT domain containing|Tip60/Nua4 histone acetyltransferase complex subunits|Small nucleolar RNA protein coding host genes	Acetyltransferase	HAT	gene with protein product	Approved	12q24.33	12q24.33	CAGH32|KIAA1498|P400|KIAA1818|DKFZP434I225
+HGNC:4821	HAT1	histone acetyltransferase 1	Lysine acetyltransferases	Acetyltransferase	HAT	gene with protein product	Approved	2q31.1	02q31.1	KAT1
+HGNC:24565	KANSL1	KAT8 regulatory NSL complex subunit 1	NSL histone acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	17q21.31	17q21.31	DKFZP727C091|MSL1v1|CENP-36|NSL1
+HGNC:26024	KANSL2	KAT8 regulatory NSL complex subunit 2	NSL histone acetyltransferase complex|MicroRNA protein coding host genes|Small nucleolar RNA protein coding host genes	Acetyltransferase	HAT	gene with protein product	Approved	12q13.11	12q13.11	FLJ20436|NSL2
+HGNC:25473	KANSL3	KAT8 regulatory NSL complex subunit 3	NSL histone acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	2q11.2	02q11.2	FLJ10081|Rcd1|NSL3
+HGNC:15904	KAT14	lysine acetyltransferase 14	Lysine acetyltransferases|ATAC complex|GCN5 related N-acetyltransferases	Acetyltransferase	HAT	gene with protein product	Approved	20p11.23	20p11.23	CRP2BP|dJ717M23.1|PRO1194|ATAC2
+HGNC:4201	KAT2A	lysine acetyltransferase 2A	Lysine acetyltransferases|ATAC complex|SAGA complex|GCN5 related N-acetyltransferases|Bromodomain containing	Acetyltransferase	HAT	gene with protein product	Approved	17q21.2	17q21.2	GCN5|PCAF-b
+HGNC:8638	KAT2B	lysine acetyltransferase 2B	Lysine acetyltransferases|ATAC complex|SAGA complex|GCN5 related N-acetyltransferases|Bromodomain containing|MicroRNA protein coding host genes	Acetyltransferase	HAT	gene with protein product	Approved	3p24.3	03p24.3	P/CAF|GCN5|GCN5L
+HGNC:5275	KAT5	lysine acetyltransferase 5	Zinc fingers C2HC-type|MYST type domain containing lysine acetyltransferases|Tip60/Nua4 histone acetyltransferase complex subunits	Acetyltransferase	HAT	gene with protein product	Approved	11q13.1	11q13.1	TIP60|PLIP|cPLA2|HTATIP1|ESA1|ZC2HC5
+HGNC:13013	KAT6A	lysine acetyltransferase 6A	Zinc fingers C2HC-type|PHD finger proteins|MYST type domain containing lysine acetyltransferases	Acetyltransferase	HAT	gene with protein product	Approved	8p11.21	08p11.21	MOZ|ZC2HC6A
+HGNC:17582	KAT6B	lysine acetyltransferase 6B	Zinc fingers C2HC-type|PHD finger proteins|MYST type domain containing lysine acetyltransferases	Acetyltransferase	HAT	gene with protein product	Approved	10q22.2	10q22.2	querkopf|qkf|Morf|MOZ2|ZC2HC6B
+HGNC:17016	KAT7	lysine acetyltransferase 7	Zinc fingers C2HC-type|MYST type domain containing lysine acetyltransferases	Acetyltransferase	HAT	gene with protein product	Approved	17q21.33	17q21.33	HBOA|HBO1|ZC2HC7
+HGNC:17933	KAT8	lysine acetyltransferase 8	Zinc fingers C2HC-type|MSL histone acetyltransferase complex|NSL histone acetyltransferase complex|MYST type domain containing lysine acetyltransferases	Acetyltransferase	HAT	gene with protein product	Approved	16p11.2	16p11.2	MOF|FLJ14040|hMOF|ZC2HC8
+HGNC:6946	MCM3AP	minichromosome maintenance complex component 3 associated protein	germinal-centre associated nuclear protein	Acetyltransferase	HAT	gene with protein product	Approved	21q22.3	21q22.3	Map80|KIAA0572|GANP|SAC3
+HGNC:6960	MCRS1	microspherule protein 1	INO80 complex |NSL histone acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	12q13.12	12q13.12	ICP22BP|MSP58|P78|MCRS2|INO80Q
+HGNC:25674	MEAF6	MYST/Esa1 associated factor 6	Tip60/Nua4 histone acetyltransferase complex subunits|MicroRNA protein coding host genes	Acetyltransferase	HAT	gene with protein product	Approved	1p34.3	01p34.3	NY-SAR-91|FLJ11730|Eaf6|CENP-28
+HGNC:16989	MORF4L1	mortality factor 4 like 1	EMSY complex|Tip60/Nua4 histone acetyltransferase complex subunits	Acetyltransferase	HAT	gene with protein product	Approved	15q25.1	15q25.1	MRG15|MORFRG15|HsT17725|Eaf3|MEAF3
+HGNC:15866	MRGBP	MRG domain binding protein	Tip60/Nua4 histone acetyltransferase complex subunits	Acetyltransferase	HAT	gene with protein product	Approved	20q13.33	20q13.33	FLJ10914|MRG15BP|Eaf7
+HGNC:27905	MSL1	MSL complex subunit 1	MSL histone acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	17q21.1	17q21.1	hMSL1|MSL-1|DKFZp686P24239
+HGNC:25544	MSL2	MSL complex subunit 2	Ring finger proteins|MSL histone acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	3q22.3	03q22.3	FLJ10546|KIAA1585|msl-2
+HGNC:7370	MSL3	MSL complex subunit 3	MSL histone acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	Xp22.2	Xp22.2	
+HGNC:7668	NCOA1	nuclear receptor coactivator 1	Basic helix-loop-helix proteins|Lysine acetyltransferases	Acetyltransferase	HAT	gene with protein product	Approved	2p23.3	02p23.3	SRC1|F-SRC-1|NCoA-1|KAT13A|RIP160|bHLHe74
+HGNC:7669	NCOA2	nuclear receptor coactivator 2	Basic helix-loop-helix proteins|Lysine acetyltransferases	Acetyltransferase	HAT	gene with protein product	Approved	8q13.3	08q13.3	TIF2|GRIP1|NCoA-2|KAT13C|bHLHe75
+HGNC:7670	NCOA3	nuclear receptor coactivator 3	Basic helix-loop-helix proteins|Lysine acetyltransferases	Acetyltransferase	HAT	gene with protein product	Approved	20q13.12	20q13.12	RAC3|AIB1|ACTR|p/CIP|TRAM-1|CAGH16|TNRC16|KAT13B|bHLHe42|SRC-3|SRC3
+HGNC:8127	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase	O-linked N-acetylglucosaminyltransferases|Tetratricopeptide repeat domain containing|NSL histone acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	Xq13.1	Xq13.1	O-GLCNAC|HRNT1|MGC22921|FLJ23071|OGT1
+HGNC:16098	PHF20	PHD finger protein 20	PHD finger proteins|Tudor domain containing|NSL histone acetyltransferase complex	Acetyltransferase	HAT	gene with protein product	Approved	20q11.22-q11.23	20q11.22-q11.23	dJ1121G12.1|TDRD20A
+HGNC:10474	RUVBL1	RuvB like AAA ATPase 1	AAA ATPases|INO80 complex |DNA helicases|SRCAP complex|R2TP complex|Tip60/Nua4 histone acetyltransferase complex subunits|R2SP complex	Acetyltransferase	HAT	gene with protein product	Approved	3q21.3	03q21.3	TIP49|NMP238|RVB1|TIP49a|Pontin52|ECP54|TIH1|Rvb1|INO80H
+HGNC:10475	RUVBL2	RuvB like AAA ATPase 2	AAA ATPases|INO80 complex |DNA helicases|SRCAP complex|R2TP complex|Tip60/Nua4 histone acetyltransferase complex subunits|MicroRNA protein coding host genes|R2SP complex	Acetyltransferase	HAT	gene with protein product	Approved	19q13.33	19q13.33	RVB2|TIP48|TIP49b|Reptin52|ECP51|TIH2|INO80J|Rvb2
+HGNC:11535	TAF1	TATA-box binding protein associated factor 1	Lysine acetyltransferases|Bromodomain containing|General transcription factor IID complex subunits	Acetyltransferase	HAT	gene with protein product	Approved	Xq13.1	Xq13.1	NSCL2|TAFII250|KAT4|DYT3/TAF1
+HGNC:12347	TRRAP	transformation/transcription domain associated protein	SAGA complex|Armadillo like helical domain containing|Tip60/Nua4 histone acetyltransferase complex subunits|MicroRNA protein coding host genes	Acetyltransferase	HAT	gene with protein product	Approved	7q22.1	07q22.1	TR-AP|PAF400|Tra1
+HGNC:11644	VPS72	vacuolar protein sorting 72 homolog	SRCAP complex|Tip60/Nua4 histone acetyltransferase complex subunits	Acetyltransferase	HAT	gene with protein product	Approved	1q21.3	01q21.3	YL-1|YL1|Swc2
+HGNC:12757	WDR5	WD repeat domain 5	WD repeat domain containing|ATAC complex|NSL histone acetyltransferase complex|Cilia and flagella associated|WRAD complex	Acetyltransferase	HAT	gene with protein product	Approved	9q34.2	09q34.2	SWD3|CFAP89
+HGNC:24859	YEATS4	YEATS domain containing 4	YEATS domain containing|SRCAP complex|Tip60/Nua4 histone acetyltransferase complex subunits	Acetyltransferase	HAT	gene with protein product	Approved	12q15	12q15	NuBI-1|GAS41|YAF9
+HGNC:4852	HDAC1	histone deacetylase 1	"Histone deacetylases, class I|EMSY complex|NuRD complex subunits|SIN3 histone deacetylase complex subunits|MiDAC complex subunits"	Deacetylase	HDAC	gene with protein product	Approved	1p35.2-p35.1	01p35.2-p35.1	HD1|GON-10|KDAC1
+HGNC:18128	HDAC10	histone deacetylase 10	"Histone deacetylases, class IIB"	Deacetylase	HDAC	gene with protein product	Approved	22q13.33	22q13.33	DKFZP761B039
+HGNC:19086	HDAC11	histone deacetylase 11	"Histone deacetylases, class IV"	Deacetylase	HDAC	gene with protein product	Approved	3p25.1	03p25.1	
+HGNC:4853	HDAC2	histone deacetylase 2	"Histone deacetylases, class I|EMSY complex|NuRD complex subunits|SIN3 histone deacetylase complex subunits|MiDAC complex subunits"	Deacetylase	HDAC	gene with protein product	Approved	6q21	06q21	RPD3|YAF1|KDAC2
+HGNC:4854	HDAC3	histone deacetylase 3	"Histone deacetylases, class I|NCoR/SMRT transcriptional repression complex subunits"	Deacetylase	HDAC	gene with protein product	Approved	5q31.3	05q31.3	RPD3|HD3|RPD3-2|KDAC3
+HGNC:14063	HDAC4	histone deacetylase 4	"Histone deacetylases, class IIA|MicroRNA protein coding host genes"	Deacetylase	HDAC	gene with protein product	Approved	2q37.3	02q37.3	KIAA0288|HDAC-A|HDACA|HD4|HA6116|HDAC-4
+HGNC:14068	HDAC5	histone deacetylase 5	"Histone deacetylases, class IIA"	Deacetylase	HDAC	gene with protein product	Approved	17q21.31	17q21.31	KIAA0600|NY-CO-9|FLJ90614
+HGNC:14064	HDAC6	histone deacetylase 6	"Protein phosphatase 1 regulatory subunits|Histone deacetylases, class IIB"	Deacetylase	HDAC	gene with protein product	Approved	Xp11.23	Xp11.23	KIAA0901|JM21|HD6|FLJ16239|PPP1R90
+HGNC:14067	HDAC7	histone deacetylase 7	"Histone deacetylases, class IIA"	Deacetylase	HDAC	gene with protein product	Approved	12q13.11	12q13.11	DKFZP586J0917
+HGNC:13315	HDAC8	histone deacetylase 8	"Histone deacetylases, class I"	Deacetylase	HDAC	gene with protein product	Approved	Xq13.1	Xq13.1	RPD3|KDAC8
+HGNC:14065	HDAC9	histone deacetylase 9	"Histone deacetylases, class IIA"	Deacetylase	HDAC	gene with protein product	Approved	7p21.1	07p21.1	KIAA0744|HDAC|MITR|HD7|HDAC7B
+HGNC:9887	RBBP4	"RB binding protein 4, chromatin remodeling factor"	WD repeat domain containing|EMSY complex|NuRD complex subunits|SIN3 histone deacetylase complex subunits|Polycomb repressive complex 2|NURF complex	Deacetylase	HDAC	gene with protein product	Approved	1p35.1	01p35.1	RbAp48|NURF55|lin-53
+HGNC:9890	RBBP7	"RB binding protein 7, chromatin remodeling factor"	WD repeat domain containing|EMSY complex|NuRD complex subunits|SIN3 histone deacetylase complex subunits|Polycomb repressive complex 2|NURF complex	Deacetylase	HDAC	gene with protein product	Approved	Xp22.2	Xp22.2	RbAp46
+HGNC:10530	SAP18	Sin3A associated protein 18	ASAP complex|SIN3 histone deacetylase complex subunits|Spliceosomal Bact complex|Spliceosomal C complex	Deacetylase	HDAC	gene with protein product	Approved	13q12.11	13q12.11	SAP18p|2HOR0202|MGC27131
+HGNC:10532	SAP30	Sin3A associated protein 30	SIN3 histone deacetylase complex subunits	Deacetylase	HDAC	gene with protein product	Approved	4q34.1	04q34.1	
+HGNC:19353	SIN3A	SIN3 transcription regulator family member A	EMSY complex|SIN3 histone deacetylase complex subunits	Deacetylase	HDAC	gene with protein product	Approved	15q24.2	15q24.2	KIAA0700|DKFZP434K2235
+HGNC:19354	SIN3B	SIN3 transcription regulator family member B	EMSY complex|SIN3 histone deacetylase complex subunits	Deacetylase	HDAC	gene with protein product	Approved	19p13.11	19p13.11	KIAA0700
+HGNC:14929	SIRT1	sirtuin 1	Sirtuins|eNoSC complex	Deacetylase	HDAC	gene with protein product	Approved	10q21.3	10q21.3	SIR2L1
+HGNC:10886	SIRT2	sirtuin 2	Sirtuins	Deacetylase	HDAC	gene with protein product	Approved	19q13.2	19q13.2	
+HGNC:14931	SIRT3	sirtuin 3	Sirtuins	Deacetylase	HDAC	gene with protein product	Approved	11p15.5	11p15.5	SIR2L3
+HGNC:14932	SIRT4	sirtuin 4	Sirtuins	Deacetylase	HDAC	gene with protein product	Approved	12q24.31	12q24.31	SIR2L4
+HGNC:14933	SIRT5	sirtuin 5	Sirtuins	Deacetylase	HDAC	gene with protein product	Approved	6p23	06p23	
+HGNC:14934	SIRT6	sirtuin 6	Sirtuins	Deacetylase	HDAC	gene with protein product	Approved	19p13.3	19p13.3	
+HGNC:14935	SIRT7	sirtuin 7	Sirtuins	Deacetylase	HDAC	gene with protein product	Approved	17q25.3	17q25.3	
+HGNC:29545	SUDS3	"SDS3 homolog, SIN3A corepressor complex component"	SIN3 histone deacetylase complex subunits	Deacetylase	HDAC	gene with protein product	Approved	12q24.23	12q24.23	SDS3|FLJ00052|SAP45
