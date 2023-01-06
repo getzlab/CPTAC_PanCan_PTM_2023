@@ -1,0 +1,112 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Dependencies
+```{r}
+library(dplyr)
+library(tidyverse)
+library(ComplexHeatmap)
+```
+
+Load acetylation data and subset histone genes
+```{r}
+histone_genes <- read.delim('../../data/Histone_genes_v1.tsv')
+
+acetyl  <- read.delim("../../data/acetylome_imputed.tsv")
+
+
+mart <- useMart(biomart = "ensembl", dataset = "hsapiens_gene_ensembl")
+
+refseq_ids <- unique(acetyl$short_refseq_id)
+
+IDs <- getBM(attributes = c("hgnc_id","refseq_peptide"),
+             filters = "refseq_peptide", values = refseq_ids,
+             mart = mart)
+
+colnames(IDs)[2] <- 'short_refseq_id'
+
+acetyl<-dplyr::left_join(acetyl,IDs,by='short_refseq_id')
+
+
+hist_acetyl_full <- acetyl %>%
+    merge(., histone_genes, by='hgnc_id') %>%
+    filter(grepl('histones', gene_type))
+
+```
+
+
+Originally plotted with ssGSEA pathway scores, as well
+```{r}
+
+##load ssGSEA data
+exclude_samples = c('Burdenko..1360_WNT', 'C3L.04350', 'C3L.05257', 'MB018_GR3', 'MB037_SHH', 'MB282_GR4', 'X03BR011', 'X1M6_WNT', 'X5M15_WNT')
+
+common_samples=setdiff(colnames(hist_acetyl_full),exclude_samples)
+common_samples=common_samples[!(common_samples %in% c('hgnc_id','acetyl_sites','geneSymbol','id','accession_number','short_refseq_id','symbol','gene_type'))]
+
+hist_acetyl <- hist_acetyl_full[,c('id', common_samples)] %>%
+    column_to_rownames('id') %>% t %>%
+    as.data.frame %>% 
+    rownames_to_column('Sample')
+
+```
+
+
+Load differential expression results
+```{r}
+################## sites decreased in immune cool (imputed acetyl) #########################
+
+im_cool_impute_de_df <- read.delim('../tables/hist_DE_immune_cool_vs_others_060322.tsv')
+im_cool_sites <- im_cool_impute_de_df %>% filter(fdr < 0.1, median_diff < 0) %>% pull(site)
+
+im_cool_short_sites <- im_cool_impute_de_df %>%
+    column_to_rownames('site') %>%
+    .[im_cool_sites,] %>%
+    rownames_to_column('site') %>% 
+    mutate(loc=strsplit(site, split='_') %>% lapply(., '[[', 3) %>% unlist) %>%
+    mutate(short_site=paste(geneSymbol, loc, sep='-')) %>%
+    pull(short_site)
+
+plot_hist_df <- hist_acetyl[,c('Sample', im_cool_sites)]
+colnames(plot_hist_df)[-c(1)] <- im_cool_short_sites
+```
+
+Add immune subtype mappings and plot heatmap
+```{r}
+##add immune mappings
+immune_map_df <- read.delim('../../data/mappings_immune.tsv')
+meta=read.delim('../../data/acetylome_meta_data.tsv')
+
+colnames(meta)[1] <- 'Sample'
+colnames(immune_map_df)[1] <- 'Sample'
+
+plot_hist_df=merge(plot_hist_df, immune_map_df[,c('Sample', 'ImmuneClustC4')], by='Sample')
+plot_hist_df=merge(plot_hist_df,meta[,c('Sample','cohort')],by='Sample')
+
+col_cutoff=plot_hist_df[,-c(1, 24:25)] %>% scale %>% t %>% abs %>% max(., na.rm=T)
+
+col_fun = colorRamp2(c(-3, 0, 3), rev(brewer.pal(3,"RdBu")))
+
+plot_hist_df$cohort[plot_hist_df$cohort=='MEDUL'] <- 'MB'
+plot_hist_df$ImmuneClustC4 <- factor(plot_hist_df$ImmuneClustC4, levels=c('ImmuneCold', 'ImmuneCool', 'ImmuneWarm', 'ImmuneHot'))
+
+h4=Heatmap(plot_hist_df[,im_cool_short_sites] %>% scale %>% t,
+           col=col_fun,
+           name='Z score',
+           row_names_gp=gpar(fontsize=9),
+           column_split=plot_hist_df$ImmuneClustC4,
+           cluster_column_slices = F,
+           bottom_annotation=columnAnnotation(Cohort=plot_hist_df$cohort,
+                                              Immune=plot_hist_df$ImmuneClustC4,
+                                              col=list(Cohort=c("GBM"="#52b788", "MB"="#193e2e", "LSCC"="#91bdff", "LUAD"="#1a759f", "UCEC"="#5a189a", "BRCA"="#cd6090"),
+                                                       Immune=c('ImmuneCool'='#73ABC9', 'ImmuneWarm'='#F6A43E', 'ImmuneCold'='#8A74C0', 'ImmuneHot'='#B94A47'))))
+
+pdf('../../figures/hist_ac_immune_cool_htmap.pdf', width=18, height=5)
+h4
+dev.off()
+
+```
+
+
