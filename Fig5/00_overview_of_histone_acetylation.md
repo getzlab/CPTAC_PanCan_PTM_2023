@@ -94,7 +94,7 @@ head(case_mapping)
     ## 5   C3N.02284         C1   LSCC  69   Male Unknown 2.674412
     ## 6   C3L.00993         C1   LSCC  75   Male Unknown 2.094367
 
-\#2.Prepare acetylome data matrix
+# 2.Prepare acetylome data matrix
 
 ``` r
 # acetylome
@@ -109,7 +109,7 @@ histone.acetylome_imputed <-acetylome_imputed %>% filter(geneSymbol %in% acetyla
 histone.acetylome_imputed <-Histone_genes_curated%>%dplyr::select(geneSymbol,gene_type)%>%right_join(histone.acetylome_imputed,by="geneSymbol")
 ```
 
-\#3. Generate annotation file and data matrix for the heatmap
+# 3. Generate annotation file and data matrix for the heatmap
 
 ``` r
 hist_site_anno<-histone.acetylome_imputed %>% dplyr::select(acetyl_sites,gene_type)
