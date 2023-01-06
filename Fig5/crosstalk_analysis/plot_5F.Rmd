@@ -1,0 +1,111 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Load dependencies
+```{r}
+library(dplyr)
+library(ggpubr)
+library(tidyverse)
+```
+
+
+Load data
+```{r}
+###Global 
+
+raw_acetyl=read.delim('../../data/acetylome_raw_res_X.tsv')
+raw_phospho=read.delim('../../data/phosphoproteome_raw_res_X.tsv')
+
+raw_acetyl <- raw_acetyl %>% column_to_rownames('id') %>%
+  t %>% as.data.frame %>%
+  rownames_to_column('Sample')
+
+raw_phospho <- raw_phospho %>% column_to_rownames('id') %>%
+  t %>% as.data.frame %>%
+  rownames_to_column('Sample')
+
+raw_ac_pho <- merge(raw_acetyl, raw_phospho, by='Sample')
+```
+
+Remove extraneous samples not part of study
+
+```{r}
+exclude_samples = c('Burdenko..1360_WNT', 'C3L.04350', 'C3L.05257', 'MB018_GR3', 'MB037_SHH', 'MB282_GR4', 'X03BR011', 'X1M6_WNT', 'X5M15_WNT')
+
+raw_ac_pho=raw_ac_pho %>% filter(!(Sample %in% exclude_samples))
+
+```
+
+Plot H3 sites scatter
+```{r}
+out_dir='figures/'
+
+setwd(out_dir)
+
+plot_ac_pho_1=raw_ac_pho[,c('NP_002098.1_K28k_1_1_28_28', 'NP_002098.1_S29s_1_1_29_29')]
+
+
+p <- ggplot(plot_ac_pho_1, aes(x=NP_002098.1_S29s_1_1_29_29, y=NP_002098.1_K28k_1_1_28_28))+
+  geom_point(size=1, alpha=0.5)+
+  #scale_color_manual(values=c('True'='#311B92', 'False'='#F9A825'))+
+  geom_smooth(method=lm, na.rm = TRUE, fullrange= T, se=F,
+              aes(group=1),colour="black", size=0.5)+
+  labs(x='H3F3A-S28', y='H3F3A-K27')+
+  theme_classic()
+
+pdf('H3F3A_S28_vs_K27.pdf', width=3, height=2.5)
+print(p)
+dev.off()
+```
+
+Plot H3 sites scatter
+```{r}
+plot_ac_pho_2=raw_ac_pho[,c('NP_002098.1_K28kK37k_2_2_28_37', 'NP_002098.1_S32s_1_1_32_32')]
+
+p <- ggplot(plot_ac_pho_2, aes(x=NP_002098.1_S32s_1_1_32_32, y=NP_002098.1_K28kK37k_2_2_28_37))+
+  geom_point(size=1, alpha=0.5)+
+  #scale_color_manual(values=c('True'='#311B92', 'False'='#F9A825'))+
+  geom_smooth(method=lm, na.rm = TRUE, fullrange= T, se=F,
+              aes(group=1),colour="black", size=0.5)+
+  labs(x='H3F3A-S31', y='H3F3A-K27K36')+
+  theme_classic()
+
+
+
+pdf('H3F3A_S31_vs_K27K36.pdf', width=3, height=2.5)
+print(p)
+dev.off()
+```
+
+Plot cluster specific trend
+```{r}
+##Cluster 22 + 23, K23-S28 example
+
+
+mappings <-read.delim("../../data/cluster_map.tsv")
+clust_samples=mappings %>% filter(cluster_id %in% c('C22', 'C23')) %>% pull(case_id)
+
+plot_ac_pho_3=raw_ac_pho[,c('Sample', 'NP_002098.1_K24k_1_1_24_24', 'NP_002098.1_S29s_1_1_29_29')] %>%
+  filter(Sample %in% clust_samples)
+
+p <- ggplot(plot_ac_pho_3, aes(x=NP_002098.1_S29s_1_1_29_29, y=NP_002098.1_K24k_1_1_24_24))+
+  geom_point(size=1, alpha=0.5)+
+  #scale_color_manual(values=c('True'='#311B92', 'False'='#F9A825'))+
+  geom_smooth(method=lm, na.rm = TRUE, fullrange= T, se=F,
+              aes(group=1),colour="black", size=0.5)+
+  labs(x='H3F3A-S28', y='H3F3A-K23')+
+  theme_classic()
+
+pdf('H3F3A_S28_vs_K23.pdf', width=3, height=2.5)
+print(p)
+dev.off()
+
+
+
+```
+
+
+
+
