@@ -1,2 +1,0 @@
-Source	Relation	Target	Sites	Source data ID	Source change	 Source change pval	Target data ID	Target change	Target change pval
-POLR2J	upregulates-expression	FANCD2		POLR2J-G	2.6211283575411364	0.07272076149668667	FANCD2-G	3.1624144063198427	0.042323431661076875

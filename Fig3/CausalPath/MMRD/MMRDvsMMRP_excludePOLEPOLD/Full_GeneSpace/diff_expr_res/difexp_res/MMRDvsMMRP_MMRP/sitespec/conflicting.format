@@ -1,9 +1,0 @@
-node	all-nodes	color	255 255 255
-node	all-nodes	bordercolor	50 50 50
-node	AKT1	color	222 228 255
-node	AKT1	tooltip	AKT1-G, -2.295483733999766
-node	TBC1D4	rppasite	TBC1D4-P-S588-S591|p|255 226 219|50 50 50|2.485673046448487
-node	RPS6KA1	color	186 198 255
-node	RPS6KA1	tooltip	RPS6KA1-G, -4.847657559001469
-node	YWHAE	color	219 225 255
-node	YWHAE	tooltip	YWHAE-G, -2.53688172526897

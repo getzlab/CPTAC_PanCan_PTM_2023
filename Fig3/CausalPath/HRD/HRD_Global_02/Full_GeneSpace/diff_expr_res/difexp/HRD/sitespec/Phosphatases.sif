@@ -1,7 +1,0 @@
-
-CDC25B	dephosphorylates	CDK1	http://identifiers.org/reactome/R-HSA-170161 http://pathwaycommons.org/pc12/Catalysis_a387b70fb31f6a915c76f69d28237a19 http://pathwaycommons.org/pc12/BiochemicalReaction_6b6561ae89674a2a4bd3762191515d69 http://identifiers.org/reactome/R-HSA-170153 http://pathwaycommons.org/pc12/Catalysis_44f3cc5d7fda809cba74ced64c9e88ff http://pathwaycommons.org/pc12/Catalysis_7f84bf8dbf355dff85ee6a8db7aaf44e	T14;Y15
-PPP2R5A	phosphorylates	BUB1B	PMID:23345399 PMID:27568981 PMID:19015317 PMID:23079597 PMID:33207204 PMID:20016069 PMID:17785528	S676;S670;T680
-CDK1	phosphorylates	CDC25B	PMID:12107172 PMID:12766774 PMID:20801879	S307;S146;S321;S160;S50
-PLK1	phosphorylates	CDC25B	PMID:21640712	S513;T404;T127;S465;S209;S50;S291;T58;S375;S397;S353;T167;T265
-MELK	phosphorylates	CDC25B	PMID:12400006 PMID:15908796 PMID:23186163	S307;S280;S169;S323;S321
-AURKA	phosphorylates	CDC25B	PMID:15128871 PMID:16082213 PMID:23186163 http://pathwaycommons.org/pc12/Catalysis_e4f1f512aca3f293a992f44dd598b0cc http://pathwaycommons.org/pc12/BiochemicalReaction_cc67d88665a2e62443ee8af0fadd81b5	S339;S312;S353

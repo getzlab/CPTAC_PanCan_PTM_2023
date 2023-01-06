@@ -1,0 +1,25 @@
+proteomics-values-file = ../../data.txt
+id-column = ID
+symbols-column = Symbols
+sites-column = Sites
+feature-column = Feature
+effect-column = Effect
+
+value-transformation = signed-p-values
+threshold-for-data-significance = 0.105 protein
+threshold-for-data-significance = 0.105 phosphoprotein
+threshold-for-data-significance = 0.105 acetylprotein
+threshold-for-data-significance = 0.105 rna
+
+color-saturation-value = 15
+
+calculate-network-significance = true
+permutations-for-significance = 10000
+fdr-threshold-for-network-significance = 0.1
+use-network-significance-for-causal-reasoning = true
+
+show-all-genes-with-proteomic-data = true
+
+relation-filter-type = site-specific-only
+
+value-column = acute_hypoxia

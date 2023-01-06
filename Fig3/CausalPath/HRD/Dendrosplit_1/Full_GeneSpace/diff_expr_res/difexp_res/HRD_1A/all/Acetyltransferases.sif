@@ -1,8 +1,0 @@
-
-HCFC1	upregulates-expression	E2F1	PMID:19763085 PMID:17612494	
-SREBF1	upregulates-expression	FASN	http://identifiers.org/reactome/R-HSA-1655857 http://identifiers.org/reactome/R-HSA-1655843	
-TAF12	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReaction_f7be0eac3aa4061714b2b1422804c335 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4dc29f0df6489ad14995f19e39a91949	
-AR	upregulates-expression	NAT1	PMID:17210686	
-HCFC1	upregulates-expression	TFB2M	http://identifiers.org/reactome/R-HSA-1605549 http://identifiers.org/reactome/R-HSA-1592252	
-TAF9	upregulates-expression	HSPD1	http://pathwaycommons.org/pc12/TemplateReaction_f7be0eac3aa4061714b2b1422804c335 http://pathwaycommons.org/pc12/TemplateReactionRegulation_4dc29f0df6489ad14995f19e39a91949	
-FASN	upregulates-expression	AR	PMID:15048993	

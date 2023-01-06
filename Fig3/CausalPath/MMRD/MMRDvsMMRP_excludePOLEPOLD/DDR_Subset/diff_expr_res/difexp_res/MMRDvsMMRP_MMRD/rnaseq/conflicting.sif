@@ -1,7 +1,0 @@
-ATM	upregulates-expression	FANCI	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
-ATM	upregulates-expression	FANCD2	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
-POLR2H	upregulates-expression	ATR	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
-ATM	upregulates-expression	CHEK1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
-PARP1	downregulates-expression	BRCA2	PMID:18990703	
-FANCD2	upregulates-expression	ATR	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	
-ATM	upregulates-expression	BRCA1	http://identifiers.org/reactome/R-HSA-6797711 http://identifiers.org/reactome/R-HSA-6797712	

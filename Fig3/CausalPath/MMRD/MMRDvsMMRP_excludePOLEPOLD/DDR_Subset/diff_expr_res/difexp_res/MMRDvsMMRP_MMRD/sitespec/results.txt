@@ -1,2 +1,0 @@
-Source	Relation	Target	Sites	Source data ID	Source change	 Source change pval	Target data ID	Target change	Target change pval
-CDK1	phosphorylates	LIG1	S76	CDK1-G	3.629363309020879	0.02653307239995332	LIG1-P-S76	4.469012129628889	0.011458629902151263

@@ -1,4 +1,0 @@
-
-JAK2	upregulates-expression	IFNG	http://pathwaycommons.org/pc12/TemplateReactionRegulation_26afbdb8e525853e3cdf0bf31a699a23 http://pathwaycommons.org/pc12/TemplateReaction_09e4252b51c3ea84477e13d9c1ea3baf http://pathwaycommons.org/pc12/TemplateReactionRegulation_81068c3986e9d7d89cf3ee44237dfbbd http://pathwaycommons.org/pc12/TemplateReaction_a8d2c2ae89c77f05a00afc69a460a70f http://pathwaycommons.org/pc12/TemplateReactionRegulation_e0aa381afa3686d9588cd9ec40d19b7a http://pathwaycommons.org/pc12/TemplateReaction_0ca4d2b663c3604d94bf5c0b2b6ecb45 http://pathwaycommons.org/pc12/TemplateReactionRegulation_3d362d5c8116d8df66d734382e3784ba	
-MAPK9	downregulates-expression	IFNG	http://pathwaycommons.org/pc12/TemplateReaction_43afe25e6cab8154d5356ada2c0b699c http://pathwaycommons.org/pc12/TemplateReactionRegulation_1d25904d8a7608f2a364e694dade5009	
-PTMA	upregulates-expression	IDO1	PMID:21575365 PMID:21176371	
