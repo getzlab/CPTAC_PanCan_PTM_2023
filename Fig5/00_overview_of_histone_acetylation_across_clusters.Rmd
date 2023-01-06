@@ -1,8 +1,7 @@
 ---
-title: "CPTAC_PanCan_PTM_2023 Figure5A"
-output:
-  html_document:
-    df_print: paged
+title: "00_overview_of_histone_acetylation_across_clusters Figure5A"
+output=github_document:
+  df_print: paged
 ---
 
 ```{r, message=FALSE}
