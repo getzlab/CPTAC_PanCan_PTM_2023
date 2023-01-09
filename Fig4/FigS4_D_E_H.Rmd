@@ -1,0 +1,304 @@
+---
+title: "FigS4"
+author: "Yifat Geffen"
+date: "2023-01-09"
+output: html_document
+---
+# Analysis of metabolic shifts between Immune clusters Cold to Hot 
+1. Upload libraries
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(ggrepel)
+library(ggpubr)
+library(dplyr)
+library(viridis)
+library(rstatix)
+library(forcats)
+
+
+```
+
+2. Prepare metadata
+
+```{r, include=FALSE, echo=FALSE}
+#upload protein data 
+pancan_prot_corrected <- read.delim(file="./data/proteome_X_corrected.tsv", stringsAsFactors = F, header = T,sep="\t")
+head(pancan_prot_corrected)
+
+#upload acetylation data
+pancan_ac <- read.table(file="./data/acetylome_X.tsv",stringsAsFactors = F, header = T,sep="\t")
+head(pancan_ac)
+
+#Upload feature mapping table 
+pancan_full_map <- read.delim(file="./data/var_map_full (1).tsv", stringsAsFactors = F, header = T,sep="\t")
+
+
+#Upload immune clusters mapping table
+immune_map <- read.delim(file="./data/mappings_labeled.tsv", stringsAsFactors = F, header = T,sep="\t")
+head(immune_map)
+
+#Immune supressive markers reported in previous CPTAC flagship studies
+
+immune_specific_markers <-  c("IL10", "TGFB1", "TNFA", "IFNG", "IL2", "IL17", "IL4", "CCL3", "CCL4", "CCL5", "IGG","GZMK", "GZMB", "GZMH", "GZMA","GZMM","FCGBP","PD1","CD274", "LAG3", "TIM3", "CTLA4", "ENTPD1" , "2B4","CD244", "CD160", "TIGIT","TNFSF9","TNFRSF4", "CD226","IDO1","CD163")
+
+#Fatty acid related proteins
+Fatty_acid_related_proteins <- c("CD36","ANPEP", "SCD", "PTK2", "ALDOA" , "APOA4", "PSAT1", "EP300", "HADH","HMGCS1", "SIRT1", "IDH1","ACSS2", "ACC", "FASN","PGK1", "CPT1B", "PRF1", "SLC27A1","SLC27A2","SLC27A3","SLC27A4","SLC27A5","SLC27A6","SLC16A1","MCT1", "SIRT3","CPT1A","AACS","TNFRSF4",  "ABAT","ALDH9A1","PPARD","FABP1","FABP2","FABP3","FABP4","FABP5","FABP6","FABP7","FABP8","FABP9", "STAT3","IDH2" , "ABCA1", "ABCA3", "HMGCR", "CPT1B", "LEP","FOXO3", "PTPN2","STAT5A","STAT5B", "JAK1", "PDH3","SIRT4","SIRT5", "ACSS1")
+
+#Upload Fatty acid metabolism geneset from GSEA
+#https://www.gsea-msigdb.org/gsea/msigdb/cards/HALLMARK_FATTY_ACID_METABOLISM
+fatty_meta <- read.table(file="/Users/ygeffen/Google Drive/My Drive/PanCan_analysis/full_pancan_set_2021/New_data_files/gene_sets/fatty_acid_metabolism.txt",skip=1,header=T,comment.char = "",sep = "\t")
+fatty_meta_list <- as.character(fatty_meta$X..Fatty.acid.metabolism)
+
+
+
+
+```
+
+3. Plot FigS4D
+
+```{r, include=FALSE, echo=FALSE}
+
+#Restrict to immune supressive markers 
+pancan_prot_corrected_immune <- pancan_prot_corrected %>% filter( X %in% immune_specific_markers)
+rownames(pancan_prot_corrected_immune) <- pancan_prot_corrected_immune$X
+pancan_prot_corrected_immune_temp <- as.data.frame(t(pancan_prot_corrected_immune[,2:1120]))
+pancan_prot_corrected_immune_temp$immune_cluster <- immune_map$ImmuneClustC4[match(rownames(pancan_prot_corrected_immune_temp),immune_map$X)]
+pancan_prot_corrected_immune_temp_cut <- pancan_prot_corrected_immune_temp[which(pancan_prot_corrected_immune_temp$immune_cluster!=""),]
+
+#plot specific immune markers
+#ENTPD1 plot
+ENTPD1_temp_stat <- pancan_prot_corrected_immune_temp_cut  %>%
+  wilcox_test(ENTPD1 ~ immune_cluster, paired = FALSE, p.adjust.method = "fdr") %>%
+  add_significance() %>% add_xy_position(x = "immune_cluster")
+set.seed(1)
+  
+pancan_prot_corrected_immune_temp_cut %>%
+  mutate(immune_cluster = fct_relevel(immune_cluster, 
+            "ImmuneCold", "ImmuneCool", "ImmuneWarm", 
+            "ImmuneHot")) %>%
+ggplot( aes(x = immune_cluster, y = ENTPD1))+
+        geom_violin(aes(fill = immune_cluster), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#8A74C0","#73ABC9","#F6A43E","#B94A47"))+
+        theme_bw(base_size = 15)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="ENTPD1", y= "Prot abundance LogFC", x= "Subtype")+
+        stat_pvalue_manual(ENTPD1_temp_stat,label = "p.adj", tip.length = 0.001,step.increase= 0.03)+
+        ggsave(file="./Figures/FigS4D_ENTPD1.pdf",width=8, height=6)
+
+#CD274 plot (e.g PD-L1)
+CD274_temp_stat <- pancan_prot_corrected_immune_temp_cut  %>%
+  wilcox_test(CD274 ~ immune_cluster, paired = FALSE, p.adjust.method = "fdr") %>%
+  add_significance() %>% add_xy_position(x = "immune_cluster")
+set.seed(1)
+  
+pancan_prot_corrected_immune_temp_cut %>%
+  mutate(immune_cluster = fct_relevel(immune_cluster, 
+            "ImmuneCold", "ImmuneCool", "ImmuneWarm", 
+            "ImmuneHot")) %>%
+ggplot( aes(x = immune_cluster, y = CD274))+
+        geom_violin(aes(fill = immune_cluster), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#8A74C0","#73ABC9","#F6A43E","#B94A47"))+
+        theme_bw(base_size = 15)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="PD-L1", y= "Prot abundance LogFC", x= "Subtype")+
+        stat_pvalue_manual(CD274_temp_stat,label = "p.adj", tip.length = 0.001,step.increase= 0.03)+
+        ggsave(file="./Figures/FigS4D_PD-L1.pdf",width=8, height=6)
+
+#IDO1 plot
+IDO1_temp_stat <- pancan_prot_corrected_immune_temp_cut  %>%
+  wilcox_test(IDO1 ~ immune_cluster, paired = FALSE, p.adjust.method = "fdr") %>%
+  add_significance() %>% add_xy_position(x = "immune_cluster")
+set.seed(1)
+  
+pancan_prot_corrected_immune_temp_cut %>%
+  mutate(immune_cluster = fct_relevel(immune_cluster, 
+            "ImmuneCold", "ImmuneCool", "ImmuneWarm", 
+            "ImmuneHot")) %>%
+ggplot( aes(x = immune_cluster, y = IDO1))+
+        geom_violin(aes(fill = immune_cluster), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#8A74C0","#73ABC9","#F6A43E","#B94A47"))+
+        theme_bw(base_size = 15)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="IDO1", y= "Prot abundance LogFC", x= "Subtype")+
+        stat_pvalue_manual(IDO1_temp_stat,label = "p.adj", tip.length = 0.001,step.increase= 0.03)+
+        ggsave(file="./Figures/FigS4D_IDO1.pdf",width=8, height=6)
+
+#CD163 plot
+CD163_temp_stat <- pancan_prot_corrected_immune_temp_cut  %>%
+  wilcox_test(CD163 ~ immune_cluster, paired = FALSE, p.adjust.method = "fdr") %>%
+  add_significance() %>% add_xy_position(x = "immune_cluster")
+set.seed(1)
+  
+pancan_prot_corrected_immune_temp_cut %>%
+  mutate(immune_cluster = fct_relevel(immune_cluster, 
+            "ImmuneCold", "ImmuneCool", "ImmuneWarm", 
+            "ImmuneHot")) %>%
+ggplot( aes(x = immune_cluster, y = CD163))+
+        geom_violin(aes(fill = immune_cluster), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#8A74C0","#73ABC9","#F6A43E","#B94A47"))+
+        theme_bw(base_size = 15)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="CD163", y= "Prot abundance LogFC", x= "Subtype")+
+        stat_pvalue_manual(CD163_temp_stat,label = "p.adj", tip.length = 0.001,step.increase= 0.03)+
+        ggsave(file="./Figures/FigS4D_CD163.pdf",width=8, height=6)
+
+
+
+
+
+```
+
+4. Plot FigS4E
+
+```{r, include=FALSE, echo=FALSE}
+#Analyze Fatty acid genes acetylation data - when cold immune subtype tumors are split to brain/non-brain tumors
+#map gene symbol 
+pancan_ac$geneSymbol <- pancan_full_map$geneSymbol[match(pancan_ac$X,pancan_full_map$id)]
+rownames(pancan_ac) <- pancan_ac$id 
+
+#map FA genes
+pancan_ac$genes_group <- "Null"
+pancan_ac$genes_group[pancan_ac$geneSymbol %in% fatty_meta_list]<-"Fatty acid metabolism"
+pancan_ac_cut<-pancan_ac[which(pancan_ac$genes_group=="Fatty acid metabolism"),]
+
+#transform
+rownames(pancan_ac_cut)<- pancan_ac_cut$X
+pancan_ac_cut_temp <- as.data.frame(t(pancan_ac_cut[,2:582]))
+pancan_ac_cut_temp2 <- data.frame(sapply(pancan_ac_cut_temp, function(x) as.numeric(as.character(x))))
+sapply(pancan_ac_cut_temp2, class)
+rownames(pancan_ac_cut_temp2)<- rownames(pancan_ac_cut_temp)
+pancan_ac_cut_temp2$AC_Mean <- rowMeans(pancan_ac_cut_temp2[,c(1:412)],na.rm=TRUE)
+length(intersect(rownames(pancan_ac_cut_temp2),immune_map$X))
+pancan_ac_cut_temp2$immune_cluster <- immune_map$ImmuneClustC4[match(rownames(pancan_ac_cut_temp2),immune_map$X)]
+pancan_ac_cut_temp2 <- pancan_ac_cut_temp2[which(pancan_ac_cut_temp2$immune_cluster!="NA"),]
+pancan_ac_cut_temp2$cohort <- immune_map$cohort[match(rownames(pancan_ac_cut_temp2),immune_map$X)]
+
+#upload table maaping for immune cold split to brain/ non-brain 
+immune_map_v2 <- read.delim("./data/immune_map_v2.txt",stringsAsFactors = F, header = T,sep="\t")
+table(immune_map_v2$ImmuneClustC5)
+
+#re-plot using new split in immune cold 
+pancan_ac_cut_temp2$immune_cluster <- immune_map_v2$ImmuneClustC5[match(rownames(pancan_ac_cut_temp2),immune_map$X)]
+pancan_ac_cut_temp2 <- pancan_ac_cut_temp2[which(pancan_ac_cut_temp2$immune_cluster!="NA"),]
+
+comparison_immune<-list(c("ImmuneCold-Brain", "ImmuneCold-Non_Brain"), c("ImmuneCold-Brain","ImmuneCool"), c("ImmuneCold-Brain", "ImmuneHot"), c("ImmuneCold-Brain", "ImmuneWarm"), c("ImmuneCold-Non_Brain", "ImmuneCool"), c("ImmuneCold-Non_Brain", "ImmuneHot"),  c("ImmuneCold-Non_Brain", "ImmuneWarm"),c("ImmuneCool", "ImmuneHot"),c("ImmuneCool", "ImmuneWarm"), c("ImmuneHot", "ImmuneWarm"))  
+
+pancan_ac_cut_temp2 %>%
+  mutate(immune_cluster = fct_relevel(immune_cluster, 
+            "ImmuneCold-Brain", "ImmuneCold-Non_Brain", "ImmuneCool", "ImmuneWarm", 
+            "ImmuneHot")) %>%
+ggplot( aes(x = immune_cluster, y = AC_Mean))+
+        geom_violin(aes(fill = immune_cluster), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#8A74C0","#8A74C0","#73ABC9","#F6A43E","#B94A47"))+
+        theme_bw(base_size = 15)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="Fatty Acid Metabolism", y= "AC abundance LogFC", x= "Subtype")+
+        stat_compare_means(label = 'p.adj', method='wilcox.test', comparison=comparison_immune)+
+        ggsave(file="./Figures/FigS4E_fatty_acid_metabolism_split_Immune-cold.pdf",width=8, height=6)
+
+
+
+```
+
+4. Plot FigS4H
+
+```{r, include=FALSE, echo=FALSE}
+
+#Restrict to fatty acid related proteins
+pancan_prot_corrected_fa <- pancan_prot_corrected %>% filter( X %in% Fatty_acid_related_proteins)
+rownames(pancan_prot_corrected_fa) <- pancan_prot_corrected_fa$X
+pancan_prot_corrected_fa_temp <- as.data.frame(t(pancan_prot_corrected_fa[,2:1120]))
+pancan_prot_corrected_fa_temp$immune_cluster <- immune_map$ImmuneClustC4[match(rownames(pancan_prot_corrected_fa_temp),immune_map$X)]
+pancan_prot_corrected_fa_temp_cut <- pancan_prot_corrected_fa_temp[which(pancan_prot_corrected_fa_temp$immune_cluster!=""),]
+
+#plot specific fatty acid markers
+#CPT1A plot
+CPT1A_temp_stat <- pancan_prot_corrected_fa_temp  %>%
+  wilcox_test(CPT1A ~ immune_cluster, paired = FALSE, p.adjust.method = "fdr") %>%
+  add_significance() %>% add_xy_position(x = "immune_cluster")
+set.seed(1)
+  
+pancan_prot_corrected_fa_temp %>%
+  mutate(immune_cluster = fct_relevel(immune_cluster, 
+            "ImmuneCold", "ImmuneCool", "ImmuneWarm", 
+            "ImmuneHot")) %>%
+ggplot( aes(x = immune_cluster, y = CPT1A))+
+        geom_violin(aes(fill = immune_cluster), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#8A74C0","#73ABC9","#F6A43E","#B94A47"))+
+        theme_bw(base_size = 15)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="CPT1A", y= "Prot abundance LogFC", x= "Subtype")+
+        stat_pvalue_manual(CPT1A_temp_stat,label = "p.adj", tip.length = 0.001,step.increase= 0.03)+
+        ggsave(file="./Figures/FigS4H_CPT1A.pdf",width=8, height=6)
+
+#FABP plot
+FABP4_temp_stat <- pancan_prot_corrected_fa_temp  %>%
+  wilcox_test(FABP4 ~ immune_cluster, paired = FALSE, p.adjust.method = "fdr") %>%
+  add_significance() %>% add_xy_position(x = "immune_cluster")
+set.seed(1)
+  
+pancan_prot_corrected_fa_temp %>%
+  mutate(immune_cluster = fct_relevel(immune_cluster, 
+            "ImmuneCold", "ImmuneCool", "ImmuneWarm", 
+            "ImmuneHot")) %>%
+ggplot( aes(x = immune_cluster, y = FABP4))+
+        geom_violin(aes(fill = immune_cluster), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#8A74C0","#73ABC9","#F6A43E","#B94A47"))+
+        theme_bw(base_size = 15)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="FABP4", y= "Prot abundance LogFC", x= "Subtype")+
+        stat_pvalue_manual(FABP4_temp_stat,label = "p.adj", tip.length = 0.001,step.increase= 0.03)+
+        ggsave(file="./Figures/FigS4H_FABP4.pdf",width=8, height=6)
+
+
+#ABCA3 plot
+ABCA3_temp_stat <- pancan_prot_corrected_fa_temp  %>%
+  wilcox_test(ABCA3 ~ immune_cluster, paired = FALSE, p.adjust.method = "fdr") %>%
+  add_significance() %>% add_xy_position(x = "immune_cluster")
+set.seed(1)
+  
+pancan_prot_corrected_fa_temp %>%
+  mutate(immune_cluster = fct_relevel(immune_cluster, 
+            "ImmuneCold", "ImmuneCool", "ImmuneWarm", 
+            "ImmuneHot")) %>%
+ggplot( aes(x = immune_cluster, y = ABCA3))+
+        geom_violin(aes(fill = immune_cluster), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#8A74C0","#73ABC9","#F6A43E","#B94A47"))+
+        theme_bw(base_size = 15)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="ABCA3", y= "Prot abundance LogFC", x= "Subtype")+
+        stat_pvalue_manual(ABCA3_temp_stat,label = "p.adj", tip.length = 0.001,step.increase= 0.03)+
+        ggsave(file="./Figures/FigS4H_ABCA3.pdf",width=8, height=6)
+
+#CD36 plot
+CD36_temp_stat <- pancan_prot_corrected_fa_temp  %>%
+  wilcox_test(CD36 ~ immune_cluster, paired = FALSE, p.adjust.method = "fdr") %>%
+  add_significance() %>% add_xy_position(x = "immune_cluster")
+set.seed(1)
+  
+pancan_prot_corrected_fa_temp %>%
+  mutate(immune_cluster = fct_relevel(immune_cluster, 
+            "ImmuneCold", "ImmuneCool", "ImmuneWarm", 
+            "ImmuneHot")) %>%
+ggplot( aes(x = immune_cluster, y = CD36))+
+        geom_violin(aes(fill = immune_cluster), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#8A74C0","#73ABC9","#F6A43E","#B94A47"))+
+        theme_bw(base_size = 15)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="CD36", y= "Prot abundance LogFC", x= "Subtype")+
+        stat_pvalue_manual(CD36_temp_stat,label = "p.adj", tip.length = 0.001,step.increase= 0.03)+
+        ggsave(file="./Figures/FigS4H_CD36.pdf",width=8, height=6)
+
+
+
+```
