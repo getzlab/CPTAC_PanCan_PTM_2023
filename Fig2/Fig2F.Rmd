@@ -1,0 +1,101 @@
+---
+title: "Fig2F"
+author: "Yifat Geffen"
+date: "2023-01-09"
+output: html_document
+---
+# Analysis of top CLUMPS_PTM results for the first split of the dendrogram - focusing on ARID1A
+1. Upload libraries
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(ggrepel)
+library(ggpubr)
+library(dplyr)
+library(viridis)
+library(rstatix)
+```
+
+2. Prepare metadata
+
+```{r, include=FALSE, echo=FALSE}
+#Upload Raw protein data
+prot_raw <- read.delim(file="./data/proteome_X.tsv", stringsAsFactors = F, header = T,sep="\t")
+head(prot_raw)
+
+#Upload feature mapping table 
+pancan_full_map <- read.delim(file="./data/var_map_full (1).tsv", stringsAsFactors = F, header = T,sep="\t")
+
+#add gene symbol to the protein data
+prot_raw$geneSymbol <- pancan_full_map$geneSymbol[match( prot_raw$X,pancan_full_map$id)]
+
+#Upload dendrogram sample mapping
+denrdo_map <- read.delim(file="./data/Dendro_mappings_batch_cor.tsv", stringsAsFactors = F, header = T,sep="\t")
+
+#Upload differential expression table 
+pancan_de_full <- read.table(file="./data/proteome_de.tsv",stringsAsFactors = F, header = T,sep="\t")
+head(pancan_de_full)
+
+#Upload BIOCARTA geneset for glucocoticoids targets from GSEA
+#https://www.gsea-msigdb.org/gsea/msigdb/cards/BIOCARTA_GCR_PATHWAY
+gr_pathway <- read.table(file=" ./data/BIOCARTA_GCR_PATHWAY.v2022.1.Hs.txt",skip=1,header=T,comment.char = "",sep = "\t")
+gr_list <- as.character(gr_pathway$X..Corticosteroids.and.cardioprotection.)
+
+
+
+```
+
+3. Plot Fig2F
+
+```{r pressure, echo=FALSE}
+#restrict to ARID1A
+arid1a_prot <- prot_raw[which(prot_raw$geneSymbol=="ARID1A"),]
+rownames(arid1a_prot) <- arid1a_prot$X
+arid1a_prot_v2 <- as.data.frame(t(arid1a_prot[,2:580]))
+arid1a_prot_v2$DS1 <- dendro_map$X1[match(row.names(arid1a_prot_v2),dendro_map$X)]
+
+#Add dendrogram annotations 
+arid1a_prot_v3 <- arid1a_prot_v2[which(arid1a_prot_v2$DS1=="True"|arid1a_prot_v2$DS1=="False"),]
+arid1a_prot_v3$Dendrogram <- arid1a_prot_v3$DS1
+arid1a_prot_v3$Dendrogram <- gsub("False","Right", arid1a_prot_v3$Dendrogram)
+arid1a_prot_v3$Dendrogram <- gsub("True","Left", arid1a_prot_v3$Dendrogram)
+
+#Plot ARID1A abundance between left and right sides of the dendrogram
+ggplot( arid1a_prot_v3, aes(x = Dendrogram, y = NP_006006.3))+
+        geom_violin(aes(fill = Dendrogram), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#A1CAF1", "#D3D3D3"))+
+        theme_bw(base_size = 20)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="ARID1A" ,y="Protein Abundance (Log2 Ratio)")+
+        stat_compare_means()+
+        ggsave(file="./Figures/Arid1a_prot_v2.pdf",width=8, height=6)
+
+#add GR pathway
+pancan_de_full$genes_group <- "Null"
+pancan_de_full$genes_group[pancan_de1_full$index %in% gr_list]<-"Glucocorticoid_targets"
+
+#Restrict plot to genes from GR geneset
+pancan_de_full_cut_gr <- pancan_de_full[which(pancan_de_full$genes_group=="Glucocorticoid_targets"),]
+pancan_de_full_cut_gr$updated_id <- pancan_de_full_cut_gr$id
+
+#Change dendrogram labeling 
+pancan_de_full_cut_gr$Dendrogram <- pancan_de_full_cut_gr$updated_id
+pancan_de_full_cut_gr$Dendrogram <- gsub("True","Right", pancan_de_full_cut_gr$Dendrogram)
+pancan_de_full_cut_gr$Dendrogram <- gsub("False","Left", pancan_de_full_cut_gr$Dendrogram)
+
+
+#plot GR differential expression between left and right side of the dendrogram
+        ggplot(pancan_de1_full_cut_gr, aes(x = Dendrogram, y = logFC))+
+        geom_violin(aes(fill = Dendrogram), varwidth = T, alpha = 0.9, outlier.shape = NA)+
+        geom_boxplot(width=0.1,colour="black")+
+        geom_jitter(alpha = 0.1)+
+        scale_fill_manual(values=c("#A1CAF1", "#D3D3D3"))+
+        theme_bw(base_size = 20)+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())+
+        labs(title="Glucocorticoid_targets", y= "Protein abundance LogFC")+
+        stat_compare_means()+
+        ggsave(file="./Figures/pancan_prot_GR_plot.pdf",width=8, height=6) 
+
+
+```
+
