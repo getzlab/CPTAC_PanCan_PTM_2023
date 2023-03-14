@@ -221,14 +221,14 @@ def plot_norm_raw_sigs(sig_plot, raw_thresh=None, norm_thresh=None, circle=None,
         labels.append(name)
         if circle and plot_all:
             all_co = ax[0, 0].scatter(group['norm'], group['raw'], c=group['color'],
-                                      edgecolors=group[circle].map(lambda x: 'black' if x==True else 'none'), alpha=alpha)
+                                      edgecolors=group[circle].map(lambda x: 'black' if x==True else 'none'), linewidth=1.5, alpha=alpha)
             subplots.append(all_co)
         elif plot_all:
             all_co = ax[0, 0].scatter(group['norm'], group['raw'], c=group['color'], alpha=alpha)
             subplots.append(all_co)
         if circle:
             subplot_group = ax[subplot_dict[name]].scatter(group['norm'], group['raw'], c=group['color'], label=name,
-                                                           edgecolors=group[circle].map(lambda x: 'black' if x==True else 'none'),
+                                                           edgecolors=group[circle].map(lambda x: 'black' if x==True else 'none'), linewidth=1.5,
                                                            alpha=alpha)
         else:
             subplot_group = ax[subplot_dict[name]].scatter(group['norm'], group['raw'], c=group['color'], label=name,

@@ -31,7 +31,7 @@ CPTAC_CMAP = {
     'COAD': '#ff8c69',
     'PDAC': '#962a13',
     'UCEC': '#5a189a',
-    'OV': '#cdb4db',
+    'HGSC': '#cdb4db',
     'BRCA': '#cd6090'
 }
 
