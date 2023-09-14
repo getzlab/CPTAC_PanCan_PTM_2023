@@ -3,7 +3,7 @@
 Repo for manuscript:
 Geffen, Y., Anand, S., Akiyama, Y., Yaron, T., Song, Y., et al. "Pan-Cancer analysis of post-translational modifications reveals shared patterns of protein regulation." Cell (2023).
 
-[[Link](https://www.cell.com/cell/fulltext/S0092-8674(23)00781-X)](insert_link)
+[[Link](https://www.cell.com/cell/fulltext/S0092-8674(23)00781-X)]
 
 __Contact__: Shankara Anand - sanand@broadinstitute.org, Yo Akiyama - yakiyama@broadinstitute.org
 
