@@ -2,26 +2,17 @@
 
 Authors: Yo Akiyama (yakiyama@broadinstitute.org), Shankara Anand (sanad@broadinstitute.org)
 
+**Reference files** (`./reference`)
+* `Readme_RefSeq.20180629.txt`: Readme file with information on how the reference fasta for this CPTAC project was created.
+* `RefSeq.20180629_Human_ucsc_hg38_cpdbnr_mito_264contams_553smORFs.fasta`: Reference fasta used for the CPTAC project.
+* `var_map_full_v4.tsv`: Processed features collected across all CPTAC data modalities for this project (RNA, proteome, PTM).
+
 **Geneset Dir** (`./genesets`)
 * GMT files from [MSigDB](http://www.gsea-msigdb.org/gsea/msigdb/) and [Reactome] (https://reactome.org/)
 * ReactomePathways_ddr.gmt: Reactome DNA repair pathways
 * c2.cp.kegg.v7.4.symbols.gmt: KEGG genesets
 * h.all.v7.4.symbols.gmt: Hallmark genesets
 * full_geneset.json: Dictionary storing the CPTAC DNA Damage Response Geneset (from companion CPTAC DDR paper), kinases, phosphatases, acetyltransferases, and deacetylases
-
-**Raw data** (`./raw`)
-* tumor_rna_counts_pc_X.tsv: RNA read counts for protein coding genes (GENCODE v34 annotation)
-* * tumor_rna_tpm_X.parquet: RNA TPM counts
-* proteome_gene_centric.tsv.gz: Gene-level relative protein abundance
-* phosphoproteome_X.tsv.gz: Relative phosphopeptide abundance
-* acetylome_X.tsv.gz: Relative acetylpeptide abundance
-
-**PTM corrected for protein abundance ("residuals")** (`./ptm_residuals`)
-* phosphoproteome_raw_res_X.tsv
-* acetylome_raw_res_X.tsv
-
-**Reference files** (`./ref`)
-* PanCan_Participant_Freeze_mapping.tsv: Mapping file to convert sample names across different data types
 
 **Other files** (`./`)
 * union_somatic_maf_v1.1_hotspot_cptac2fix.maf: Pan-Cancer harmonized WXS mutation annotation formatted file
